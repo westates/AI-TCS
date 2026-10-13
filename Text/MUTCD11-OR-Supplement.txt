@@ -1,0 +1,1336 @@
+Title: Oregon Supplement to the MUTCD, 11th Edition
+Stored edition/date: January 2026
+Source: Rulebooks/MUTCD11-OR-Supplement.pdf
+Generated text for search. Verify requirements, diagrams, tables, symbols, and quotes in the original PDF.
+Page markers identify physical PDF pages; printed document page numbers may differ.
+
+=== PDF PAGE 1 ===
+Oregon Supplement to the MUTCD – 11th Edition Part 1. General 
+Manual on Uniform 
+Traffic Control Devices 
+ for Streets and Highways 
+ Oregon Supplement to the 11th Edition 
+ January 2026 
+Adopted by the Oregon Transportation Commission in OAR 734-020-0005
+
+=== PDF PAGE 2 ===
+Oregon Supplement to the MUTCD – 11th Edition  
+January 2026 Page i 
+ODOT is an Equal Opportunity Affirmative Action employer. 
+This information is available in alternative formats upon request. Please call the ODOT Traffic 
+Engineering Section at 503-986-3568 or call statewide relay at 7-1-1. 
+ODOT does not discriminate based on disability in admission or access to our programs, services, 
+activities, hiring, and employment practices. Questions: 1-877-336-6368 (EEO-ODOT) or call statewide 
+relay at 7-1-1.  
+Cover photos by Oregon Department of Transportation, Portland Bureau of Transportation, and 
+TriMet. 
+ 
+Adopted by the Oregon Transportation Commission in OAR 734-020-0005 
+Effective: January 1, 2026 
+ 
+Published by the Oregon Department of Transportation 
+Engineering & Technical Services Branch 
+Traffic Engineering Section 
+555 13th Street NE 
+Salem, Oregon 97301
+
+=== PDF PAGE 3 ===
+Oregon Supplement to the MUTCD – 11th Edition Introduction 
+January 2026 Page ii 
+Introduction 
+Using uniform traffic control devices promotes safe travel on Oregon’s transportation network by:  
+• Helping road users quickly recognize, understand, and predictably react to a device’s message,  
+• Giving road users, law enforcement officers, and courts the same interpretation of a device’s 
+message, and 
+• Helping road authorities efficiently manufacture, install, maintain, and administer devices on 
+their transportation networks. 
+Applicable statutes and rules 
+The Manual on Uniform Traffic Control Devices (MUTCD), approved by the Federal Highway 
+Administration, is the national standard for all traffic control devices installed on any street, highway, 
+or bicycle trail open to public travel under 23 CFR 655.603(a), per 23 U.S. Code Sections 109(d) and 
+402(a). 
+Under Oregon Revised Statute (ORS) 810.200, the Oregon Transportation Commission adopts the 
+MUTCD, the Oregon Supplement to the MUTCD, and the Oregon Temporary Traffic Control 
+Handbook as Oregon’s traffic control device manual and specifications by reference in Oregon 
+Administrative Rule (OAR) 734-020-0005. 
+ORS 810.210 requires road authorities to place, maintain, and control traffic control devices that 
+conform to the manuals adopted in OAR 734-020-0005 on all state highways and public roadways 
+under the jurisdiction of cities and counties in Oregon. 
+Traffic control devices that are newly installed or reconstructed must conform to the manuals adopted 
+in OAR 734-020-0005 upon installation. Unless noted otherwise, existing devices that do not conform to 
+these manuals must be replaced with compliant devices at the end of their serviceable life. See Section 
+1B.03 in the MUTCD 11th Edition for more information on the compliance of traffic control devices. 
+Purpose 
+The MUTCD is the national standard for traffic control devices. However, there are cases where the 
+national standard conflicts with state law or a state chooses to deviate from the national standard for 
+specific reasons approved by the Federal Highway Administration. The Oregon Supplement to the 
+MUTCD holds Oregon’s deviations to the national MUTCD. 
+How to Use the Oregon Supplement to the MUTCD 
+This document supplements the 11th Edition of the MUTCD approved by the Federal Highway 
+Administration in 88 Fed. Reg. 87672 (December 19, 2023). Use both the MUTCD and Oregon 
+Supplement to the MUTCD when applying traffic control devices in Oregon.
+
+=== PDF PAGE 4 ===
+Oregon Supplement to the MUTCD – 11th Edition Introduction 
+January 2026 Page iii 
+The Oregon Supplement to the MUTCD uses the organization and section numbering of the MUTCD. 
+Sans serif text in brackets with grey background shows instructions on how to apply the Oregon 
+Supplement within the MUTCD. Red strikethrough text shows MUTCD material that the Oregon 
+Supplement removes. Blue underlined text shows material that the Oregon Supplement adds. Table I-1 
+shows examples of how these materials appear in the Oregon Supplement to the MUTCD. 
+Table I-1: Types of Materials in the Oregon Supplement to the MUTCD 
+Description Format Example 
+Instructions on 
+applying the Oregon 
+Supplement. 
+[Sans serif font in brackets 
+with grey background] [Revise Section 2B.11 as follows:] 
+Text the Oregon 
+Supplement removes. Red strikethrough 
+Yield Here to Pedestrians signs may be used in advance of a 
+crosswalk that crosses an uncontrolled multi-lane approach 
+to indicate to road users where to yield. 
+Part of a figure the 
+Oregon Supplement 
+removes.   
+Text the Oregon 
+Supplement adds. Blue underlined ORS 811.028 requires that drivers stop for pedestrians 
+crossing a roadway within a marked or unmarked crosswalk. 
+Part of a figure the 
+Oregon Supplement 
+adds   
+Related Documents 
+The Federal Highway Administration’s Standard Highway Signs, ODOT Sign Policy and Guidelines, 
+and ODOT Traffic Signal Policy and Guidelines have design details for signs and traffic signals. 
+The MUTCD, Oregon Supplement to the MUTCD, and other ODOT documents related to traffic 
+control devices are available at the websites in Table I-2. 
+Table I-2: Websites for the MUTCD and Related Documents 
+Description Website 
+MUTCD https://mutcd.fhwa.dot.gov/ 
+Oregon Supplement to the MUTCD https://www.oregon.gov/ODOT/Engineering/Pages/MUTCD.aspx 
+Standard Highway Signs https://mutcd.fhwa.dot.gov/kno-shs_2024.htm  
+Other ODOT documents related to 
+traffic control devices https://www.oregon.gov/odot/Engineering/Pages/Traffic.aspx 
+R1-5
+R1-5b
+
+=== PDF PAGE 5 ===
+Oregon Supplement to the MUTCD – 11th Edition Introduction 
+January 2026 Page iv 
+Table of Contents 
+PART 1  GENERAL 
+PART 2  SIGNS 
+CHAPTER 2B. REGULATORY SIGNS, BARRICADES, AND GATES 
+Section 2B.19 Yield Here To Pedestrians Signs and Stop Here For Pedestrians Signs (R1-5 Series) .............. 2 
+Section 2B.20 In-Street and Overhead Pedestrian and Trail Crossing Signs (R1-6 and R1-9 Series) .............. 3 
+Section 2B.21 Speed Limit Sign (R2-1) ............................................................................................................ 5 
+Section 2B.59 Traffic Signal Signs and Plaques (R10-5 through R10-30) ....................................................... 5 
+Section 2B.60 No Turn on Red Signs (R10-11 Series, R10-17a, and R10-30) ................................................. 5 
+Section 2B.69 Photo Enforced Signs and Plaques (R10-18, R10-18a, R10-19P, R10-19aP) ........................... 5 
+CHAPTER 2C. WARNING SIGNS AND OBJECT MARKERS 
+Section 2C.69 Photo Enforced Plaques (W16-10P and W16-10aP).................................................................. 6 
+PART 3  MARKINGS 
+CHAPTER 3A. GENERAL 
+Section 3A.04 Functions, Widths, and Patterns of Longitudinal Pavement Markings ...................................... 7 
+CHAPTER 3B. PA VEMENT AND CURB MARKINGS 
+Section 3B.12 Lane-Reduction Transitions ....................................................................................................... 8 
+Section 3B.19 Stop and Yield Lines .................................................................................................................. 9 
+CHAPTER 3I. CHANNELIZING DEVICES USED FOR EMPHASIS OF PA VEMENT 
+MARKING PATTERNS 
+Section 3I.02 Tubular Markers ....................................................................................................................... 12 
+PART 4  HIGHW AY TRAFFIC SIGNALS 
+CHAPTER 4A. GENERAL 
+Section 4A.02 Meanings of Signal Indications ............................................................................................... 13 
+Section 4A.03 Meanings of Steady Vehicular Signal Indications ................................................................... 13 
+Section 4A.05 Meanings of Bicycle Symbol Signal Indications ..................................................................... 14 
+CHAPTER 4D. DESIGN FEATURES OF TRAFFIC CONTROL SIGNALS 
+Section 4D.02 Provisions for Pedestrians ........................................................................................................ 15 
+CHAPTER 4F. STEADY (STOP-AND-GO) OPERATION OF TRAFFIC CONTROL SIGNALS 
+Section 4F.19 Preemption Control of Traffic Control Signals ........................................................................ 16 
+CHAPTER 4I. PEDESTRIAN CONTROL FEATURES 
+Section 4I.06 Pedestrian Intervals and Signal Phases .................................................................................... 17
+
+=== PDF PAGE 6 ===
+Oregon Supplement to the MUTCD – 11th Edition Introduction 
+January 2026 Page v 
+PART 5  TRAFFIC CONTROL DEVICE CONSIDERATIONS FOR 
+AUTOMATED VEHICLES 
+PART 6  TEMPORARY TRAFFIC CONTROL 
+OREGON TEMPORARY TRAFFIC CONTROL HANDBOOK 
+PART 7  TRAFFIC CONTROL FOR SCHOOL AREAS 
+CHAPTER 7B. SIGNS 
+Section 7B.02 School Area Signs and Plaques ................................................................................................ 20 
+Section 7B.03 School Crossing Signs ............................................................................................................. 21 
+Section 7B.05 School Speed Limit Signs and Plaques .................................................................................... 21 
+CHAPTER 7D. CROSSING SUPERVISION 
+Section 7D.01 Adult Crossing Guards ............................................................................................................. 22 
+PART 8  TRAFFIC CONTROL FOR RAILROAD AND LIGHT RAIL 
+TRANSIT GRADE CROSSINGS 
+CHAPTER 8A. GENERAL 
+Section 8A.01 Introduction .............................................................................................................................. 23 
+Section 8A.03 Traffic Control Systems and Practices at Grade Crossings ...................................................... 23 
+Section 8A.05 Engineering Studies at Grade Crossings .................................................................................. 23 
+CHAPTER 8B. SIGNS 
+Section 8B.04 Crossbuck Assemblies with YIELD or STOP Signs at Passive Grade Crossings.................... 24 
+Section 8B.28 Private Crossing Sign ............................................................................................................... 25 
+CHAPTER 8C. MARKINGS 
+Section 8C.02 Grade Crossing Pavement Markings ....................................................................................... 27 
+Section 8C.03 Stop and Yield Lines ................................................................................................................ 27 
+CHAPTER 8D. FLASHING-LIGHT SIGNALS, AUTOMATIC GATES, AND TRAFFIC 
+CONTROL SIGNALS 
+Section 8D.02 Flashing-Light Signals ............................................................................................................. 29 
+Section 8D.15 Use of LRT Signals for Control of LRT Vehicles at Highway-LRT Grade Crossings ............. 29 
+CHAPTER 8E. PATHWAY AND SIDEWALK GRADE CROSSINGS 
+Section 8E.03 Pathway and Sideway Grade Crossing Signs and Markings ................................................... 30 
+Section 8E.07 Active Traffic Control Systems ............................................................................................... 30 
+PART 9  TRAFFIC CONTROL FOR BICYCLE FACILITIES 
+CHAPTER 9B. REGULATORY SIGNS 
+Section 9B.01 STOP and YIELD Signs (R1-1 and R1-2) ............................................................................... 31 
+Section 9B.15 Bicycle Passing Clearance Sign (R4-19) ................................................................................. 31 
+CHAPTER 9D. GUIDE AND SERVICE SIGNS 
+Section 9D.01 Bicycle Destination Signs (D1-1b, D1-1c, D1-2b, D1-2c, D1-3b, D1-3c, D2-1a, D2-2a, and 
+D2-3a) ...................................................................................................................................... 32
+
+=== PDF PAGE 7 ===
+Oregon Supplement to the MUTCD – 11th Edition Introduction 
+January 2026 Page vi 
+CHAPTER 9E. MARKINGS 
+Section 9E.01 Bicycle Lanes ........................................................................................................................... 34 
+Section 9E.02 Bicycle Lanes at Intersection Approaches ............................................................................... 35 
+Section 9E.07 Separated Bicycle Lanes .......................................................................................................... 37 
+Section 9E.12 Bicycle Box.............................................................................................................................. 37 
+Section 9E.13 Shared-Use Paths ..................................................................................................................... 40 
+Section 9E.15 Bicycle Detector Symbol ......................................................................................................... 40 
+Section 9E.17 Raised Devices ......................................................................................................................... 40
+
+=== PDF PAGE 8 ===
+Oregon Supplement to the MUTCD – 11th Edition Part 1. General 
+January 2026 Page 1 
+PART 1  
+GENERAL 
+[The Oregon Supplement to the MUTCD makes no changes to Part 1.]
+
+=== PDF PAGE 9 ===
+Oregon Supplement to the MUTCD – 11th Edition Part 2. Signs 
+January 2026 Page 2 
+PART 2  
+SIGNS 
+CHAPTER 2B. REGULATORY SIGNS, BARRICADES, AND GATES 
+Section 2B.19 Yield Here To Pedestrians Signs and Stop Here For Pedestrians Signs (R1-5 Series) 
+[Revise Section 2B.19 and insert Paragraph 12A as shown below:] 
+Support: 
+01  The R1-5 series signs are intended to mitigate the scenario that can place pedestrians at risk by blocking 
+other drivers’ view of pedestrians and by blocking the pedestrians’ view of the vehicles approaching in the 
+adjacent lanes. 
+Standard: 
+02  Yield Here to (Stop Here for) Pedestrians (R1-5, R1-5a, R1-5b, R1-5c, R1-5d, and R1-5e) signs 
+(see Figure 2B-2) shall be used if yield (stop) lines are used in advance of a marked crosswalk only 
+where it crosses an uncontrolled multi-lane approach. The Stop Here for Pedestrians signs shall only 
+be used where the law specifically requires that a driver must stop for a pedestrian in a crosswalk. 
+The legend STATE LAW shall not be displayed on the R1-5 series signs. 
+Guidance: 
+03  If yield (stop) lines and Yield Here to (Stop Here for) Pedestrians signs are used in advance of a 
+crosswalk that crosses an uncontrolled multi-lane approach, the signs should be placed 20 to 50 feet in 
+advance of the nearest edge of the crosswalk (see Section 3B.19 and Figure 3B-16(OR)). 
+Standard: 
+04  When used with a School Crossing assembly within school zones (see Part 7), the R1-5a and R1-5c 
+signs shall be used in place of the R1-5 and R1-5b signs in accordance with Paragraph 2 of this 
+Section.  
+05  When used with a Trail Crossing assembly (see Section 2C.54), the R1-5d and R1-5e signs shall be 
+used in place of the R1-5 and R1-5b signs in accordance with Paragraph 2 of this Section. 
+Guidance: 
+06  When Yield Here to (Stop Here for) Pedestrians signs are provided in advance of a crosswalk across an 
+multi-lane approach, parking should be prohibited in the area between the yield (stop) line and the 
+crosswalk. 
+07  Yield (stop) lines and Yield Here to (Stop Here for) Pedestrians signs should not be used in advance of 
+crosswalks that cross an approach to or departure from a roundabout. 
+Option: 
+08  Yield Here to (Stop Here for) Pedestrians signs may be used in accordance with Paragraphs 2 through 4 
+of this Section even if yield (stop) lines are not used. 
+09  A Pedestrian Crossing (W11-2) warning sign may be placed overhead or may be post-mounted with a 
+diagonal downward-pointing arrow (W16-7P) plaque at the crosswalk location where Yield Here to (Stop 
+Here for) Pedestrians signs have been installed in advance of the crosswalk. 
+Standard: 
+10  If a W11-2 sign is post-mounted at the crosswalk location where a Yield Here to (Stop Here for) 
+Pedestrians sign is used on the approach, the Yield Here to (Stop Here for) Pedestrians sign shall not 
+be placed on the same post as the W11-2 sign.
+
+=== PDF PAGE 10 ===
+Oregon Supplement to the MUTCD – 11th Edition Part 2. Signs 
+January 2026 Page 3 
+Option: 
+11  An advance Pedestrian Crossing (W11-2) warning sign with an AHEAD or a distance supplemental 
+plaque may be used in conjunction with a Yield Here to (Stop Here for) Pedestrians sign on the approach to 
+the same crosswalk. 
+12  In-Street Pedestrian Crossing signs and Yield Here to (Stop Here for) Pedestrians signs may be used 
+together at the same crosswalk. 
+Support: 
+12A ORS 811.028 requires that drivers stop for pedestrians crossing a roadway within a marked or 
+unmarked crosswalk. 
+Section 2B.20 In-Street and Overhead Pedestrian and Trail Crossing Signs (R1-6 and R1-9 Series) 
+[Revise Section 2B.20 Paragraph 01 and insert Paragraph 01A as shown below:] 
+Option: 
+01  The In-Street Pedestrian Crossing (R1-6 or R1-6a) sign (see Figure 2B-2), In-Street Trail Crossing (R1-
+6d or R1-6e) sign (see Figure 2B-2), the Overhead Pedestrian Crossing (R1-9 or R1-9a) sign (see Figure 
+2B-2), or the Overhead Trail Crossing (R1-9d or R1-9e) sign (see Figure 2B-2) may be used to remind road 
+users of laws regarding right-of-way at an unsignalized crosswalk. The legend STA TE LAW may be 
+displayed at the top of the R1-6 series and R1-9 series signs if applicable. On the R1-6 series signs, the 
+legends STOP or YIELD may be used instead of the appropriate STOP sign or YIELD sign symbol. 
+Support: 
+01A ORS 811.028 requires that drivers stop for pedestrians crossing a roadway within a marked or 
+unmarked crosswalk.
+
+=== PDF PAGE 11 ===
+Oregon Supplement to the MUTCD – 11th Edition Part 2. Signs 
+January 2026 Page 4 
+[Revise Figure 2B-2 as shown below:] 
+Figure 2B-2. Unsignalized Pedestrian Crosswalk Signs 
+ 
+R1-9d R1-9e
+R1-5 R1-5b
+R1-6 R1-6a R1-6d R1-6e
+R1-5d R1-5e
+R1-9 R1-9a
+The legend STATELAW is optional.A fluorescent yellow-green 
+backgroundcolor may be used instead of yellow for this sign.
+Signs are not shown in proportion to
+their designated sizes.
+
+=== PDF PAGE 12 ===
+Oregon Supplement to the MUTCD – 11th Edition Part 2. Signs 
+January 2026 Page 5 
+Section 2B.21 Speed Limit Sign (R2-1) 
+[Revise Section 2B.21 Paragraph 16 and insert Paragraph 16A as shown below:] 
+Standard: 
+16  Speed Limit signs indicating the statutory speed limits shall be installed at entrances to the State 
+and, where appropriate, at jurisdictional boundaries in urban areas. 
+Support: 
+16A The standard has been changed for clarity to show the intent of installing a speed limit sign for the 
+location only and not installing a sign showing all statutory speed limits throughout the state. 
+Section 2B.59 Traffic Signal Signs and Plaques (R10-5 through R10-30) 
+[Revise Section 2B.59 Paragraph 16 as shown below:] 
+Option: 
+16  Where conditions might warrant additional emphasis to drivers turning at a signalized intersection 
+where potential pedestrian conflicts might not be readily apparent, a Turning Vehicles Yield to (Stop for) 
+Pedestrians (R10-15, R10-15a) sign (see Figure 2B-28) may be used. 
+Section 2B.60 No Turn on Red Signs (R10-11 Series, R10-17a, and R10-30) 
+[Revise Section 2B.60 Paragraph 08 and insert Paragraph 08A as shown below:] 
+Guidance: Option: 
+08  Where turns on red are permitted and the signal indication is a steady RED ARROW, the RIGHT 
+(LEFT) ON RED ARROW AFTER STOP (R10-17a) sign (see Figure 2B-28) should may be installed 
+adjacent to the RED ARROW signal indication. 
+Support: 
+08A ORS 811.360 allows vehicular traffic facing a steady RED ARROW signal indication to make certain 
+turns after stopping without a RIGHT (LEFT) ON RED ARROW AFTER STOP (R10-17a) sign. Making 
+the sign optional supports guidance in Section 2A.20 to minimize sign proliferation to maintain sign 
+effectiveness. 
+Section 2B.69 Photo Enforced Signs and Plaques (R10-18, R10-18a, R10-19P, R10-19aP) 
+[Insert Paragraph 06A as shown below after Section 2B.69 Paragraph 06:] 
+Support: 
+06A ORS 810.434 through ORS 810.444 allows traffic safety cameras in certain jurisdictions. When used, 
+the law requires certain signs that advise road users that photographic equipment enforces traffic 
+regulations. For speed enforcement, the law also requires signs that provide drivers with information about 
+their current rate of speed (see Section 2C.13 for Vehicle Speed Feedback Signs and Plaques).
+
+=== PDF PAGE 13 ===
+Oregon Supplement to the MUTCD – 11th Edition Part 2. Signs 
+January 2026 Page 6 
+CHAPTER 2C. WARNING SIGNS AND OBJECT MARKERS 
+Section 2C.69 Photo Enforced Plaques (W16-10P and W16-10aP) 
+[Insert Paragraph 01A as shown below after Section 2C.69 Paragraph 01:] 
+Support: 
+01A ORS 810.434 through ORS 810.444 allows traffic safety cameras in certain jurisdictions. When used, 
+the law requires certain signs that advise road users that photographic equipment enforces traffic 
+regulations. For speed enforcement, the law also requires signs that provide drivers with information about 
+their current rate of speed (see Section 2C.13 for Vehicle Speed Feedback Signs and Plaques).
+
+=== PDF PAGE 14 ===
+Oregon Supplement to the MUTCD – 11th Edition Part 3. Markings 
+January 2026 Page 7 
+PART 3  
+MARKINGS 
+CHAPTER 3A. GENERAL 
+Section 3A.04 Functions, Widths, and Patterns of Longitudinal Pavement Markings 
+[Revise Section 3A.04 Paragraph 03 as shown below:] 
+Guidance: 
+03  To be recognized as a double line rather than two separate, disassociated single lines, the discernible 
+space separating the parallel lines of a double line should not exceed 12 inches two times the line width of a 
+single line.
+
+=== PDF PAGE 15 ===
+Oregon Supplement to the MUTCD – 11th Edition Part 3. Markings 
+January 2026 Page 8 
+CHAPTER 3B. PA VEMENT AND CURB MARKINGS 
+Section 3B.12 Lane-Reduction Transitions 
+[Revise Figure 3B-14 as shown below:] 
+Figure 3B-14. Examples of Applications of Lane-Reduction Transition Markings 
+ A – Lane reduction B – Lane reduction with lateral shift to the left 
+   
+Delineators
+Delineators
+Optional 
+dotted 
+lane line
+L
+W
+AP/4
+W9-1R
+(optional)
+W4-2R AP
+W16-2P
+(optional)
+W4-2R
+Delineators
+L
+AP/4
+Note: L = Length of taper in feet 
+W = Offset in feet
+AP = Advance placement distance 
+(see Section 2C.04)
+Note: See Section 2C.47 for information 
+about the signs shown in this figure
+Legend
+Direction of travel
+W9-1R
+(optional)
+W16-2P
+(optional)
+W4-2R
+Optional 
+dotted 
+lane line
+W
+AP
+W4-2R
+
+=== PDF PAGE 16 ===
+Oregon Supplement to the MUTCD – 11th Edition Part 3. Markings 
+January 2026 Page 9 
+Section 3B.19 Stop and Yield Lines 
+[Revise Section 3B.19 as shown below:] 
+Option: 
+01  Stop lines may be used to indicate the point behind which vehicles are required to stop in compliance 
+with a STOP (R1-1) sign, a Stop Here for Pedestrians (R1-5b) sign, a Stop Here for School Crossing (R1-
+5c) sign, a Stop Here for Trail Crossing (R-5e) sign, or some other traffic control device that requires 
+vehicles to stop, except YIELD signs that are not associated with passive grade crossings. 
+Standard: 
+02  Stop lines shall consist of solid white lines extending across approach lanes to indicate the point at 
+which the stop is intended or required to be made. 
+03  Except as provided in Section 8C.03, stop lines shall not be used at locations where drivers are 
+required to yield in compliance with a YIELD (R1-2) sign, a Yield Here to Pedestrians (R1-5) sign, a 
+Yield Here to School Crossings (R1-5a) sign, a Yield Here to Trail Crossings (R1-5d) sign, or at 
+locations on uncontrolled approaches where drivers or bicyclists are required by State law to yield to 
+pedestrians. 
+Guidance: 
+04  Stop lines or a marked crosswalk shall should be used to indicate the point behind which vehicles 
+are required to stop in compliance with a traffic control signal (see Section 4D.08). 
+Option: 
+04A If a marked crosswalk is used at an intersection controlled by a traffic control signal, a separate stop 
+line may be installed if engineering judgment determines a need, such as accommodating truck turning radii 
+or at highly skewed approaches. 
+Support: 
+04B Lack of stop lines or crosswalks used at traffic control signals negatively affects the safety, operation, 
+and efficiency of the intersection. However, separate stop lines used with a marked crosswalk at a 
+signalized intersection are unnecessary, as the near-side crosswalk marking adequately performs the same 
+function as a stop line without vehicular encroachment into the crosswalk (when a typical 10-foot-wide 
+crosswalk is used) and without confusing road users. 
+Guidance: 
+05  Stop lines should be 12 to 24 inches wide. 
+Option: 
+06  Stop lines may be omitted at ramp control signals. 
+Support: 
+07  Section 4J.02 contains information regarding the use and application of stop lines in conjunction with a 
+pedestrian hybrid beacon. 
+Standard: 
+08  If used, a yield line pavement marking shall not be installed without a Yield (R1-2) sign, a Yield 
+Here to Pedestrians (R1-5) sign, a Yield Here to School Crossings (R1-5a) sign, a Yield Here to Trail 
+Crossings (R1-5d) sign, or some other traffic control device that requires vehicles to yield (see Figure 
+3B-16). 
+09  Yield lines shall not be used at locations where drivers are required to stop in compliance with a 
+STOP (R1-1) sign, a Stop Here for Pedestrians (R1-5b) sign, a Stop Here for School Crossing (R1-5c) 
+sign, a Stop Here for Trail Crossing (R1-5e) sign, a traffic control signal, or some other traffic control 
+device.
+
+=== PDF PAGE 17 ===
+Oregon Supplement to the MUTCD – 11th Edition Part 3. Markings 
+January 2026 Page 10 
+10  Yield lines shall consist of a row of solid white isosceles triangles pointing toward approaching 
+vehicles extending across approach lanes to indicate the point at which the yield is intended or 
+required to be made. 
+Option: 
+11  If a yield line marking is used on a bicycle facility, a Bicycles Yield to Pedestrians (R9-6) sign (see 
+Section 9B-12) may be used. 
+Guidance: 
+12  The individual triangles comprising the yield line should have a base of 12 to 24 inches wide and a 
+height equal to 1.5 times the base. The space between the triangles should be 3 to 12 inches. 
+13  If used, stop and yield lines should be placed a minimum of 4 feet in advance of the nearest crosswalk 
+line at controlled intersections, except for yield lines at roundabouts as provided for in Section 3D.04 and 
+at midblock crosswalks. In the absence of a marked crosswalk, the stop line or yield line should be placed 
+at the desired stopping or yielding point, but should not be placed more than 30 feet or less than 4 feet from 
+the nearest edge of the intersecting traveled way. 
+13A If a yield line is used at channelized-right turn lane with a marked crosswalk, the yield line should be 
+placed beyond the marked crosswalk (see Drawing A in Figure 3B-16(OR)). 
+Standard: 
+14  If yield (stop) lines are used at a crosswalk that crosses an uncontrolled multi-lane approach, 
+Yield Here to (Stop Here for) Pedestrians (R1-5 series) signs (see Section 2B.19) shall be used. 
+Guidance: 
+15  If yield (stop) lines are used at a crosswalk that crosses an uncontrolled multi-lane approach, the yield 
+(stop) line should be placed 20 to 50 feet in advance of the nearest crosswalk line (see Drawing B in Figure 
+3B-16(OR)). 
+16  If yield or stop lines are used in advance of a crosswalk that crosses an uncontrolled multi-lane 
+approach, parking should be prohibited in the area between the yield or stop line and the crosswalk. 
+Support: 
+17  Section 9B.12 contains information for providing signing applicable to bicyclists also subject to a 
+yielding requirement at a crosswalk that crosses an uncontrolled approach. 
+Guidance: 
+18  Yield (stop) Stop lines and Yield Here to (Stop Here for) Pedestrians signs should not be used in 
+advance of crosswalks that cross an approach to or departure from a circular intersection. 
+Support: 
+19  Section 8C.03 contains information regarding the use of stop lines and yield lines at grade crossings. 
+Option: 
+20  Stop and yield lines may be staggered longitudinally on a lane-by-lane basis (see Drawing D in Figure 
+3B-13). 
+Support: 
+21  Staggered stop lines and staggered yield lines can improve the driver’s view of pedestrians, provide 
+better sight distance for turning vehicles, and increase the turning radius for left-turning vehicles. 
+21A ORS 811.028 requires that drivers stop for pedestrians crossing a roadway within a marked or 
+unmarked crosswalk.
+
+=== PDF PAGE 18 ===
+Oregon Supplement to the MUTCD – 11th Edition Part 3. Markings 
+January 2026 Page 11 
+[Replace Figure 3B-16 in its entirety with Figure 3B-16(OR):] 
+Figure 3B-16(OR). Examples of Stop Line Applications 
+A – Channelized intersection 
+ 
+B – Unsignalized midblock crosswalk 
+C – Crosswalk across ramp 
+ 
+R1-2
+R1-5b
+20 to 50 ft
+W16-7PL
+Legend
+Optional 
+Direction of travel
+W11-2
+W11-2
+W16-7PR
+R1-5b
+20 to 50 ft
+W11-2
+W16-7PR
+W11-2
+W16-7PL
+R1-5b
+
+=== PDF PAGE 19 ===
+Oregon Supplement to the MUTCD – 11th Edition Part 3. Markings 
+January 2026 Page 12 
+CHAPTER 3I. CHANNELIZING DEVICES USED FOR EMPHASIS OF PA VEMENT 
+MARKING PATTERNS 
+Section 3I.02 Tubular Markers 
+[Revise Figure 3I-1 Details C and D as shown below:] 
+Figure 3I-1. Examples of Tubular Markers Supplementing Pavement Markings 
+in Advance of an Unsignalized Crosswalk (Sheet 2 of 2) 
+C – Tubular markers supplementing lane lines with  
+in-street pedestrian crossing sign on centerline 
+  
+D – Tubular markers supplementing edge and lane lines;  
+in-street pedestrian sign crossing on centerline 
+  
+Tubular 
+markers
+W11-2
+W16-7PL
+W11-2W11-2
+W16-7PR
+W11-2
+W16-7PL
+W16-7PR
+R1-6
+Tubular 
+markers
+R1-6a
+R1-6a
+R1-6
+Legend 
+Direction of travel
+W11-2R1-6
+W16-7PL
+Tubular 
+markers
+W11-2
+W16-7PR
+W16-7PL
+W11-2
+W11-2
+W16-7PR
+Tubular 
+markers R1-6
+R1-6a
+R1-6a
+
+=== PDF PAGE 20 ===
+Oregon Supplement to the MUTCD – 11th Edition Part 4. Highway Traffic Signals 
+January 2026 Page 13 
+PART 4  
+HIGHWAY TRAFFIC SIGNALS 
+CHAPTER 4A. GENERAL 
+Section 4A.02 Meanings of Signal Indications 
+[Insert Paragraph 01A as shown below after Section 4A.02 Paragraph 01:] 
+Support: 
+01A ORS 811.260 and 811.360 governs the appropriate driver response to traffic control devices in Oregon 
+and the conditions when a vehicle turn is permitted at a traffic control signal. ORS 811.365 prohibits U-
+turns at an intersection that is controlled by a highway traffic signal unless posted otherwise. 
+Section 4A.03 Meanings of Steady Vehicular Signal Indications 
+[Revise Section 4A.03 Paragraph 01 Item A as shown below:] 
+Standard: 
+A. Steady green signal indications shall have the following meanings: 
+1. Vehicular traffic facing a CIRCULAR GREEN signal indication is permitted to 
+proceed straight through or turn right or left or make a U-turn movement except as 
+such movement is modified by lane-use signs, turn prohibition signs, lane markings, 
+roadway design, separate turn signal indications, or other traffic control devices. 
+Such vehicular traffic, including vehicles turning right or left or making a U-
+turn movement, shall yield the right-of-way to: 
+(a) Pedestrians lawfully within an associated crosswalk, and 
+(b) Other vehicles lawfully within the intersection. 
+In addition, vehicular traffic turning left or making a U-turn movement to the 
+left shall yield the right-of-way to other vehicles approaching from the opposite 
+direction so closely as to constitute an immediate hazard during the time when such 
+turning vehicle is moving across or within the intersection. 
+[Revise Section 4A.03 Paragraph 01 Item C as shown below:] 
+Standard: 
+C. Steady red signal indications shall have the following meanings: 
+1. Vehicular traffic facing a steady CIRCULAR RED signal indication , unless entering 
+the intersection to make another movement permitted by another signal indication, 
+shall stop at a clearly marked stop line; but if there is no stop line, traffic shall stop 
+before entering the crosswalk on the near side of the intersection; or if there is no 
+crosswalk, then before entering the intersection; and shall remain stopped until a 
+signal indication to proceed is displayed, or as provided below. 
+ Except when a traffic control device is in place prohibiting a turn on red or a 
+steady RED ARROW signal indication is displayed, vehicular traffic facing a steady 
+CIRCULAR RED signal indication is permitted to enter the intersection to turn 
+right, or to turn left from a one-way street into a one-way street, after stopping. The 
+right to proceed with the turn shall be subject to the rules applicable after making a 
+stop at a STOP sign.
+
+=== PDF PAGE 21 ===
+Oregon Supplement to the MUTCD – 11th Edition Part 4. Highway Traffic Signals 
+January 2026 Page 14 
+2. Vehicular traffic facing a steady RED ARROW signal indication shall not enter the 
+intersection to make the movement indicated by the arrow and, unless entering the 
+intersection to make another movement permitted by another signal indication, shall 
+stop at a clearly marked stop line; but if there is no stop line, before entering the 
+crosswalk on the near side of the intersection; or if there is no crosswalk, then before 
+entering the intersection; and shall remain stopped until a signal indication or other 
+traffic control device permitting the movement indicated by such RED ARROW is 
+displayed or as provided in the next paragraph. 
+ When Except when a traffic control device is in place permitting prohibiting a 
+turn on red a steady RED ARROW signal indication, vehicular traffic facing a steady 
+RED ARROW signal indication is permitted to enter the intersection to make the 
+movement indicated by the arrow signal indication, after stopping. The right to 
+proceed with the turn shall be limited to the direction indicated by the arrow and 
+shall be subject to the rules applicable after making a stop at a STOP sign. 
+3. Unless otherwise directed by a pedestrian signal indication or other traffic control 
+device, pedestrians facing a steady CIRCULAR RED or steady RED ARROW signal 
+indication shall not enter the roadway. 
+Section 4A.05 Meanings of Bicycle Symbol Signal Indications 
+[Revise Section 4A.05 Paragraph 01 Item A as shown below:] 
+Standard: 
+01  The following meanings shall be given to bicycle symbol signal indications for bicyclists: 
+A. Bicyclists facing a steady GREEN BICYCLE signal indication are permitted to enter the 
+intersection only to make the movement indicated to proceed straight through or turn right or 
+left except as such movement is modified by the lane-use arrow(s) displayed on the Bicycle 
+Signal sign (see Section 9B.22) that is located immediately adjacent to the signal face., 
+Bicyclists proceeding into the intersection during the display of the steady GREEN BICYCLE 
+signal indication shall yield the right-of-way to: 
+1. Pedestrians lawfully within an associated crosswalk, and 
+2. Other vehicles lawfully within the intersection. 
+[Insert Paragraph 01A as shown below after Section 4A.05 Paragraph 01:] 
+Support: 
+01A ORS 811.260(3) allows bicyclists to proceed straight through or turn right or left on a GREEN 
+BICYCLE signal indication, unless a sign prohibits a movement.
+
+=== PDF PAGE 22 ===
+Oregon Supplement to the MUTCD – 11th Edition Part 4. Highway Traffic Signals 
+January 2026 Page 15 
+CHAPTER 4D. DESIGN FEATURES OF TRAFFIC CONTROL SIGNALS 
+Section 4D.02 Provisions for Pedestrians 
+[Revise Section 4D.02 Paragraph 05 and insert Paragraphs 05A and 05B as shown below:] 
+Guidance: Standard: 
+05  Where certain pedestrian movements are prohibited at a traffic control signal location, a sign 
+giving notice of the prohibition shall be used. No Pedestrian Crossing (R9-3) sign (see Section 2B.57) 
+should be used if it is impracticable to provide a barrier or other physical feature to physically discourage 
+the pedestrian movements. 
+Guidance: 
+05A A barrier or other physical feature to physically discourage the prohibited pedestrian movements 
+should be provided when a crosswalk is closed at a traffic control signal location. 
+Support: 
+05B ORS 810.080 details the requirements for regulating pedestrian traffic on highways in Oregon.
+
+=== PDF PAGE 23 ===
+Oregon Supplement to the MUTCD – 11th Edition Part 4. Highway Traffic Signals 
+January 2026 Page 16 
+CHAPTER 4F. STEADY (STOP-AND-GO) OPERATION OF TRAFFIC CONTROL SIGNALS 
+Section 4F.19 Preemption Control of Traffic Control Signals 
+[Revise Section 4F.19 Paragraphs 03 and 04 and insert Paragraph 04A as shown below:] 
+Standard: 
+03  During the transition into preemption control, the: 
+A. The yellow change interval, and any red clearance interval that follows, shall not be shortened 
+or omitted. 
+B. Any pedestrian change interval shall not be shortened or omitted unless the shortening or 
+omission results from a railroad preemption or drawbridge preemption as documented in a 
+highway-rail or highway-LRT grade Crossing Order or drawbridge preemption. 
+Option: 
+04  During the transition into preemption control:, any pedestrian walk interval may be shortened or 
+omitted. 
+A. Any pedestrian walk interval and/or pedestrian change interval may be shortened or omitted. 
+B. The red clearance interval, if any, may be omitted so that the return to the previous green signal 
+indication follows a steady yellow signal indication in the same signal face. 
+Support: 
+04A OAR 734-020-0320(5)(e) prohibits the termination of an active pedestrian or vehicular clearance 
+interval by emergency preemption or bus priority.
+
+=== PDF PAGE 24 ===
+Oregon Supplement to the MUTCD – 11th Edition Part 4. Highway Traffic Signals 
+January 2026 Page 17 
+CHAPTER 4I. PEDESTRIAN CONTROL FEATURES 
+Section 4I.06 Pedestrian Intervals and Signal Phases 
+[Insert Paragraph 02A as shown below after Section 4I.06 Paragraph 02:] 
+Guidance: 
+02A When the pedestrian signal heads with an associated crosswalk are displaying a steady WALKING 
+PERSON (symbolizing WALK) signal indication, a steady red signal indication should be shown to any left 
+turn and right turn movement that is operated with a signal face with Flashing Yellow Arrow indication. See 
+Figure 4I-5(OR). 
+[Insert Figure 4I-5(OR) as shown below after Figure 4I-4:] 
+Figure 4I-5(OR). Pedestrian WALK Interval and Flashing Yellow Arrow Signal Face 
+A – Right turn movement operated with a signal face with flashing yellow arrow indication  
+ 
+B – Left turn movement operated with a signal face with flashing yellow arrow indication  
+ 
+       
+R
+SY/FY
+G
+Recommended steady 
+red signal indication
+Associated crosswalk 
+displays a steady 
+WALKING PERSON
+Legend
+Direction of travel
+R Red
+SY Steady Yellow
+FY Flashing Yellow
+G Green
+       
+R
+SY/FY
+G
+Associated crosswalk 
+displays a steady 
+WALKING PERSON
+Recommended steady 
+red signal indication
+
+=== PDF PAGE 25 ===
+Oregon Supplement to the MUTCD – 11th Edition Part 5. Automated Vehicles 
+January 2026 Page 18 
+PART 5  
+TRAFFIC CONTROL DEVICE CONSIDERATIONS FOR AUTOMATED VEHICLES 
+[The Oregon Supplement to the MUTCD makes no changes to Part 5.]
+
+=== PDF PAGE 26 ===
+Oregon Supplement to the MUTCD – 11th Edition Part 6. Temporary Traffic Control 
+January 2026 Page 19 
+PART 6  
+TEMPORARY TRAFFIC CONTROL 
+OREGON TEMPORARY TRAFFIC CONTROL HANDBOOK 
+ The Oregon Temporary Traffic Control Handbook (OTTCH) is a separate publication from the Oregon 
+Supplement to the MUTCD and covers applications of Part 6 for work zones of 72 hours or less. ODOT and local 
+agencies are free to adopt more restrictive requirements for Part 6 applications in work zones greater than 72 
+hours as part of their agency’s traffic control policy manual and/or specifications.
+
+=== PDF PAGE 27 ===
+Oregon Supplement to the MUTCD – 11th Edition Part 7. School Areas 
+January 2026 Page 20 
+PART 7  
+TRAFFIC CONTROL FOR SCHOOL AREAS 
+CHAPTER 7B. SIGNS 
+Section 7B.02 School Area Signs and Plaques 
+[Revise Figure 7B-1 Details B, C, and D as shown below:] 
+Figure 7B-1. Signs in School Areas and at School Crossings (Sheet 2 of 2) 
+B – Signs in advance of the school crossing 
+ 
+C – In-street signs at the school crossing 
+ 
+D – Overhead signs at the school crossing 
+ 
+R1-5c
+In-Street Use
+S1-1*
+W16-9P*R1-5a
+S4-3P* S4-3P*
+OROR OR
+OR
+R1-6 R1-6a W16-7P*
+S1-1*
+R1-6c
+*Reduced size signs for in-street 
+use (see Section 7B.03):
+S1-1
+S4-3P
+W16-7P
+W16-9P
+12 x 12 inches
+12 x 4 inches
+12 x 6 inches
+12 x 6 inches
+Notes:
+1. The use of the STATELAW legend is optional on the R1-6 series and R1-9 series signs 
+(see Section 7B.03).
+2. The use of the SCHOOLplaque above the R1-6 and R1-6a signs is optional.
+3. Signs are shown in proportion to their designated sizes unless otherwise noted.
+R1-9b (shown reduced 50% 
+proportional to other signs on page)
+R1-9c (shown reduced 50% 
+proportional to other signs on page)
+
+=== PDF PAGE 28 ===
+Oregon Supplement to the MUTCD – 11th Edition Part 7. School Areas 
+January 2026 Page 21 
+Section 7B.03 School Crossing Signs 
+[Revise Section 7B.03 Paragraphs 11, 12, 13, and 14 and insert Paragraph 14A as shown below:] 
+Option: 
+11  A Yield Here To (Stop Here For) School Crossing (R1‐5a or R1‐5c) sign (see Figure 7B‐4) may be 
+used, in accordance with the provisions of Section 2B.19, in advance of a marked crosswalk that crosses an 
+uncontrolled multi‐lane approach within school zones. 
+12  The In‐Street Pedestrian Crossing (R1‐6 or R1‐6a) sign (see Section 2B.20 and Figure 7B‐1) or the 
+In‐Street School Crossing (R1‐6b or R1‐6c) sign (see Figure 7B‐1) may be used at school crossings on 
+approaches that are not controlled by a traffic control signal, a pedestrian hybrid beacon, or 
+emergency‐vehicle hybrid beacon. If used at a school crossing, a 12 x 4‐inch SCHOOL (S4‐3P) plaque (see 
+Figure 7B‐1) may be mounted above the sign. The STATE LAW legend on the R1‐6 series signs may be 
+omitted. 
+13  The In‐Street Pedestrian Crossing (R1‐6 or R1‐6a) sign or In‐Street School Crossing (R1‐6b or R1‐6c) 
+sign may be used at intersections or midblock crossings with flashing beacons. 
+14  The Overhead School Crossing (R1‐9b or R1‐9c) sign (see Figure 7B‐1) may be used at school 
+crossings on approaches that are not controlled by a traffic control signal, pedestrian hybrid beacon, or an 
+emergency‐vehicle hybrid beacon. The STATE LAW legend on the R1‐9 series signs may be omitted. 
+Support: 
+14A ORS 811.028 requires that drivers stop for pedestrians crossing a roadway within a marked or 
+unmarked crosswalk. 
+Section 7B.05 School Speed Limit Signs and Plaques 
+[Insert Paragraph 03A as shown below before Section 7B.05 Paragraph 03:] 
+Support: 
+03A The “Speed Zone Manual” published by ODOT provides guidance on establishing reduced school 
+speed limit zones in Oregon. “A Guide to School Area Safety” published by ODOT provides additional 
+guidance and explanations related to applying school speed zones and other safety treatments near schools 
+in Oregon. ORS 811.111 and ORS 811.235 address school speed zones. 
+[Insert Paragraphs 09A, 09B, and 09C as shown below after Section 7B.05 Paragraph 09:] 
+Option: 
+09A The ALL YEAR plaque (S4-7P) may be added to the School Speed Limit Assembly as a top plaque 
+with the SCHOOL (S4-3P) plaque if the school operates on a 12-month schedule. 
+09B A SCHOOL DAYS bottom plaque may be used in combination with the S4-1P bottom plaque indicating 
+specific periods of the day that the special school speed limit is in effect per Oregon law. 
+Support: 
+09C ORS 811.111 defines the different conditions for reduced school speed limit zones in Oregon.
+
+=== PDF PAGE 29 ===
+Oregon Supplement to the MUTCD – 11th Edition Part 7. School Areas 
+January 2026 Page 22 
+CHAPTER 7D. CROSSING SUPERVISION 
+Section 7D.01 Adult Crossing Guards 
+[Insert Paragraph 04A as shown below after Section 7D.01 Paragraph 04:] 
+Support: 
+04A The “Oregon Traffic Patrol Manual for Schools” published by the Oregon Department of Education 
+under ORS 339.660 and OAR 581-021-0100 provides information regarding the organization, 
+administration, and operation of school traffic patrol programs in Oregon.
+
+=== PDF PAGE 30 ===
+Oregon Supplement to the MUTCD – 11th Edition Part 8. Railroad and Light Rail Transit Grade Crossings 
+January 2026 Page 23 
+PART 8  
+TRAFFIC CONTROL FOR RAILROAD AND LIGHT RAIL TRANSIT GRADE CROSSINGS 
+CHAPTER 8A. GENERAL 
+Section 8A.01 Introduction 
+[Insert Paragraphs 10A, 10B, and 10C as shown below after Section 8A.01 Paragraph 10:] 
+Standard: 
+10A Authority to alter, construct, or eliminate a highway-rail or highway-LRT grade crossing, 
+including those traffic control devices in approach to and at the crossing that affect the safety of the 
+crossing, shall be obtained from the State through issuance of a Crossing Order by the Rail Division 
+of the Oregon Department of Transportation. 
+Support: 
+10B ORS 824.200 through ORS 824.256 vests exclusive authority in the State through the Rail Division of 
+the Oregon Department of Transportation to control and regulate the construction, alteration, and protection 
+of highway-rail and highway-LRT grade crossings (in semi-exclusive alignments). 
+10C A crossing order is written authorization issued by the State of Oregon through the Rail Division of its 
+Department of Transportation granting or denying applications from public road authorities or railroads 
+seeking to alter, construct, change protective devices, or eliminate highway-rail or highway-LRT grade 
+crossings (in semi-exclusive alignments). Crossing Orders prescribe the time and manner of such alteration, 
+change, installation, or alteration, and the terms and conditions thereof. 
+Section 8A.03 Traffic Control Systems and Practices at Grade Crossings 
+[Insert Paragraphs 08A and 08B as shown below after Section 8A.03 Paragraph 08:] 
+Standard: 
+08A Recommendations and Engineering Studies produced by the diagnostic team are not binding and 
+shall not constitute final approval of the statutory authority. 
+Support: 
+08B ORS 824.200 through ORS 824.256 vests exclusive authority in the State through the Rail Division of 
+the Oregon Department of Transportation via the issuance of a Crossing Order to control and regulate the 
+construction, alteration, and protection of highway-rail and highway-LRT grade crossings (in semi-
+exclusive alignments). 
+Section 8A.05 Engineering Studies at Grade Crossings 
+[Revise Section 8A.05 Paragraph 02 as shown below:] 
+Option Standard: 
+02  The regulatory agency with statutory authority (if applicable) may shall approve the grade 
+crossing traffic control system before it is used at the grade crossing.
+
+=== PDF PAGE 31 ===
+Oregon Supplement to the MUTCD – 11th Edition Part 8. Railroad and Light Rail Transit Grade Crossings 
+January 2026 Page 24 
+CHAPTER 8B. SIGNS 
+Section 8B.04 Crossbuck Assemblies with YIELD or STOP Signs at Passive Grade Crossings 
+[Revise Section 8B.04 Paragraph 19 as shown below:] 
+Option: Standard: 
+19  If a YIELD or STOP sign is installed on the same support as the Crossbuck sign, a vertical strip 
+of red (see Section 2A.11) or white retroreflective material that is at least 2 inches wide may shall be 
+used on the front of the support from the YIELD or STOP sign to within 2 feet above the near edge of 
+the roadway. 
+[Revise Figure 8B-2 as shown below:] 
+Figure 8B-2. Crossbuck Assembly with a YIELD or STOP Sign 
+on the Crossbuck Sign Support 
+ 
+See Notes 2 and 3
+2 ft MAX.**
+9 ft* OR
+Edge of 
+roadway
+2-inch white 
+retroreflective strip 
+on back of support
+* Height may be varied as requiredby
+local conditionsand may be increased 
+to accommodatesigns mountedbelow 
+the Crossbucksign
+** Measured to the elevation of the near 
+edge of the roadway
+Notes:
+1. YIELD or STOP signs are used only at passive crossings.A STOP sign is used only if an engineeringstudy determines 
+that it is appropriate for that particular approach.
+2. Mounting height shall be at least 4 feet for installations of YIELD or STOP signs on existing Crossbuck sign supports.
+3. Mounting height shall be at least 5 feet for new installations in rural areas and at least 7 feet for new installations in
+areas where parking or pedestrian movements are likely to occur.
+Optional 2-inch red or 
+white retroreflective strip 
+on front of support
+
+=== PDF PAGE 32 ===
+Oregon Supplement to the MUTCD – 11th Edition Part 8. Railroad and Light Rail Transit Grade Crossings 
+January 2026 Page 25 
+[Insert Section 8B.28 as shown below after Section 8B.27:] 
+Section 8B.28 Private Crossing Sign 
+Standard: 
+01  Private crossings, including farm crossings, that are not equipped with flashing light signals or 
+automatic gates shall install a STOP (R1-1) sign with private crossing sign (see Figure 8B-6(OR)) on 
+each side of the crossing as shown in Figure 8B-7(OR).  
+Support: 
+02  The statutory authority regulates private crossing sign requirements according to OAR 741-110-0060. 
+Figure 8B-6(OR). Private Crossing Sign 
+ 
+Size: 24” x 30”
+Font: 2D
+Colors: Legend – Black
+Background – White (retroreflective)
+Optional text area may include any of the following in font 1D:
+1. NO TRESPASSING
+2. Name of the railroad from which permission must be secured for use of the crossing
+3. Permit number
+
+=== PDF PAGE 33 ===
+Oregon Supplement to the MUTCD – 11th Edition Part 8. Railroad and Light Rail Transit Grade Crossings 
+January 2026 Page 26 
+Figure 8B-7(OR). Private Crossing Sign Placement 
+  
+ A – Private Crossing Sign on Stop Sign Support 
+  
+ B – Private Crossing Sign Placement 
+Edge of 
+roadway
+*
+Mounting height shall be at least 5 feet 
+for new installations in rural areas and 
+at least 7 feet for new installations in 
+areas where parking or pedestrian 
+movements are likely to occur.
+*
+R1-1 (24”x24” MIN.)
+     
+15 ft typical
+6 ft typical
+2 ft MIN.
+Edge of 
+roadway
+R1-1 (24”x24” MIN.)
+R1-1 (24”x24” MIN.)
+C TrackL
+
+=== PDF PAGE 34 ===
+Oregon Supplement to the MUTCD – 11th Edition Part 8. Railroad and Light Rail Transit Grade Crossings 
+January 2026 Page 27 
+CHAPTER 8C. MARKINGS 
+Section 8C.02 Grade Crossing Pavement Markings 
+[Revise Section 8C.02 Paragraphs 02, 03, and 04 as shown below:] 
+Standard: 
+02  Except as provided in Paragraphs 3 and 4 of this Section, grade crossing pavement markings 
+shall be placed in each approach lane on all paved approaches to highway-rail grade crossings where 
+signals or automatic gates are located, and at all other grade crossings where the posted or statutory 
+highway speed is 40 mph or higher. 
+03  Grade crossing pavement markings shall not be required at highway-rail grade crossings where 
+the posted or statutory highway speed is less than 40 mph if unless the Diagnostic Team determines 
+that other installed devices provide suitable warning and control. 
+04  Grade crossing pavement markings shall not be required at highway-rail grade crossings in 
+urban areas if the Diagnostic Team determines that other installed devices provide suitable warning 
+and control. 
+Section 8C.03 Stop and Yield Lines 
+[Revise Section 8C.03 as shown below:] 
+Guidance: Standard: 
+01  On Except as provided in Paragraph 02A of this section, on paved roadway approaches to passive 
+grade crossings where a STOP sign is installed in conjunction with the Crossbuck sign, a 24-inch-wide 
+stop line should shall be installed to indicate the point behind which motor vehicles are required to 
+stop or as near to that point as practicable.  
+Option: 
+02  On Except as provided in Paragraph 02A of this section, on paved roadway approaches to passive 
+grade crossings where a YIELD sign is installed in conjunction with the Crossbuck sign, a yield line 
+(see Section 3B.19) or a 24-inch wide stop line may shall be installed to indicate the point behind which 
+motor vehicles are required to yield or stop or as near to that point as practicable. 
+Option: 
+02A The stop line may be omitted if a marked crosswalk (transverse style only, see Figure 3C-1), stop line 
+for a marked crosswalk, or stop line for a signalized approach is present and can serve the function of 
+indicating where motor vehicles are required to stop for pedestrians or a traffic signal and the rail crossing. 
+Support: 
+02B Providing a single stop line location when a rail crossing is located very near to a crosswalk or 
+signalized approach reduces pavement marking clutter and confusion to the road user. 
+Guidance: 
+03  If a yield line (see Figure 3B-16) or stop line is used at a passive grade crossing, it should be a 
+transverse line at a right angle to the traveled way and should be placed no closer than 15 feet in advance 
+of the nearest rail.
+
+=== PDF PAGE 35 ===
+Oregon Supplement to the MUTCD – 11th Edition Part 8. Railroad and Light Rail Transit Grade Crossings 
+January 2026 Page 28 
+Standard: 
+04  On Except as provided in Paragraph 02A of this section, on paved roadways at grade crossings 
+that are equipped with active control devices such as flashing-light signals, automatic gates, or traffic 
+control signals, a 24-inch-wide stop line (see Section 3B.19) shall be installed to indicate the point 
+behind which motor vehicles are or might be required to stop. 
+Guidance: 
+05  If a stop line is used at an active grade crossing where road users are controlled by flashing-light 
+signals, it should be a transverse line at a right angle to the traveled way and should be placed 
+approximately 8 feet in advance of the flashing-light signals or automatic gate (if present), whichever is 
+farther from the track(s), but no closer than 15 feet in advance of the nearest rail (see Figure 8C-1). 
+06  If a stop line is used at an active grade crossing where road users are controlled by a traffic control 
+signal, it should be a transverse line at a right angle to the traveled way and should be placed no closer 
+than 15 feet in advance of the nearest rail. 
+Standard: 
+07  If a stop line is used at an active grade crossing where road users are controlled by a traffic 
+control signal, it shall be placed such that the lateral and longitudinal positions of the signal faces for 
+the approach comply with the provisions of Sections 4D.07 and 4D.08.
+
+=== PDF PAGE 36 ===
+Oregon Supplement to the MUTCD – 11th Edition Part 8. Railroad and Light Rail Transit Grade Crossings 
+January 2026 Page 29 
+CHAPTER 8D. FLASHING-LIGHT SIGNALS, AUTOMATIC GATES, AND TRAFFIC 
+CONTROL SIGNALS 
+Section 8D.02 Flashing-Light Signals 
+[Revise Section 8D.02 Paragraph 05 as shown below:] 
+Option: Standard: 
+05  At highway-rail grade crossings, bells or other audible warning devices may shall be included in 
+the assembly and may be operated in conjunction with the flashing-light signals to provide additional 
+warning for pedestrians, bicyclists, and/or other non-motorized road users. 
+Section 8D.15 Use of LRT Signals for Control of LRT Vehicles at Highway-LRT Grade Crossings 
+[Insert the following option and support paragraphs after Section 8D.15 Paragraph 05:] 
+Option: 
+05A LRT/BRT traffic control signals may display the signal indications illustrated in Figure 8D-3(OR). 
+Support: 
+05B Like Figure 8D-3, the indications in Figure 8D-3(OR) are unique to not be confused with standard 
+traffic control signal indications. 
+[Insert Figure 8D-3(OR) as shown below after Figure 8D-3:] 
+Figure 8D-3(OR). Light Rail Transit and Bus Rapid Transit Signal Indications 
+  
+White Horizontal (flashing) 
+ Confirmation of  
+ call to controller 
+  
+White Triangle (solid or flashing)
+ 
+ Prepare to stop
+
+=== PDF PAGE 37 ===
+Oregon Supplement to the MUTCD – 11th Edition Part 8. Railroad and Light Rail Transit Grade Crossings 
+January 2026 Page 30 
+CHAPTER 8E. PATHWAY AND SIDEWALK GRADE CROSSINGS 
+Section 8E.03 Pathway and Sideway Grade Crossing Signs and Markings 
+[Revise Section 8E.03 Paragraph 02 as shown below:] 
+Standard: 
+02  The minimum sizes of sidewalk grade crossing signs that are intended to be viewed only by 
+sidewalk users and of pathway grade crossing signs shall be the exact sizes as shown in the shared-use 
+path column in Table 9A-1 (delete “minimum” in the Table 9A-1 title when applying this standard). 
+Section 8E.07 Active Traffic Control Systems 
+[Revise Section 8E.07 Paragraph 03 as shown below:] 
+Standard: 
+03  If used at a pathway or sidewalk grade crossing, an active traffic control system (see Section 
+8D.01) shall include flashing-light signals with a maximum diameter of 8 inches (see Figure 8E-7) on 
+each approach to the crossing.
+
+=== PDF PAGE 38 ===
+Oregon Supplement to the MUTCD – 11th Edition Part 9. Bicycle Facilities 
+January 2026 Page 31 
+PART 9  
+TRAFFIC CONTROL FOR BICYCLE FACILITIES 
+CHAPTER 9B. REGULATORY SIGNS 
+Section 9B.01 STOP and YIELD Signs (R1-1 and R1-2) 
+[Revise Section 9B.01 Paragraph 05 as shown below:] 
+Guidance: 
+05  Where conditions require shared-use path users or bicyclists on separated bikeways, but not roadway 
+users, to stop or yield, the STOP or YIELD sign should be placed or shielded so that it is not readily visible 
+to roadway users or a BICYCLE STOP (OBR1-1) or BICYCLE YIELD (OBR1-2) sign should be used (see 
+Figure 9B-1(OR). 
+[Insert Figure 9B-1(OR) as shown below after Figure 9B-1:] 
+Figure 9B-1(OR). Regulatory Signs and Plaques for Bicycle Facilities 
+    
+ OBR1-1 OBR1-2 OBR4-19 
+Section 9B.15 Bicycle Passing Clearance Sign (R4-19) 
+[Insert the following option and support paragraphs after Section 9B.15 Paragraph 04:] 
+Option: 
+04A The Oregon Bicycle Passing Clearance (OR4-19) sign (see Figure 9B-1(OR)) may be used to remind 
+drivers to give extra space when they pass bicycles per ORS 811.065. 
+Support: 
+04B Oregon does not have a specific passing clearance that drivers must provide when passing people on 
+bicycles that can be displayed on Sign R4-19. Instead, ORS 811.065 describes this as “a distance that is 
+sufficient to prevent contact with the person operating the bicycle if the person were to fall into the driver’s 
+lane of traffic.” The passing clearance requirements in ORS 811.065 do not apply where the motor vehicle 
+lane is adjacent to a designated bicycle lane, where the driver is traveling at 35 miles per hour or less, or 
+where a person on a bicycle is turning left and the driver passes on the right.
+
+=== PDF PAGE 39 ===
+Oregon Supplement to the MUTCD – 11th Edition Part 9. Bicycle Facilities 
+January 2026 Page 32 
+CHAPTER 9D. GUIDE AND SERVICE SIGNS 
+Section 9D.01 Bicycle Destination Signs (D1-1b, D1-1c, D1-2b, D1-2c, D1-3b, D1-3c, D2-1a, D2-2a, 
+and D2-3a) 
+[Revise Section 9D.01 Paragraph 01 as shown below:] 
+Support: 
+01  The purpose of Bicycle Destination (D1-1b, D1-1c, D1-2b, D1-2c, D1-3b, and D1-3c, OBD1-1c, 
+OBD1-2c, and OBD1-3c) signs (see Figure 9D-1 and Figure 9D-1(OR)) and Bicycle Distance (D2-1a, D2-
+2a, and D2-3a) signs (see Figure 9D-1) is to provide guidance to bicyclists traveling along a bikeway 
+network directing them to typical bicycle destinations or points of interest. The smaller size of Bicycle 
+Destination and Distance signs can deemphasize the messages to motorists, especially when the direction(s) 
+or destination(s) displayed provides access to routes or pathways where the use of motor vehicles is 
+prohibited or discouraged. Examples include, but are not limited to: 
+A. Bicycles can go in a direction counter to conventional traffic, 
+B. Access to a separated bikeway or shared-use path from a street, 
+C. Access to a bicycle route, 
+D. Bicycles are directed to another roadway or bikeway that facilitates a parallel or alternative route to 
+the same destination, or 
+E. Access to a sidewalk that provides connectivity between bicycle facilities. 
+[Revise Section 9D.01 Paragraph 05 as shown below:] 
+Option: 
+05  Bicycle Destination and Distance (D1-1b, D1-1c, D1-2b, D1-2c, D1-3b, D1-3c, D2-1a, D2-2a, and D2-
+3a, OBD1-1c, OBD1-2c, and OBD1-3c) signs may be installed to provide direction, destination, and 
+distance information as needed for bicycle travel. If several destinations are to be shown at a single 
+location, they may be placed on a single sign with an arrow (and the distance, if desired) for each name. If 
+more than one destination lies in the same direction, a single arrow may be used for the destinations. 
+[Revise Section 9D.01 Paragraphs 19 and 20 and insert Paragraph 20A as shown below:] 
+Guidance: Option: 
+19  Travel times should not may be used on Bicycle Destination signs. 
+Support: 
+20  Travel times can vary greatly for bicyclists based on a variety of factors including individual speed, 
+bicycle type, and type of facility. Research on bicycle travel time, trip purpose, and route choice is available 
+from Portland State University at http://dx.doi.org/10.15760/trec.151. 
+20A State and local agencies in Oregon developed design details for Bicycle Destination signs prior to their 
+introduction in the MUTCD. Figure 9D-1(OR) shows examples of these signs.
+
+=== PDF PAGE 40 ===
+Oregon Supplement to the MUTCD – 11th Edition Part 9. Bicycle Facilities 
+January 2026 Page 33 
+[Insert Figure 9D-1(OR) as shown below after Figure 9D-1:] 
+Figure 9D-1(OR). Guide Signs for Bicycle Facilities 
+    
+ OBD1-1c OBD1-2c OBD1-3c
+
+=== PDF PAGE 41 ===
+Oregon Supplement to the MUTCD – 11th Edition Part 9. Bicycle Facilities 
+January 2026 Page 34 
+CHAPTER 9E. MARKINGS 
+Section 9E.01 Bicycle Lanes 
+[Revise Section 9E.01 as shown below:] 
+Support: 
+01  Pavement markings designate that portion of the roadway for preferential use by bicyclists. Markings 
+inform all road users of the restricted nature of the bicycle lane. 
+Standard: 
+02  Longitudinal pavement markings and bicycle lane symbol or word markings (see Figure 9E-1) 
+shall be used to define bicycle lanes. An 8-inch-wide longitudinal white line shall be used to separate 
+motor vehicle lanes from bicycle lanes traveling in the same direction. 
+Guidance: 
+03  The first symbol or word marking in a bicycle lane should be placed at the beginning of the bicycle lane 
+and downstream symbol or word markings should be placed after major intersections. Additional symbol or 
+word markings should be placed at periodic intervals along the bicycle lane based on engineering 
+judgment. 
+Option: Guidance: 
+04  An arrow marking (see Figure 9E-1) may should be used in conjunction with the bicycle lane symbol or 
+word marking, placed downstream from the symbol or word marking. 
+Option: 
+05  Where the bicycle lane symbols or word markings are used, Bicycle Lane signs (see Section 9B.04) 
+may also be used, but not necessarily adjacent to every set of pavement markings in order to avoid overuse 
+of the signs. 
+Support: 
+06  Section 3H.06 contains information on green-colored pavement for use in bicycle lanes. 
+Standard: 
+07  The bicycle symbol or BIKE LANE pavement word marking and the pavement marking arrow 
+shall not be used in a shoulder. 
+08  A portion of the roadway shall not be established as both a shoulder and a bicycle lane. 
+Support: 
+09  Where a shoulder is provided or is of sufficient width to meet the expectation of a highway user in that 
+it can function as a space for emergency, enforcement, or maintenance activities, or avoidance or recovery 
+maneuvers, Section 9B.16 contains information regarding the Bicycles Use Shoulder Only sign that can be 
+used to denote locations on a freeway or expressway where bicycles are permitted on an available and 
+usable shoulder. 
+10  Examples of pavement markings for bicycle lanes on a two-way street are shown in Figure 9E-2(OR).
+
+=== PDF PAGE 42 ===
+Oregon Supplement to the MUTCD – 11th Edition Part 9. Bicycle Facilities 
+January 2026 Page 35 
+[Revise Figure 9E-1 as shown below:] 
+Figure 9E-1. Word, Symbol, and Arrow Pavement Markings for Bicycle Lanes 
+   
+ A – Bike symbol B – Word legends 
+Section 9E.02 Bicycle Lanes at Intersection Approaches 
+[Revise Section 9E.02 Paragraph 11 and insert Paragraph 11A as shown below:] 
+Guidance: 
+11  The longitudinal line defining a bicycle lane should be dotted solid on approaches to intersections (see 
+Figure 9E-2(OR) where turning vehicles are permitted to cross the path of through-moving bicycles (see 
+Figure 9D-7). 
+Support: 
+11A ORS 811.435 and ORS 811.440 do not allow drivers to merge into a bicycle lane in preparation for a 
+turn. 
+72 inches
+72 inches
+72 inches
+Normal 8-inch-wide
+white line
+Normal white line
+72 inches
+72 inches
+44 inches
+64 inches
+44 inches
+
+=== PDF PAGE 43 ===
+Oregon Supplement to the MUTCD – 11th Edition Part 9. Bicycle Facilities 
+January 2026 Page 36 
+[Replace Figure 9E-2 in its entirety with Figure 9E-2(OR):] 
+Figure 9E-2(OR). Example of Pavement Markings for Bicycle Lanes  
+on a Two-Way Street 
+ 
+8-inch-wide solid
+white line
+Dotted lines
+across intersection 
+are optional
+50 to 200 feet of dotted
+line if bus stop
+8-inch-wide
+solid white line
+Normal width solid 
+white line (optional)
+R7-107
+R7-1
+Dotted lines across 
+intersection and green-
+colored pavement
+are optional
+
+=== PDF PAGE 44 ===
+Oregon Supplement to the MUTCD – 11th Edition Part 9. Bicycle Facilities 
+January 2026 Page 37 
+Section 9E.07 Separated Bicycle Lanes 
+[Revise Section 9E.07 Paragraph 11 as shown below:] 
+Standard: 
+11  Directional arrows shall be used in conjunction with the bicycle lane symbol or word marking in 
+separated bicycle lanes, placed downstream from the symbol or word marking. 
+Section 9E.12 Bicycle Box 
+[Revise Section 9E.12 Paragraph 01 as shown below:] 
+Option: 
+01  A bicycle box (see Figure 9E-12(OR)) may be used to increase the visibility of stopped bicycles on the 
+approach to a signalized intersection during the portion of the signal cycle when a red signal indication is 
+being displayed to motor vehicles in the approach lane(s) that is behind the box. 
+[Revise Section 9E.12 Paragraphs 05 and 06 as shown below:] 
+Guidance: 
+05  A bicycle box should not be contiguous with a crosswalk. A stop line on the downstream end of the 
+bicycle box should be used to mark the location where bicycles are required to stop. 
+Standard: 
+06  If used, the distance from the upstream edge of the bicycle box that is nearest to the stop line for 
+motor vehicles to the downstream edge of the bicycle box that is nearest the crosswalk or intersection 
+shall be at least 10 feet. At least one bicycle symbol marking (see Figure 9E-12(OR)) shall be used in 
+the bicycle box.
+
+=== PDF PAGE 45 ===
+Oregon Supplement to the MUTCD – 11th Edition Part 9. Bicycle Facilities 
+January 2026 Page 38 
+[Replace Figure 9E-12 in its entirety with Figure 9E-12(OR):] 
+Figure 9E-12(OR). Examples of Intersection Bicycle Boxes (Sheet 1 of 2) 
+ 
+ A – Bicycle box across one lane 
+         
+Intersectionstop line
+Legend
+10 ft MIN.
+Green-colored 
+pavement (optional)
+R3-7R
+R4-4
+Advance stop line
+Direction of travel
+
+=== PDF PAGE 46 ===
+Oregon Supplement to the MUTCD – 11th Edition Part 9. Bicycle Facilities 
+January 2026 Page 39 
+Figure 9E-12(OR). Examples of Intersection Bicycle Boxes (Sheet 2 of 2) 
+ 
+ B – Bicycle box across multiple lanes 
+10 ft MIN.
+R10-6a
+R10-11*
+*Place in accordance with Section 2B.60
+Pedestrian signal with 
+countdown display
+(requiredwhere bicycle box
+crosses more than one lane)
+R3-7bP
+Note: Signs and pedestrian signals 
+shown for northbound 
+approach only
+Green-colored 
+pavement (optional)
+Legend
+Direction of travel
+
+=== PDF PAGE 47 ===
+Oregon Supplement to the MUTCD – 11th Edition Part 9. Bicycle Facilities 
+January 2026 Page 40 
+Section 9E.13 Shared-Use Paths 
+[Insert Paragraph 05A as shown below after Section 9E.13 Paragraph 05:] 
+Support: 
+05A Installing crosswalk markings alone might not result in positive safety outcomes. Section 3C.02 
+recommends adding other traffic control devices and other measures designed to improve pedestrian safety 
+to a marked crosswalk under certain conditions to reduce the potential for a pedestrian-involved crash. 
+Section 9B.01 has information about assigning priority where shared-use paths cross roadways. 
+Section 9E.15 Bicycle Detector Symbol 
+[Insert Paragraph 03A as shown below after Section 9E.15 Paragraph 03:] 
+Option: 
+03A Smaller size bicycle detector symbol and word markings than shown in Figure 9E-16 may be used. 
+Section 9E.17 Raised Devices 
+[Revise Section 9E.17 Paragraph 08 as shown below:] 
+Guidance: 
+08  If used in buffer separated bicycle lanes, channelizing devices should be placed in the buffer space and 
+at least 1 foot from the longitudinal bicycle lane pavement marking.

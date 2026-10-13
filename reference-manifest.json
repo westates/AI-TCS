@@ -1,0 +1,258 @@
+{
+  "schema_version": 1,
+  "source_count": 22,
+  "total_source_bytes": 64756308,
+  "page_numbering": "Physical PDF pages, counting the first page as 1; printed numbers may differ.",
+  "documents": [
+    {
+      "source": "Rulebooks/11thcovtoc.pdf",
+      "text": "Text/11thcovtoc.txt",
+      "title": "MUTCD cover and table of contents",
+      "stored_edition_or_date": "December 2023",
+      "metadata_title": "MUTCD 11th Edition - TOC",
+      "pages": 36,
+      "bytes": 550169,
+      "sha256": "63d4c23aa044849b7a9eea0bbab7ef93c345769980c4cb5e0fa811dc666af88f",
+      "pages_with_little_or_no_extracted_text": []
+    },
+    {
+      "source": "Rulebooks/appendices.pdf",
+      "text": "Text/appendices.txt",
+      "title": "MUTCD appendices",
+      "stored_edition_or_date": "December 2023",
+      "metadata_title": "MUTCD 11th Edition - Appendices",
+      "pages": 6,
+      "bytes": 220131,
+      "sha256": "eefcf02751d4fe89da33414564ea333185450ad69dc92a63e97740d74173ac6c",
+      "pages_with_little_or_no_extracted_text": [
+        2,
+        6
+      ]
+    },
+    {
+      "source": "Rulebooks/Chapter2a.pdf",
+      "text": "Text/Chapter2a.txt",
+      "title": "MUTCD Chapter 2A - General signs",
+      "stored_edition_or_date": "December 2023",
+      "metadata_title": "MUTCD 2023 Chapter 2A",
+      "pages": 26,
+      "bytes": 689166,
+      "sha256": "b82bde8ab21ab3f3e19d7ce9c0c04d1aae2979feb223d9bf3f14e5cd4192ba56",
+      "pages_with_little_or_no_extracted_text": []
+    },
+    {
+      "source": "Rulebooks/Chapter2b.pdf",
+      "text": "Text/Chapter2b.txt",
+      "title": "MUTCD Chapter 2B - Regulatory signs, barricades, and gates",
+      "stored_edition_or_date": "December 2023",
+      "metadata_title": "MUTCD 2023 Chapter 2B",
+      "pages": 80,
+      "bytes": 2080054,
+      "sha256": "730bc0a4b6f7a52916646d0b8fa6f3b50d0652d30de24cfed1a0f56fb986bebd",
+      "pages_with_little_or_no_extracted_text": []
+    },
+    {
+      "source": "Rulebooks/Chapter2c.pdf",
+      "text": "Text/Chapter2c.txt",
+      "title": "MUTCD Chapter 2C - Warning signs and object markers",
+      "stored_edition_or_date": "December 2023",
+      "metadata_title": "MUTCD 11th Edition - Chapter 2C",
+      "pages": 58,
+      "bytes": 1182572,
+      "sha256": "15b74597cefe027cecfdf0cf1f8dfede45481600c930dc29d96b2ea72c308947",
+      "pages_with_little_or_no_extracted_text": []
+    },
+    {
+      "source": "Rulebooks/Chapter2d.pdf",
+      "text": "Text/Chapter2d.txt",
+      "title": "MUTCD Chapter 2D - Guide signs, conventional roads",
+      "stored_edition_or_date": "December 2023",
+      "metadata_title": "MUTCD 11th Edition - Chapter 2D",
+      "pages": 84,
+      "bytes": 3414375,
+      "sha256": "dd1cb0323eb1706324ed07066afd06a06ada7e8f2460a892b2994437fdc357c1",
+      "pages_with_little_or_no_extracted_text": []
+    },
+    {
+      "source": "Rulebooks/Chapter2e.pdf",
+      "text": "Text/Chapter2e.txt",
+      "title": "MUTCD Chapter 2E - Guide signs, freeways and expressways",
+      "stored_edition_or_date": "December 2023",
+      "metadata_title": "MUTCD 2023 Chapter 2E",
+      "pages": 92,
+      "bytes": 2580519,
+      "sha256": "a30b5c897c8794c4761ba555ffc9fb34518e6529ca29948aa232d865705aeb53",
+      "pages_with_little_or_no_extracted_text": []
+    },
+    {
+      "source": "Rulebooks/Chapter2f.pdf",
+      "text": "Text/Chapter2f.txt",
+      "title": "MUTCD Chapter 2F - Toll road signs",
+      "stored_edition_or_date": "December 2023",
+      "metadata_title": "MUTCD 11th Edition - Chapter 2F",
+      "pages": 26,
+      "bytes": 1069754,
+      "sha256": "b27451f1bff4034401dd47556524f182878210d875a40542b196306a8c4dfabb",
+      "pages_with_little_or_no_extracted_text": []
+    },
+    {
+      "source": "Rulebooks/Chapter2g.pdf",
+      "text": "Text/Chapter2g.txt",
+      "title": "MUTCD Chapter 2G - Preferential and managed lane signs",
+      "stored_edition_or_date": "December 2023",
+      "metadata_title": "MUTCD 11th Edition - Chapter 2G",
+      "pages": 54,
+      "bytes": 2139905,
+      "sha256": "3bc195abecb2093124cb74e742a65f450e84e02a19a5ad553f4ec350d7ec429b",
+      "pages_with_little_or_no_extracted_text": []
+    },
+    {
+      "source": "Rulebooks/Chapter2hthu2n.pdf",
+      "text": "Text/Chapter2hthu2n.txt",
+      "title": "MUTCD Chapters 2H through 2N",
+      "stored_edition_or_date": "December 2023",
+      "metadata_title": "MUTCD 2023 Chapters 2H-2N",
+      "pages": 78,
+      "bytes": 2098547,
+      "sha256": "ab6779b0218a5b6498daa40d8e816bd30d1fa600f2e021a2395a6e081428c62e",
+      "pages_with_little_or_no_extracted_text": []
+    },
+    {
+      "source": "Rulebooks/MUTCD11-OR-Supplement.pdf",
+      "text": "Text/MUTCD11-OR-Supplement.txt",
+      "title": "Oregon Supplement to the MUTCD, 11th Edition",
+      "stored_edition_or_date": "January 2026",
+      "metadata_title": "Oregon Supplement to the MUTCD 11th Edition",
+      "pages": 47,
+      "bytes": 1710755,
+      "sha256": "b432b18e6949fb708389a7ecef98a44228ea5473b94142b96e5196b2287486a8",
+      "pages_with_little_or_no_extracted_text": []
+    },
+    {
+      "source": "Rulebooks/mutcd11thedition.pdf",
+      "text": "Text/mutcd11thedition.txt",
+      "title": "MUTCD, 11th Edition - full volume",
+      "stored_edition_or_date": "December 2023",
+      "metadata_title": "MUTCD 11th Edition - 2023",
+      "pages": 1161,
+      "bytes": 24096072,
+      "sha256": "a3fd296d8fe2e4747085b4fb758da9794e089c74cf7144416927aed36b40684b",
+      "pages_with_little_or_no_extracted_text": [
+        2,
+        4,
+        1156,
+        1160
+      ]
+    },
+    {
+      "source": "Rulebooks/OTTCH-2026.pdf",
+      "text": "Text/OTTCH-2026.txt",
+      "title": "Oregon Temporary Traffic Control Handbook - operations of three days or less",
+      "stored_edition_or_date": "2026 edition",
+      "metadata_title": "2026 Edition, Oregon Temporary Traffic Control Handbook",
+      "pages": 174,
+      "bytes": 5756317,
+      "sha256": "35c2a641b587c6df4f0c61509a1f9b11db89f41fa066242ce11f651d56f7689f",
+      "pages_with_little_or_no_extracted_text": []
+    },
+    {
+      "source": "Rulebooks/part1.pdf",
+      "text": "Text/part1.txt",
+      "title": "MUTCD Part 1 - General",
+      "stored_edition_or_date": "December 2023",
+      "metadata_title": "MUTCD 11th Edition - Part 1",
+      "pages": 38,
+      "bytes": 985379,
+      "sha256": "8b6c0a55dd3647abb64cac13fee0b99472758cd0b0a8375321958d7f8c9bfd06",
+      "pages_with_little_or_no_extracted_text": []
+    },
+    {
+      "source": "Rulebooks/part3.pdf",
+      "text": "Text/part3.txt",
+      "title": "MUTCD Part 3 - Markings",
+      "stored_edition_or_date": "December 2023",
+      "metadata_title": "MUTCD 2023 Part 3",
+      "pages": 106,
+      "bytes": 2333557,
+      "sha256": "cb0d7892d2eb9cb89cd56515f1a853f4391565d7dd31c7a7c88c429d77279e15",
+      "pages_with_little_or_no_extracted_text": []
+    },
+    {
+      "source": "Rulebooks/part4.pdf",
+      "text": "Text/part4.txt",
+      "title": "MUTCD Part 4 - Highway traffic signals",
+      "stored_edition_or_date": "December 2023",
+      "metadata_title": "MUTCD 11th Edition - Part 4",
+      "pages": 116,
+      "bytes": 1726232,
+      "sha256": "3422038fc883491285bd32213fa40173f87b6667b2defed0a535411a0a0141d0",
+      "pages_with_little_or_no_extracted_text": []
+    },
+    {
+      "source": "Rulebooks/part5.pdf",
+      "text": "Text/part5.txt",
+      "title": "MUTCD Part 5 - Traffic control device considerations for automated vehicles",
+      "stored_edition_or_date": "December 2023",
+      "metadata_title": "MUTCD 11th Edition - Part 5",
+      "pages": 6,
+      "bytes": 477790,
+      "sha256": "3110a75403c54656d14631ee0748f4b13f5bca4db9408507c7a4b031fcaece4f",
+      "pages_with_little_or_no_extracted_text": []
+    },
+    {
+      "source": "Rulebooks/part6.pdf",
+      "text": "Text/part6.txt",
+      "title": "MUTCD Part 6 - Temporary traffic control",
+      "stored_edition_or_date": "December 2023",
+      "metadata_title": "MUTCD 11th Edition - Part 6",
+      "pages": 204,
+      "bytes": 4418350,
+      "sha256": "d8ead2489932fbb742dbbe6213ed6ccb9720e84fd1f21206956469ce4772c9b0",
+      "pages_with_little_or_no_extracted_text": []
+    },
+    {
+      "source": "Rulebooks/part7.pdf",
+      "text": "Text/part7.txt",
+      "title": "MUTCD Part 7 - Traffic control for school areas",
+      "stored_edition_or_date": "December 2023",
+      "metadata_title": "MUTCD 11th Edition - Part 7",
+      "pages": 18,
+      "bytes": 820468,
+      "sha256": "fc2a0a0379af592fc59e8f40992292915518f0bc371d6d788e5983ec0b57d838",
+      "pages_with_little_or_no_extracted_text": []
+    },
+    {
+      "source": "Rulebooks/part8.pdf",
+      "text": "Text/part8.txt",
+      "title": "MUTCD Part 8 - Railroad and light rail transit grade crossings",
+      "stored_edition_or_date": "December 2023",
+      "metadata_title": "MUTCD 11th Edition - Part 8",
+      "pages": 60,
+      "bytes": 1551306,
+      "sha256": "11872bfabcd0499063de7ba96f02c8a2fe0689e42cca44b13bd2f6a392e50a2c",
+      "pages_with_little_or_no_extracted_text": []
+    },
+    {
+      "source": "Rulebooks/part9.pdf",
+      "text": "Text/part9.txt",
+      "title": "MUTCD Part 9 - Bicycle facilities",
+      "stored_edition_or_date": "December 2023",
+      "metadata_title": "MUTCD 11th Edition - Part 9",
+      "pages": 68,
+      "bytes": 2214193,
+      "sha256": "e291bad2b8025f810b7d70129b83db4f65d4babd8844e6c06ee5b3545328d7f5",
+      "pages_with_little_or_no_extracted_text": []
+    },
+    {
+      "source": "Rulebooks/TPAR Manual (1-28-26).pdf",
+      "text": "Text/TPAR Manual (1-28-26).txt",
+      "title": "Eugene Temporary Pedestrian Accessible Routes Manual: Access for People with Disabilities",
+      "stored_edition_or_date": "January 28, 2026",
+      "metadata_title": "DRFT - Temporary Pedestrian Accessible Routes (TPAR) Manual: Access for People with Disabilities",
+      "pages": 30,
+      "bytes": 2640697,
+      "sha256": "75d64ac93cfbc691aebe75f320d2cd917bb541da6ffc4e25729508c4b00131ce",
+      "pages_with_little_or_no_extracted_text": []
+    }
+  ]
+}

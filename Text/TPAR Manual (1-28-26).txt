@@ -1,0 +1,970 @@
+Title: Eugene Temporary Pedestrian Accessible Routes Manual: Access for People with Disabilities
+Stored edition/date: January 28, 2026
+Source: Rulebooks/TPAR Manual (1-28-26).pdf
+Generated text for search. Verify requirements, diagrams, tables, symbols, and quotes in the original PDF.
+Page markers identify physical PDF pages; printed document page numbers may differ.
+
+=== PDF PAGE 1 ===
+Temporary Pedestrian Accessible 
+Routes (TPAR) Manual:
+Access for People with Disabilities
+January 28, 2026
+
+=== PDF PAGE 2 ===
+TEMPORARY PEDESTRIAN ACCESSIBLE 
+ROUTES (TPAR) MANUAL: 
+Access for People with Disabilities 
+ 
+ 
+ 
+ 
+ 
+Acknowledgements: 
+This manual was drafted in collaboration with SZS Engineering, Inc. and Linda Myers, Certified Orientation 
+Mobility Specialist, with input from Eugene area community members who have lived experiences with 
+different disabilities. 
+Their combined experience and knowledge helped to refine best practices for temporary pedestrian accessible 
+routes to ensure access through work zones for those in our community who may experience a disability at 
+any point in their lives. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1/28/2026
+
+=== PDF PAGE 3 ===
+1 
+Table of Contents 
+I. Overview/Background.................................................................................................................................. 2 
+TPAR Considerations for People with Disabilities.................................................................................... 3 
+Consideration for People with Vision Disabilities.................................................................................... 3 
+Consideration for People with Mobility Disabilities........................................................................................ 6 
+II. Sources ......................................................................................................................................................... 6 
+III. Defined Terms .............................................................................................................................................. 8 
+IV. TPAR Design Elements & Considerations................................................................................................... 13 
+Devices and Features ............................................................................................................................. 13 
+Clear Width ............................................................................................................................................ 13 
+Signs and Surface Delineators................................................................................................................ 13 
+Walking Surfaces.................................................................................................................................... 13 
+Temporary Curb Ramps ......................................................................................................................... 14 
+Crosswalks in TPAR ................................................................................................................................ 14 
+Lighting................................................................................................................................................... 15 
+Detectable Edging .................................................................................................................................. 15 
+Audible Messaging................................................................................................................................. 16 
+Physical Separation ................................................................................................................................ 17 
+V. TPAR Implementation ................................................................................................................................ 18 
+1. TPAR within Work Zone ..................................................................................................................... 18 
+Protection for Pedestrians at Work Zones Adjacent to the Path of Travel or Sidewalk ............................... 18 
+Pedestrian Protection – Work Zone Safety ................................................................................................... 19 
+Pedestrian and Motorist Lines of Sight ......................................................................................................... 19 
+End of Shift – Obstacles ................................................................................................................................. 19 
+2. TPAR Diverted Around a Work Zone.................................................................................................. 19 
+3. TPAR Detour/Diversion ...................................................................................................................... 20 
+Design and Install Pedestrian Detour Signing and Channelization Appropriately ................................ 23 
+TPAR Inspection & Maintenance ........................................................................................................... 23 
+VI. Delegation of Authority & Eugene City Code – Enforcement .................................................................... 24 
+VII. Reference List: TPAR Requirements and Sources ...................................................................................... 24 
+Appendix: List of Figures....................................................................................................................................... 28
+
+=== PDF PAGE 4 ===
+2 
+I. Overview/Background 
+The Americans with Disabilities Act (ADA) is a federal law that prohibits discrimination against people with 
+disabilities in everyday activities.1 The ADA contains specific requirements for state and local governments to 
+ensure equal access for people with disabilities. The law requires accommodation for pedestrians with 
+disabilities not only in completed, publicly accessible facilities but also during times of construction or 
+improvement. Another federal law, the Architectural Barriers Act (ABA), requires public agencies to provide 
+access to facilities designed, built, altered, or leased with Federal funds.
+2 Sidewalks are considered a facility 
+under federal law.   
+When temporary traffic control (TTC) zones affect the movement of pedestrians, adequate pedestrian access 
+and walkways shall be provided (Manual on Uniform Traffic Control Devices (MUTCD) (11th Edition, Dec. 
+2023) Section 6C.02 Pedestrian Considerations, Standard 03). All pedestrians, including the disabled, should be 
+provided with safe, accessible, and reasonably convenient paths that replicate, as nearly as practical, the most 
+desirable characteristics of the existing pedestrian circulation facilities when TTC zones are planned and TPAR 
+is set up (MUTCD Section 6C.02 Pedestrian Considerations, Guidance 07). 
+This document, Temporary Pedestrian Accessible Routes (TPAR) Manual: Access for People with Disabilities 
+is designed for project managers, designers, contractors, utility companies, tree trimming or painting 
+companies, field inspectors, and anyone else involved with the design or implementation of TPAR. The intent 
+of this manual is to describe TPAR requirements, methods, and best practices to ensure accessibility for 
+people with disabilities in work zones, including those who are blind or have low vision.   
+For purposes here, the definition of work in public rights-of-way refers to alterations of existing elements, new 
+construction, maintenance, repairs, or similar that cause interruptions in the continuous unobstructed path 
+connecting accessible elements and spaces. Work zones are areas of a roadway or travel way where 
+construction, maintenance, or utility work activities take place. A work zone extends between the first warning 
+sign to the last TTC device. 
+The needs of pedestrians with disabilities must be addressed in temporary traffic control plans (TCPs) in 
+accordance with the ADA. Designers, planners, and contractors creating and implementing TCPs have two 
+primary considerations: design for the built environment and communications.   
+1. Design for the built environment: physical devices, measurable components such as distances and 
+slopes and their established design parameters, and maintaining access (i.e. TPAR connectivity) to 
+businesses, transit, and other nearby destinations. The TPAR must provide a safe detour for all users 
+around the work zone. Worksite personnel must ensure that the TPAR is adequately maintained and 
+pedestrian walkways are kept clear throughout the duration of a project. 
+2. Communications: Rules issued by the US Department of Justice under the ADA require local 
+governments to ensure that communications with individuals with disabilities are as effective as 
+communications with others.
+3 Examples of effective communication include, advising pedestrians of 
+potentially hazardous conditions in sidewalks and paths of travel associated with work zones before 
+1 ADA, 42 U.S.C. § 12101 et seq.   
+2 ABA, 42 U.S.C. § 4151 et seq. 
+3 28 C.F.R. § 35.160 - General
+
+=== PDF PAGE 5 ===
+3 
+they encounter them, and the use of appropriate auxiliary aids onsite for people with disabilities. TPAR 
+information for capital improvement projects provided on the City’s website shall be provided in a 
+format following Web Content Accessibility Guidelines (WCAG) 2.1 Level A and Level AA Success 
+Criteria.4   
+TPAR Considerations for People with Disabilities 
+Engineers, architects, contractors, and building officials must keep in mind pedestrians with disabilities, 
+including those with vision and mobility disabilities. According to 2024 data from the Centers for Disease 
+Control and Prevention (CDC), more than 1 in 4 adults in the US (28.7%) have some type of disability.5 Around 
+30% of the US population does not drive.6 People with disabilities live, work, and navigate throughout our 
+communities every day. Many disabilities can impact how a pedestrian may be able to navigate a work zone 
+safely.   
+Some people may have more than one disability, which may or may not be apparent to others. For example, a 
+person who is blind or has low vision may also have a hearing impairment, mobility impairment, or cognitive 
+impairment. Since people with different disabilities have different needs, circumstances on a work site often 
+must rely on judgment. 
+Consideration for People with Vision Disabilities 
+According to CDC data from 2024, 5.5% of adults in the US have a vision disability, described by the CDC as 
+blindness or serious difficulty seeing.7 People who are blind or have low vision are not a homogeneous group. 
+There is significant variation across individuals regarding their degree and type of vision loss.   
+Safety Concerns for People with Vision Disabilities 
+A small percentage of people with vision disabilities have guide dogs that lead them away from or around 
+hazards.8 Those without guide dogs must find their own way, whether or not there is a safe route for them to 
+use. When a person with a vision disability finds a safe path, they may use it exclusively to remain safe while 
+traveling, which makes changes caused by work zones a safety risk. When work zones do not provide TPAR, 
+pedestrians may travel into the roadway which can be dangerous for any pedestrian, especially those with 
+vision disabilities.   
+• Common TPAR wayfinding challenges and safety issues for pedestrians with vision disabilities are: 
+• Difficulty recognizing that they have come upon a work zone.   
+• Not knowing if there is a safe alternative way to proceed when a sidewalk is closed. 
+4 28 C.F.R. § 35.200 - Requirements for web and mobile accessibility 
+5 CDC, Disability Impacts All of Us Infographic (July 15, 2024) 
+6 Federal Highway Administration (FHWA), Licensed Drivers, Vehicle Registrations, and Resident Population (In Millions) , Highway 
+Statistics 2023 (March 11, 2025) 
+7 CDC, Disability Impacts All of Us Infographic (July 15, 2024) 
+8 Neoma Stark, How many blind people use dogs? A Complete Guide, KeepingDog (February 1, 2023)
+
+=== PDF PAGE 6 ===
+4 
+• Difficulty determining if they should attempt to cross the street and continue by walking on the other 
+side or if they should retrace their steps and use another route. 
+• Challenges accessing businesses within the sidewalk closure area.   
+• Trouble finding a bus stop if it has been relocated.   
+• Not knowing if detectable edging might have sharp or abrasive edges that could injure someone feeling 
+their way along by touch. 
+• Not knowing if a white cane can help them find a safe way to continue through the detour. 
+• Difficulty discerning what type of traffic control is at an unfamiliar intersection.   
+• Challenges getting back on their familiar route.   
+• Not knowing if there might be someone nearby who could offer them assistance. 
+Consider this scenario: A person who is blind is on their way to a job interview. They encounter caution tape 
+and cones within their normal path of travel. They ponder where to go to get to their transit stop. Unsure 
+where to go and finding no one to ask, they return home and use rideshare to assure they do not miss their 
+interview. They arrive only a few minutes late for their interview but are very stressed.   
+Consider the same scenario but with a different experience: Instead of floundering on caution tape and 
+cones, the TPAR is communicated via audible messages. The TPAR also uses a channelizing barrier that a white 
+cane can detect to move them into and out of the street, with compliant temporary ramps and detectable 
+warning surfaces. The person can continue to their transit stop in plenty of time to catch the bus, arriving at 
+their interview relaxed and a few minutes early, as planned.   
+In both cases the individual did make their interview, but the first scenario does not communicate that a work 
+zone is ahead nor provide a channelized pedestrian access route to allow them to move around the hazardous 
+work zone. Without the ability to see a detour at a work zone, pedestrians with vision disabilities have 
+significant disadvantages in comparison to the general public.   
+Design Considerations for People with Vision Disabilities 
+In designing accessible routes, it is important to consider the needs of pedestrians with vision disabilities to 
+ensure everyone is kept as safe as possible. People with vision disabilities need a physical environment that is 
+free of sharp edges, uneven grading, obstructions that can cause injury, and vertical or horizontal changes in 
+the walking surface that can cause tripping or falling hazards.   
+Those with vision disabilities may not be able to recognize where the street begins when curbs are flush with 
+the sidewalks. Detectable warning surfaces are tactile material installed before the flush curb in a blended 
+transition or curb ramp. Detectable warning surfaces consist of truncated domes in a square or radial grid 
+pattern (Public Right-of-Way Accessibility Guidelines (PROWAG) R305.1 General). At the boundary between 
+the sidewalk and vehicle travel lane, detectable warning surfaces can be felt by a person navigating with a 
+white cane or underfoot by a person with a dog guide.
+
+=== PDF PAGE 7 ===
+5 
+Some people with low vision may depend on colors as a warning. Detectable warning surfaces shall visually 
+contrast with the walking surface (light-on-dark or dark-on-light) (PROWAG R305.1.3 Contrast) so that people 
+with low vision can recognize the detectable warning before they enter the street. 
+Communicating a TPAR for People with Vision Disabilities 
+A city can ensure accessibility by improving communication at the site of the work zone. Visual signs are a 
+typical part of TPAR but are not usable by pedestrians with vision disabilities. Blocked routes, alternate 
+crossings, and sign and signal information should be communicated to pedestrians with vision disabilities by 
+providing audible information, tactile and/or vibrating surface devices, accessible pedestrian signal walk 
+indications, and barriers and channelizing devices with continuous detectable edging (PROWAG R303.2 Signs, 
+R307 Pedestrian Push Buttons and Passive Pedestrian Detection, R308 Accessible Pedestrian Signal Walk 
+Indications, R303.6 Detectable Edging of Channelizing Devices, and MUTCD Section 6C.03 Accessibility 
+Considerations, Guidance 06).   
+Audible information devices (AIDs) described in the PROWAG indicates that signage that directs pedestrians to 
+and from detours shall be provided via proximity-actuated (vs. button push) audible signs or other non-visual 
+format so that it is accessible to people with vision disabilities (PROWAG R303.2 Signs). Commercially available 
+AIDs can provide the required audible signs using infrared or other motion sensors. Since AIDs are known to 
+be susceptible to theft, the devices should be secured to the traffic control device (barricade, channelization, 
+fence, etc.).   
+The audible message can be customized so the devices can be re-used for multiple construction projects over 
+time. The audible message should be brief, to the point, spoken clearly, and recorded in a quiet area. 
+Incorporate directions that do not require visual recognition. Message example: “Attention eastbound 
+Washington Avenue pedestrians. You are at the southeast corner of Washington and Church. Road 
+construction on Washington from Church St to Huron for 7 blocks. Protected pedestrian path open on this 
+side. Work will continue until August 20.”
+9 
+AIDs may not be needed if detectable channelizing devices make an alternate route of travel evident to 
+pedestrians with vision disabilities (MUTCD Section 6C.03 Accessibility Considerations, Standard 04, Support 
+05). 
+Where field personnel are available to guide pedestrians through work zones (see MUTCD Section 6C.02 
+Pedestrian Considerations, Option 04-05), best practices for assisting a person with a vision disability are as 
+follows: 
+• Ask if they want to follow you or take your arm (sighted guide). 
+• To guide, if they do not take hold of your elbow, with the back of your hand touch their lower arm and 
+say, “Do you want my arm?” 
+• If they have a dog, guide from the opposite side from the dog. 
+• Walk at their pace. 
+9 Minnesota Department of Transportation, Temporary Pedestrian Access Routes (TPAR) Audible Message Content (January 2018)
+
+=== PDF PAGE 8 ===
+6 
+• If they are following you, keep up the conversation so they know where you are. 
+Consideration for People with Mobility Disabilities 
+According to CDC data from 2024, 12.2% of adults in the US have a mobility disability, described by the CDC as 
+serious difficulty walking or climbing stairs.10 People with mobility disabilities may use canes, crutches, 
+walkers, wheelchairs, scooters, or no assistive devices at all. Respiratory, circulatory, and neurological medical 
+conditions can cause mobility disabilities that most people will not notice. Field personnel in work zones 
+should not rely on visual cues that someone might have a disability, and should expect to always maintain 
+TPAR, as legally required. 
+Safety Concerns for People with Mobility Disabilities 
+Common safety issues for pedestrians with mobility disabilities are: 
+• Temporary ramps that are too steep, wobble, or do not have an adequate side guard rail to grasp. 
+• Pathways and turns or turning spaces that are too narrow for wheelchairs, motorized scooters, or 
+those who travel with service animals. 
+• Ramps or pathways that lack adequate edge protection along the outer edges, which during wet 
+weather can allow mud or debris to flow over the surface of the ramp or path, creating slippery 
+conditions that can be very dangerous to those who use crutches, canes, or walkers. 
+Design Considerations for People with Mobility Disabilities 
+To ensure accessibility at work zones, it is important to consider the needs of pedestrians with mobility 
+disabilities. A person with a mobility disability may have difficulty using steps or vertical curbs, or navigating 
+narrow pathways, turnarounds, severe slopes, or changes in elevation. These components of the work zone 
+can prevent travel, create tripping hazards, or cause individuals to fall out of their mobility assistance devices. 
+Even small elevation changes are sometimes difficult for people with mobility disabilities to traverse, which is 
+one reason that installing ramps is essential to maintaining access. 
+People using wheelchairs or other mobility devices rely on flush curbs or transitions to safely continue travel. 
+For a pedestrian with a mobility disability, a vertical barrier acts like a wheel stop does for a vehicle. 
+Detectable warning surfaces that consist of truncated domes in a square or radial grid pattern allow wheeled 
+devices to travel in the flat troughs between them. For accessible TPAR design, the needs of pedestrians with 
+mobility disabilities must be considered.   
+II. Sources 
+Laws, regulations, and understanding of how people with disabilities access the built environment have 
+changed over the last few decades. Guidance that applies to TPAR has also changed. This manual relies 
+primarily on the most recent statutes, regulations, and research on usability for pedestrians with disabilities. 
+(See cover for date of publication.) This manual also uses guidance from state and federal agencies, as well as 
+organizations that perform research on pedestrian use of public rights-of-way for people with disabilities. This 
+manual is meant to supplement the document Pedestrian Accommodation in Work Zones: A Field Guide 
+10 CDC, Disability Impacts All of Us Infographic (July 15, 2024)
+
+=== PDF PAGE 9 ===
+7 
+developed by the American Road & Transportation Builders Association Work Zone Safety Consortium. (Terms 
+such as “guidelines,” “practices,” “requirements,” and “standards” are used throughout this manual. The use 
+of these or similar terms is not intended to create a cause of action.) 
+Please Note: Many of the documents referencing TPAR available online reflect requirements from outdated 
+versions of federal sources such as older versions of the Manual on Uniform Traffic Control Devices (MUTCD), 
+the 1994 Americans with Disabilities Act Accessibility Guidelines (ADAAG), and the 2005 Public Right-of-Way 
+Accessibility Guidelines (PROWAG) from the US Access Board. Do not rely on outdated sources that have 
+changed substantially since they were originally developed.   
+The Settlement Agreement resulting from Moore et al. v. City of Eugene et al.11 has established applicable 
+sources to govern this manual: 
+• Manual on Uniform Traffic Control Devices (MUTCD): The currently adopted federal document setting 
+minimum standards, supplemented with guidance, options, and support for traffic control across the 
+US. The Federal Highway Administration has required all state highways and public roadways under the 
+jurisdiction of cities and counties to conform to the MUTCD.12 Oregon adopted the MUTCD and an 
+Oregon Supplement.13 Pursuant to Eugene Code 7.007, the City Engineer adopted the use of the 
+MUTCD in both the City of Eugene Public Improvements Design Standards (PIDS) Manual and the City 
+of Eugene Standard Specifications for Construction (COE SSC). MUTCD Section 6 is the chapter most 
+applicable to TPAR. The 11th Edition of the MUTCD (December 2023) is the most current version 
+published by the Federal Highway Administration and is the version cited throughout this manual.   
+• Public Right-of-Way Accessibility Guidelines (PROWAG): Federal accessibility guidelines that provide 
+scoping and technical standards for ensuring that sidewalks, crosswalks, shared-use paths, pedestrian 
+signals, on-street parking, and other pedestrian facilities located in the public right-of-way (space that 
+forms the boundary of a site or that lies within a site bounded by a property line), are readily accessible 
+to and usable by pedestrians with disabilities (see PROWAG R101.1 Purpose). The PROWAG was issued 
+by the US Access Board on August 8, 2023.14 These guidelines have been adopted by the Department 
+of Transportation and will be mandatory after they are adopted by the Department of Justice under 
+Title II of the ADA. In lieu of an adopted enforceable federal standard, the City of Eugene has adopted 
+the guidelines administratively in PIDS Manual and the Standard Specifications for Construction. Note: 
+where the PROWAG guidelines are more stringent than the MUTCD Standards, the PROWAG shall 
+control. (See the PIDS Sections 3.05 Temporary Traffic Control Plan and 4.13 Traffic Control Plan.)  
+• Oregon Department of Transportation (ODOT) Highway Design Manual: Identifies standards for a 
+variety of roadway design features on State Highways. 
+11 No. 6:21-cv-01293-MTK, (D. Or. filed Aug. 31, 2021) 
+12 23 C.F.R. § 655.603(a) – National MUTCD 
+13 O.R.S. § 810.200 - Uniform standards for traffic control devices; O.A.R. 734-020-0005 - Traffic Control Devices 
+14 36 C.F.R. Part 1190
+
+=== PDF PAGE 10 ===
+8 
+• Oregon Standard Drawings: Adopted as the standards by ODOT for the State Highway System. The City 
+of Eugene has administratively adopted an amended version of most of the State standard drawings 
+(City of Eugene Standard Drawings (COE SD) TM-Series). Standard Drawing TM844 addresses TPAR. 
+• City of Eugene Public Improvements Design Standards (PIDS) Manual: Provides design standards for 
+projects within City limits, specifically:   
+• 3.05 Temporary Traffic Control 
+• 4.13 Traffic Control 
+• City of Eugene City Code: Spells out how public right-of-way projects and improvements should be 
+carried out. It includes references to the City’s adopted PIDS. Chapter 7 of City Code addresses public 
+improvements, specifically:   
+• 7.085 Standard Specifications, Drawings and Design Standards   
+• 7.090 Temporary Work   
+• 7.307 Public Way Construction and Use - Repair 
+III. Defined Terms   
+The terms used in this document have been drawn from the applicable sources. Where necessary, additional 
+commentary has been added for improved clarity. 
+Accessible: A pedestrian facility or element in the public right-of-way that complies with the PROWAG 
+(PROWAG R104.3 Defined Terms: A). Commentary: The combination of various elements in a facility, site, or 
+area, or portion thereof which allows access, circulation, and the full use of the facilities by people with 
+disabilities. 
+Audible Information Device (AID, Audible Signage): An audible information device (AID) is a device designed 
+to provide information to pedestrians with vision disabilities. It delivers audible messages equivalent to visual 
+signage for tasks such as notifying pedestrians about sidewalk closures and detours. Commentary: the 
+PROWAG refers to AIDs as proximity actuated audible signs (PROWAG R303.2 Signs). 
+Blended Transition: Blended transitions are raised pedestrian street crossings, depressed corners, or 
+similar connections between pedestrian access routes at the level of the sidewalk and the level of the 
+pedestrian street crossing that have a grade of 5% or less. Blended transitions are suitable for a range of 
+sidewalk conditions. 
+Cross Slope: The slope that is perpendicular to the direction of pedestrian travel (PROWAG R104.3 Defined 
+Terms: C). Commentary: The slope of a walking surface is regulated in the two directions of travel (see running 
+slope). Cross slope makes forward travel for people using wheelchairs increasingly difficult. As the cross slope 
+increases, travel becomes increasingly difficult as a wheelchair or walker is pulled in the direction of the slope, 
+risking tipping over and potential injury to themselves or others in their path. Cross slope impedes travel on 
+uphill and downhill slopes by pedestrians who use wheeled mobility devices, braces, lower limb prostheses, 
+crutches, or walkers, as well as pedestrians who have gait, balance, or stamina impairments.
+
+=== PDF PAGE 11 ===
+9 
+Curb Line: A line at the face of the curb that marks the transition between the curb and the gutter or street 
+(PROWAG R104.3 Defined Terms: C). 
+Curb Ramp: A sloped connection that is cut through or built up to a curb. Curb ramps may be perpendicular or 
+parallel to the curb or to the street they serve or be a combination thereof (PROWAG R104.3 Defined Terms: 
+C). Perpendicular curb ramps have a running slope that is perpendicular to the curb or the street it serves, and 
+parallel curb ramps have a running slope parallel to the curb or street it serves. (See PROWAG R304 Curb 
+Ramps and Blended Transitions for additional requirements.) 
+Detectable: Having a continuous edge within 6 inches of the surface so that pedestrians with vision disabilities 
+can sense its presence and receive usable guidance information (MUTCD Section 1C.02 Definitions of Words 
+and Phrases Used in this Manual, No. 58).   
+Detectable Warning Surface: A standardized surface feature built in or applied to pedestrian circulation paths 
+and other pedestrian facilities to warn of hazards (PROWAG R104.3 Defined Terms: D). Detectable warning 
+surfaces mark boundaries between pedestrian and vehicular ways where there is no raised curb. Detectable 
+warning surfaces are installed where curb ramps are constructed at the junction of pedestrian access routes 
+and the roadway or shoulder, for marked and unmarked crosswalks. Detectable warning surfaces contrast 
+visually with adjacent walking surfaces, either light-on-dark or dark-on-light (MUTCD Section 3C.01 General 
+Crosswalk Markings, Support 04). Detectable warning surfaces shall consist of truncated domes in a square or 
+radial grid pattern (PROWAG R305.1 General). Commentary: Truncated domes mark the junction where 
+pedestrians travel into and out of the roadway. 
+Disability: With respect to an individual— a physical or mental impairment that substantially limits one or 
+more major life activities of such individual; a record of such an impairment; or being regarded as having such 
+an impairment.15 Commentary: In the context of the ADA, disability is a legal definition and may vary from 
+other medical or social justice-related definitions.   
+Diversion or Detour: Alternate pedestrian path of travel around a work zone. (See Temporary Pedestrian 
+Accessible Route.) 
+Guide Dog (Dog Guide): A guide dog responds to the handler's verbal and/or hand commands (e.g., right, left, 
+forward, hop up, etc.). Guide dogs do not make decisions about the route or decide when to cross a street— 
+these decisions are made by the person they are serving.   
+Mobility Disability (Physical Disability): Mobility impairment refers to the inability of a person to use one or 
+more of their extremities, or a lack of strength to walk, grasp, or lift objects. A wheelchair, crutches, or a 
+walker may be utilized to aid in mobility. Mobility impairment may be caused by a number of factors, such as 
+disease, an accident, or a congenital disorder and may be the result from neuro-muscular and orthopedic 
+impairments.
+16 
+ODOT TTCH: Oregon Department of Transportation Temporary Traffic Control Handbook for Operations of 
+Three Days or Less (2026 Edition)   
+Orientation and Mobility Specialist (COMS, Certified Orientation and Mobility Specialist): A Certified 
+Orientation and Mobility Specialists (COMS) is a trained expert who works with individuals who are blind, have 
+15 ADA, 42 U.S.C. § 12102 – Definition of disability   
+16 Mobility and Physical Disabilities, Accessibility.com (quoting The ACCESS Project)
+
+=== PDF PAGE 12 ===
+10 
+low vision, or who have visual limitations. A COMS might evaluate and teach adaptive techniques such as the 
+use of a white cane, guide dog, and/or smartphone apps that help with wayfinding. Through mobility training, 
+people who are blind or have low vision develop skills such as route planning, landmark identification, street 
+crossing, and navigating public transit stops and stations. 
+Pedestrian: A person on foot, travelling by wheelchair or other mobility device, on skates, or on a skateboard. 
+(PROWAG R104.3 Defined Terms: P). Commentary: An individual who moves in walking areas with or without 
+the use of walking assistive devices such as crutches, leg braces, wheelchairs, white cane, service animal, etc.   
+Pedestrian Access Route (PAR): An accessible, continuous, and unobstructed path of travel for use by 
+pedestrians with disabilities within a pedestrian circulation path (PROWAG R104.3 Defined Terms: P). 
+Commentary: The PAR is an accessible route in public rights-of-way, or a continuous unobstructed accessible 
+route connecting accessible elements and spaces that can be negotiated by people with a disability using a 
+wheelchair, and that are also safe for and usable by people with other disabilities such as blindness or low 
+vision. PARs may include parking access aisles, curb ramps, crosswalks at vehicular ways, walks, ramps, and 
+lifts with the intent to remain usable for people with disabilities during construction, repair, or maintenance 
+work.   
+Pedestrian Channelizing Device (PCD): Pedestrian channelizing devices may be used to close a PAR or indicate 
+a suitable path for pedestrian travel around or through the work zone. Devices used to channelize pedestrians 
+shall be detectable to users of white canes and visible to pedestrians with vision disabilities. When used as a 
+sidewalk closure, the device shall cover the entire width of the sidewalk (MUTCD Section 6K.02 Pedestrian 
+Channelizing Devices, Standard 06-07). The MUTCD allows several other devices such as longitudinal 
+channelizing devices and temporary traffic barriers to be used as PCDs under certain conditions. Additionally, 
+the PROWAG and MUTCD provide information on the requirements related to detectable edging of 
+channelizing devices. 
+Pedestrian Circulation Path: A prepared exterior or interior surface provided for pedestrian use in the public 
+right-of-way (PROWAG R104.3 Defined Terms: P). Commentary: A PAR is a subset of the pedestrian circulation 
+route. In an existing facility constructed prior to the effective date of the ADA, the circulation route may not 
+be accessible in its entirety, but the PAR must be accessible. 
+Pedestrian Facility: A structure, route, or space for pedestrian circulation or use located in the public right-of-
+way (PROWAG R104.3 Defined Terms: P). 
+Pedestrian Hybrid Beacon (PHB): A special type of hybrid beacon used to warn and control traffic at an 
+unsignalized location to assist pedestrians in crossing a street at a marked crosswalk (PROWAG R104.3 Defined 
+Terms: P). PHBs are intentionally placed in a dark mode (no indications displayed) between periods of 
+operation and, when operated, the device displays both steady and flashing traffic control signal indications 
+(MUTCD Section 1C.02 Definitions of Words and Phrases Used in this Manual, No. 105). Commentary: A traffic 
+control device can be used to increase awareness for motorists of pedestrian crossings at uncontrolled marked 
+crosswalk locations. A PHB is only activated by pedestrians when needed. 
+Positive Protection: Measures taken between work zone field personnel and motorized traffic which contain 
+and/or redirect vehicles and meet applicable crashworthiness criteria.17 Positive Protection may include a 
+highly mobile barrier, movable and temporary steel barrier, movable concrete barrier, traditional concrete 
+17 See 23 C.F.R. § 630.1104
+
+=== PDF PAGE 13 ===
+11 
+barrier, associated cushions, and other strategies to avoid traffic crashes in work zones, including full road 
+closure. Mobile and other movable barriers enable field crews to quickly create work zones that are physically 
+separated from moving traffic and quickly removed from the roadway once the work is completed.   
+Rectangular Rapid Flashing Beacon (RRFB): RRFBs consist of two, rectangular-shaped yellow indications, each 
+with a light-emitting diode (LED)-array-based light source (MUTCD Section 4L.02 Design of Rectangular Rapid 
+Flashing Beacons, Standard 01). RRFBs flash with an alternating high frequency when activated to enhance 
+conspicuity of pedestrians at the crossing to drivers. 
+Running Slope: The slope that is parallel to the direction of pedestrian travel (PROWAG R104.3 Defined Terms: 
+R). Running slope is referred to as longitudinal or running slope. The slope percentage determines whether a 
+walking surface is a sloped walkway or a ramp regulated under the ADA and the PROWAG. Running slope in a 
+pedestrian facility is further defined by location in reference to the roadway. 
+Temporary: Structures or elements intended for use for a limited amount of time during work. State and 
+federal accessibility standards apply to temporary and permanent structures (see 2010 ADA Standards for 
+Accessible Design (ADAS) 201.3 Temporary and Permanent Structures).   
+Temporary Curb Ramp (Temporary Ramp): See requirements for Curb Ramps. 
+Temporary Pedestrian Accessible Route (TPAR): (See PAR for definition of pedestrian access route.) A TPAR is 
+path of travel, marked by signing, delineation, and traffic control devices, used by pedestrians to navigate 
+through or around work zones. The TPAR is included as part of the Traffic Control Plan. A TPAR is required 
+when a PAR is closed due to construction, maintenance operations, or other similar conditions. 
+Commentary: The PROWAG and MUTCD refer to TPAR as alternate pedestrian access routes. Both the 
+PROWAG and MUTCD require TPAR to be as accessible as the existing PAR. However, the PROWAG permits an 
+alternate means of providing access for pedestrians with disabilities, if establishing or maintaining a TPAR is 
+technically infeasible (PROWAG R204.1 Alternate Pedestrian Access Route). The MUTCD provides options such 
+as construction staff assisting pedestrians through a work zone or providing shuttle service around a work 
+zone (MUTCD Section 6C.02 Pedestrian Considerations, Option 04-05). The PROWAG includes more specific 
+requirements for alternate pedestrian access routes, describing the required level of detail on sidewalk 
+closures and rerouting. In many cases, compliance with the requirements for TPAR will not entail any change 
+from baseline conditions because they closely align with existing MUTCD provisions on temporary traffic 
+control. Additional PROWAG and MUTCD guidance includes the following elements: 
+• Signs to warn pedestrians of an alternate route in advance to indicate location of detour (MUTCD 
+Section 6I.02 Detour Signs and Plaques and PROWAG 303.2 Signs). 
+• A smooth, continuous alternate pedestrian route, including curb ramps (or an absence of curbs) 
+(MUTCD Section 6C.02 Pedestrian Considerations, Guidance 11(C)) and PROWAG R303.5 Curb Ramp or 
+Blended Transition). 
+• Accessible pedestrian signals, AIDs, or detectable barriers and channelizing devices to communicate 
+signal information to travelers with low vision (see MUTCD Chapter 4K Accessible Pedestrian Signals 
+and Detectors, PROWAG R303.7 Pedestrian Signal Heads, R303.2 Signs, and R303.6 Detectable Edging 
+of Channelizing Devices).
+
+=== PDF PAGE 14 ===
+12 
+• Continuous detectable edging with a bottom surface no higher than 2 inches above the ground and a 
+top surface no lower than 32 inches above the ground (MUTCD Section 6K.02 Pedestrian Channelizing 
+Devices, Standard 08 and PROWAG R303.6 Detectable Edging of Channelizing Devices). 
+Temporary Pedestrian Accessible Route Plan (TPAR Plan): A written and drawn plan within the TCP that 
+identifies requirements for providing safe, effective, and accessible routes for pedestrians through or around 
+the work zone including TPAR details, advance public notification, and construction and maintenance 
+responsibilities (COE SSC, Section 00110.20). 
+Temporary Traffic Control Plan (TCP): A TCP describes measures to be used for facilitating road users through 
+a work zone or an incident area. TCPs play a vital role in facilitating road user flow when a work zone, incident, 
+or other event temporarily disrupts normal road user flow. Important auxiliary provisions that cannot 
+conveniently be specified on project plans can easily be incorporated into Special Provisions within the TCP. 
+Provisions for effective continuity of accessible circulation paths for pedestrians through the work zone should 
+be incorporated into the written TCP (MUTCD Section 6B.01, Guidance 11). Note: the MUTCD refers to 
+temporary traffic control plans as TTC plans.   
+Traffic Control Devices: Signs, signals, markings, and other devices placed on, over, or adjacent to a roadway 
+used to regulate, warn, or guide public traffic by authority of a public body or official having jurisdiction. 
+Commentary: Both temporary and permanent structures are required to comply with federal accessibility 
+requirements (ADAS 201.3 Temporary and Permanent Structures). Many options exist on the market to 
+provide temporary walkways, ramps, and barricades separating pedestrians from traffic. 
+Vision Disability: Blindness is the inability to see or a lack of vision that cannot be corrected with eyeglasses, 
+contact lenses, eye drops, other medical therapy, or surgery. According to the Social Security Administration, a 
+person who is legally blind has a central visual acuity of 20/200 or less in the better eye with the best 
+correction, as measured on a Snellen vision chart, or a visual field of 20 degrees or less.18 Approximately 85% 
+of people with visual impairments have some usable vision and may consider themselves low vision or 
+partially sighted rather than blind.19 Common types of visual impairments include reduced acuity (inability to 
+see details), visual field deficit (reduced total area of what a person can see), contrast sensitivity (ability to 
+detect subtle gradations between the object and its background), night blindness (reduced vision in dim 
+illumination), and glare sensitivity (reduction of visual acuity in bright lighting or other adverse consequences 
+of environmental illumination). 
+18 20 C.F.R. § 404.1581 Meaning of blindness as defined in the law 
+19 Cleveland Clinic, Legally Blind (Sept. 2, 2024)
+
+=== PDF PAGE 15 ===
+13 
+White Cane (Long Cane): A white cane is the most prevalent mobility 
+device used by people who are blind or have low vision. A white cane 
+provides protection and information and detects obstacles or drop-offs in 
+the person’s path at ground level. A white cane does not detect obstacles 
+overhanging the path such as branches or signs that protrude horizontally 
+into the pedestrian path. A white cane also identifies the person as an 
+individual who is blind or has low vision to others.   
+Work Zone: Areas of a roadway or travel way where construction, 
+maintenance, or utility work activities take place. A work zone extends 
+between the first warning sign to the last TTC device.   
+IV. TPAR Design Elements & Considerations 
+Devices and Features 
+TPAR devices and features that are required to provide an accessible alternate pedestrian pathway are similar 
+to those required to guide traffic through a work zone. As with drivers, pedestrians must be warned in 
+advance of changing conditions and advised of their options for alternate routes with information that they 
+can access. When they approach the work area, pedestrians with disabilities need guidance on any changes 
+from the normal route, such as shifts in the walkway alignment, in the same way that drivers must be warned 
+about lane changes. As with vehicles, when pedestrians traverse the work zone, the route must be clearly 
+marked, have a suitable surface, and have protection from other traffic and work operations, including drop-
+offs. When pedestrians exit the work zone, they need to be guided back to their original route.   
+Clear Width 
+Pedestrians with wheelchairs and other mobility assistance devices need TPAR to be at least 60 inches wide so 
+that two people can pass by each other if they meet head on. If a 60-inch continuous path cannot be created 
+over the entire length, a minimum 48-inch walkway with a 60-by-60-inch passing space every 200 feet 
+maximum shall be provided (see MUTCD Section 6C.02 Pedestrian Considerations, Guidance 11(D)).   
+Signs and Surface Delineators 
+Printed signs and vertical surface delineators (cones or tubular markers) are not usable by pedestrians with 
+vision disabilities. Therefore, blocked routes, alternate crossings, and sign and signal information should be 
+communicated to pedestrians with vision disabilities by providing audible information devices, tactile and/or 
+vibrating surface devices, and barriers and channelizing devices that are detectable to pedestrians traveling 
+with the aid of a white cane or who have vision disabilities (MUTCD Section 6C.03 Accessibility Considerations, 
+Guidance 06). Technology today allows the provision of information to pedestrians with vision disabilities that 
+is equivalent to visual signing for notification of sidewalk closures in a speech message provided by an AID. 
+Devices that provide speech messages in response to passive pedestrian actuation are the most desirable, as 
+they do not require actuation.   
+Walking Surfaces 
+Surface conditions are required to be firm, stable, and slip-resistant (ADAS 302.1 General and PROWAG R302.6 
+Surfaces). In practical terms, paths of travel should be clear of debris and adequately drained to prevent the 
+accumulation of trash or mud that can cause a tripping or slipping hazard. The TPAR should be able to support 
+a wheelchair under all conditions (dry, rain, snow, etc.). The TPAR shall be checked daily for any standing 
+water or mud to ensure debris such as sand, dirt, or leaves are not creating a slippery walking surface. 
+Source: lhblind.org
+
+=== PDF PAGE 16 ===
+14 
+The surface of the pedestrian path should be as clear and as flat as possible. Many pedestrians with mobility 
+disabilities cannot navigate steps or uneven surfaces without becoming disoriented or losing their balance.   
+The 2010 ADAS require horizontal joints or other openings to be no more than 1⁄2 inch wide or flush to prevent 
+tripping and to reduce the possibility of canes or small wheels getting trapped in gaps or open spaces. If 
+drainage grate openings are located within the pedestrian route, openings must be perpendicular to the 
+pathway and must be narrow enough that a sphere greater than 1⁄2 inch in diameter will not pass through (see 
+ADAS 302.3 Openings and 403.2 Floor or Ground Surface). Sidewalk ramp surfaces shall have a running slope 
+not to exceed 8.3% and cross slope not to exceed 2.1% (PROWAG R304.2.1 Running Slope and R304.2.2 Cross 
+Slope). Gutter surfaces in the roadway can be problematic when the alternate route is required to be at least 
+as accessible as the existing path that was previously available to pedestrians. Engineering judgment must be 
+used.   
+Requirements for detectable edging are dependent on the location. Where a channelizing device is used, 
+detectable edging shall be located along the walking surface with openings no higher than 2 inches from the 
+ground with a top edge at least 32 inches high and free of sharp edges (see PROWAG R303.6.1 Top and 
+R303.6.2 Bottom). Detectable pedestrian edging should be orange, white, or yellow and should match the 
+color of the adjacent channelizing or traffic control devices, when present.   
+Temporary Curb Ramps 
+When pedestrians are diverted to a TPAR in the roadway and a vertical curb separates the roadway from the 
+sidewalk, temporary curb ramps must be provided to enable pedestrians to safely travel around the work 
+zone. Temporary curb ramps can be constructed out of a variety of materials including asphalt, wood, and 
+synthetic pre-made systems. Each ramp must be regularly maintained to ensure usability for the life of the 
+ramp’s use.   
+Temporary curb ramps shall be the full width of the temporary route, with a recommended 60-inch width and 
+a minimum width of 48 inches (see PROWAG R303.4 Continuous Clear Width).   
+The PROWAG limits running slope (slope in the direction of travel) for all ramps at 1:12 or 8.3% and cross slope 
+(slope perpendicular to travel) at 1:48 or 2.1% (PROWAG R304.2.1 Running Slope and R304.2.2 Cross Slope). 
+Detectable warning surfaces shall be provided in accordance with the PROWAG (PROWAG R304.1 General and 
+R205 Detectable Warning Surfaces). If the temporary ramp provides access to an enclosed safety corridor for 
+passage along the construction zone, accessible truncated domes must be provided at the location where a 
+street crossing occurs. If the temporary ramps do not lead to an area where pedestrians may conjoin the 
+vehicular traffic lane or bike lane, detectable warnings may not be required. These situations are typical where 
+construction is taking place in smaller patch-work areas along sidewalks and pedestrians are diverted into the 
+roadway in a completely protected area with two curb ramps providing access.   
+Some agencies have established specific requirements for the design of temporary curb ramps to 
+accommodate pedestrians with mobility disabilities. Many private vendors now manufacture and sell 
+temporary curb ramps for use at vertical curbs and ramps for use to access entrances at businesses. These 
+elements are durable and adjustable to conditions on-site. These elements can be moved from construction 
+site to site and may be more cost effective than other options.   
+Crosswalks in TPAR 
+Cross slopes at crosswalks are regulated based on intersection control or where it is located, such as at 
+roundabouts or midblock crossings. The cross slope at crosswalks that are not controlled or that are controlled
+
+=== PDF PAGE 17 ===
+15 
+by a traffic signal, pedestrian hybrid beacon, RRFB, or similar pedestrian signal can match the running slope of 
+the roadway up to a maximum of 5% (PROWAG R302.5.2.2 Crosswalk at Uncontrolled Approach and 
+R302.5.2.3 Crosswalk with Traffic Control Signal or Pedestrian Hybrid Beacon). The cross slope at intersections 
+that are controlled by a stop or yield sign cannot exceed 2.1% (PROWAG R302.5.2.1 Crosswalk with Yield or 
+Stop Control Devices). The cross slope at intersections at midblock crosswalks or roundabouts cannot exceed 
+the existing slope of the roadway (PROWAG R302.5.2.4 Midblock and Roundabout Crosswalks). Temporary 
+crosswalk markings should be installed, when appropriate, to identify where pedestrians will be crossing the 
+street and to improve yielding compliance by other road users. 
+Lighting   
+Lighting is important to all pedestrians, not only enabling them to see signs and instructions clearly but also to 
+make pedestrians visible to automotive traffic, bike traffic, and other pedestrians. Consideration should be 
+given to avoid trees and other objects that would cast a shadow and obstruct the light output. A TPAR is 
+required to remain day and night with existing barriers and signs in place to protect and inform pedestrians 
+(see MUTCD Section 2A.21 Retroreflection and Illumination, Standard 03-05 and Section 6F.01 General 
+Characteristics of TTC Zone Signs, Standard 11-12). 
+Detectable Edging 
+A pedestrian with a vision disability experiences physical barriers daily. Their safety depends on knowing their 
+intended path of travel and not diverting from it, unless they are forced to do so. Signs, drums, cones, caution 
+tape, bollards, or typical type I, II, or III barricades themselves do not provide sufficient guidance to 
+pedestrians with vision disabilities.   
+Where a channelizing device is used to delineate an TPAR, continuous detectable edging shall be provided 
+throughout the length of the route. Where pedestrians or vehicles turn or cross, gaps in the detectable edging 
+are permitted (PROWAG R303.6 Detectable Edging of Channelizing Devices). These barricades must be at least 
+32 inches high and have a bottom edge that is continuous, no higher than 2 inches from the walking surface, 
+and detectable by a white cane (see PROWAG Figure R303.6 below).    
+Joints between channelizing devices should be closed and flush to prevent canes or small wheels from being 
+trapped, to reduce the risk of tripping, and should be free of sharp or rough edges or objects that may harm 
+hands, arms, or clothing. Furthermore, when used as a sidewalk closure mechanism, channelizing devices 
+must run the entire width of the sidewalk; gaps in coverage could lead to people with vision disabilities 
+accidentally crossing into the work zone, where they may be exposed to trips, falls, and severe injuries. The 
+PROWAG Figure R303.6 Detectable edging of channelizing devices
+
+=== PDF PAGE 18 ===
+16 
+PROWAG requires (and the MUTCD supports) that no part of the device used may extend more than 4 inches 
+into the pedestrian pathway because it could cause a wheelchair or motorized cart to get stuck or overturn, 
+could trip a person with a vision disability, or could cause someone using a cane to become disoriented (see 
+PROWAG R402.2 Protrusion Limits and MUTCD Section 6C.02 Pedestrian Considerations, Guidance 11(G)). 
+Audible Messaging 
+Signs identifying TPAR shall be provided in advance of decision 
+points. Proximity actuated audible signs or other non-visual means 
+of conveying the information that identifies the TPAR shall also be 
+provided (PROWAG R303.2 Signs).   
+Commercially available AIDs can provide the required audible signs 
+using proximity actuated infrared or other motion sensors. The 
+audible message can be customized so the devices can be reused for 
+multiple construction projects over time. Since AIDs are known to be 
+susceptible to theft, the devices should be secured to the traffic 
+control device (barricade, channelization, fence, etc.). 
+There are a variety of audible devices available that provide 
+information based on proximity sensors (see photo). Appropriate 
+device choice may be site-specific and should be included in the 
+approved TPAR plan.    
+One of the considerations for the work zone is the setup and recording of the audible message. This is site-
+specific to ensure proper messaging for pedestrians. The audible message should be brief, to the point, spoken 
+clearly, and recorded in a quiet area. Potentially, record a message in more than one language. 
+Specific message elements to include: 
+• Brief announcement to get pedestrian’s attention. 
+• Current location of the pedestrian. 
+• Directions that do not require vision. 
+• Use of cardinal directions. 
+• Description of the TPAR in the number of blocks to be traversed or landmarks to be passed. 
+• Description of conditions where the TPAR will traverse major garage or retail driveways, as these can 
+be mistaken as intersections by people with vision disabilities. 
+• Duration (if accurate duration is known). 
+Source: SZS Engineering, Inc.
+
+=== PDF PAGE 19 ===
+17 
+Message example: “Attention southbound Lyndale Avenue pedestrians. You are at the southwest corner of 
+Lyndale and Franklin. West sidewalk closed from 22nd to 26th street for 4 blocks. Cross Lyndale for more 
+bypassing messages. This detour will continue until Friday, May 16.” 20 
+Currently, there is no specific federal guidance specifying what information should be included in the speech 
+messages for AIDs.  A project funded by the Federal Highway Administration is underway to develop model 
+audible information messages to be used when sidewalk closures are required in work zones. 
+Physical Separation 
+TPAR plans should be designed to minimize conflicts between vehicular and pedestrian movements. 
+Consideration should be made to separate pedestrian movements from worksite activity and vehicular traffic. 
+Unless an acceptable route that does not involve crossing the roadway can be provided, pedestrians should be 
+appropriately directed with advance signing that encourages them to cross to the opposite side of the 
+roadway. In areas with high vehicular traffic volumes, signs should be placed at intersections (rather than 
+midblock locations) so that pedestrians are not confronted with midblock worksites that could induce them to 
+attempt to navigate through the worksite or make a midblock crossing (MUTCD Section 6C.02 Pedestrian 
+Considerations, Guidance 09). Where possible, positive physical separation should be used when pedestrians 
+are moved off the sidewalk and TPAR walkways are provided in parking areas, bicycle lanes, or the roadway. 
+The positive separation between vehicles and pedestrians that will be used should be specified in the written 
+TPAR plan.   
+Safe TPAR walkways can use different materials based on traffic volume. Higher-volume or higher-speed 
+roadways will require more intensive, crash rated, separation devices such as water filled longitudinal barriers, 
+concrete barriers, etc., whereas longitudinal channelizing devices may be acceptable on lower speed and 
+volume roadways. In any case, drums, bollards, caution tape and cones, or similar will not provide adequate 
+separation or continuous cane detectable warning for pedestrians traveling through a work zone adjacent to a 
+roadway, drive lane, or parking area (see PROWAG R303.6 Detectable Edging of Channelizing Devices). 
+Color contrast is important for pedestrians with low vision and should be considered when selecting 
+channelizing devices. Orange is the standard color per the MUTCD for TTC as it provides adequate color 
+20 Minnesota Department of Transportation, Temporary Pedestrian Access Routes (TPAR) Audible Message Content (January 2018) 
+Source: www.concretesafetysystems.com
+
+=== PDF PAGE 20 ===
+18 
+contrast and seldom results in glare (MUTCD Section 1D.05 Color Code, Standard 02(I)). Do not use black to 
+color any base on a device. Black can blend in with the asphalt walkway surface and could cause a tripping 
+hazard. The bottom and top surfaces of devices should have retroreflective material or delineation on the side 
+exposed to traffic for improved nighttime visibility.   
+V. TPAR Implementation   
+Each work zone is different and will require TPAR that suits the needs of the conditions on site. Common 
+issues that adversely affect pedestrians at or near work zones can be found in each type of work zone, 
+although the solution may vary depending on several factors. When considering the type of TPAR to best suit 
+the needs of pedestrians, three common sets of conditions exist where pedestrian modifications at work 
+zones are necessary: 
+1. TPAR within Work Zone   
+2. TPAR Diverted Around a Work Zone 
+3. TPAR Detour/Diversion   
+Pedestrian travel must be a consideration when planning the staging of construction phases to ensure that 
+pedestrians can travel safely, especially where more than one parallel path of travel exists. Both paths of 
+travel should not be closed at the same time, unless an incident such as an emergency exists. With proper 
+planning, at least one path of travel serving the public should remain open. 
+1. TPAR within Work Zone 
+One common situation that pedestrians encounter is work zones 
+located in the roadway or on property immediately adjacent to a path 
+of travel or sidewalk. Even where the actual path of travel or sidewalk 
+is not being worked on or is not formally closed, work zones adjacent 
+to the pedestrian path can present hazards and impediments to 
+pedestrians. When doing this type of work, field personnel must take 
+measures to safeguard pedestrians. Caution tape and wooden stakes 
+are not cane detectable warnings that the blind or visually impaired 
+can recognize. 
+Protection for Pedestrians at Work Zones Adjacent to the Path 
+of Travel or Sidewalk 
+In low volume, low speed residential areas it may be possible for the 
+sidewalk to remain open adjacent to a work zone. If there is not 48 inches of clearance adjacent to the work 
+zone, detectable and continuous edge protection must be provided to allow pedestrians with a vision 
+disability to safely navigate work zones.   Even with sufficient clearance, pedestrians should be protected from 
+excavations and unexpected vertical drop-offs using proper protection and channelization devices. Continuous 
+longitudinal channelizers and properly constructed pedestrian barricades can safely separate pedestrians from 
+work zones and provide positive path guidance for the blind and visually impaired. 
+Source: SZS Engineering, Inc.
+
+=== PDF PAGE 21 ===
+19 
+Pedestrian Protection – Work Zone Safety 
+If hazards exist within the work zone that require safety precautions for workers (trenches, fall protection, 
+hard hats, crane operations, etc.), protection must be provided to ensure pedestrians do not accidentally or 
+purposely walk into and across the work zone.   
+Continuous concrete barriers, plastic longitudinal channelizing devices, 
+wooden enclosed walkways, or cyclone fencing with a continuous, smooth 
+edge provided at the bottom can be used for this purpose. A cane detectable 
+warning is required along these elements that does not create a hazard for 
+other pedestrians. For instance, the bottom edge of the fence serves the blind 
+as a cane detectable guide for safe travel, but when the footing protrudes into 
+the walking surface, it becomes a trip hazard for other pedestrians (see photo). 
+These types of protrusions and abrupt changes must be avoided to ensure all 
+pedestrians have a safe and usable walking surface to travel along.   
+Pedestrian and Motorist Lines of Sight 
+Devices used to prohibit pedestrian access or provide protection from hazards can impede pedestrians and 
+motorists from seeing each other or important traffic control devices if not designed or installed properly. 
+Similarly, the improper positioning of TTC devices for motorists may also impede their ability to see 
+pedestrians and should be moved. The location of work vehicles, equipment, and materials should be 
+monitored to maintain maximum visibility.   
+End of Shift – Obstacles 
+At all times, the pedestrian path of travel or TPAR must be left clear of mud or dirt, poles, temporary signs, 
+hoses, barriers, construction materials, vehicles, equipment, and other protruding objects such as tree limbs 
+that are part of the work zone and could present hazards to any pedestrian. The TPAR should be reviewed as 
+part of this process daily to ensure it remains in place and functions as intended. 
+Objects with leading edges more than 27 inches and less than 80 inches above the walking surface shall not 
+protrude horizontally more than 4 inches into pedestrian circulation paths. Handrails shall be permitted to 
+protrude 4 1⁄2 inches maximum (PROWAG R402.2 Protrusion Limits). Where objects are mounted on a single 
+post or pylon and the objects are more than 27 inches and less than 80 inches above the walking surface, the 
+objects shall not protrude into the pedestrian circulation path more than 4 inches measured horizontally from 
+the post or pylon or more than 4 inches measured horizontally from the outside edge of the base where the 
+base height is 2 1⁄2 inches minimum (PROWAG R402.3.1 Objects Mounted on Single Post or Pylon). 
+Head room minimum height must also be maintained throughout the TPAR. Where the TPAR uses a canopied 
+walkway to protect pedestrians from falling debris or signs are installed within the pedestrian path, the 
+MUTCD states that such a walkway or sign should provide at least 7 feet (84 inches) of headroom (see MUTCD 
+Section 6F.02 Sign Placement, Standard 05-06), although the ADAS and the PROWAG require only 80 inches 
+(PROWAG R402.4 Vertical Clearance and ADAS 307.4 Vertical Clearance). 
+2. TPAR Diverted Around a Work Zone 
+Most work activities block a sidewalk or path for several days. Unless workers are stationed to assist 
+pedestrians around the blockage day and night, a temporary diversion path or TPAR will be required to allow 
+pedestrians to safely travel around the blockage.   
+Source: SZS Engineering, Inc.
+
+=== PDF PAGE 22 ===
+20 
+Speed determines the type of separation required at work zones. In areas where the speed is less than 30 
+mph, it is advisable to maintain longitudinal separation with continuous channelization devices, curbing, 
+railings, or barricades at a minimum. If the work zone is in an area of high crash frequency or if there is 
+concern over pedestrian exposure and risk, the use of positive protection should be considered. If the work 
+zone is in an area where the speed is 30 mph or more, positive protection shall be used. All positive protection 
+should be installed and used following the manufacturer’s specifications. Alternatively, consider detouring 
+pedestrians across the street or around the block to open, permanent pedestrian facilities, as needed. 
+3. TPAR Detour/Diversion   
+The third category of pedestrian modification requires establishing more complex detour routes for 
+pedestrians onto other walking surfaces that include sidewalks, paths of travel, or other options. In many 
+ways, these pedestrian detours are similar to the TPAR required at road closures. The PROWAG and the 
+MUTCD provide guidance on signs and barricades needed to detour pedestrians to alternate sidewalks or 
+paths. It is not only time consuming for pedestrians with disabilities to be forced to retrace their steps when 
+they reach a dead-end at a work zone, but it can also be unsafe. TPAR must be installed and maintained to 
+ensure that pedestrians are diverted far enough upstream to utilize the detour as part of typical travel. 
+See the two examples from the MUTCD (Figures 6P-28 and 6P-29) below, providing guidance on TPAR sign 
+placement and detour design:
+
+=== PDF PAGE 23 ===
+21 
+  
+MUTCD Figure 6P-28. Sidewalk Detour or Diversion (TA-28)
+
+=== PDF PAGE 24 ===
+22 
+  
+MUTCD Figure 6P-29. Crosswalk Closures and Pedestrian Detours (TA-29)
+
+=== PDF PAGE 25 ===
+23 
+Barricades and barriers used to close the sidewalk or path of travel must 
+be properly installed and maintained. The appropriate signs, markings, 
+channelization, and barriers should be specified in the TPAR plan, 
+including the identification of locations of necessary temporary ramps 
+and audible pedestrian warning devices to accommodate pedestrians 
+with mobility or vision disabilities.   
+Design and Install Pedestrian Detour Signing and 
+Channelization Appropriately   
+Pedestrian detours should be part of the written TPAR plan so that all 
+field personnel share the same information. Signing should be installed to 
+warn pedestrians of downstream sidewalk/path closures and to provide 
+information as to where the detour path is located. 
+Where possible, it is important to inform pedestrians about what businesses are still accessible along the 
+sidewalk or path. Signs should conform to the examples shown below, from MUTCD Figure 6G-1. Hand drawn 
+signs or messages are not sufficient for guiding pedestrians. 
+TPAR Inspection & Maintenance 
+When signs and channelization for the pedestrian detour route 
+are installed, the route should be checked on a regular basis to 
+make sure it will accommodate all users.   
+The TPAR route shall: 
+• Match the approved/permitted plan set. 
+• Be continuous with no gaps between crosswalks and 
+channelizers or barricades (exception: where pedestrians 
+or vehicles turn or cross). 
+• Not have equipment or parking in the walking path. 
+• Have protection from trenches and holes. 
+• Maintain visibility for users. 
+• Not have mud, dirt, or debris on walking surfaces (asphalt surfaces to be smooth). 
+MUTCD Figure 6G-1. Regulatory Signs and Plaques in Temporary Traffic Control Zones (image excerpt) 
+Source: SZS Engineering, Inc. 
+Source: SZS Engineering, Inc.
+
+=== PDF PAGE 26 ===
+24 
+• Not have signs, hoses, barriers, materials, vehicles, equipment, or protruding objects that prohibit 
+passage.   
+• Have compliant temporary ramps.   
+• Ensure that audible messages are updated accordingly as changes to the TPAR occur. 
+VI. Delegation of Authority & Eugene City Code – Enforcement 
+Chapter 7 of the Eugene City Code covers public improvements, including construction requirements for 
+individuals, contractors, and franchisees, and permits for use of public way. The following sections concern 
+delegation of authority to the City Engineer, permits, and enforcement: 
+• Eugene City Code 7.007 Rules and Regulations   
+• Eugene City Code 7.290 Public Way Construction and Use – Permit Required – Standard Specifications, 
+Drawings and Design Standards 
+• Eugene City Code 7.295 Public Way Construction and Use – Permit Application 
+• Eugene City Code 7.299 Public Way Construction and Use – Permit Suspension or Revocation 
+VII. Reference List: TPAR Requirements and Sources 
+The following is a list of TPAR requirements with citations to the current versions of the affiliated sources for 
+additional information and reference. This list is derived from Appendix B of the General Release and 
+Settlement Agreement in Moore, et al. v. City of Eugene, et al.21   
+Before any new sidewalk closure or detour is active, all necessary signs and other accessibility features shall 
+be in place.   
+• MUTCD: Section 1D.09 Standard 01 and Option 02 
+• PROWAG: R204 and R205   
+• ODOT TTCH: Section 1.5 
+• COE Manuals: PIDS 3.05; SSC 220.02 
+Provide a pedestrian access route during construction that is comparable to pre-construction conditions.   
+• MUTCD: Sections 6C.02 Standard 03, 6C.02 Guidance 07(C), and 6C.03 Standard 04   
+• PROWAG: R204 and R303   
+• ODOT TTCH: Sections 1.5 and 5.2   
+• COE SD: TM 844 
+21 No. 6:21-cv-01293-MTK, (D. Or. filed Aug. 31, 2021)
+
+=== PDF PAGE 27 ===
+25 
+• COE Manuals: PIDS 3.05; SSC 220.02   
+  
+Provide non-slip PAR of minimum 60-inches wide, no greater than 2% cross slope (48 inches with 
+documented design exception). 
+• PROWAG: R302   
+• ODOT TTCH: Section 5.2 
+• COE SD: TM 844 
+• COE Manuals: SSC 220.02 and 220.60   
+  
+Ensure ramps on detour route are comparable; include compliant temporary ramps that meet PAR 
+requirements and include detectable warnings.   
+• MUTCD: Sections 6C.02 Standard 03, 6C.02 Guidance 07(C), and 6C.03 Standard 04 
+• PROWAG: R303 and R407   
+• ODOT TTCH: Section 5.2 
+• COE SD: TM 844 
+• COE Manuals: PIDS 3.05; SSC 220.02, 228.13, and 228.43   
+  
+Provide PAR and pedestrian circulation path clear of obstructions and protruding objects. 
+• PROWAG: R204 and R210   
+• ODOT TTCH: Section 2.5 
+• COE Manuals: PIDS 2.03; SSC 220.02   
+  
+Provide cane detectable pedestrian channelization & barricades: At sidewalk closures, barricades must be full 
+width of sidewalk and extend to within 2 inches of the ground; must separate pedestrians from traffic; cannot 
+use cones or caution tape for barricades. 
+• MUTCD: Sections 6C.02 Guidance 28, 6C.03 Support 05, and 6M.04   
+• PROWAG: R204, R303, and R303.6 
+• ODOT TTCH: Section 5.2 
+• COE Manuals: PIDS 3.05; SSC 220.02 and 228.10   
+  
+Protective and cane detectable barriers around open trenches and drop-offs.   
+• PROWAG: R303.6 
+• COE SD: TM 844 and TM 820 
+• ODOT TTCH: Section 5.2
+
+=== PDF PAGE 28 ===
+26 
+• COE Manuals: SSC 220.02   
+  
+Ensure push buttons are operable and accessible; any temporary buttons must be accessible.   
+• MUTCD: Sections 6C.02 Standard 03, 6C.03 Standard 04, 4I.05, and 4K.01-05 
+• PROWAG: R204, R206.3, R303.7, and R403   
+• COE Manuals: PIDS 2.03 and 3.05; SSC 227.12 and 227.13   
+  
+Sidewalk closed warning signs in advance of closure to alert people of detour route.   
+• MUTCD: Section 6C.02 Guidance 02 
+• PROWAG: R303.2 
+• ODOT TTCH: Section 5.2 
+• COE SD: TM 844 
+• COE Manuals: PIDS 3.05; SSC 220.02   
+  
+Limit curb ramp work to one corner at a time, unless on-site detour routes are maintained.   
+• MUTCD: Section 6N.04 Standard 08-09 
+• COE SD: TM 844 
+• COE Manuals: PIDS 3.05; SSC 220.02   
+  
+Minimize out-of-direction travel and avoid detours/crossings.   
+• MUTCD: Section 6C.02 Support 06 and 6N.04 Guidance 07   
+• COE SD: TM 844 
+• COE Manuals: PIDS 3.05; SSC 220.02   
+  
+Provide audible information devices for pedestrians with vision disabilities. 
+• MUTCD: Section 6C.03 Guidance 06 and Support 07   
+• PROWAG: R303.2 
+• COE Manuals: PIDS 3.05 
+  
+All TTC devices shall be removed as soon as practical from sidewalks and sidewalk detour routes.   
+• MUTCD: Section 6A.03 Standard 04   
+• ODOT TTCH: Section 6.3 and Appendix C 
+• COE Manuals: PIDS 3.05
+
+=== PDF PAGE 29 ===
+27 
+  
+When transit stops are affected or relocated, pedestrian access to the affected or relocated transit stops 
+shall be provided.   
+• MUTCD: Sections 6C.02 Standard 03, 6C.03 Standard 04, and 6C.02 Guidance 11(B) 
+• PROWAG: R204.2 and R309.1.3.2 
+  
+Curb parking prohibited for at least 50 feet in advance of midblock crosswalks. 
+• MUTCD: Section 6P.01 (Notes for Figure 6P-29) Standard 2
+
+=== PDF PAGE 30 ===
+28 
+Appendix: List of Figures   
+PROWAG Figure R303.6 Detectable edging of channelizing devices 
+MUTCD Figure 6P-28. Sidewalk Detour or Diversion (TA-28)   
+MUTCD Figure 6P-29. Crosswalk Closures and Pedestrian Detours (TA-29)   
+MUTCD Figure 6G-1. Regulatory Signs and Plaques in Temporary Traffic Control Zones

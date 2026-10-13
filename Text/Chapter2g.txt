@@ -1,0 +1,2451 @@
+Title: MUTCD Chapter 2G - Preferential and managed lane signs
+Stored edition/date: December 2023
+Source: Rulebooks/Chapter2g.pdf
+Generated text for search. Verify requirements, diagrams, tables, symbols, and quotes in the original PDF.
+Page markers identify physical PDF pages; printed document page numbers may differ.
+
+=== PDF PAGE 1 ===
+December 2023
+    Sect. 2G.01
+CHAPTER 2G.  PREFERENTIAL AND MANAGED LANE SIGNS
+Chapter 2G Subchapter and Section Organization
+GENERAL
+  2G.01 Scope
+  2G.02 Sizes of Preferential and Managed Lane Signs
+REGULATORY SIGNS
+  2G.03 Regulatory Signs for Preferential Lanes – General
+  2G.04	 Vehicle	Occupancy	Definition	Signs	(R3-10	Series	and	R3-13	Series)
+  2G.05	 Preferential	Lane	Operation	Signs	(R3-11	Series	and	R3-14	Series)
+  2G.06	 Preferential	Lane	Advance	Signs	(R3-12,	R3-12e,	R3-12f,	R3-15,	R3-15a,	and	R3-15d)
+  2G.07	 	Preferential	Lane	Ends	Signs	(R3-12a,	R3-12b,	R3-12c,	R3-12d,	R3-12g,	R3-12h,	R3-15b,	
+R3-15c,	and	R3-15e)
+WARNING SIGNS AND PLAQUE
+  2G.08 Warning Signs on Median Barriers for Preferential Lanes
+  2G.09	 High-Occupancy	Vehicle	(HOV)	Plaque	(W16-11P)
+GUIDE SIGNS
+  2G.10 Preferential Lane Guide Signs – General
+  2G.11 Signing for Initial Entry Points to Preferential Lanes
+  2G.12 Signing for Intermediate Entry Points to Preferential Lanes
+  2G.13	 Signing	for	Egress	from	Preferential	Lanes	to	General-Purpose	Lanes
+  2G.14 Signing for Direct Entrances to Preferential Lanes from Another Highway
+  2G.15 Signing for Direct Exits from Preferential Lanes to Another Highway
+MANAGED LANE SIGNS, PLAQUES, AND LANE-USE CONTROL SIGNALS
+  2G.16 Signs for Managed Lanes – General
+  2G.17 Signs for Priced Managed Lanes – General
+  2G.18 Regulatory Signs for Priced Managed Lanes
+  2G.19 Guide Signs for Priced Managed Lanes
+  2G.20	 Signs	for	Part-Time	Travel	on	a	Shoulder	–	General
+  2G.21	 Regulatory	Signs	and	Plaques	for	Part-Time	Travel	on	a	Shoulder
+  2G.22	 Warning	Signs	for	Part-Time	Travel	on	a	Shoulder
+  2G.23	 Guide	Signs	for	Part-Time	Travel	on	a	Shoulder
+  2G.24	 Lane-Use	Control	Signals	for	Part-Time	Travel	on	a	Shoulder
+  2G.25	 Lane-Use	Control	Signals	for	Active	Lane	Management	on	Freeways	and	Expressways
+  2G.26	 Variable	Speed	Limits	for	Active	Traffic	Management	on	Freeways	and	Expressways
+MUTCD	11th	Edition	 Page	405
+
+=== PDF PAGE 2 ===
+December 2023
+    Sect. 2G.01 to 2G.02
+GENERAL
+Section 2G.01  Scope
+Support:
+01  Preferential	lanes	are	lanes	designated	for	special	traffic	uses	such	as	high-occupancy	vehicles	(HOVs),	light	
+rail,	buses,	or	taxis.	Preferential	lane	treatments	might	be	as	simple	as	restricting	a	turning	lane	to	a	certain	class	
+of	vehicles	during	peak	periods,	or	as	sophisticated	as	providing	a	separate	roadway	system	within	a	highway	
+corridor for certain vehicles.
+02  Preferential	lanes	might	be	barrier-separated	(on	a	separate	alignment	or	physically	separated	from	the	other	
+travel	lanes	by	a	barrier	or	median),	buffer-separated	(separated	from	the	adjacent	general-purpose	lanes	only	by	
+a	narrow	buffer	area	created	with	longitudinal	pavement	markings),	or	contiguous	(separated	from	the	adjacent	
+general-purpose	lanes	only	by	a	lane	line).	Preferential	lanes	might	allow	continuous	access	with	the	adjacent	
+general-purpose	lanes	or	restrict	access	only	to	designated	locations.	Preferential	lanes	might	be	operated	in	a	
+constant	direction	or	operated	as	reversible	lanes.	Some	reversible	preferential	lanes	on	a	divided	highway	might	be	
+operated	counter-flow	to	the	direction	of	traffic	on	the	immediately	adjacent	general-purpose	lanes.
+03  Preferential	lanes	might	be	operated	on	a	24-hour	basis,	for	extended	periods	of	the	day ,	during	peak	travel	
+periods	only ,	during	special	events,	or	during	other	activities.
+04  Open-road	tolling	lanes	and	toll	plaza	lanes	that	segregate	traffic	based	on	payment	method	are	not	considered	
+preferential	lanes.	Chapter	2F	contains	information	regarding	signing	of	open-road	tolling	lanes	and	toll	
+plaza lanes.
+05  Managed	lanes	typically	restrict	access	with	the	adjacent	general-purpose	lanes	to	designated	locations	only.
+06  Under	certain	operational	strategies,	such	as	the	occupancy	requirement	of	an	HOV	lane	changing	in	
+response	to	actual	congestion	levels,	a	managed	lane	is	a	special	type	of	preferential	lane	(see	Sections	2G.03	
+through	2G.07).
+07  A	managed	lane	operated	on	a	real-time	basis	in	response	to	changing	conditions	might	be	operated	as	an	
+HOV lane for a period of time as needed to manage congestion levels.
+08  Sections 2G.17 through 2G.19 contain additional information regarding signs for managed lanes that use 
+tolling or pricing as a management strategy.
+09  Section	9B.04	contains	information	regarding	Preferential	Lane	signs	for	bicycle	lanes.
+Standard:
+10  Unless otherwise provided, the provisions of this Chapter shall not apply to bicycle lanes.
+Section 2G.02  Sizes of Preferential and Managed Lane Signs
+Standard:
+01  Except as provided in Section 2A.07, the minimum sizes of preferential and managed lane signs that 
+have standardized designs shall be as shown in Table 2G-1.
+Support:
+02  Section	2A.07	contains	information	regarding	the	applicability	of	the	various	columns	in	Table	2G-1.
+Option:
+03  Signs	larger	than	those	shown	in	Table	2G-1	may	be	used	(see	Section	2A.07).
+Page 406	 MUTCD	11th	Edition
+
+=== PDF PAGE 3 ===
+December 2023
+    Sect. 2G.02
+Table 2G-1.  Managed and Preferential Lanes Sign and Plaque Minimum Sizes (Sheet 1 of 2)
+Sign or Plaque Sign 
+Designation Section
+Conventional Road
+Expressway Freeway Oversized
+Single Lane Multi-Lane
+Preferential Lane Vehicle  
+Occupancy Definition  
+(post-mounted)
+R3-10,10a 2G.04 30 x 42 30 x 42 36 x 60 78 x 96 78 x 96
+Preferential Lane Operation -  
+High-Occupancy Vehicles  
+(post-mounted)
+R3-11 series 2G.05 30 x 42 30 x 42 36 x 60 78 x 96 78 x 96
+Motorcycles Allowed (plaque) R3-11hP 2G.05 30 x 15 30 x 15 36 x 18 78 x 36 78 x 36
+Preferential Lane Ahead or Ends  -  
+High-Occupancy Vehicles 
+(post-mounted)
+R3-12, 
+12a, 12b, 
+12c, 12d, 12e
+2G.06 
+2G.07 30 x 42 30 x 42 36 x 60 48 x 84 48 x 84
+Preferential Lane Ahead or Ends 
+(post-mounted) R3-12f, 12g 2G.06 
+ 2G.07 30 x 36 30 x 36 36 x 48 48 x 60 48 x 60
+Preferential Lane Ends  
+(post-mounted) R3-12h 2G.07 36 x 48 36 x 48 48 x 66 60 x 84 60 x 84
+Preferential Lane Vehicle  
+Occupancy Definition (overhead) R3-13,13a 2G.04 66 x 36 66 x 36 84 x 48 144 x 78 144 x 78
+HOV Lane Operation (overhead) R3-14,14a 2G.05 72 x 60 72 x 60 96 x 72 144 x 108 144 x 108
+HOV Lane Operation  
+(overhead) R3-14b 2G.05 72 x 60 72 x 60 96 x 72 120 x 96 120 x 96
+Preferential Lane Operation  
+(overhead) R3-14c 2G.05 90 x 60 90 x 60 108 x 72 156 x 102 156 x 102
+HOV Lane Ahead (overhead) R3-15 2G.06 66 x 36 66 x 36 84 x 48 102 x 60 102 x 60
+HOV Lane Begins XX Miles  
+(overhead) R3-15a 2G.06 78 x 48 114 x 72 144 x 84 150 x 108 150 x 108
+HOV Lane Ends (overhead) R3-15b,15c 2G.07 66 x 36 66 x 36 84 x 48 102 x 60 102 x 60
+Preferential Lane Ahead or Ends 
+(overhead) R3-15d,15e 2G.06 
+2G.07 42 x 36
+42 x 36 54 x 48 72 x 60 72 x 60
+Priced Managed Lane Vehicle  
+Occupancy Definition  
+(post-mounted)
+R3-40 2G.18 — — 54 x 66 54 x 66 66 x 78
+Priced Managed Lane Ends  
+(post-mounted) R3-42 2G.18 — — 48 x 60 48 x 60 60 x 78
+Priced Managed Lane Ends  
+Advance (post-mounted) R3-42a 2G.18 — — 48 x 66 48 x 66 60 x 84
+Priced Managed Lane  
+Restriction Ends  
+(post-mounted)
+R3-42b 2G.18 — — 48 x 60 48 x 60 60 x 78
+Priced Managed Lane  
+Restriction Ends  
+Advance (post-mounted)
+R3-42c 2G.18 — — 48 x 66 48 x 66 60 x 84
+Priced Managed Lane Vehicle  
+Occupancy Definition R3-43 2G.18 — — 138 x 66 138 x 66 —
+Priced Managed Lane Operation  
+(overhead) R3-44 2G.18 — — 90 x 84 90 x 84 —
+Priced Managed Lane Operation  
+(overhead) R3-44a 2G.18 — — 132 x 84 132 x 84 —
+Priced Managed Lane Operation 
+(overhead) R3-44b 2G.18 — — 90 x 72 90 x 72 —
+Priced Managed Lane Ends  
+(overhead) R3-45 2G.18 — — 90 x 66 90 x 66 —
+Priced Managed Lane  
+Restriction Ends (overhead) R3-45a 2G.18 — — 114 x 66 114 x 66 —
+Priced Managed Lane Toll Rate R3-48 2G.18 — — Varies Varies —
+Priced Managed Lane Toll Rate R3-48a 2G.18 — — Varies Varies —
+Part-Time Travel on  
+Shoulder Operation R3-51 2G.21 — — 66 x 78 66 x 78 —
+No Trucks (plaque) R3-51aP 2G.21 — — 66 x 12 66 x 12 —
+No Trucks or Buses (plaque) R3-51bP 2G.21 — — 66 x 24 66 x 24 —
+Emergency Stopping Only  
+Other Times (plaque) R3-51cP 2G.21 — — 54 x 42 54 x 42 —
+MUTCD	11th	Edition	 Page	407
+
+=== PDF PAGE 4 ===
+December 2023
+    Sect. 2G.02
+Table 2G-1.  Managed and Preferential Lanes Sign and Plaque Minimum Sizes (Sheet 2 of 2)
+Sign or Plaque Sign 
+Designation Section
+Conventional Road
+Expressway Freeway Oversized
+Single Lane Multi-Lane
+Part-Time Travel on Shoulder  
+Variable Operation R3-51d 2G.21 — — 66 x 84 66 x 84 —
+Part-Time Travel on Shoulder  
+on Green Arrow R3-51e 2G.24 — — 66 x 84 66 x 84 —
+Part-Time Travel on Shoulder Ends R3-52 2G.21 — — 66 x 72 66 x 72 —
+Part-Time Travel on Shoulder  
+Ends Advance R3-52a 2G.21 — — 66 x 72 66 x 72 —
+Shoulder Must Exit Advance R3-52b 2G.21 — — 66 x 72 66 x 72 —
+Part-Time Travel on Shoulder  
+Begins Advance R3-52c 2G.21 — — 66 x 72 66 x 72 —
+Begin Exit Lane R3-56 2G.21 — — 48 x 72 48 x 72 —
+To Traffic on Shoulder (plaque) R3-57P 2G.21 — — 36 x 18 36 x 18 —
+Traffic Using Shoulder W3-9 2G.22 — — 36 x 48 48 x 60 —
+High-Occupancy Vehicles (plaque) W16-11P 2G.09 24 x 12 24 x 12 30 x 18 30 x 18 30 x 18
+Preferential Lane Entrance Gore E8-1 2G.10 — — 48 x 96 48 x 96 —
+Preferential Lane Intermediate  
+Entrance Gore E8-1a 2G.10 — — 48 x 84 48 x 84 —
+Preferential Lane Entrance  
+Direction (overhead) E8-2 2G.10 — — 228 x 72 228 x 72 —
+Preferential Lane Entrance  
+Direction (post-mounted) E8-2a 2G.10 — — 186 x 108 186 x 108 —
+Preferential Lane Entrance Advance E8-3 2G.10 — — 186 x 96 186 x 96 —
+Preferential Lane Direct Exit Gore E8-4 2G.15 — — 60 x 78 60 x 78 —
+Preferential Lane Intermediate  
+Egress Direction E8-5 2G.13 — — Varies x 90 Varies x 90 —
+Preferential Lane Intermediate  
+Egress Advance E8-6 2G.13 — — Varies x 84 Varies x 84 —
+Notes: 1. Larger signs may be used when appropriate
+   2. Dimensions are shown as width x height, in inches
+Page 408	 MUTCD	11th	Edition
+
+=== PDF PAGE 5 ===
+December 2023
+    Sect. 2G.03
+REGULATORY SIGNS
+Section 2G.03  Regulatory Signs for Preferential Lanes – General
+Standard:
+01  When a preferential lane is established, the Preferential Lane regulatory signs (see Figure 2G-1) and 
+pavement markings (see Chapter 3E) for these lanes shall be used to advise road users.
+Support:
+02  Preferential	Lane	(R3-10	series	through	R3-15	series)	regulatory	signs	(see	Figure	2G-1)	consist	of	several	
+different general types of regulatory signs as follows:
+A. Vehicle	Occupancy	Definition	signs	define	the	vehicle	occupancy	requirements	applicable	to	an	HOV	
+lane	(such	as	“2	OR	MORE	PERSONS	PER	VEHICLE”)	or	types	of	vehicles	not	meeting	the	minimum	
+occupancy	requirement	(such	as	motorcycles	or	Inherently	Low	Emission	Vehicles	(ILEVs))	that	are	
+allowed	to	use	an	HOV	lane	(see	Section	2G.04).
+B. Preferential Lane Operation signs notify road users of the days and hours during which the preferential 
+restrictions	are	in	effect	(see	Section	2G.05).
+C.	 Preferential	Lane	Advance	signs	notify	road	users	that	a	preferential	lane	restriction	begins	ahead	
+(see	Section	2G.06).
+D. Preferential Lane Ends signs notify users of the termination point of the preferential lane restrictions 
+(see	Section	2G.07).
+Standard:
+03  Regulatory signs applicable only to a preferential lane shall be distinguished from regulatory 
+signs applicable to general-purpose lanes by the inclusion of the applicable symbol(s) and/or word(s) 
+(see Figure 2G-1).
+Support:
+04  The	symbol	and	word	message	displayed	on	a	particular	Preferential	Lane	regulatory	sign	will	vary	based	on	
+the	specific	type	of	allowed	traffic	and	on	other	related	operational	constraints	that	have	been	established	for	a	
+particular	lane,	such	as	an	HOV	lane,	a	bus	lane,	or	a	taxi	lane.
+Option:
+05  Changeable	message	signs	may	supplement,	substitute	for,	or	be	incorporated	into	static	Preferential	Lane	
+regulatory	signs	where	travel	conditions	change	or	where	multiple	types	of	operational	strategies	(such	as	variable	
+occupancy	requirements	or	vehicle	types)	are	used	and	varied	throughout	the	day	or	week,	or	on	a	real-time	basis,	
+to	manage	the	use	of,	control	of,	or	access	to	preferential	lanes.
+Support:
+06  Figure	2G-1	illustrates	examples	of	changeable	messages	incorporated	into	static	Preferential	Lane	regulatory	
+signs	displaying	open	and	closed	status	using	lane-use	control	signal	indications	(see	Chapter	4T).	
+Standard:
+07  When changeable message signs (see Chapter 2L) are used as regulatory signs for preferential lanes, 
+they shall be the required sign size and shall display the required letter height and legend format that 
+corresponds to the type of roadway facility and design speed.
+Guidance:
+08  When Preferential Lane regulatory signs are used on conventional roads, the decision regarding whether 
+to use a post-mounted or overhead version of a particular type of sign should be based on an engineering study 
+that considers the available space, the existing signs for the adjacent general-purpose traffic lanes, roadway and 
+traffic characteristics, the proximity to existing overhead signs, the ability to install overhead signs, and any other 
+unique local factors.
+09  If overhead regulatory signs applicable only to a preferential lane are located in approximately the same 
+longitudinal position along the highway as overhead signs applicable only to the general-purpose lanes, the 
+signs for the preferential lane should be separated laterally from the signs for the general-purpose lanes to the 
+maximum extent practicable to minimize conflicting information, while maintaining their visual relationship to 
+the lanes below necessitated by specific legend or arrows indicating lane assignment.
+Standard:
+10  If used, overhead Preferential Lane (R3-13 series, R3-14 series, and R3-15 series) regulatory signs 
+shall be installed on the side of the roadway where the entrance to the preferential lane is located and any 
+appropriate adjustments shall be made to the sign message.
+Option:
+11  Where	a	median	of	sufficient	width	is	available,	the	R3-13	series	and	R3-15	series	signs	may	be	post-mounted.
+MUTCD	11th	Edition	 Page	409
+
+=== PDF PAGE 6 ===
+December 2023
+    Sect. 2G.03
+Support:
+12  The	sizes	for	Preferential	Lane	regulatory	signs	will	differ	to	reflect	the	design	speeds	for	each	type	of	
+roadway	facility.	Table	2G-1	provides	sizes	for	each	type	of	roadway	facility.
+Guidance:
+13  The edges of Preferential Lane regulatory signs that are post-mounted on a median barrier should not 
+project beyond the outer edges of the barrier, including in areas where lateral clearance is limited.
+Option:
+14  Where	lateral	clearance	is	limited,	Preferential	Lane	regulatory	signs	that	are	post-mounted	on	a	median	
+barrier	and	that	are	72	inches	or	less	in	width	may	be	skewed	up	to	45	degrees	in	order	to	fit	within	the	barrier	
+width	or	may	be	mounted	higher,	such	that	the	vertical	clearance	to	the	bottom	of	the	sign,	light	fixture,	or	
+structural	support,	whichever	is	lowest,	is	not	less	than	17	feet	above	any	portion	of	the	pavement	and	shoulders.
+A – Post-mounted Preferential Lane regulatory signs and plaque
+Figure 2G-1.  Preferential Lane Regulatory Signs and Plaque (Sheet 1 of 2)
+R3-10 R3-10a R3-11 R3-11a
+R3-11hP R3-12 R3-12a R3-12b R3-12c R3-12d
+R3-12e R3-12f R3-12g R3-12h
+R3-11d R3-11f R3-11gR3-11b R3-11c R3-11e
+Notes:
+ 1. The minimum vehicle occupancy requirement may vary for each facility (such as 2+, 3+, 4+). 
+ 2. The occupancy requirement may be added to the first line of the R3-12a, R3-12b, R3-12c, and R3-12d signs. 
+ 3. Some of the legends shown on these signs are for example purposes only. The specific legend for a particular 
+application should be based upon local conditions, ordinances, and State statutes.
+Page 410	 MUTCD	11th	Edition
+
+=== PDF PAGE 7 ===
+December 2023
+    Sect. 2G.03
+Standard:
+15  Where lateral clearance is limited, Preferential Lane regulatory signs that are post-mounted on a median 
+barrier and that are wider than 72 inches shall be mounted with a vertical clearance that complies with the 
+provisions of Section 2A.14 for overhead mounting if any portion of the sign extends over the roadway.
+Guidance:
+16  On conventional roadways, Preferential Lane regulatory sign spacing should be determined by engineering 
+judgment based on speed, block length, distances from adjacent intersections, and other site-specific considerations.
+B – Overhead Preferential Lane regulatory signs
+Figure 2G-1.  Preferential Lane Regulatory Signs and Plaque (Sheet 2 of 2)
+A lane-use control signal may be incorporated into an overhead preferential lane regulatory 
+sign to indicate the status of a reversible operation as shown in the following example:
+Lane open Lane closed
+R3-13 R3-13a R3-14 R3-14a
+R3-14b R3-14c R3-15 R3-15a
+R3-15b R3-15c R3-15d R3-15e
+Notes:
+ 1. The minimum vehicle occupancy requirement may vary for each facility (such as 2+, 3+, 4+). 
+ 2. The occupancy requirement may be added to the first line of the R3-15b and R3-15c signs. 
+ 3. Some of the legends shown on these signs are for example purposes only. The specific legend for a 
+particular application should be based upon local conditions, ordinances, and State statutes. 
+ 4. Where sufficient median width is available, the R3-13 series and R3-15 series signs may be post-mounted.
+MUTCD	11th	Edition	 Page	411
+
+=== PDF PAGE 8 ===
+December 2023
+    Sect. 2G.03 to 2G.04
+Support:
+17  Sections 2G.04 and 2G.05 contain provisions regarding the placement of Preferential Lane regulatory signs 
+on freeways and expressways.
+Standard:
+18  The signs illustrated in Figure 2G-1 that incorporate the diamond symbol shall be used exclusively with 
+preferential lanes for high-occupancy vehicles to indicate the particular occupancy requirement and time 
+restrictions applying to that lane. The signs illustrated in Figure 2G-1 that do not have a diamond symbol 
+shall be used with preferential lanes that are not HOV lanes, but are designated for use by other types of 
+vehicles (such as bus and/or taxi use).
+19  The diamond symbol shall not be used on the bus, taxi, or bicycle Preferential Lane signs.
+20  Vehicle Occupancy Definition, Preferential Lane Operation, and Preferential Lane Advance regulatory 
+signs for HOV lanes shall display the minimum allowable vehicle occupancy requirement established for 
+each HOV lane, displayed immediately after the word message HOV.
+Support:
+21  The	agencies	that	own	and	operate	HOV	lanes	have	the	authority	and	responsibility	to	determine	how	they	are	
+operated	and	the	minimum	occupancy	requirements.	Information	about	federal	requirements	for	certain	types	of	
+vehicles	not	meeting	the	minimum	occupancy	requirement	to	be	eligible	to	use	HOV	lanes	that	receive	Federal-
+aid	program	funding	and	about	requirements	associated	with	proposed	significant	changes	to	the	operation	of	an	
+existing	HOV	lane	and	certain	vehicles	are	contained	in	the	“Federal-Aid	Highway	Program	Guidance	on	High	
+Occupancy	Vehicle	(HOV)	Lanes.”
+22  Figures	2G-2 and 2G-3	illustrate	the	use	of	regulatory	signs	for	the	beginning,	along	the	length,	and	at	the	
+end	of	contiguous	or	buffer-separated	preferential	lanes	that	provide	continuous	access	with	the	adjacent	general-
+purpose lanes.
+Section 2G.04  Vehicle Occupancy Definition Signs (R3-10 Series and R3-13 Series)
+Standard:
+01  The R3-10, R3-13, and R3-13a Vehicle Occupancy Definition signs (see Figure 2G-1) shall be used where 
+agencies determine that it is appropriate to provide a sign that defines the minimum occupancy of vehicles 
+that are allowed to use an HOV lane.
+Guidance:
+02  The Inherently Low Emission Vehicle (ILEV) (R3-10a) sign (see Figure 2G-1) should be used when it is 
+permissible for a properly labeled and certified ILEV, regardless of the number of occupants, to use an HOV lane. 
+When used, the ILEV signs should be post-mounted in advance of and at intervals along the HOV lane based 
+upon engineering judgment and the placement of other Preferential Lane regulatory signs. The R3-10a sign is 
+only applicable to HOV lanes and should not to be used with other preferential lane applications.
+Support:
+03  ILEVs	are	defined	by	the	Environmental	Protection	Agency	(EPA)	as	vehicles	having	no	fuel	vapor	
+(hydrocarbon)	emissions	and	are	certified	by	the	EPA	as	meeting	the	emissions	standards	and	requirements	
+specified	in	40	CFR	§88.311-93	and	40	CFR	§88.312-93(c).
+04  Section	2G.18	contains	information	regarding	the	legends	of	Vehicle	Occupancy	Definition	signs	for	a	priced	
+managed	lane	that	has	an	occupancy	requirement	for	non-toll	travel.
+Standard:
+05  For barrier-separated, buffer-separated, or contiguous preferential lanes where access between the 
+preferential and general-purpose lanes is restricted to designated locations on freeways and expressways, an 
+overhead Vehicle Occupancy Definition (R3-13 or R3-13a) sign shall be installed at least 1⁄2 mile in advance 
+of the beginning of or initial entry point to an HOV lane. These signs shall only be displayed in advance of 
+the beginning of or initial or intermediate entry point to HOV lanes.
+06  For buffer-separated or contiguous HOV lanes where access is restricted to designated locations on 
+freeways and expressways, the sequence of a post-mounted Preferential Lane Operation (R3-11a) sign (see 
+Section 2G.05) followed by a post-mounted Vehicle Occupancy Definition (R3-10) sign shall be located at 
+intervals not greater than 1⁄2 mile along the length of designated gaps where vehicles are allowed to legally 
+access the HOV lane, and within designated enforcement areas as defined by the operating agency.
+Option:
+07  For	buffer-separated	or	contiguous	HOV	lanes	where	access	is	restricted	to	designated	locations	on	freeways	
+and	expressways,	the	sequence	of	a	post-mounted	Preferential	Lane	Operation	(R3-11a)	sign	(see	Section	2G.05)	
+followed	by	a	post-mounted	Vehicle	Occupancy	Definition	(R3-10)	sign	may	be	located	at	intervals	of	
+approximately 1⁄2 mile along the length of the HOV lane.
+Page 412	 MUTCD	11th	Edition
+
+=== PDF PAGE 9 ===
+December 2023
+    Sect. 2G.04
+Figure 2G-2.  Example of Signing for an Added Continuous-Access
+Contiguous or Buffer-Separated HOV Lane
+General-purpose
+lanes
+HOV
+lane
+Legend
+Direction of travel
+Notes:
+ 1. The minimum vehicle 
+occupancy requirement and 
+hours of operation on the 
+sign may vary for each facility
+ 2. See Chapter 3E for 
+pavement markings
+ 3. Warning signs are not shown
+ 4. Applicable to part-time or 
+full-time HOV restriction
+ 5. This roadway condition 
+indicates the HOV lane will 
+merge with the general 
+purpose lanes upon 
+termination
+ 6. Sets of R3-10 and R3-11a 
+signs should be placed 
+following entrance ramps 
+and at 1/2-mile intervals 
+along the HOV lane
+Where the median width is
+insufficient, post-mounted 
+designs (R3-10, R3-11, and
+R3-12 series) may be used
+1/2 mile
+800 ft
+MIN.
+1/2 mile
+1/4 mile
+1/4 mile
+1/2 mile
+R3-15b
+R3-12b
+R3-10
+R3-11a
+R3-14
+R3-15
+R3-13a
+R3-15
+MUTCD	11th	Edition	 Page	413
+
+=== PDF PAGE 10 ===
+December 2023
+    Sect. 2G.04
+Figure 2G-3.  Example of Signing for a General-Purpose Lane that Becomes
+a Continuous-Access Contiguous or Buffer-Separated HOV Lane
+General-purpose
+lanes
+HOV
+lane
+General-purpose
+lanes
+General-purpose
+lanes
+Notes:
+ 1. The minimum vehicle 
+occupancy requirement and 
+hours of operation on the 
+sign may vary for each facility
+ 2. See Chapter 3E for 
+pavement markings
+ 3. Applicable to part-time or 
+full-time HOV restriction
+ 4. This roadway condition 
+indicates the HOV lane will 
+become a general purpose 
+lane upon termination of 
+the restriction
+ 5. Sets of R3-10 and R3-11a 
+signs should be placed 
+following entrance ramps 
+and at 1/2-mile intervals 
+along the HOV lane
+ 6. This signing scheme can 
+also be used for an HOV 
+lane on the right-hand side 
+of the roadway
+Where the median width is
+insufficient, this sign may 
+be mounted overhead
+1/2 mile
+800 ft
+MIN.
+1/2 mile
+1/2 mile
+1/4 mile
+1/4 mile
+R3-15c
+R3-12d
+R3-10
+R3-11a
+R3-14
+R3-12e
+R3-13a
+R3-15a
+Legend
+Direction of travel
+Page 414	 MUTCD	11th	Edition
+
+=== PDF PAGE 11 ===
+December 2023
+    Sect. 2G.04 to 2G.05 
+08  For	barrier-separated	HOV	lanes	on	freeways	and	expressways,	the	sequence	of	a	post-mounted	Preferential	
+Lane	Operation	(R3-11a)	sign	(see	Section	2G.05)	followed	by	a	post-mounted	Vehicle	Occupancy	Definition	(R3-10) 
+sign	may	be	located	at	intervals	of	approximately	1⁄2	mile	along	the	length	of	the	HOV	lane,	at	intermediate	entry	
+points,	and	at	designated	enforcement	areas	as	defined	by	the	operating	agency.
+Standard:
+09  For buffer-separated or contiguous HOV lanes where continuous access with the adjacent general-
+purpose lanes is provided on freeways and expressways, the sequence of a post-mounted Preferential Lane 
+Operation (R3-11a) sign (see Section 2G.05) followed by a post-mounted Vehicle Occupancy Definition (R3-
+10) sign, and ILEV (R3-10a) signs, if appropriate, shall be located at intervals not greater than 1⁄2 mile along 
+the length of the HOV lane.
+Guidance:
+10  On freeways and expressways, the signs within each Preferential Lane regulatory sign sequence should be 
+separated by a minimum distance of 800 feet and a maximum distance of 1,000 feet.
+11  On conventional roads, the distance between Preferential Lane regulatory signs within each sequence should 
+be determined by engineering judgment based on speed, block length, distances from adjacent intersections, and 
+other site-specific considerations.
+Standard:
+12  For all types of direct access ramps that provide access to or lead to HOV lanes, a post-mounted 
+Vehicle Occupancy Definition (R3-10) sign, and an ILEV (R3-10a) sign, if appropriate, shall be used at 
+the beginning or initial entry point for the direct access ramp.
+Section 2G.05  Preferential Lane Operation Signs (R3-11 Series and R3-14 Series)
+Support:
+01  The	standardized	sizes	of	post-mounted	Preferential	Lane	Operation	(R3-11	series)	signs	are	consistent	to	
+accommodate any future addition or removal of a single line of legend for each sign. Each size accommodates 
+two	lines	of	legend	for	the	times	of	day	and	days	of	week	that	the	regulation	is	in	effect.	Consistent	sign	sizes	are	
+beneficial	for	agencies	when	ordering	sign	materials,	as	well	as	when	making	legend	changes	to	existing	signs	if	
+changes occur to operating times or occupancy restrictions in the future.
+Guidance:
+02  Where the regulation is in effect during more than one time period of the day, such as during the morning 
+and afternoon peak periods, the height of the R3-11 and R3-14 series signs should be suitably increased to 
+accommodate the additional line(s) of legend.
+Standard:
+03  When used, the post-mounted Preferential Lane Operation (R3-11 series) signs shall be located adjacent 
+to the preferential lane, and the overhead Preferential Lane Operation (R3-14 series) signs shall be mounted 
+directly over the lane.
+04  The legend format of the post-mounted Preferential Lane Operation (R3-11 series) signs shall have the 
+following sequence:
+A. Top Lines: Lanes applicable, such as “RIGHT LANE” or “2 RIGHT LANES”
+B. Middle Lines: Eligible uses, such as “HOV 2+ ONLY” (or 3+ or 4+, if appropriate) or 
+“BUSES ONLY” or other applicable uses or eligible turning movements
+C. Bottom Lines: Applicable times and days, such as “7 AM – 9 AM” or “6:30 AM – 9:30 
+AM, MON-FRI”
+05  The legend format of the overhead Preferential Lane Operation (R3-14 series) signs shall have the 
+following sequence:
+A. Top Lines: Eligible uses, such as “HOV 2+ ONLY” (or 3+ or 4+, if appropriate) or “BUSES ONLY” 
+or other applicable uses or eligible turning movements
+B. Bottom Lines: Applicable times and days, with the time and day placed above the down arrow, such 
+as “7 AM – 9 AM” or “6:30 AM – 9:30 AM, MON-FRI.” When the operating periods exceed the 
+available line width, the hours and days of the week shall be stacked as shown for the R3-14a sign in 
+Figure 2G-1.
+06  For preferential lane restrictions that are in effect on a full-time (24 hours per day, seven days per week) 
+basis, the Preferential Lane Operation (R3-11b, R3-11c, R3-11e, R3-11g, R3-14b, R3-14e, and R3-14g) signs 
+that include a period of operation legend shall be modified to display no legend relative to the period of 
+operation except as provided in Paragraph 7 of this Section.
+MUTCD	11th	Edition	 Page	415
+
+=== PDF PAGE 12 ===
+December 2023
+    Sect. 2G.05
+Option:
+07  In	lieu	of	removing	the	period	of	operation	text	from	the	Preferential	Lane	Operation	signs	for	full-time	
+operation,	the	legend	24	HOURS	may	be	substituted	for	the	times	and	days	of	the	week	on	the	Preferential	Lane	
+Operation	(R3-11,	R3-11a,	R3-11d,	R3-11f,	R3-14,	R3-14d,	and	R3-14f)	signs	for	preferential	lane	restrictions	that	
+are	in	effect	on	a	full-time	basis.
+Support:
+08  The	24	HOURS	legend	displayed	on	the	R3-11c	sign	reinforces	the	full-time	operation	where	several	facilities	
+in	the	same	area	have	different	hours	of	operation—some	part	time,	others	full	time,	or	where	the	same	lane	
+changes	from	part-time	to	full-time	operation	somewhere	along	its	length.
+Standard:
+09  The full-time Preferential Lane Operation (R3-11b, R3-11c, R3-11e, R3-11g, R3-14b, R3-14e, and 
+R3-14g) signs that do not display a period of operation legend, as described in Paragraph 6 of this Section, 
+shall not be used where the preferential lane restriction is in effect only on a part-time basis.
+Option:
+10  Where	additional	movements	are	allowed	from	a	preferential	lane	on	an	approach	to	an	intersection	by	
+vehicles	not	meeting	the	preferential	lane	regulation,	the	format	and	words	used	in	the	legend	in	the	middle	
+lines	on	the	post-mounted	Preferential	Lane	Operation	(R3-11	series)	signs	and	on	the	top	line	of	the	overhead	
+Preferential	Lane	Operation	(R3-14	series)	signs	may	be	modified	to	accommodate	the	allowable	movements	
+(such	as	“HOV	2+	AND	RIGHT	TURNS	ONL Y”).
+11  The	MOTORCYCLES	ALLOWED	(R3-11hP)	plaque	(see	Figure	2G-1)	may	be	used	where	motorcycles,	
+regardless	of	the	number	of	occupants,	are	allowed	to	use	an	HOV	lane.
+Standard:
+12  If used, the MOTORCYCLES ALLOWED plaque shall be mounted below a post-mounted Preferential 
+Lane Operation (R3-11, R3-11a, or R3-11b) sign.
+13  For all barrier-separated or buffer-separated or contiguous preferential lanes where access is restricted 
+to designated locations, an overhead Preferential Lane Operation (R3-14 series) sign shall be used at the 
+beginning or initial entry point on freeways, expressways, and at locations on conventional roadways where 
+the preferential lane is not the outermost (far right or far left) lane of the roadway, and at any intermediate 
+entry points or gaps in the barrier or buffer where vehicles are allowed to legally enter the access-restricted 
+preferential lanes. For all barrier-separated and buffer-separated preferential lanes, post-mounted 
+Preferential Lane Operation (R3-11 series) signs shall be used only as a supplement to the overhead signs 
+on freeways, expressways, and at locations on conventional roadways where the preferential lane is not the 
+outermost lane of the roadway at the beginning or initial entry point, or at any intermediate entry points or 
+gaps in the barrier or buffer.
+14  For buffer-separated or contiguous preferential lanes where continuous access with the adjacent 
+general-purpose lanes is provided, including those where a preferential lane is added to the roadway 
+(see Figure 2G-2 for HOV lanes) and those where a general-purpose lane transitions into a preferential lane 
+(see Figure 2G-3 for HOV lanes), an overhead Preferential Lane Operation (R3-14 series) sign shall be used 
+at the beginning or initial entry point of the preferential lane on freeways and expressways.
+Option:
+15  On	conventional	roads	where	preferential	lane	operations	exist,	R3-11	series	post-mounted	signs	may	be	used	
+in	lieu	of	or	in	addition	to	overhead	R3-14	series	signs,	except	where	overhead	signs	are	required	as	provided	in	
+Paragraph 14 of this Section.
+16  Additional	overhead	(R3-14	series)	or	post-mounted	(R3-11	series)	Preferential	Lane	Operation	signs	may	be	
+provided along the length of any type of preferential lane.
+Standard:
+17  For all types of direct access ramps that provide access to or lead to preferential lanes, a post-mounted 
+Preferential Lane Operation (R3-11 series) sign shall be used at the beginning or initial entry point of the 
+direct access ramp.
+Option:
+18  For	direct	access	ramps	to	preferential	lanes,	an	overhead	Preferential	Lane	Operation	(R3-14	series)	sign	may	
+be	used	at	the	beginning	or	initial	entry	point	to	supplement	the	required	post-mounted	signs.
+19  Lane-use	control	signals	(see	Chapter	4T)	may	be	used	at	access	points	to	preferential	lanes	to	indicate	that	a	
+ramp	or	access	roadway	leading	to	the	preferential	lane	or	facility ,	or	one	or	more	specific	lanes	of	the	facility ,	are	
+open	or	closed	(see	Figure	2G-1).
+Page 416	 MUTCD	11th	Edition
+
+=== PDF PAGE 13 ===
+December 2023
+    Sect. 2G.06 to 2G.07
+Section 2G.06  Preferential Lane Advance Signs (R3-12, R3-12e, R3-12f, R3-15, R3-15a, and R3-15d)
+Guidance:
+01  The Preferential Lane Advance (R3-12, R3-12f, R3-15, and R3-15d) signs (see Figure 2G-1) should be used for 
+advance notification of a barrier-separated, buffer-separated, or contiguous preferential lane that is added to the 
+general-purpose lanes (see Figure 2G-2).
+02  The Preferential Lane Advance (R3-12e and R3-15a) signs (see Figure 2G-1) should be used for advance 
+notification of a general-purpose lane that becomes a preferential lane (see Figure 2G-3).
+Option:
+03  The	legends	on	the	R3-12f	and	R3-15d	signs	may	be	modified	to	suit	the	type	of	preferential	lane.
+Guidance:
+04  On conventional roads, for general-purpose lanes that become preferential lanes, a post-mounted (R3-12e) 
+or overhead (R3-15a) Preferential Lane Advance sign should be installed in advance of the beginning of or initial 
+entry point to the preferential lane at a distance determined by engineering judgment based on speed, traffic 
+characteristics, and other site-specific considerations. The distance selected should provide adequate opportunity 
+for ineligible vehicles to vacate the lane prior to the beginning of the restriction.
+05  On freeways and expressways, for general-purpose lanes that become preferential lanes, an overhead 
+Preferential Lane Advance (R3-15a) sign should be installed at least 1 mile in advance of the beginning of the 
+preferential lane restriction.
+Option:
+06  Additional	post-mounted	or	overhead	Preferential	Lane	Advance	signs	may	be	placed	farther	in	advance	of	or	
+closer	to	the	beginning	or	initial	entry	points	to	a	preferential	lane.
+Section 2G.07  Preferential Lane Ends Signs (R3-12a, R3-12b, R3-12c, R3-12d, R3-12g, R3-12h, 
+R3-15b, R3-15c, and R3-15e)
+Standard:
+01  A post-mounted Preferential Lane Ends (R3-12b or R3-12h) sign (see Figure 2G-1) shall be installed at 
+least 1⁄2 mile in advance of the termination of a preferential lane on freeways and expressways.
+02  Except as provided in Paragraph 7 of this Section, a post-mounted Preferential Lane Ends (R3-12a or 
+R3-12g) sign shall be installed at the point where a preferential lane and restriction end and traffic must 
+merge into the general-purpose lanes.
+03  A post-mounted Preferential Lane Ends (R3-12d) sign (see Figure 2G-1) shall be installed at least 
+1⁄2 mile in advance of the point where a preferential lane restriction ends and the lane becomes a general-
+purpose lane on freeways and expressways.
+04  Except as provided in Paragraph 8 of this Section, a post-mounted Preferential Lane Ends (R3-12c) sign 
+shall be installed at the point where a preferential lane restriction ends and the lane becomes a general-
+purpose lane.
+Guidance:
+05  On conventional roads, the distance at which Preferential Lane Ends signs are installed in advance of the 
+termination of a preferential lane and/or restriction should be determined by engineering judgment.
+Option:
+06  The	legends	on	the	R3-12g	and	R3-15e	signs	may	be	modified	to	suit	the	type	of	preferential	lane.
+07  An	overhead	Preferential	Lane	Ends	(R3-15b	or	R3-15e)	sign	may	be	installed	instead	of	or	in	addition	to	a	
+post-mounted	R3-12a	or	R3-12g	sign	at	the	point	where	a	preferential	lane	and	restriction	ends	and	traffic	must	
+merge	into	the	general-purpose	lanes.
+08  An	overhead	Preferential	Lane	Ends	(R3-15c)	sign	may	be	installed	instead	of	or	in	addition	to	a	post-mounted	
+R3-12c	sign	at	the	point	where	the	preferential	lane	restriction	ends	and	the	lane	becomes	a	general-purpose	lane.
+MUTCD	11th	Edition	 Page	417
+
+=== PDF PAGE 14 ===
+December 2023
+    Sect. 2G.08
+WARNING SIGNS AND PLAQUE
+Section 2G.08  Warning Signs on Median Barriers for Preferential Lanes
+Option:
+01  When	a	warning	sign	applicable	only	to	a	preferential	lane	is	installed	on	a	median	barrier	with	limited	lateral	
+clearance	to	the	adjacent	travel	lanes	or	shoulders,	the	warning	sign	may	have	a	vertically-oriented	rectangular	
+shape.	For	a	high-occupancy	vehicle	lane,	such	signs	may	be	used	instead	of	using	the	HOV	(W16-11P)	plaque	
+(see	Section	2G.09)	with	a	standard	diamond-shaped	warning	sign.
+Standard:
+02  When a vertically-oriented rectangular-shaped warning sign applicable only to a preferential lane is 
+installed on a median barrier, the top portion of the sign shall be comprised of a white symbol or legend 
+denoting the type of preferential lane (such as the diamond symbol for HOV or the legend BUS LANE) 
+on a black background with a white border, and the bottom portion of the sign shall be comprised of the 
+standard word message or symbol of the standard warning sign as a black legend on a yellow background 
+with a black border (see Figure 2G-4).
+Guidance:
+03  Where lateral clearance is limited, such as when a post-mounted warning sign applicable only to a 
+preferential lane is installed on a median barrier, the edges of the sign should not project beyond the outer 
+edges of the barrier.
+Figure 2G-4.  Examples of Warning Signs and Plaques Applicable
+Only to Preferential Lanes
+Note: An HOV lane example (diamond symbol) is illustrated. For other types of preferential lanes, the appropriate 
+symbol or word message (see Section 2G.03) shall be displayed in white on the black background of the top 
+portion of these signs.
+W13-2 (modified)W4-2L (modified)
+W16-11P
+A – Barrier-mounted rectangular warning signs
+B – Warning plaque for use above standard diamond-shaped warning signs
+W4-1L (modified)
+Page 418	 MUTCD	11th	Edition
+
+=== PDF PAGE 15 ===
+December 2023
+    Sect. 2G.08 to 2G.09
+Option:
+04  Where	lateral	clearance	is	limited,	warning	signs	applicable	only	to	a	preferential	lane	that	are	post-mounted	
+on	a	median	barrier	and	that	are	72	inches	or	less	in	width	may	be	skewed	up	to	45	degrees	in	order	to	fit	within	
+the	barrier	width	or	may	be	mounted	higher,	such	that	the	vertical	clearance	to	bottom	of	the	sign,	light	fixture,	or	
+its	structural	support,	whichever	is	lowest,	is	not	less	than	17	feet	above	any	portion	of	the	pavement	and	shoulders.
+Standard:
+05  Where lateral clearance is limited, Preferential Lane warning signs that are post-mounted on a median 
+barrier and that are wider than 72 inches shall be mounted with a vertical clearance that complies with the 
+provisions of Section 2A.15 for overhead mounting.
+Section 2G.09  High-Occupancy Vehicle (HOV) Plaque (W16-11P)
+Option:
+01  In	situations	where	there	is	a	need	to	warn	drivers	in	an	HOV	lane	of	a	specific	condition,	the	HOV	(W16-11P)	
+plaque	(see	Figure	2G-4)	may	be	used	above	a	warning	sign.	The	HOV	plaque	may	be	used	to	differentiate	a	
+warning	sign	applicable	to	the	HOV	lanes	when	the	sign	is	also	visible	to	traffic	on	the	adjacent	general-purpose	
+roadway.	Among	the	warning	signs	that	may	be	possible	applications	of	the	HOV	plaque	are	the	Advisory	Exit	
+Speed,	Added	Lane,	and	Merge	signs.
+02  The	diamond	symbol	may	be	used	instead	of	the	word	message	HOV	on	the	W16-11P	plaque.	When	
+appropriate,	the	words	LANE	or	ONL Y	may	be	used	on	this	plaque.
+Support:
+03  Section	2G.08	contains	information	regarding	warning	signs	that	can	be	mounted	on	barriers	for	HOV	or	
+other types of preferential lanes.
+MUTCD	11th	Edition	 Page	419
+
+=== PDF PAGE 16 ===
+December 2023
+    Sect. 2G.10
+GUIDE SIGNS
+Section 2G.10  Preferential Lane Guide Signs – General
+Support:
+01  Preferential	lanes	are	used	on	freeways,	expressways,	and	conventional	roads.	Except	as	otherwise	provided,	
+Sections 2G.10 through 2G.15 apply only to guide signs for preferential lanes on freeways and expressways.
+Guidance:
+02  On conventional roads, guide signs applicable only to preferential lanes are ordinarily not needed, but if 
+used, they should comply with the provisions for guide signs in Chapter 2D and any principles for Preferential 
+Lane guide signs in Sections 2G.10 through 2G.15 that engineering judgment finds to be appropriate for the 
+conditions.
+Support:
+03  Additional	guidance	and	standards	related	to	the	designation,	operational	considerations,	signs,	pavement	
+markings,	and	other	considerations	for	preferential	lanes	are	provided	in	Sections	2G.03	through	2G.07 ,	2G.09,	
+and	Chapter	3E.
+Guidance:
+04  The appropriate combinations of pavement markings and standard overhead and post-mounted 
+regulatory, warning, and guide signs for a specific preferential lane application should be selected based on an 
+engineering study.
+05  If overhead signs applicable only to a preferential lane are located in approximately the same longitudinal 
+position along the highway as overhead signs applicable only to the general-purpose lanes, the signs for the 
+preferential lane should be separated laterally from the signs for the general-purpose lanes to the maximum 
+extent practicable to minimize conflicting information.
+06  The Preferential Lane signs should be designed and located to avoid overloading the road user. The order of 
+priority of guide signs should be Advance Guide, Preferential Lane Entrance Direction, and finally Preferential 
+Lane Exit Destination Supplemental guide signs.
+Standard:
+07  Signs applicable only to a preferential lane shall be distinguished from signs applicable to general-
+purpose lanes by the inclusion of the applicable symbol(s) and/or word(s).
+Support:
+08  The	symbol	and/or	word	message	that	appears	on	a	particular	guide	sign	applicable	only	to	a	preferential	lane	
+will	vary	based	on	the	specific	type	of	traffic	allowed	and	on	other	related	operational	constraints	that	have	been	
+established	for	a	particular	lane,	such	as	an	HOV	lane,	a	bus	lane,	or	a	taxi	lane.
+Standard:
+09  For HOV lanes, the diamond symbol shall appear on each Advance Guide (E8-3) sign (see Figure 2G-5), 
+Preferential Lane Entrance Direction (E8-2 or E8-2a) sign (see Figure 2G-6), and Preferential Lane 
+Entrance Gore (E8-1 or E8-1a) sign (see Figure 2G-7) for the designated entry and exit points for barrier-
+separated and buffer-separated geometric configurations and direct access ramps to or from such lanes. 
+The diamond symbol shall not be used with preferential lanes for other types of traffic, such as bus lanes 
+or taxi lanes.
+10  Signing for an HOV lane that is managed by means of varying the occupancy requirement in response 
+to changing conditions shall also comply with these provisions.
+Figure 2G-5.  Example of an Overhead Advance Guide Sign
+for a Preferential Lane Entrance
+Note:  An example of an HOV lane (diamond symbol) sign is illustrated.
+For other types of preferential lanes, the appropriate symbol or word 
+message (see Section 2G.03) is displayed in white on the black 
+background of the left-hand portion of this sign.
+E8-3
+Page 420	 MUTCD	11th	Edition
+
+=== PDF PAGE 17 ===
+December 2023
+    Sect. 2G.10
+11  The diamond symbol shall be displayed in the legend of each Preferential Lane guide sign at the 
+designated entry and exit points for all types of HOV lanes (including barrier-separated, buffer-separated, 
+contiguous, and direct access ramps) in order to alert motorists that there is a minimum allowable vehicle 
+occupancy requirement for vehicles to use the HOV lanes. Guide signs shall not display the occupancy 
+requirement for the preferential lane.
+12  A combination of guide and regulatory signs shall be used in advance of and at the initial entry point 
+and all intermediate entry points from general-purpose lanes or facilities to contiguous, barrier-separated, 
+and buffer-separated preferential lanes where access between the preferential and general-purpose lanes is 
+restricted to designated locations. The regulatory signs shall comply with the provisions of Sections 2G.03 
+through 2G.07.
+Figure 2G-6.  Examples of Overhead or Post-Mounted Preferential Lane 
+Entrance Direction Signs
+ A changeable message sign may be incorporated into an overhead Preferential Lane guide sign 
+to indicate the status of a reversible operation as shown in the following example:
+Note:  Examples of HOV lane (diamond symbol) signs are illustrated.  For other types of preferential 
+lanes, the appropriate symbol or word message (see Section 2G.03) is displayed in white on the 
+black background of the top left-hand portion of these signs.
+E8-2
+(overhead only)
+E8-2a
+(post-mounted only)
+Lane closedLane open
+Figure 2G-7.  Entrance Gore Signs for Barrier-Separated Preferential Lanes
+Note:  Examples of HOV lane (diamond symbol) signs 
+are illustrated. For other types of preferential lanes, 
+the appropriate symbol or word message (see 
+Section 2G.03) is displayed in white on the black 
+background of the top portion of these signs.
+E8-1aE8-1
+MUTCD	11th	Edition	 Page	421
+
+=== PDF PAGE 18 ===
+December 2023
+    Sect. 2G.10
+13  Regulatory signs alone shall be used in advance of, at the beginning of, and at periodic intervals along 
+contiguous or buffer-separated preferential lanes that provide continuous access between the adjacent 
+general-purpose lanes and the preferential lane (see Figures 2G-2 and 2G-3). The design and placement of 
+the regulatory signs shall comply with the provisions of Sections 2G.03 through 2G.07.
+14  Except as otherwise provided in Sections 2G.10 through 2G.13, guide signs applicable to a preferential 
+lane with a vehicle occupancy requirement shall be distinguished from those applicable to general-purpose 
+lanes by displaying the white diamond symbol on a black background at the left-hand edge of these signs.
+Option:
+15  When	post-mounted	guide	signs	applicable	only	to	a	preferential	lane	are	installed	on	a	median	barrier	with	
+limited	lateral	clearance	to	the	adjacent	travel	lanes	or	shoulders,	the	guide	signs	may	have	a	vertically-oriented	
+rectangular shape.
+Standard:
+16  When vertically-oriented rectangular-shaped guide signs applicable only to a preferential lane are 
+installed on a median barrier, the top portion of the signs shall be comprised of the applicable white symbol 
+or white word message that identifies the type of preferential lane (such as the diamond symbol for an HOV 
+lane) on a black background with a white border, and the bottom portion of the sign shall be comprised of the 
+appropriate guide sign legend on a green background with a white border (see Figures 2G-7 through 2G-9).
+Guidance:
+17  Where lateral clearance is limited, such as when a post-mounted Preferential Lane guide sign is installed on 
+a median barrier, the edges of the sign should not project beyond the outer edges of the barrier.
+Option:
+18  Where	lateral	clearance	is	limited,	Preferential	Lane	guide	signs	that	are	72	inches	or	less	in	width	may	be	
+skewed	up	to	45	degrees	in	order	to	fit	within	the	barrier	width	or	may	be	mounted	higher,	such	that	the	vertical	
+clearance	to	the	bottom	of	the	sign,	light	fixture,	or	its	structural	support,	whichever	is	lowest,	is	not	less	than	17	
+feet	above	any	portion	of	the	pavement	and	shoulders.
+Standard:
+19  Where lateral clearance is limited, Preferential Lane guide signs that are post-mounted on a median 
+barrier and that are wider than 72 inches shall be mounted with a vertical clearance that complies with 
+the provisions of Section 2A.15 for overhead mounting.
+Option:
+20  Lane-use	control	signals	(see	Chapter	4T)	may	be	used	at	access	points	to	preferential	lanes	to	indicate	that	
+a	ramp	or	access	roadway	leading	to	or	from	the	preferential	lane	or	facility ,	or	one	or	more	specific	lanes	of	the	
+facility ,	are	open	or	closed.
+21  Changeable	message	signs	may	supplement,	substitute	for,	or	be	incorporated	into	static	guide	signs	(see	
+Figure	2G-6)	where	travel	conditions	change	or	where	multiple	types	of	operational	strategies	(such	as	variable	
+occupancy	requirements,	vehicle	types,	or	pricing	policies)	are	used	and	varied	throughout	the	day	or	week	to	
+manage	the	use	of,	control	of,	or	access	to	preferential	lanes.
+Standard:
+22  When changeable message signs (see Chapter 2L) are used as guide signs for preferential lanes, 
+they shall be the required sign size and shall display the required letter height and legend format that 
+correspond to the type of roadway facility and design speed.
+23  Advance Guide signs, Preferential Lane Entrance Direction signs, and Preferential Lane Entrance Gore 
+signs for the initial entry point and intermediate entry points into a preferential lane from the general-
+purpose lanes on the same designated route shall not identify the entry point as an exit by using the word 
+“EXIT” on the sign or on a plaque.
+Guidance:
+24  Advance Guide signs and Preferential Lane Entrance Direction signs for initial and intermediate entry points 
+into a preferential lane should use the word “ENTRANCE,” such as “HOV LANE ENTRANCE” (see Figures 
+2G-5 and 2G-6), to convey the fact that vehicles are not leaving the designated route.
+25  Preferential Lane Entrance Gore signs (see Figure 2G-7) at the initial entry point to a preferential lane 
+should use the word “ENTRANCE.” Preferential Lane Entrance Gore signs at intermediate entry points to a 
+barrier-separated preferential lane where the sign would be located immediately adjacent to and directly viewed 
+by traffic in the preferential lane should not use the word “ENTRANCE.”
+Standard:
+26  When the entry point is on the left-hand side of the general-purpose lanes, a LEFT (E1-5aP) plaque 
+(see Figure 2E-9) shall be added to the top left edge of the Advance Guide and Preferential Lane Entrance 
+Direction signs. The LEFT plaque shall not be used on a preferential lane regulatory sign.
+Page 422	 MUTCD	11th	Edition
+
+=== PDF PAGE 19 ===
+December 2023
+    Sect. 2G.11 to 2G.12
+Section 2G.11  Signing for Initial Entry Points to Preferential Lanes
+Standard:
+01  Except where a buffer-separated or contiguous preferential lane is added or where a general-purpose 
+lane becomes a buffer-separated or contiguous preferential lane, and provides continuous access with 
+the adjacent general-purpose lanes as illustrated in Figures 2G-2 and 2G-3, an Advance Guide sign shall 
+be provided at least 1⁄2 mile prior to the initial entry point to all types of preferential lanes in any type of 
+geometric configuration on freeways and expressways. A Preferential Lane Entrance Direction sign shall 
+also be provided at the initial entry point. Advance Guide and Preferential Lane Entrance Direction signs 
+for such entry points shall not include the word “EXIT” (see Section 2G.10).
+02  Where a general-purpose lane becomes a preferential lane that does not provide continuous access with 
+the adjacent general-purpose lanes, an Advance Guide sign shall also be provided at approximately 1 mile 
+in advance of the initial entry point. The Advance Guide and Entrance Direction signs in this sequence shall 
+include a panel at the bottom of the sign with a black legend and border on a yellow background displaying 
+a down arrow and the word ONLY as illustrated in Figure 2G-8.
+Guidance:
+03  Unless an Advanced Guide Sign is already required in Paragraph 2 of this Section, an Advance Guide sign 
+should also be installed and located approximately 1 mile in advance of the initial entry point to a preferential 
+lane on freeways and expressways that restricts access to the adjacent general-purpose lanes.
+Option:
+04  An	Advance	Guide	sign	may	also	be	installed	and	located	approximately	2	miles	in	advance	of	the	initial	entry	
+point	to	a	preferential	lane	that	restricts	access	with	the	adjacent	general-purpose	lanes	to	designated	locations.
+Standard:
+05  For barrier-separated, buffer-separated, or contiguous preferential lanes where entry is restricted to 
+only designated points on freeways and expressways, the Advance Guide and Preferential Lane Entrance 
+Direction signs shall be mounted overhead.
+Guidance:
+06  Preferential Lane Exit Destination guide signs, identifying final destination and downstream exit locations 
+accessible from the preferential lane (see Figures 2G-8, 2G-9, 2G-14, 2G-16, and 2G-17), should be installed in 
+advance of the initial entry points to access-restricted preferential lanes (such as barrier-separated and buffer-
+separated). These signs should be located based on the priority of the message, the available space, the existing 
+signs on adjacent general-purpose traffic lanes, roadway and traffic characteristics, the proximity to existing 
+overhead signs, the ability to install overhead signs, and other unique local factors.
+Standard:
+07  Advance destination guide signs for preferential lanes shall include an upper section displaying a 
+black legend that includes the type of preferential lane and the word “EXITS,” such as “HOV EXITS,” 
+on a white background. For preferential lanes that incorporate a vehicle occupancy requirement, the white 
+diamond symbol on a black background shall be displayed at the left-hand edge of this upper section 
+(see Figure 2G-9).
+Support:
+08  Figure	2G-8	shows	an	example	of	signing	for	a	general-purpose	lane	that	becomes	a	preferential	lane	that	
+does	not	provide	continuous	access	with	the	adjacent	general-purpose	lanes.
+09  Figure	2G-9 shows an example of signs for the initial entry point to a preferential lane.
+Section 2G.12  Signing for Intermediate Entry Points to Preferential Lanes
+Standard:
+01  For barrier-separated, buffer-separated, and contiguous preferential lanes where entry is restricted 
+only to designated points, an overhead Preferential Lane Entrance Direction sign shall be provided at 
+intermediate entry points to the preferential lane from the general-purpose lanes.
+Guidance:
+02  For barrier-separated and buffer-separated preferential lanes where intermediate entry from the general-
+purpose lanes is provided via a separate lane or ramp (see Figure 2G-10), at least one Advance Guide sign 
+should be provided in addition to the Preferential Lane Entrance Direction sign.
+03  For access-restricted preferential lanes where intermediate entrance and egress are at the same designated 
+access location, the Preferential Lane Entrance Direction sign should be located between 1⁄2 and 1⁄4 of the length 
+of the designated entry area, as measured from the downstream end of the entry area (see Figure 2G-11).
+MUTCD	11th	Edition	 Page	423
+
+=== PDF PAGE 20 ===
+December 2023
+    Sect. 2G.12
+Notes:
+ 1. For access to a managed lane on the 
+right-hand side, the same signing 
+sequence would be used with 
+adjustments made to sign messages
+ 2. Geometry is for illustrative purposes only; 
+use locally applied geometric criteria
+ 3. The minimum vehicle occupancy 
+requirement and hours of operation on 
+the sign may vary for each facility
+ 4. See Chapter 3E for pavement markings
+Potential location of a Changeable 
+Message Sign (CMS) for reversible or 
+counter-flow operations
+For access-restriced facilities. 
+Destinations may be augmented to 
+accompany routes on Interchange 
+Sequence signs (see Figure 2E-10) 
+Barrier-separated facilities only
+Figure 2G-8.  Example of Advance Guide and Entrance Direction Signs 
+for a General-Purpose Lane that Becomes a Preferential Lane
+1 mile
+1/2 mile
+1/2 mile
+1/4 mile
+HOV
+lane
+800 ft
+MIN.
+E8-1
+R3-14a
+1/4 mile
+E8-3
+E8-3
+E8-3
+R3-13a
+Legend
+Direction of travel
+General-purpose
+lanes
+Page 424	 MUTCD	11th	Edition
+
+=== PDF PAGE 21 ===
+December 2023
+    Sect. 2G.12
+Notes:
+ 1. For access to an HOV lane on the 
+right-hand side, the same signing 
+sequence would be used with 
+adjustments made to sign messages
+ 2. Geometry is for illustrative purposes 
+only; use locally applied geometric 
+criteria
+ 3. The minimum vehicle occupancy 
+requirement and hours of operation on 
+the sign may vary for each facility
+ 4. See Chapter 3E for pavement markings
+R3-14a
+Figure 2G-9.  Example of Signing for an Entrance to Access-Restricted HOV Lanes
+HOV
+lane
+General-purpose
+lanes 
+E8-1
+E8-2
+E8-3
+E8-3
+R3-13a
+1/4 mile
+1/4 mile
+1/4 mile
+1/4 mile
+For access-restricted facilities. 
+Destinations may be augmented to 
+accompany routes on Interchange 
+Sequence signs (see Figure 2E-10)
+Barrier-separated facilities only
+Potential location of a Changeable 
+Message Sign (CMS) for reversible or 
+counter-flow operations
+Legend
+Direction of travel
+MUTCD	11th	Edition	 Page	425
+
+=== PDF PAGE 22 ===
+December 2023
+    Sect. 2G.12
+HOV
+lane
+General-purpose
+lanes 
+Notes:
+ 1.  For access to an HOV lane on the 
+right-hand side, the same signing 
+sequence would be used with 
+adjustments made to sign messages
+ 2.  Geometry is for illustrative purposes only; 
+use locally applied geometric criteria
+ 3.  The minimum vehicle occupancy 
+requirement and hours of operation on 
+the sign may vary for each facility
+ 4.  See Chapter 3E for pavement markings.
+ 5.  Warning signs are not shown
+1/4 mile
+1/4 mile
+1/2 mile
+E8-2
+E8-3
+R3-13a
+E8-3
+Legend
+Direction of travel
+Figure 2G-10.  Example of Signing for an Intermediate Entry to a
+Barrier-Separated or Buffer-Separated HOV Lane
+Page 426	 MUTCD	11th	Edition
+
+=== PDF PAGE 23 ===
+December 2023
+    
+Barrier, buffer, or contiguous
+access prohibition
+1/2 mile
+R3-15b
+R3-12b
+E8-1
+Notes:
+ 1. Geometry is for illustrative purposes only; 
+use locally applied geometric criteria
+ 2. The minimum vehicle occupancy 
+requirement and hours of operation on 
+the sign may vary for each facility
+ 3. See Chapter 3E for pavement markings
+ 4. Warning signs are not shown
+Barrier-separated 
+facilities only
+E8-3
+E8-3
+Figure 2G-11.  Example of Signing for the Intermediate Entry to, Egress from,
+and End of Access-Restricted HOV Lanes 
+Legend
+Direction of travel
+E8-5
+E8-6
+0.25 L to 0.5 L
+L
+R3-14
+R3-13a
+HOV
+lane General-purpose lanes 
+1/2 mile
+1/4 mile
+1/4 mile
+E8-2
+Sect. 2G.12
+MUTCD	11th	Edition	 Page	427
+
+=== PDF PAGE 24 ===
+December 2023
+    Sect. 2G.12 to 2G.13
+Standard:
+04  The Advance Guide signs, if used for intermediate entry points to a preferential lane from the general-
+purpose lanes, shall be overhead.
+Option:
+05  Advance	Guide	signs	may	be	provided	at	approximately	1⁄2	mile,	1	mile,	and	2	miles	in	advance	of	
+intermediate	entry	points	from	the	general-purpose	lanes	to	a	preferential	lane.
+Standard:
+06  Advance Guide and Preferential Lane Entrance Direction signs for intermediate entry points shall not 
+include the word “EXIT” (see Section 2G.10).
+Guidance:
+07  Exit Destination guide signs, identifying the final destination and downstream exit locations accessible from 
+the preferential lane, should be installed in advance of intermediate entry points from the general-purpose lanes 
+to access-restricted preferential lanes.
+Support:
+08  Section 2G.11 contains information on the design and placement of Preferential Lane Exit Destination 
+guide signs.
+09  Figures	2G-10	and	2G-11	show	examples	of	signs	for	various	geometric	configurations	of	intermediate	entry	
+to	a	barrier-separated	or	buffer-separated	preferential	lane	where	access	is	restricted	to	designated	locations.
+Section 2G.13  Signing for Egress from Preferential Lanes to General-Purpose Lanes
+Standard:
+01  Except as provided in Paragraphs 4 and 5 of this Section, for barrier-separated, buffer-separated, and 
+contiguous preferential lanes where egress is restricted only to designated points, post-mounted Advance 
+Guide (E8-6) and post-mounted Intermediate Egress Direction (E8-5) signs (see Figure 2G-12) shall be 
+installed in the median or on median barriers that separate two directions of traffic prior to and at the 
+intermediate exit points from the preferential lanes to the general-purpose lanes (see Figure 2G-11).
+02  The legends of these signs shall refer to the next exit or exits from the general-purpose lanes by 
+displaying the appropriate destination information, exit number(s), or both. The Intermediate Egress 
+Direction signs for egress from the preferential lanes to the general-purpose lanes shall not refer to the 
+egress as an exit.
+Support:
+03  Section	2G.10	contains	information	on	the	design	of	post-mounted	guide	signs	applicable	to	a	preferential	
+lane	when	installed	on	a	median	barrier.	Figures	2G-11	and	2G-13	show	examples	of	signs	for	various	geometric	
+configurations	of	intermediate	egress	from	a	barrier-separated	or	buffer-separated	preferential	lane	where	access	
+is restricted to designated locations.
+Guidance:
+04  Where two or more adjacent preferential lanes are present in a single direction, consideration should be 
+given to the use of overhead guide signs to display the information related to egress from the preferential lanes.
+Figure 2G-12.  Examples of Barrier-Mounted Guide Signs for an Intermediate
+Egress from Preferential Lanes
+Note:   Examples of HOV lane (diamond symbol) signs are illustrated. 
+For other types of preferential lanes, the appropriate symbol or 
+word message (see Section 2G.03) is displayed in white on the 
+black background of the top portion of these signs.
+E8-5 E8-6
+Page 428	 MUTCD	11th	Edition
+
+=== PDF PAGE 25 ===
+December 2023
+    Sect. 2G.13 to 2G.15
+05  For barrier-separated and buffer-separated preferential lanes where egress from a preferential lane to the 
+general-purpose lanes is restricted only to designated points via a separate lane or ramp, the Advance Guide and 
+Intermediate Egress Direction signs for the egress should be mounted overhead and a Pull-Through sign should 
+be mounted with the Intermediate Egress Direction sign (see Figure 2G-13).
+Standard:
+06  For preferential lanes that incorporate a vehicle occupancy requirement, the design of the overhead 
+Advance Guide and Egress Direction signs for intermediate egress from the preferential lanes to the 
+general-purpose lanes shall display a white diamond symbol on a black background at the left-hand edge 
+of the signs.
+07  The design of Pull-Through signs when used in conjunction with an Egress Direction sign at an 
+intermediate egress from the preferential lanes to the general-purpose lanes shall be distinguished from 
+those applicable to general-purpose lanes by inclusion of an upper section with the applicable black legend 
+on a white background, such as HOV LANE. For preferential lanes that incorporate a vehicle occupancy 
+requirement, the white diamond symbol on a black background shall be displayed at the left-hand edge of 
+this upper section.
+Section 2G.14  Signing for Direct Entrances to Preferential Lanes from Another Highway
+Standard:
+01  For direct access ramps to preferential lanes from a transit facility (such as a park-and-ride lot or a 
+transit station or terminal) that is accessible from surface streets, advance guide signs shall be provided 
+along the adjoining surface streets to direct traffic into and through the transit facility to the preferential 
+lane (see Figure 2G-14).
+Support:
+02  Figure	2G-14 provides examples of recommended uses and layouts of signs for HOV lanes for direct access 
+ramps,	park-and-ride	lots,	and	access	from	surface	streets.
+Section 2G.15  Signing for Direct Exits from Preferential Lanes to Another Highway
+Standard:
+01  For contiguous preferential lanes on the left-hand side of the roadway, Advance Guide signs, Exit 
+Direction signs, and Exit Gore (E8-4) signs (see Figure 2G-15) specifically applicable to the preferential 
+lanes shall be used for exits to direct access ramps, such as HOV lane ramps (see Figure 2G-16) or ramps 
+to park-and-ride facilities.
+02  The design of Advance Guide, Exit Direction, and Pull-Through signs for direct exits from preferential 
+lanes shall be distinguished from those applicable to general-purpose lanes by inclusion of an upper section 
+with the applicable black legend on a white background, such as HOV LANE (for Pull-Through signs) or 
+HOV EXIT (for Advance Guide and Exit Direction signs). For preferential lanes that incorporate a vehicle 
+occupancy requirement, the white diamond symbol on a black background shall be displayed at the left-
+hand edge of this upper section (see Figures 2G-16 and 2G-17).
+Guidance:
+03  Advance Guide and Exit Direction signs for exits to direct access ramps from a preferential lane should be 
+mounted overhead. A Pull-Through sign over the preferential lane should be used with the Exit Direction sign at 
+exits to direct access ramps.
+Standard:
+04  Post-mounted guide signs in a vertically-oriented rectangular shape installed on a median barrier shall 
+not be used for the Advance Guide and Exit Direction signs for exits to direct access ramps.
+05  Because direct access ramps for preferential lanes at interchanges connecting two freeways are typically 
+left-hand side exits and typically have design speeds similar to the preferential lane, overhead Advance 
+Guide signs and overhead Exit Direction signs shall be provided in advance of and at the entry point to each 
+freeway-to-freeway preferential lane ramp (see Figure 2G-17).
+Guidance:
+06  The use of guide signs for preferential lanes at freeway interchanges should comply with the provisions for 
+guide signs established in Chapter 2E of this Manual.
+Support:
+07  Guide signs for direct access ramps for preferential lanes at interchanges connecting two freeways are similar 
+to	those	for	a	connecting	ramp	between	two	freeway	facilities.
+MUTCD	11th	Edition	 Page	429
+
+=== PDF PAGE 26 ===
+December 2023
+    Sect. 2G.15
+HOV
+lane
+General-purpose
+lanes 
+Figure 2G-13.  Examples of Signs for an Intermediate Egress
+from a Barrier-Separated or Buffer-Separated HOV Lane
+Notes:
+ 1.  For an exit on the left-hand side from an 
+HOV lane, the same signing sequence 
+would be used with adjustments made to 
+sign messages
+ 2.  Geometry is for illustrative purposes only; 
+use locally applied geometric criteria
+ 3.  The minimum vehicle occupancy 
+requirement and hours of operation on 
+the sign may vary for each facility
+ 4.  See Chapter 3E for pavement markings
+ 5.  Warning signs are not shown
+1/2 mile
+1/2 mile
+OR
+OR
+OR
+Legend
+Direction of travel
+Page 430	 MUTCD	11th	Edition
+
+=== PDF PAGE 27 ===
+December 2023
+    Sect. 2G.15
+Figure 2G-14.  Example of Signing for a Direct Entrance Ramp 
+to an HOV Lane from a Park-and-Ride Facility and a Local Street
+General-purpose lanes 
+General-purpose lanes 
+HOV lane
+Park-and-ride facility
+Varies Varies
+R3-13a
+R3-14
+Local  street
+Legend
+Direction of travel
+Reverse flow direction
+Notes:
+ 1. The minimum vehicle occupancy requirement on the sign may 
+vary for each facility
+ 2. See Chapter 3E for pavement markings
+ 3. Warning signs are not shown
+ 4. Sign locations are approximate
+ 5. Additional signs may be required to direct drivers from the 
+surrounding streets into the park-and-ride lot and the HOV lane
+ 6. Additional signs are required on the adjoining surface streets to 
+inform non-HOVs that they should not enter the HOV facility
+ 7. This figure illustrates a reversible HOV lane with a direct 
+access ramp
+ 8. The guide signs directing local street traffic to the HOV lane 
+should include the word ENTRANCE when the direct access 
+ramp does not traverse a park-and-ride facility
+For access-restricted facilities; 
+destinations may be augmented 
+to accompany routes on 
+Interchange Sequence signs 
+(see Figure 2E-10)
+Figure 2G-15.  Exit Gore Sign for a Direct Exit from a Preferential Lane
+E8-4
+Note: An example of an HOV lane (diamond symbol) sign is illustrated. For other types of 
+preferential lanes, the appropriate symbol or word message (see Section 2G.03) is 
+displayed in white on the black background of the top portion of this sign.
+MUTCD	11th	Edition	 Page	431
+
+=== PDF PAGE 28 ===
+December 2023
+    Sect. 2G.15
+Local street
+1/2 mile
+1/2 mile
+1 mile General-
+purpose
+lanes
+General-
+purpose
+lanesHOV
+lane
+Figure 2G-16.  Examples of Guide Signs for Direct HOV Lane Entrance and Exit Ramps
+Notes:
+ 1. See Chapter 3E for 
+pavement markings
+ 2. Sign locations are 
+approximate
+ 3. The HOV facility could 
+be barrier-separated, 
+buffer-separated, or 
+contiguous
+  For access-restricted 
+facilities. Destinations 
+may be augmented to 
+accompany routes on 
+Interchange Sequence 
+signs (see Figure 2E-10)
+Page 432	 MUTCD	11th	Edition
+
+=== PDF PAGE 29 ===
+December 2023
+    Sect. 2G.15
+Figure 2G-17.  Examples of Guide Signs for a Direct Access Ramp
+between HOV Lanes on Separate Freeways
+For access-restricted facilities
+Notes:
+ 1. See Chapter 3E for pavement markings
+ 2. Sign locations are approximate
+ 3. If the vehicle occupancy levels vary 
+between HOV facilities, then the 
+occupancy level should be added to 
+the guide signs
+ 4. The HOV facility could be 
+barrier-separated, buffer-separated, 
+or contiguous
+E8-4
+I-45 northbound
+HOV lane
+I-45 northbound
+HOV lane
+1 mile
+1/2 mile
+1/2 mile
+(all direct exits
+displayed are to the left)
+(not all direct exits
+displayed are to the left)
+Legend
+Direction of travel
+Ramp to I-10 
+westbound HOV 
+lane or I-10 
+westbound 
+general-
+purpose lanes
+OR
+MUTCD	11th	Edition	 Page	433
+
+=== PDF PAGE 30 ===
+December 2023
+    Sect. 2G.16 to 2G.17
+MANAGED LANE SIGNS, PLAQUES, AND LANE-USE CONTROL SIGNALS
+Section 2G.16  Signs for Managed Lanes – General
+Standard:
+01  The provisions of Sections 2G.03 through 2G.07 regarding regulatory signs for preferential lanes shall 
+apply to managed lanes operated at all times or at certain times by varying vehicle occupancy requirements 
+(HOV) or by using vehicle type restrictions as a congestion management strategy. Such managed lanes shall 
+use changeable message signs or changeable message elements within static signs to display the appropriate 
+regulatory sign messages only when they are in effect.
+02  When certain types of vehicles (such as trucks) are prohibited from using a managed lane or when a 
+managed lane is restricted to use by only certain types of vehicles during certain operational strategies, 
+regulatory signs or regulatory panels within the appropriate guide signs that include changeable message 
+elements shall be used to display the open/closed status of the managed lane for such vehicle types.
+03  When the vehicle occupancy required for use of an HOV lane is varied as a part of a managed lane 
+operational strategy, regulatory signs that include changeable message elements shall be used to display 
+the required minimum vehicle occupancy in effect.
+Support:
+04  Section	2G.18	contains	information	about	regulatory	signs	for	managed	lanes	that	use	tolling	or	pricing	as	
+a	congestion	management	strategy ,	either	exclusively	or	with	other	management	strategies.
+Section 2G.17  Signs for Priced Managed Lanes – General
+Support:
+01  A	priced	managed	lane	is	a	managed	lane	that	employs	tolling	or	pricing,	typically	through	electronic	toll	
+collection,	to	manage	congestion	levels	and	maintain	a	certain	level	of	service	for	users	of	the	facility.	A	priced	
+managed	facility	typically	provides	a	less-congested	alternative	to	adjacent	lanes	along	the	same	designated	route,	
+or	to	a	nearby	facility ,	that	experience	recurring	congestion	during	peak	periods.	A	priced	managed	lane	might	
+allow	non-toll	travel	by	certain	vehicles	based	on	occupancy	or	other	criteria.	A	variety	of	operational	management	
+strategies	might	be	used	in	conjunction	with	tolling	or	pricing.
+02  The	number	and	combination	of	operational	strategies	that	are	applied	to	a	managed	lane	to	manage	
+congestion	or	improve	efficiency	might	be	practically	limited	by	the	amount	of	information	that	can	be	legibly	
+displayed	on	signs	or	in	signing	sequences	and	still	be	readily	comprehended	by	road	users.	Such	factors	to	
+consider	when	evaluating	alternatives	for	managed	lanes	are	locations	of	signs	for	general-purpose	interchanges	
+and	for	other	roadway	conditions,	the	number	of	intermediate	access	points	between	the	managed	and	general-
+purpose	lanes	and	the	need	to	repeat	the	operational	information,	and	the	distance	over	which	a	signing	sequence	
+that	displays	all	of	the	eligibility	requirements	can	be	displayed.
+03  Because	managed	lanes	have	the	capability	to	employ	a	variety	of	operational	strategies	on	a	changing	basis,	
+it	is	not	practical	to	assign	a	naming	convention	to	such	lanes	for	the	purpose	of	signing	based	on	the	specific	
+operational	management	strategies,	as	is	more	readily	accomplished	with	other	types	of	preferential	lanes,	such	
+as	HOV ,	bus,	or	bicycle	lanes.	Instead,	the	various	requirements,	restrictions,	and	eligibility	criteria	are	more	
+appropriately	conveyed	through	a	sequence	of	regulatory	and	guide	signs	with	a	more	encompassing	designation	
+for the purpose of providing directional information.
+04  As	priced	managed	lanes	have	become	prevalent	as	an	operational	strategy ,	it	is	important	to	maintain	a	
+uniform	naming	convention	to	distinguish	those	lanes	that	are	an	alternative	to	travel	on	adjacent	general-purpose	
+lanes	on	the	same	designated	route	to	effectively	communicate	to	motorists	the	range	of	basic	requirements	for	
+similar facilities in different regions.
+Standard:
+05  Priced managed lanes that are adjacent to general-purpose lanes along the same designated route shall 
+be signed using the legend EXPRESS LANE(S) as provided in this Chapter. This provision shall apply 
+when any of the following operational strategies is used for a managed lane:
+A. All users of the managed lane are charged a fixed or variable toll;
+B. General-purpose traffic using the managed lane is charged a fixed or variable toll, but HOV traffic 
+is allowed to travel without being charged a toll on either a full-time or part-time basis;
+C. General-purpose traffic using the managed lane is charged a fixed or variable toll, but HOV traffic 
+is offered a discounted toll on either a full-time or part-time basis; or
+D. General-purpose traffic using the managed lane is charged a fixed or variable toll, but HOV traffic 
+registered with a local program travels at a discounted toll or without being charged a toll on either 
+a full-time or part-time basis (a transponder or other identifier is typically required of HOVs to 
+indicate registration in conjunction with electronic or visual enforcement and verification of vehicle 
+occupancy).
+Page 434	 MUTCD	11th	Edition
+
+=== PDF PAGE 31 ===
+December 2023
+    
+06  The legends EXPRESS and EXPRESS LANE(S) shall not be used on signs for entrances to highways 
+on which all lanes are managed and there are no adjacent general-purpose lanes on the same designated 
+route. The legends EXPRESS and EXPRESS LANE(S) shall not be used on signs for a managed ramp 
+connection that provides an alternative to a general-purpose ramp connection (see Figure 2F-13), except 
+where the ramp leads directly to a managed lane as described in Section 2G.14. The legends EXPRESS and 
+EXPRESS LANE(S) shall not be used on signs for open-road tolling lanes that bypass a conventional toll 
+plaza (see Chapter 2F).
+Section 2G.18  Regulatory Signs for Priced Managed Lanes
+Standard:
+01  Except as otherwise provided in this Section, the provisions of Sections 2G.03 through 2G.07 regarding 
+regulatory signs for Preferential lanes shall apply to priced managed lanes operated at all times or at 
+certain times with a toll payment requirement of some or all vehicles to use the lane(s). Such managed 
+lanes shall use changeable message signs or changeable message elements within static signs to display the 
+appropriate regulatory sign messages only when they are in effect.
+02  Regulatory signs for preferential lanes shall be appropriately modified for adaptation to a priced 
+managed lane, where applicable, as shown in Figure 2G-18.
+03  Regulatory signs shall be used to indicate the toll charged. If the toll varies the R3-48 and R3-48a signs 
+that are shown in Figure 2G-18 shall be used to display the actual toll amount in effect at any given time.
+04  When only vehicles with a registered ETC account are allowed to use a managed lane where some or 
+all vehicles are charged a toll, regulatory signs to indicate such a restriction shall be provided and shall 
+incorporate the pictograph adopted by the toll facility’s ETC payment system and the word ONLY (see 
+Section 2G.19 for the incorporation of such regulatory legends into the guide signs for the entrances to such 
+facilities). The display of the ETC system pictograph shall comply with the provisions of Sections 2F.02 and 
+2F.03 as shown in Figures 2G-18 and 2G-19.
+05  When HOV traffic is allowed to use a priced managed lane without paying a toll and registration in 
+a local program is not required to receive the toll exemption, the Vehicle Occupancy Definition (R3-10 or 
+R3-13) signs (see Section 2G.04) shall be modified to delete the diamond symbol to create priced managed 
+lane Vehicle Occupancy Definition (R3-40 and R3-43) signs to indicate the minimum occupancy related to 
+the management strategy (see Figure 2G-19).
+06  A priced managed lane HOV Lane Operation (R3-44 or R3-44a) sign (see Figure 2G-18) shall be 
+installed at the beginning or initial entry point, and at any intermediate entry points where vehicles are 
+allowed to legally enter an access-restricted priced managed lane.
+07  When the vehicle occupancy required for non-toll use of a managed lane is varied as a part of a priced 
+managed lane operational strategy, regulatory signs that include changeable message elements shall be used 
+to display the required vehicle occupancy in effect for non-toll travel.
+Option:
+08  Where	registration	in	a	local	program	or	ETC	account	is	required	for	HOV	traffic	to	travel	in	a	priced	
+managed	lane	without	being	charged	a	toll	or	by	being	charged	a	discounted	toll,	such	information	may	be	
+displayed	on	a	separate	sign	within	the	sequence	of	the	required	regulatory	and	guide	signs.
+Standard:
+09  R3-42 series and R3-45 series signs (see Figure 2G-18) shall be installed in accordance with the 
+provisions of Section 2G.07 to indicate the termination of a priced managed lane or restriction. The R3-42, 
+R3-42a, and R3-45 signs shall be used only where the managed lane and restriction end and traffic must 
+merge into the general-purpose lanes. The R3-42b, R3-42c, and R3-45a signs shall be used only where the 
+managed lane restriction ends and the lane becomes a general-purpose lane.
+Section 2G.19  Guide Signs for Priced Managed Lanes
+Standard:
+01  Except as otherwise provided in this Section, guide signs for barrier-separated, buffer-separated, and 
+contiguous managed lanes shall follow the specific provisions for Preferential Lane guide signs contained 
+in Sections 2G.10 through 2G.15. Except as otherwise provided in this Section, guide signs for highways on 
+which all lanes are managed shall follow the general provisions for freeway and expressway guide signs as 
+contained in Chapter 2E as a whole. Guide signs for highways on which all lanes are managed and tolling 
+or pricing is used as a management strategy shall follow the applicable provisions for toll road guide signs 
+as contained in Chapter 2F, in addition to the general provisions of Chapter 2E.
+02  If fixed or variable tolls are used as an operational strategy for a managed lane, the guide signs shall 
+comply with the provisions of Sections 2F.02, 2F.03, and 2F.17 regarding the use, size, and placement of 
+ETC-account pictographs.
+Sect. 2G.17 to 2G.19
+MUTCD	11th	Edition	 Page	435
+
+=== PDF PAGE 32 ===
+December 2023
+    Sect. 2G.19
+Figure 2G-18.  Regulatory Signs for Managed Lanes
+Notes:
+ 1.  The ETC pictograph shown is an example only. The 
+pictograph for the toll facility's adopted ETC system 
+shall be used.
+ 2.  Changeable message sign elements shall be used 
+for the numerals displayed for the variable tolls. R3-48
+R3-40 R3-42 R3-42a R3-42b R3-42c
+R3-43 R3-44 R3-44a
+R3-45 R3-45a
+Example of a regulatory sign with
+changeable message elementsR3-48a
+Page 436	 MUTCD	11th	Edition
+
+=== PDF PAGE 33 ===
+December 2023
+    Sect. 2G.19
+03  Guide signs at the initial and intermediate entry points to a priced managed lane in which all general-
+purpose passenger vehicles are allowed shall include the legend EXPRESS LANE(S). Except as provided 
+in Paragraph 5 of this Section, the guide signs shall incorporate the pictograph of the ETC account system 
+into a header panel within the guide sign in accordance with Sections 2F.02, 2F.03, and 2F.17. For a priced 
+managed lane that allows non-toll travel by HOV traffic without registration in a local program, the header 
+panel shall be modified to a regulatory format to display both the pictograph of the ETC account system 
+and the minimum occupancy requirement for non-toll travel with a black legend on a white background 
+(see Figure 2G-19).
+04  Guide signs at the initial and intermediate entry points to a managed lane that allows only HOV traffic 
+with either a fixed or variable occupancy requirement shall follow the provisions of Sections 2G.10 through 
+2G.12 and 2G.14.
+05  If registration in a toll-account program is not required for travel in a managed lane in which tolls 
+are charged, then the ETC-account pictographs shall not be displayed on primary guide signs directing 
+traffic to the managed lane. In such cases, the purple header panel shall be replaced with a warning header 
+panel with a black legend and border on a yellow background displaying the word TOLL as illustrated in 
+Figure 2G-20.
+Option:
+06  If	the	managed	lane	does	not	accept	toll	payments	from	an	ETC	account	system	and	collects	tolls	only	by	post-
+travel	billing	of	registered	vehicle	owners,	then	the	legend	TOLL	BILLED	BY	MAIL	ONL Y	may	be	displayed	
+on	a	separate	information	sign	within	the	sequence	of	primary	guide	signs	in	advance	of	the	entrance	to	the	
+managed lane.
+07  If	the	managed	lane	accepts	payments	from	registered	ETC	accounts,	but	does	not	require	registration	to	use	
+the	lane,	then	the	pictographs	of	the	accepted	ETC	account	programs	may	be	displayed	on	a	separate	information	
+sign	within	the	sequence	of	primary	guide	signs	in	advance	of	the	entrance	to	the	managed	lane.	The	information	
+sign	may	also	display	the	legend	TOLL	BILLED	BY	MAIL	OR in	addition	to	the	pictograph	of	the	accepted	ETC	
+account program.
+Support:
+08  Figure	2G-19	shows	examples	of	Guide	signs	for	entrances	to	priced	managed	lanes	and	other	ETC	account-
+only	toll	facilities	that	incorporate	header	panels	with	ETC	account	pictographs	and	regulatory	legends.
+09  Figures	2G-21 through 2G-24	show	examples	of	guide	signs	for	various	configurations	of	initial	and	
+intermediate entrances to a priced managed lane.
+Figure 2G-19.  Examples of Guide Signs for Entrances to Priced Managed Lanes
+Notes:
+ 1. The ETC pictographs shown are examples 
+only. The pictograph for the toll facility’s 
+adopted ETC system shall be used.
+ 2. The examples shown are for facilities on 
+which registration in a toll account program 
+is required for toll payments.
+B – Direct entrance to a priced managed lane from a crossroad
+A – Entrance to a priced managed lane from a general-purpose lane
+MUTCD	11th	Edition	 Page	437
+
+=== PDF PAGE 34 ===
+December 2023
+     Sect. 2G.19
+Figure 2G-20.  Example of Signing for the Entrance to an Access-Restricted 
+Priced Managed Lane on which Registration in a Toll Account Program Is Not Required
+Notes:
+ 1. For access to a managed lane 
+on the right-hand side, the 
+same signing sequence would 
+be used with adjustments 
+made to sign messages
+ 2. Geometry is for illustrative 
+purposes only; use locally  
+applied geometric criteria
+ 3. The minimum vehicle 
+occupancy requirement and 
+hours of operation on the sign 
+may vary for each facility
+ 4. The basic toll rate for 
+passenger vehicles is 
+displayed. Reduced tolls 
+might be available for 
+registered ETC accounts or 
+high-occupancy vehicles.
+ 5. See Chapter 3E for 
+pavement markings
+Tolls are billed to vehicle
+owners through a license 
+plate character recognition 
+system; the vehicle does not 
+need to be registered in an 
+ETC account. Owners of 
+certain vehicles with ETC 
+accounts might receive
+discounts or toll exemptions.
+Potential location of a 
+Changeable Message Sign 
+(CMS) for reversible or 
+counter-flow operations
+For access-restricted facilities; 
+destinations may be augmented 
+to accompany routes on 
+Interchange Sequence signs  
+(see Figure 2E-10)
+Barrier-separated facilities only
+Managed
+lane General-purpose
+lanes
+1/4 mile
+1/4 mile
+1/2 mile
+1 mile
+1/4 mile
+1/4 mile
+1/4 mile
+1/4 mile
+800 ft
+800 ft
+800 ft
+800 ft
+OR
+(optional)
+(optional)
+OR
+OR
+(optional)
+OR
+OR
+(optional)
+Legend
+Direction of travel
+(optional) (optional)
+Page 438	 MUTCD	11th	Edition
+
+=== PDF PAGE 35 ===
+December 2023
+     Sect. 2G.19
+Figure 2G-21.  Example of Signing for the Entrance to an Access-Restricted 
+Priced Managed Lane – ETC Account Required
+Notes:
+ 1. For access to a managed lane 
+on the right-hand side, the 
+same signing sequence would 
+be used with adjustments made 
+to sign messages
+ 2. Geometry is for illustrative 
+purposes only; use locally  
+applied geometric criteria
+ 3. The minimum vehicle 
+occupancy requirement and 
+hours of operation on the sign 
+may vary for each facility
+ 4. See Chapter 3E for 
+pavement markings
+(1)  All vehicles must have a registered 
+ETC account. Toll discounts or 
+exemptions through a registration 
+program might be applicable for 
+certain vehicles.
+(2)  All vehicles except HOVs must 
+have a registered ETC account. If 
+registration is required for non-toll 
+travel by HOV traffic, case (1) 
+signing shall be used.
+Potential location of a Changeable 
+Message Sign (CMS) for reversible 
+or counter-flow operations
+For access-restricted facilities; 
+destinations may be augmented to 
+accompany routes on Interchange 
+Sequence signs (see Figure 2E-10)
+Barrier-separated facilities only
+Managed
+lane General-purpose
+lanes
+1/4 to 1/3 mile
+1/4 to 1/3 mile
+1/4 to 1/3 mile
+1 mile
+1/4 mile
+1/4 mile
+1/4 mile
+1/4 mile
+800 ft
+OR
+OR
+OR
+OR
+OR
+OR
+R3-44aR3-44
+(1)
+800 ft
+800 ft
+(2)
+OR
+(1)
+(2)
+(1) (2)
+(1) (2)
+(2)
+R3-48aR3-48
+(1)
+R3-48 (optional)
+(1)
+R3-48a (optional)
+(2)
+(2)
+(optional)
+(2)
+(optional)
+(1)
+(2)
+R3-43
+(2)
+R3-40
+(2)
+Legend
+Direction of travel
+MUTCD	11th	Edition	 Page	439
+
+=== PDF PAGE 36 ===
+December 2023
+     Sect. 2G.19
+1 mile
+1/2 mile
+1/2 mile
+Managed
+lane
+800 ft
+MIN.
+OR OR
+(1) (2) (3)
+R3-44 R3-44a
+OR OR
+OR OR
+(1)
+(1)
+(3) (3)
+(2)
+(3)
+(2) (3)
+ (1) All vehicles must have a registered 
+ETC account. Toll discounts or 
+exemptions through a registration 
+program might be applicable for 
+certain vehicles.
+ (2) All vehicles except HOVs must 
+have a registered ETC account. 
+If registration is required for non-toll 
+travel by HOV traffic, case (1) 
+signing shall be used.
+ (3) No registration in an ETC account 
+is required. Tolls are billed by mail 
+to vehicle owners through a license 
+plate recognition system. ETC 
+account payment might also be 
+accepted by the system.
+Notes:
+ 1. For access to a managed lane 
+on the right-hand side, the 
+same signing sequence would 
+be used with adjustments 
+made to sign messages
+ 2. Geometry is for illustrative 
+purposes only; use locally 
+applied geometric criteria
+ 3. The minimum vehicle 
+occupancy requirement and 
+hours of operation on the sign 
+may  vary for each facility
+ 4. See Chapter 3E for 
+pavement markings
+ 5. See Figure 2G-21 for 
+additional signing
+Potential location of a Changeable 
+Message Sign (CMS) for reversible 
+or counter-flow operations
+Barrier-separated facilities only
+Figure 2G-22.  Example of Signing for the Entrance to an Access-Restricted Priced 
+Managed Lane Where a General-Purpose Lane Becomes the Managed Lane
+800 ft
+min.
+800 ft
+min.
+OR
+(3) (3)
+(optional) (optional)
+OR
+OR OR
+(1) (2)
+(3)
+OR OR
+(3)
+(2)(1)
+R3-44b
+(optional)
+Legend
+Direction of travel
+General-purpose
+lanes
+Page 440	 MUTCD	11th	Edition
+
+=== PDF PAGE 37 ===
+December 2023
+     Sect. 2G.19
+General-purpose
+lanes 
+Figure 2G-23.  Example of Signing for an Intermediate Entry to a
+Barrier-Separated or Buffer-Separated Priced Managed Lane
+Managed
+lane
+800 ft
+MIN.
+1/2 mile
+1/2 mile
+800 ft
+MIN.
+800 ft
+MIN.
+800 ft
+to
+1/4 mile
+OR
+(1) (2)
+R3-44 R3-44a
+(2)
+R3-43
+OR
+(optional)
+(1) OR (2)
+OR
+OR
+R3-48a (optional)R3-48 (optional)
+(1)
+(2)
+OR
+(1)
+(2)
+OR
+(1) (2)
+OR
+(1)
+(2)
+R3-48 R3-48a
+(optional)
+(1) (2)
+Notes:
+ 1.  For access to a managed lane 
+on the right-hand side, the 
+same signing sequence would 
+be used with adjustments 
+made to sign messages
+ 2.  Geometry is for illustrative 
+purposes only; use locally 
+applied geometric criteria
+ 3.  The minimum vehicle 
+occupancy requirement and 
+hours of operation on the sign 
+may vary for each facility
+ 4.  See Chapter 3E for 
+pavement markings
+ 5.  Warning signs are not shown
+ (1) All vehicles must have a 
+registered ETC account. Toll 
+discounts or exemptions 
+through a registration program 
+might be applicable for certain 
+vehicles.
+ (2) All vehicles except HOVs must 
+have a registered ETC account. 
+If registration is required for 
+non-toll travel by HOV traffic, 
+case (1) signing shall be used.
+Legend
+Direction of travel
+MUTCD	11th	Edition	 Page	441
+
+=== PDF PAGE 38 ===
+December 2023
+     Sect. 2G.19
+Figure 2G-24.  Example of Signing for the Intermediate Entry to, Egress from,
+and End of Access-Restricted Priced Managed Lanes 
+General-purpose
+lanes 
+0.25 L
+to
+0.5 L
+L
+800 ft
+MIN.
+1/2 mile
+1/2 mile
+800 ft
+MIN.
+800 ft
+MIN.
+800 ft
+to
+1/4 mile
+OR
+(1) (2)
+1/2 mile
+Managed
+lane
+R3-45
+R3-42a
+R3-44 R3-44a
+OR
+OR
+(1) (2)
+(optional)
+(1) (2)
+(optional)
+(1) OR (2)
+OR
+(2)(1)
+OR
+OR
+OR
+(1)
+(2)
+(2)
+R3-48 R3-48a
+Notes:
+ 1. Geometry is for illustrative 
+purposes only
+ 2. The minimum vehicle 
+occupancy requirement and 
+hours of operation on the sign 
+may vary for each facility
+ 3. See Chapter 3E for 
+pavement markings
+ 4. Warning signs are not shown
+Barrier-separated
+facilities only
+Legend
+Direction of travel
+Barrier, buffer, or contiguous
+access prohibition
+ (1) All vehicles must have a 
+registered ETC account. Toll 
+discounts or exemptions through 
+a registration program might be 
+applicable for certain vehicles.
+ (2) All vehicles except HOVs must 
+have a registered ETC account. 
+If registration is required for 
+non-toll travel by HOV traffic, 
+case (1) signing shall be used.
+OR
+(1)
+(2)
+R3-48 (optional) R3-48a (optional)
+R3-43
+Legend
+Direction of travel
+Page 442	 MUTCD	11th	Edition
+
+=== PDF PAGE 39 ===
+December 2023
+     Sect. 2G.19
+Guidance:
+10  Exit Destination supplemental guide signs, identifying final destination and downstream exit locations 
+accessible from the managed lane (see Figure 2G-25), should be installed in advance of the initial entry points 
+to priced managed lanes. These signs should be located in accordance with the provisions of Paragraph 6 of 
+Section 2G.11.
+11  For managed lanes that are available as an alternative to travel on adjacent general-purpose lanes on the 
+same designated route, changeable message signs indicating the comparative travel times or congestion levels 
+using the managed lanes versus the general-purpose lanes (see Figure 2G-26) should be installed in advance of 
+the initial and intermediate entry points to the managed lanes.
+Option:
+12  Changeable	message	signs	may	also	be	used	on	non-managed	highways	to	display	comparative	travel	times	or	
+congestion	levels	for	a	nearby	managed	highway.
+Standard:
+13  The use and locations of guide signs for intermediate egress locations and direct exits from a priced 
+managed lane (see Figures 2G-24 and 2G-27 through 2G-29) shall comply with the provisions of Sections 
+2G.13 and 2G.15. The signs shall be suitably modified to display header messages of white legend on a green 
+background that relate the guide sign legends to the managed lane(s) as appropriate in accordance with the 
+following:
+A. Post-mounted or overhead-mounted Advance Guide signs for intermediate egress to the general-
+purpose lanes shall include the legend LOCAL EXITS in a header panel within the guide signs, 
+destination information or the exit number(s) for the next exit(s) accessible from the general-purpose 
+lanes, and the appropriate distance information to the location of the egress (see Figure 2G-27).
+Figure 2G-25.  Example of an Exit Destinations Sign
+for a Managed Lane
+Figure 2G-26.  Example of a Comparative Travel Time 
+Information Sign for Preferential or Managed Lanes
+Note: CMS elements shall be 
+used for the numerals 
+displayed for the 
+estimated travel times.
+MUTCD	11th	Edition	 Page	443
+
+=== PDF PAGE 40 ===
+December 2023
+    Sect. 2G.19
+1/2 mile
+1/2 mile
+General-purpose
+lanes 
+Managed
+lane Legend
+Direction of travel
+Notes:
+ 1.  For an exit on the left-hand side from a 
+managed lane, the same signing sequence 
+would be used with adjustments made to 
+sign messages
+ 2.  Geometry is for illustrative purposes only; 
+use locally applied geometric criteria
+ 3.  See Chapter 3E for pavement markings
+ 4.  Warning signs are not shown
+OR
+OR
+OR
+OR
+Figure 2G-27.  Examples of Guide Signs for an Intermediate Egress
+from a Barrier-Separated or Buffer-Separated Managed Lane
+I-80
+Page 444	 MUTCD	11th	Edition
+
+=== PDF PAGE 41 ===
+December 2023
+     Sect. 2G.19
+Local street
+Figure 2G-28.  Examples of Guide Signs for Direct Managed Lane
+Entrance and Exit Ramps
+Notes:
+ 1. See Chapter 3E for 
+pavement markings
+ 2. Sign locations are 
+approximate
+ 3. The managed lane could 
+be barrier-separated, 
+buffer-separated, 
+or contiguous
+ 4. See Figures 2G-30 and 
+2G-31 for examples of 
+signs for the direct 
+entrance to the managed 
+lane from the crossroad
+For access-restricted 
+facilities; destinations 
+may be augmented to 
+accompany routes on 
+Interchange Sequence 
+signs (see Figure 2E-10)
+1/2 mile
+1 mileGeneral-
+purpose
+lanes
+General-
+purpose
+lanesManaged
+lane
+OR
+(all exits displayed are to the left)
+1/2 mile
+Legend
+Direction of travel
+MUTCD	11th	Edition	 Page	445
+
+=== PDF PAGE 42 ===
+December 2023
+     Sect. 2G.19
+Figure 2G-29.  Examples of Guide Signs for a Direct Access Ramp
+between Managed Lanes on Separate Freeways
+For access-restricted facilities
+Notes:
+ 1. See Chapter 3E for pavement markings
+ 2. Sign locations are approximate
+ 3. The managed lane could be barrier-separated, 
+buffer-separated, or contiguous
+Legend
+Direction of travel
+I-25 southbound 
+managed lane
+I-25 southbound 
+managed lane
+1 mile
+1/2 mile
+1/2 mile
+Ramp to I-76 
+eastbound managed 
+lane or I-76 eastbound 
+general-purpose lanes
+Page 446	 MUTCD	11th	Edition
+
+=== PDF PAGE 43 ===
+December 2023
+     Sect. 2G.19 to 2G.21
+B. Post-mounted or overhead-mounted Intermediate Egress Direction signs shall include the legend 
+LOCAL EXITS in a header panel within the signs, the destination information or the exit number(s) 
+of the next exit(s) accessible from the general-purpose lanes, and a diagonally upward-pointing 
+directional arrow (see Figure 2G-27).
+C. For direct exits to another roadway, the legend EXPRESS EXIT shall be used on the Advance 
+Guide and Exit Direction signs (see Figure 2G-28).
+D. For Pull-Through signs, the legend EXPRESS LANE(S) shall be used, either as a header panel 
+within the Pull-Through sign or as the principal legend of the sign without a header panel 
+(see Figures 2G-27 through 2G-29).
+Support:
+14  Section	2G.13	contains	information	on	the	use	of	overhead-mounted	guide	signs	for	intermediate	egress	to	the	
+general-purpose	lanes.
+15  Figures	2G-30 and 2G-31 show examples of guide signing for direct entrances to a priced managed lane from 
+a crossroad or surface street.
+Section 2G.20  Signs for Part-Time Travel on a Shoulder – General
+Support:
+01  In	some	cases,	paved	shoulders	are	allowed	to	be	used	for	driving	use	during	peak	periods	to	manage	
+congestion.	Configurations	might	be	on	freeways	and	expressways,	as	well	as	on	conventional	roads.	Travel	on	the	
+shoulder	during	these	periods	might	be	restricted	to	certain	classes	of	vehicles,	such	as	buses	or	HOV ,	or	might	
+be	open	to	general	traffic.	When	the	part-time	travel	on	a	shoulder	is	limited	to	certain	classes	of	vehicles,	the	
+signing is similar to that for preferential lanes. Additional signing is typically used to advise road users that the 
+shoulder	is	not	available	for	emergency	use	during	these	periods.	Part-time	travel	on	a	shoulder	might	also	employ	
+lane-use	control	signals	and/or	blank-out	signs	to	inform	traffic	of	the	allowable	use	of	the	shoulder.	Depending	
+on	the	design	of	exit	ramp	terminals	and	auxiliary	lanes,	guide	signs	must	account	for	exit	maneuvers	during	both	
+shoulder	use	conditions	and	might	necessitate	changeable	legend	elements.	However,	additional	guide	signs	are	
+not	normally	necessary	specifically	for	the	condition	when	the	shoulder	is	used	for	travel.	The	pavement	markings	
+might	also	be	modified	where	travel	allowed	on	the	shoulder	begins	and	ends.
+02  Figure	2G-32	shows	an	example	of	signing	for	part-time	travel	on	a	shoulder.
+Standard:
+03  A shoulder that has been opened to travel on a permanent, full-time basis shall be considered a travel 
+lane and shall be signed and marked in accordance with other provisions of this Manual.
+Support:
+04  Section 3E.04 contains provisions regarding the placement of markings on paved shoulders that are open for 
+part-time	travel.
+Section 2G.21  Regulatory Signs and Plaques for Part-Time Travel on a Shoulder
+Standard:
+01  Regulatory signs shall be used to notify road users of the periods of operation that travel is allowed on 
+a paved shoulder. The Part-Time Travel on Shoulder Operation (R3-51) sign (see Figure 2G-32) shall be 
+used where traffic is allowed to travel on the shoulder during certain fixed periods of operation. The Part-
+Time Travel on Shoulder Variable Operation (R3-51d) sign (see Figure 2G-32) with two flashing beacons 
+(see Chapter 4S) mounted above it shall be used when the period of operation is variable.
+02  If certain classes of vehicles are not allowed to use the shoulder during these periods, then a Selective 
+Exclusion (R3-51aP or R3-51bP) plaque shall be mounted below the R3-51 or R3-51d sign. If the travel 
+on the shoulder is restricted to certain classes of vehicles, then the regulatory signs shall display that 
+information.
+Option:
+03  The	EMERGENCY	STOPPING	ONL Y	OTHER	TIMES	(R3-51cP)	plaque	may	be	mounted	below	the	R3-51	
+sign	if	the	R3-51aP	or	R3-51bP	plaque	is	not	used.
+Guidance:
+04  The TRAVEL ON SHOULDER BEGINS 1⁄2 MILE (R3-52c) sign should be used in advance of the location 
+where part-time travel on shoulder first begins and followed by the DO NOT DRIVE ON SHOULDER (R4-17) 
+sign appropriately spaced downstream.
+MUTCD	11th	Edition	 Page	447
+
+=== PDF PAGE 44 ===
+December 2023
+     Sect. 2G.21
+Figure 2G-30.  Examples of Guide Signs for a Direct Entrance Ramp to a Priced 
+Managed Lane and Trailblazing to a Nearby Entrance to the General-Purpose Lanes
+Managed
+lanes
+General-
+purpose
+lanes
+I-86
+Legend
+Direction of travel
+Page 448	 MUTCD	11th	Edition
+
+=== PDF PAGE 45 ===
+December 2023
+     Sect. 2G.21
+Figure 2G-31.  Examples of Guide Signs for Separate Entrance Ramps to 
+General-Purpose and Priced Managed Lanes from the Same Crossroad
+Managed
+lanes
+General-purpose
+lanes
+I-495
+(optional)
+800 ft
+MIN.
+800 ft
+MIN.
+800 ft
+MIN.
+OR
+Multi-lane approach only
+Legend
+Direction of travel
+MUTCD	11th	Edition	 Page	449
+
+=== PDF PAGE 46 ===
+December 2023
+     Sect. 2G.21
+Figure 2G-32.  Examples of Signing for Part-Time Travel on a Shoulder (Sheet 1 of 4)
+A – Variable operation B – Fixed operation
+ * Lane-use control signals (see Chapter 4T) located every 1/2 mile or less to reaffirm 
+shoulder travel allowed (DOWNWARD GREEN ARROW) or prohibited (RED X).
+ ** A post-mounted TRAVEL ON SHOULDER ALLOWED WHEN FLASHING sign (R3-51d) 
+with beacons may be used lieu of lane-use control signals at the same intervals
+ *** The R3-51 sign is located every 1/2 mile or less to affirm when travel on shoulder is 
+allowed for fixed period applications.
+R8-7
+R4-17
+R4-17
+R3-52
+R
+Y
+G
+R3-52a
+(Optional)
+R3-52c
+R3-51e
+R3-51d
+R3-51cP
+R8-7
+R4-17
+R4-17
+R3-52
+R3-52a
+R3-52c
+R3-51
+R3-51cP
+R3-51
+R3-51cP
+Note: Consideration should be given to using 
+blank-out signs in place of the R3-51 
+and R3-52 series conventional signs 
+for part-time operations.
+Legend
+Direction of travel
+Page 450	 MUTCD	11th	Edition
+
+=== PDF PAGE 47 ===
+December 2023
+     Sect. 2G.21
+Figure 2G-32.  Examples of Signing for Part-Time Travel on a Shoulder (Sheet 2 of 4)
+R3-51
+R3-51
+W13-2
+W4-1R
+*
+* Optional supplemental
+ W3-9 sign on left
+Advisory Exit Speed sign 
+shown for reference only
+R3-57P
+R1-2
+R3-56
+C – Signing at interchange ramps
+Note: Consideration should be given to 
+using blank-out signs in place of the 
+R3-51 and R3-52 series conventional 
+signs for part-time operations.
+Legend
+Direction of travel
+W3-9
+MUTCD	11th	Edition	 Page	451
+
+=== PDF PAGE 48 ===
+December 2023
+     Sect. 2G.21
+Figure 2G-32.  Examples of Signing for Part-Time Travel on a Shoulder (Sheet 3 of 4)
+R3-51
+R3-51cP
+D17-5
+D17-6
+R3-52a
+R8-7
+R8-7
+R3-52
+R4-17
+D – Emergency turnout signing for travel on shoulder applications
+Note: Consideration should be given to using 
+blank-out signs in place of the R3-51 
+and R3-52 series conventional signs 
+for part-time operations.
+Legend
+Direction of travel
+Page 452	 MUTCD	11th	Edition
+
+=== PDF PAGE 49 ===
+December 2023
+     Sect. 2G.21
+Figure 2G-32.  Examples of Signing for Part-Time Travel on a Shoulder (Sheet 4 of 4)
+R8-7
+R4-17
+R3-52
+W13-2
+R3-52b
+R3-51
+Advisory Exit 
+Speed sign 
+shown for 
+reference only
+Blank-out section off
+Shoulder closed to travel
+Blank-out section on
+Travel allowed on shoulder
+Blank-out section off
+Shoulder closed to travel
+Blank-out section on
+Travel allowed on shoulder
+E – Travel on shoulder ends at an interchange exit ramp
+Legend
+Direction of travel
+Note: Consideration should be given to using 
+blank-out signs in place of the R3-51 
+and R3-52 series conventional signs 
+for part-time operations.
+MUTCD	11th	Edition	 Page	453
+
+=== PDF PAGE 50 ===
+December 2023
+    Sect. 2G.21 to 2G.23
+Standard:
+05  Approximately 1⁄2 mile from where part-time travel on shoulder ends, the TRAVEL ON SHOULDER 
+ENDS (R3-52a) sign shall be used. At the location provided for traffic to transition from shoulder travel 
+back to permanent highway lane travel, an END TRAVEL ON SHOULDER (R3-52) sign shall be used. 
+After this transition location a DO NOT DRIVE ON SHOULDER (R4-17) sign shall be used.
+Guidance:
+06  Where a shoulder that allows part-time travel is interrupted by a deceleration lane for an exit, the BEGIN 
+EXIT LANE (R3-56) sign should be used at the beginning of the deceleration lane where traffic is allowed to 
+enter during the periods that travel is prohibited on the shoulder.
+07  On a conventional road where a shoulder that is open to part-time travel becomes a mandatory turn lane, 
+the BEGIN RIGHT TURN LANE (R3-20R) sign should be post-mounted on the right-hand side of the roadway 
+at the upstream end of the turn lane taper of a mandatory right-turn lane. Where the shoulder is on the left-hand 
+side of the roadway, the BEGIN LEFT TURN LANE (R3-20L) sign may be post-mounted on a median (or on the 
+left-hand side of the roadway for a one-way street) at the upstream end of the turn lane taper of a mandatory 
+left-turn lane.
+08  Where turn-outs are provided for emergency stopping during periods when travel is allowed on the shoulder, 
+the EMERGENCY STOPPING ONLY (R8-7) sign (see Section 2B.52) should be used adjacent to the turn-out (see 
+Drawing D in Figure 2G-32).
+09  Where traffic on an entrance ramp is required to yield to traffic using the shoulder of the freeway or expressway 
+mainline during the periods when travel is allowed on the shoulder, the TO TRAFFIC ON SHOULDER (R3-57P) 
+plaque should be mounted below the YIELD (R1-2) sign (see Section 2B.05 and Drawing C in Figure 2G-32).
+Section 2G.22  Warning Signs for Part-Time Travel on a Shoulder
+Guidance:
+01  The Traffic Using Shoulder (W3-9) sign should be used on a ramp that enters a freeway or expressway on 
+which part-time travel is allowed on the shoulder. When used, the W3-9 sign should be located on the right-hand 
+side of the ramp from which the shoulder traffic approaches (see Drawing C in Figure 2G-32).
+Option:
+02  A	second	W3-9	sign	may	be	used	on	the	left-hand	side	of	the	ramp	opposite	the	W3-9	sign	on	the	right-hand	
+side	of	the	ramp	to	provide	greater	visibility	to	oncoming	traffic.
+03  The	W3-9	sign	may	be	used	on	a	conventional	road	that	is	required	to	stop	for	or	yield	to	the	through	street	or	
+highway	on	which	part-time	travel	is	allowed	on	the	shoulder.
+Section 2G.23  Guide Signs for Part-Time Travel on a Shoulder
+Support:
+01  Guide	signs	for	part-time	travel	on	a	freeway	or	expressway	shoulder	generally	consist	of	the	typical	
+interchange	guide	sign	sequence	(see	Chapter	2E).	While	specialized	guide	signs	are	not	normally	necessary ,	
+modifications	to	the	typical	guide	signs	might	be	necessary ,	especially	where	an	interchange	lane	drop	is	created	
+only during the periods when the shoulder is open to travel.
+Standard:
+02  Where an interchange lane drop is created only during the periods when a shoulder is open to travel, 
+the Advance and Exit Direction guide signs (see Sections 2E.23 and 2E.25) shall be overhead-mounted 
+and shall be modified to include a blank-out or changeable EXIT ONLY message that complies with the 
+provisions of Section 2E.28 and is displayed only during the periods that the shoulder is open to travel 
+(see Drawing E in Figure 2G-32).
+03  Guide signs located in conjunction with part-time travel on a shoulder shall otherwise comply with 
+the provisions of Chapters 2D and 2E.
+Guidance:
+04  Where turn-outs are provided for emergency stopping during periods when travel is allowed on the shoulder, 
+the Emergency Turn-Out Directional (D17-6) sign (see Drawing D in Figure 2G-32) should be used as provided 
+in Section 2D.54.
+Page 454	 MUTCD	11th	Edition
+
+=== PDF PAGE 51 ===
+December 2023
+    Sect. 2G.24 to 2G.25
+Section 2G.24  Lane-Use Control Signals for Part-Time Travel on a Shoulder
+Support:
+01  Lane-use	control	signals	(see	Chapter	4T)	are	sometimes	used	for	part-time	travel	on	a	paved	shoulder	
+(see	Drawing	A	in	Figure	2G-32),	in	addition	to	signs,	to	indicate	the	allowable	use	of	the	shoulder.
+Option:
+02  Overhead	lane-use	control	signals	may	be	used	above	a	shoulder	on	which	part-time	travel	is	allowed.
+Standard:
+03  Except as otherwise provided in this Section, lane-use control signals that are used for part-time travel 
+on a shoulder shall comply with the provisions of Chapter 4T. When used for part-time travel on a shoulder, 
+lane-use control signals shall not be required above the lanes adjacent to the shoulder. When used for part-
+time travel on a shoulder, a steady RED X signal indication shall be displayed when the shoulder is available 
+for emergency stopping only and travel on the shoulder is otherwise prohibited.
+04  When part-time travel on shoulder is allowed for variable periods of operation, lane-use control signals 
+(see Chapter 4T) shall be used and evenly spaced approximately every 1⁄2 mile or less and centered over the 
+shoulder to indicate when the shoulder is open or closed to vehicle travel. The lane-use control signals shall 
+display a steady DOWNWARD GREEN ARROW signal indication during times when travel is allowed 
+on the shoulder, followed by a steady YELLOW X signal indication just before the shoulder is to be closed 
+to travel, and a steady RED X signal indication when shoulder travel is discontinued. Additionally, during 
+the period when travel is allowed on the shoulder, a lane-use control signal that continuously displays a 
+steady YELLOW X signal indication shall be used approximately 1⁄2 mile in advance of the location where 
+part-time travel on the shoulder ends, and then displays a steady RED X signal indication when the travel 
+on shoulder ends. A lane-use control signal with a steady RED X signal indication shall be displayed at all 
+times at the location where part-time travel on the shoulder ends.
+Option:
+05  For	part-time	travel	on	shoulder	with	variable	periods	of	operation,	post-mounted	TRA VEL	ON	SHOULDER	
+ALLOWED	WHEN	FLASHING	(R3-51d)	signs	(see	Drawing	A	in	Figure	2G-32)	with	flashing	beacons	may	be	
+used	in	lieu	of	the	lane-use	control	signals	at	the	same	intervals.
+06  The	TRA VEL	ON	SHOULDER	ON	GREEN	ARROW	ONL Y	(R3-51e)	sign	(see	Drawing	A	in	Figure	2G-32)	
+may	be	used	with	a	lane-use	control	signal	and	may	be	mounted	adjacent	to	the	signal	head,	elsewhere	on	the	
+signal	support,	or	post-mounted	next	to,	or	in	advance	of,	the	signal.
+Section 2G.25  Lane-Use Control Signals for Active Lane Management on Freeways and Expressways
+Support:
+01  Active	lane	management	is	a	component	of	active	traffic	management	in	which	the	use	of	travel	lanes	and	speed	
+limits	might	be	varied	in	real	time	in	response	to	traffic	conditions	to	manage	congestion.	Active	lane	management	
+might	employ	lane-use	control	signals	(see	Chapter	4T)	and/or	changeable	message	signs	(see	Chapter	2L).	Figure	
+2G-33	shows	an	example	of	lane-use	control	signals	and	variable	Speed	Limit	signs	for	active	lane	management	
+during an incident
+Standard:
+02  Except as otherwise provided in this Section, lane-use control signals that are used for active lane 
+management shall comply with the provisions of Chapter 4T. When used for active lane management on 
+a freeway or expressway, a steady YELLOW X signal indication shall be displayed to warn road users to 
+vacate the lane when the next downstream lane-use control signal over the same lane is displaying a steady 
+RED X signal indication.
+Option:
+03  A	steady	YELLOW	X	signal	indication	may	be	displayed	on	one	or	more	lane-use	control	signals	in	advance	
+of	the	steady	YELLOW	X	signal	indication	required	by	Paragraph	2	of	this	Section	as	conditions	warrant	to	warn	
+road users to vacate the lane.
+Support:
+04  Using	too	many	steady	YELLOW	X	signal	indications	could	diminish	the	effectiveness	of	the	steady	
+YELLOW	X	signal	indication	in	conveying	the	lane	is	closed	a	short	distance	ahead	and	the	road	user	needs	to	
+vacate the lane soon.
+Standard:
+05  When operated in conjunction with a temporary planned lane closure, lane-use control signals shall 
+only supplement the temporary traffic control devices as provided in Part 6 of this Manual.
+MUTCD	11th	Edition	 Page	455
+
+=== PDF PAGE 52 ===
+December 2023
+    
+Figure 2G-33.  Example of Lane-Use Control Signals and Variable Speed Limit Signs
+for Active Lane Management During an Incident
+1/2 mile (typical)
+Lane blocked due
+to incident
+G Y G G
+G R G G
+Changeable
+speed limit 
+display (typical)
+GG G G
+Phase
+1
+CMS
+Phase
+2
+Sect. 2G.25
+Page 456	 MUTCD	11th	Edition
+
+=== PDF PAGE 53 ===
+December 2023
+    Sect. 2G.25 to 2G.26
+Guidance:
+06  Spacing of lane-use control signals for active lane management on freeways and expressways should be at 
+1⁄2-mile intervals. Closer spacing should be used where the viewing distance is limited by the roadway geometry, 
+overcrossings or other sight obstructions, or where traffic entering from intervening interchange ramps is not 
+adequately served by the 1⁄2-mile spacing.
+07  Combining lane-use control signals with overhead sign support structures should be minimized to avoid 
+overloading road users with too much information or conflicting or incorrect messages, such as exclusive lane 
+use or lane drop implied by the display of a steady DOWNWARD GREEN ARROW signal indication below a 
+guide sign.
+Section 2G.26  Variable Speed Limits for Active Traffic Management on Freeways and Expressways
+Support:
+01  Active	traffic	management	on	freeways	and	expressways	might	employ	variable	speed	limits	as	an	element	of	
+an	overall	congestion	management	plan	using	variable	Speed	Limit	(R2-1)	sign	(see	Section	2B.21).
+02  Careful	consideration	is	needed	in	locating	variable	Speed	Limit	signs	along	the	roadway	and	potential	
+positioning	adjacent	to	guide	signs	or	lane-use	control	signals	so	that	the	speed	displayed	is	clearly	associated	with	
+the	lane	or	lanes	intended	to	be	regulated	and	not	other	adjacent	lanes,	ramps,	or	roadways.	This	might	result	in	
+the	need	to	place	variable	Speed	Limit	signs	on	separate	supports	away	from	guide	and	other	signs	or	lane-use	
+control signals.
+Standard:
+03  The regulatory speed displayed on a variable Speed Limit sign shall comply with Paragraph 13 of 
+Section 2B.21 and the “Standard Highway Signs” publication (see Section 1C.05).
+Guidance:
+04  The location and positioning of variable Speed Limit signs should clearly associate the speed displayed to 
+the lane or lanes intended to be regulated such that it would not present a conflict or confusion with other posted 
+speed limits or advisory speeds for adjacent lanes, ramps, or roadways. Variable Speed Limit signs should not be 
+located on overhead guide sign installations (see Section 2E.43).
+05  In addition to the post-interchange Speed Limit sign (see Paragraph 17 of Section 2E.47), the spacing of 
+variable Speed Limit signs on freeways and expressways should be based on an engineering study that considers 
+such factors as recurring congestion, high-volume interchanges, weaving sections, and other location-specific 
+factors that are known to affect travel speeds. The variable Speed Limit signs should be placed far enough 
+in advance of known congestion points to adequately adjust the operating speed to minimize the extent of 
+vehicle queuing.
+MUTCD	11th	Edition	 Page	457
+
+=== PDF PAGE 54 ===
+December 2023
+    Sect. 2G.26
+(This page intentionally left blank)
+Page 458	 MUTCD	11th	Edition

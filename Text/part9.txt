@@ -1,0 +1,2774 @@
+Title: MUTCD Part 9 - Bicycle facilities
+Stored edition/date: December 2023
+Source: Rulebooks/part9.pdf
+Generated text for search. Verify requirements, diagrams, tables, symbols, and quotes in the original PDF.
+Page markers identify physical PDF pages; printed document page numbers may differ.
+
+=== PDF PAGE 1 ===
+December 2023
+    Sect. 9A.01 to 9A.02
+PART 9
+TRAFFIC CONTROL FOR BICYCLE FACILITIES
+CHAPTER 9A.  GENERAL
+Section 9A.01  General
+Support:
+01  Part 9 covers signs and pavement markings specifically related to bicycle operation on roadways, separated 
+bikeways, and shared-use paths. In jurisdictions where small, low-speed, human or electric-powered transportation 
+devices (often referred to as a micromobility devices) are allowed to use bicycle facilities, they can be regulated 
+by signs, pavement markings, and other traffic control devices related to bicycle operations. Part 4 contains 
+information on highway traffic signals and bicycle signal faces. Part 6 contains information on work zones for 
+bicycle facilities and the mitigation of impacts to bicycle travel through work zones.
+02  Definitions and acronyms pertaining to Part 9 are provided in Sections 1C.02 and 1C.03.
+03  When operating on a roadway, bicycles are typically defined as vehicles and the operator of a bicycle is given 
+the same rights and duties as an operator of a motor vehicle. Bicyclists are also vulnerable road users who have 
+little to no protection from crash forces.
+04  Designing bicycle facilities and the traffic control devices on those facilities in a manner that encourages 
+predictable behavior and compliance with traffic laws from all roadway users can improve safety and increase 
+public acceptance of bicyclists from other road users. The misuse of traffic control devices for improperly designed 
+bicycle facilities or non-uniform applications can produce ineffective or counterproductive results. Section 1D.01 
+provides more information on the importance of uniformity of traffic control devices.
+05  The “Bikeway Selection Guide” (FHWA-SA-18-077), FHWA, provides information on the designs and 
+configuration of bicycle facilities.
+Support:
+06  The operation of bicycles is generally allowed on rights-of-way open to motor vehicles, even if the bicycle-
+specific traffic control devices outlined in Part 9 are not present.
+Guidance:
+07  All signs, signals, and markings, including those on bicycle facilities, should be properly maintained to 
+command respect from all road users. When installing signs and markings on bicycle facilities, an agency should 
+be designated to maintain these devices.
+Section 9A.02  Standardization of Application for Signing
+Support:
+01  The installation of nonstandard signing on bikeways or modifying standard signing in a manner inconsistent 
+with Chapter 2A of this Manual to draw special attention, educate users or the community, or brand a bicycle 
+facility can contribute to problems with public acceptance and enforcement.
+Standard:
+02  Bicycle signs shall comply with the provisions of this Manual for standard shape, legend, and color.
+03  All signs installed on bikeways shall be retroreflective, including those on shared-use paths and bicycle 
+lane facilities.
+04  Where signs serve both bicyclists and other road users, vertical mounting height and lateral placement 
+shall be as provided in Sections 2A.15 and 2A.16 of this manual.
+Guidance:
+05  Where used on a shared-use path, no portion of a sign or its support should be placed less than 2 feet 
+laterally from the near edge of the path, or less than 8 feet vertically over the entire width of the shared-use path 
+(see Figure 9A-1).
+06  Mounting height for post-mounted signs on shared-use paths should be a minimum of 4 feet, measured 
+vertically from the bottom of the sign to the elevation of the near edge of the path surface (see Figure 9A-1).
+07  Signs for the exclusive use of bicyclists should be located so that other road users are not confused by them.
+08  The clearance for overhead signs on shared-use paths should be adjusted when appropriate to accommodate 
+path users requiring more clearance, such as equestrians, or typical maintenance or emergency vehicles.
+MUTCD 11th Edition Page 1047
+
+=== PDF PAGE 2 ===
+December 2023
+    Sect. 9A.02 to 9A.03
+Standard:
+09  If the sign or plaque applies to motorists and bicyclists, then the size shall be as shown for conventional 
+roads in Tables 2B-1, 2C-1, 2D-1, and 8B-1, as applicable.
+10  The minimum sign and plaque sizes for signs specific to bicycle-only facilities and shared-use paths 
+shall be those shown in Table 9A-1. These sizes shall be used only for signs and plaques installed specifically 
+for bicyclist applications.
+Option:
+11  Larger sizes of signs and plaques may be used on bicycle facilities when appropriate (see Section 2A.07).
+12  Any diamond-shaped warning sign that is placed such that it is applicable only to bicyclists or pedestrians on 
+shared-use paths or separated bicycle lanes may be 18” x 18”.
+Guidance:
+13  Except for size, the design of signs and plaques for bicycle facilities should be identical to that provided in 
+this Manual for signs and plaques for streets and highways.
+Support:
+14  Uniformity in design of bicycle signs and plaques includes shape, color, symbols, arrows, wording, lettering, 
+and illumination or retroreflectivity.
+Section 9A.03  Standardization of Application for Markings
+Support:
+01  Markings indicate the separation of the lanes for road users, assist the bicyclist by indicating assigned travel 
+paths, indicate correct position for traffic control signal actuation, and provide advance information for turning and 
+crossing maneuvers.
+Guidance:
+02  Pavement marking word messages, symbols, and/or arrows should be used in bikeways where appropriate.
+03  Consideration should be given to selecting pavement marking materials that will minimize loss of traction for 
+bicycles under wet conditions.
+Figure 9A-1.  Sign Placement on Shared-Use Paths
+Overhead sign or
+other traffic control device
+Edge of shared-use path
+Post-mounted sign
+or other traffic
+control device8 ft MIN.
+2 ft
+MIN.
+2 ft
+MIN.
+4 ft
+MIN.
+Page 1048 MUTCD 11th Edition
+
+=== PDF PAGE 3 ===
+December 2023
+    Sect. 9A.03
+Table 9A-1.  Bicycle Facility Sign and Plaque Minimum Sizes (Sheet 1 of 3)
+Sign or Plaque Sign Designation Section Off Roadway 1,5 Roadway2,5
+Stop R1-1 9B.01 18 x 18 —
+Yield R1-2 9B.01 18 x 18 x 18 —
+Bike Lane (plaque) R3-5hP 9B.04 — 30 x 12
+Except Bicycles (plaque) R3-7bP 9B.02 — 24 x 12
+Advance Intersection Lane Control with Bike Lane R3-8x Series 9B.03 — Varies x 36
+Bike Lane R3-17 9B.04 — 24 x 18
+Ahead, Ends (plaques) R3-17aP, R3-17bP 9B.04 — 24 x 9
+Movement Restriction R4-1,2,3,7,16 9B.24 12 x 18 —
+Begin Right Turn Lane Yield to Bikes R4-4 9B.05 — 36 x 30
+Bicycle Passing Clearance R4-19 9B.15 — 30 x 30
+Bicycle Wrong Way R5-1b 9B.06 12 x 18 12 x 18
+No Motor Vehicles R5-3 9B.07 24 x 24 24 x 24
+No Bicycles R5-6 9B.08 18 x 18 —
+On Freeway (plaque) R5-10dP 9B.17 — 24 x 6
+No Parking Bike Lane R7-9,9a 9B.09 — 12 x 18
+Back-In Parking R7-10 9B.10 — 12 x 18
+No Pedestrian Crossing R9-3 9B.08 18 x 18 —
+Ride With Traffic (plaque) R9-3cP 9B.06 12 x 12 12 x 12
+Bicycles Use Pedestrian Signal R9-5 9B.11 12 x 18 12 x 18
+Bicycles Yield to Pedestrians R9-6 9B.12 12 x 18 12 x 18
+Shared-Use Path Restriction R9-7 9B.13 12 x 18* —
+No Skaters R9-13 9B.08 18 x 18 18 x 18
+No Equestrians R9-14 9B.08 18 x 18 18 x 18
+No Snowmobiles R9-15 9B.08 18 x 18 18 x 18
+No All-Terrain Vehicles R9-16 9B.08 18 x 18 18 x 18
+Bicycles Allowed Use of Full Lane R9-20 9B.14 — 30 x 30
+Bicycles Use Shoulder Only R9-21 9B.16 — 24 x 30
+Bicycles Must Exit R9-22 9B.17 — 24 x 30
+Bicycle All Turns from Bike Lane R9-23 9B.18 — 12 x 18
+Bicycle Left Turn from Bike Lane R9-23a 9B.18 — 12 x 18
+Bicycle Left Turn Must Use Turn Box R9-23b, R9-23c 9B.18 — 12 x 18
+Bicycle All Turns R9-24,24a 9B.19 — 24 x 6
+Bicycle U and Left Turns R9-25,25a,25b 9B.19 — 24 x 9
+Bicycle U Turn R9-26,26a,26b 9B.19 — 24 x 6
+Bicycle Left Turn R9-27,27a,27b 9B.19 — 24 x 6
+Push Button for Green R10-4 9B.20 9 x 12 9 x 12
+Left Turn Yield to Bicycle R10-12b 9B.21 — 30 x 36
+Bicycle Detector R10-22 9B.20 12 x 18 12 x 18
+Bike Push Button for Green Light R10-24 9B.20 9 x 15 9 x 15
+Push Button for Warning Lights - Wait for Gap R10-25 9B.20 9 x 12 9 x 12
+Bike Push Button for Green Light (arrow) R10-26 9B.20 9 x 15 9 x 15
+Bicycle Signal R10-40, R10-40a, R10-41, 
+R10-41a, R10-41b, R10-41c 9B.22 12 x 21 12 x 21
+Grade Crossing (Crossbuck) R15-1 9B.23 24 x 4.5 48 x 9
+Number of Tracks (plaque) R15-2P 9B.23 13.5 x 9 27 x 18
+Look R15-8 9B.23 18 x 9 36 x 18
+Horizontal Alignment W1-1,2,3,4,5 9C.01 18 x 18 —
+Large Arrow W1-6,7 9C.01 24 x 12 —
+Intersection Warning W2-1,2,3,4,5 9C.02 18 x 18 —
+MUTCD 11th Edition Page 1049
+
+=== PDF PAGE 4 ===
+December 2023
+    Sect. 9A.03
+Sign or Plaque Sign Designation Section Off Roadway 1,5 Roadway2,5
+Stop Ahead, Yield Ahead, Signal Ahead W3-1,2,3 9C.08 18 x 18 —
+Narrow Bridge W5-2 9C.08 18 x 18 —
+Path Narrows W5-4a 9C.08 18 x 18 —
+Hill W7-5 9C.08 18 x 18 30 x 30
+Bump, Dip W8-1,2 9C.03 18 x 18 —
+Pavement Ends W8-3 9C.03 18 x 18 —
+Bicycle Surface Condition W8-10  9C.03 18 x 18 30 x 30
+Slippery When Wet (plaque) W8-10P  9C.03 12 x 9 12 x 9
+Bicycle Lane Ends W9-5 9C.07 — 30 x 30
+Bicycles Merging W9-5a 9C.07 18 x 18 30 x 30
+Grade Crossing Advance Warning W10-1 9C.08 24 Dia. 36 Dia.
+No Train Horn (plaque) W10-9P 9C.08 18 x 12 30 x 24
+Skewed Crossing W10-12 9C.08 18 x 18 36 x 36
+Bicycle W11-1  9C.04, 9C.08 18 x 18 —
+Pedestrian W11-2 9C.08 18 x 18 —
+Trail Crossing W11-15  9C.04 18 x 18 —
+Trail Crossing (plaque) W11-15P  9C.04 18 x 12 —
+Low Clearance W12-2 9C.08 18 x 18 —
+Playground W15-1 9C.08 18 x 18 —
+In Road (plaque) W16-1P 9C.08 — 18 x 12
+In Street (plaque) W16-1aP 9C.08 — 18 x 12
+XX Feet (2-line plaque) W16-2P 9C.04 18 x 12 —
+XX Ft (1-line plaque) W16-2aP 9C.04 12 x 9 —
+Downward Diagonal Arrow (plaque) W16-7P 9C.04 12 x 9 —
+Ahead (plaque) W16-9P 9C.04 — 24 x 12
+Except Bicycles (plaque) W16-20P 9C.05 — 24 x 12
+2-Way Bicycle Cross Traffic (plaque) W16-21P 9C.06 — 24 x 12
+Object Marker Type 3 OM3-L,C,R 9C.09 6 x 18 12 x 36
+Destination (1 line) D1-1, D1-1a 9D.01 Varies x 6 —
+Bicycle Destination (1 line) D1-1b, D1-1c 9D.01 Varies x 6 Varies x 6
+Destination (2 lines) D1-2, D1-2a 9D.01 Varies x 12 —
+Bicycle Destination (2 lines) D1-2b, D1-2c 9D.01 Varies x 12 Varies x 12
+Destination (3 lines) D1-3, D1-3a 9D.01 Varies x 18 —
+Bicycle Destination (3 lines) D1-3b, D1-3c 9D.01 Varies x 18 Varies x 18
+Distance (1 line) D2-1 9D.01 Varies x 6 —
+Bike Route Destination and Distance (1 Line) D2-1a 9D.01 Varies x 12 Varies x 12
+Distance (2 line) D2-2 9D.01 Varies x 9 —
+Bike Route Destination and Distance (2 Lines) D2-2a 9D.01 Varies x 15 Varies x 15
+Distance (3 line) D2-3 9D.01 Varies x 12 —
+Bike Route Destination and Distance (3 Lines) D2-3a 9D.01 Varies x 18 Varies x 18
+Street Name (1 line) D3-1 9D.01 Varies x 6 Varies x 6
+Street Name (2 lines) D3-1 9D.01 Varies x 12 Varies x 12
+Bicycle Parking Area Directional D4-3  9D.09 18 x 12 18 x 12
+Bicycle-Sharing Station Directional D4-4 9D.09 12 x 18 12 x 18
+Bicycle Lockers Directional D4-4a 9D.09 12 x 18 12 x 18
+Reference Location (1-digit) D10-1 9D.10 6 x 9 —
+Intermediate Reference Location (2-digits) D10-1a 9D.10 6 x 15 —
+Reference Location (2-digits) D10-2 9D.10 6 x 15 —
+Intermediate Reference Location (3-digits) D10-2a 9D.10 6 x 21 —
+Table 9A-1.  Bicycle Facility Sign and Plaque Minimum Sizes (Sheet 2 of 3)
+Page 1050 MUTCD 11th Edition
+
+=== PDF PAGE 5 ===
+December 2023
+    Sect. 9A.03
+Standard:
+04  Pavement markings on bicycle facilities that must be visible at night or in low-light conditions shall be 
+retroreflective unless the markings are adequately visible under provided lighting.
+05  The colors, width of lines, patterns of lines, symbols, and arrows used for marking bicycle facilities shall 
+be as defined in Part 3.
+Support:
+06  Section 3H.06 contains information on green-colored pavement for use with certain traffic control devices for 
+bicycles and bicycle facilities.
+07  Section 9E.17 contains information on the use of channelizing devices to emphasize the pavement markings 
+for bicycle facilities.
+Guidance:
+08  Raised pavement markers should not be used on bicycle lanes or shared-use paths.
+09  If used around bicycle facilities, raised pavement markers should not be placed immediately adjacent to the 
+travel path of bicyclists in a bicycle lane or on a shared-use path.
+Support:
+10  Using raised pavement markers creates a collision potential for bicyclists by placing fixed objects immediately 
+adjacent to the travel path of the bicyclist. Raised pavement markers can cause a bicyclist to lose balance and fall, 
+and might not be visible to a bicyclist who is following another bicyclist.
+Sign or Plaque Sign Designation Section Off Roadway 1,5 Roadway2,5
+Reference Location (3-digits) D10-3 9D.10 6 x 21 —
+Intermediate Reference Location (4-digits) D10-3a 9D.10 6 x 24 —
+Bike Route D11-1  9D.02 24 x 18 24 x 18
+Bike Route (plaque) D11-1bP  9D.03 18 x 6 18 x 6
+Bike Route with Destination D11-1c  9D.02 24 x 18 24 x 18
+Shared-Use Path Destination (1 line) D11-10a 9D.12 Varies x 6* —
+Shared-Use Path Destination (2 lines) D11-10b 9D.12 Varies x 12* —
+Shared-Use Path Destination (3 lines) D11-10c 9D.12 Varies x 18* —
+Shared-Use Path Destination and Distance (1 line) D11-10d 9D.12 Varies x 6* —
+Shared-Use Path Destination and 
+Distance (2 lines) D11-10e 9D.12 Varies x 12* —
+Shared-Use Path Destination and 
+Distance (3 lines) D11-10f 9D.12 Varies x 18* —
+Bicycles Directional D11-11  9D.11 18 x 18 —
+Pedestrians Directional D11-12  9D.11 18 x 18 —
+Skaters Directional D11-13  9D.11 18 x 18 —
+Equestrians Directional D11-14  9D.11 18 x 18 —
+Bicycle Turn Box Guide Signs D11-20, D11-20a 9D.13 — 12 x 18
+State or Local Bicycle Route M1-8, M1-8a  9D.05 12 x 18 18 x 24
+Non-Numbered Bicycle Route M1-8b, M1-8c 9D.06 12 x 12 18 x 18
+U.S. Bicycle Route M1-9  9D.07 12 x 18 18 x 24
+Bicycle Route Auxiliary Signs (plaque)
+M2-1P, M3-1P,2P,3P,4P, 
+M4-1P,1aP,2P,3P,5P,6P,7P, 
+7aP,8P,14P
+ 9D.08 12 x 6 12 x 6
+Bicycle Route Arrow Signs (plaque) M5 -1P, 2P, M6-1P, 2P, 3P, 4P, 
+5P, 6P, 7P  9D.08 12 x 9 12 x 9
+* For use on shared-use paths only.
+Notes: 1. Includes shared-use paths and bicycle-only facilities outside of the roadway.
+   2.  If the sign or plaque applies to motorists and bicyclists, then the size shall be as shown for conventional roads in Tables 2B-1, 2C-1, 
+2D-1, or 8B-1.
+   3. Larger signs may be used when appropriate.
+   4. Dimensions are shown in inches and are shown as width x height.
+   5.  Separated bicycle lanes (see definition in Section 1C.02) can be located within the roadway or outside the roadway, and the minimum 
+sign sizes for these facilities are shown in the off roadway and roadway columns respectively.
+Table 9A-1.  Bicycle Facility Sign and Plaque Minimum Sizes (Sheet 3 of 3)
+MUTCD 11th Edition Page 1051
+
+=== PDF PAGE 6 ===
+December 2023
+    Sect. 9B.01
+CHAPTER 9B.  REGULATORY SIGNS
+Section 9B.01  STOP and YIELD Signs (R1-1 and R1-2)
+Standard:
+01  STOP (R1-1) signs (see Figure 9B-1) shall be installed on bicycle facilities at points where bicyclists are 
+required to stop.
+02  YIELD (R1-2) signs (see Figure 9B-1) shall be installed on bicycle facilities at points where bicyclists 
+have an adequate view of conflicting traffic as they approach the sign, and where bicyclists are required to 
+yield the right-of-way to that conflicting traffic.
+03  A STOP sign or a YIELD sign shall not be installed in conjunction with a bicycle signal face 
+(see Chapter 4H).
+Figure 9B-1.  Regulatory Signs and Plaques for Bicycle Facilities (Sheet 1 of 2)
+R3-7bP R3-17
+R9-3
+R1-1 R1-2 R3-5hP R3-17bP
+R3-17aP
+R4-4 R4-16R4-1 R4-2 R4-3 R4-7
+R5-1b
+R9-3cP
+R5-3 R7-9 R7-9a
+R4-19
+R5-6
+R9-5 R9-6 R9-7 R9-13 R9-14 R9-15
+R5-10dP
+R9-20 R9-22 R9-23b R9-23cR9-21 R9-23aR9-23
+R7-10
+R9-16
+Page 1052 MUTCD 11th Edition
+
+=== PDF PAGE 7 ===
+December 2023
+    Sect. 9B.01
+Option:
+04  Larger signs may be used on shared-use paths and separated bikeways for added emphasis.
+Guidance:
+05  Where conditions require shared-use path users or bicyclists on separated bikeways, but not roadway 
+users, to stop or yield, the STOP or YIELD sign should be placed or shielded so that it is not readily visible 
+to roadway users.
+Figure 9B-1.  Regulatory Signs and Plaques for Bicycle Facilities (Sheet 2 of 2)
+R15-1 R15-2P R15-8
+R9-24
+R9-25
+R9-26
+R9-27
+R9-24a
+R9-25a
+R9-26a
+R9-27a
+R9-25b
+R9-26b
+R9-27b
+R10-40 R10-40a R10-41 R10-41a R10-41b R10-41c
+R10-26R10-24 R10-25R10-22R10-12bR10-4
+MUTCD 11th Edition Page 1053
+
+=== PDF PAGE 8 ===
+December 2023
+    Sect. 9B.01 to 9B.02
+06  When the placement of STOP or YIELD signs is being considered, the priority at a shared-use path/roadway 
+intersection should be assigned with consideration of the following:
+A. Relative speeds of shared-use path and roadway users,
+B. Relative volumes of shared-use path and roadway traffic, and
+C. Relative importance of shared-use path and roadway.
+07  Speed should not be the sole factor used to determine priority, as it is sometimes appropriate to give priority 
+to a high-volume shared-use path that crosses a low-volume street, or to a regional shared-use path that crosses a 
+minor collector street.
+08  When priority is assigned (see Sections 2B.06 and 2B.08), the least-restrictive control that is appropriate 
+should be placed on the lower-priority approaches. STOP signs should not be used where YIELD signs would 
+provide adequate control.
+Section 9B.02  EXCEPT BICYCLES Regulatory Plaque (R3-7bP)
+Support:
+01  There are circumstances where it might be appropriate to exempt bicyclists from regulatory restrictions 
+applied to other traffic.
+Guidance:
+02  Where an engineering study or engineering judgment demonstrates that it is appropriate to exempt 
+bicyclists from the provisions of a regulatory sign, the EXCEPT BICYCLES (R3-7bP) regulatory plaque (see 
+Figure 9B-1) should be used.
+Support:
+03  Figure 9B-2 shows examples of how the EXCEPT BICYCLES (W16-20P) regulatory plaque can be applied.
+04  Section 9C.05 contains information regarding the EXCEPT BICYCLES warning plaque when applicable to a 
+warning sign.
+Figure 9B-2.  Examples of Applications of EXCEPT BICYCLES Regulatory Plaques
+R3-7bP
+R3-7bP
+R3-7bP
+R3-2
+R3-1
+R3-8
+(modified)
+R5-1
+R3-8
+(modified)
+R3-7bP
+Legend
+Direction of travel
+R3-7bP
+Page 1054 MUTCD 11th Edition
+
+=== PDF PAGE 9 ===
+December 2023
+    Sect. 9B.02 to 9B.04
+Standard:
+05  The EXCEPT BICYCLES regulatory plaque shall not be used to exempt bicyclists from the legal 
+requirement of a STOP or YIELD sign, Yield Here to Pedestrians Signs, Stop Here for Pedestrians Signs, 
+or a traffic signal indication.
+06  Where a regulatory sign, such as the No Left Turn (R3-2) sign (see Section 2B.26), is installed on the 
+same post or mounting as a STOP sign or YIELD sign, the EXCEPT BICYCLES regulatory plaque shall 
+not be installed in conjunction with the regulatory sign on that post or mounting that includes the STOP 
+sign or YIELD sign.
+07  The EXCEPT BICYCLES regulatory plaque shall be placed below the regulatory sign that it 
+supplements.
+Section 9B.03  Advance Intersection Lane Control Signs (R3-8 Series) for Bicycle Lanes
+Option:
+01  Advance Intersection Lane Control (R3-8 series) signs (see Section 2B.30) may display the arrangement of a 
+conventional or buffer-separated bicycle lane in relation to other lanes in the same direction that are present on a 
+roadway approach to an intersection.
+Support:
+02  The number and combination of permissible movements by both the motor vehicle and the bicycle on the same 
+approach to an intersection might be practically limited by the amount of information that can be legibly displayed 
+on signs or in signing sequences and still be readily comprehended by road users. The excessive display of all 
+movements by more than one mode can result in unwieldy signs that are difficult to locate and install.
+Guidance:
+03  On an approach to an intersection with complex geometry that can include multiple through lanes and 
+multiple turn lanes and also includes a bicycle lane, consideration should be given to displaying all allowable 
+movements on separate signs, such as using Mandatory Movement Lane Control (R3-5) signs (see Section 2B.28) 
+for the through lanes and Mandatory Movement Lane Control (R3-7) signs (see Section 2B.28) for the turn lanes, 
+and guide signs for bicycle routes (see Section 9D.02 through 9D.07) and Bicycle Route Sign auxiliary plaques 
+(see Section 9D.08) for the bicycle movement.
+Standard:
+04  The portion of the sign face for the bicycle lane shall be limited to the relationship of the bicycle lane to 
+the other lanes on the roadway approach to the intersection. The portion of the sign face for the bicycle lane 
+shall not be modified to display specific, supplementary information about the bicycle lane such as bicycle 
+lane extensions, contiguous buffer spaces, or other ancillary bicycle operations such as two-stage turn boxes 
+or bicycle boxes.
+05  Counter-flow bicycle lanes shall not be displayed on Advance Intersection Lane Control signs.
+06  The shared-lane marking symbol shall not be displayed on Advance Intersection Lane Control signs.
+07  Shared-use paths shall not be displayed on Advance Intersection Lane Control signs.
+08  Advance Intersection Lane Control signs that display the bicycle lane shall use a contrasting white 
+legend on a black background for the bicycle lane (see Figure 2B-4). The portion of the display for the 
+bicycle lane shall not use the color green on the sign face in an attempt to be consistent with the green-
+colored pavement that might be present on the intersection approach.
+Section 9B.04  Bicycle Lane Signs and Plaques (R3-17, R3-5hP, R3-17aP, and R3-17bP)
+Standard:
+01  The Bike Lane (R3-17) sign and the BIKE LANE (R3-5hP), AHEAD (R3-17aP), and ENDS (R3-17bP) 
+plaques (see Figure 9B-1) shall be used only in conjunction with marked bicycle lanes as described in 
+Sections 9E.01, 9E.06, and 9E.07.
+Guidance:
+02  If used, Bicycle Lane signs and plaques should be located at the beginning of the bicycle lane and in advance 
+of the downstream end of the bicycle lane.
+Option:
+03  Additional Bicycle Lane signs and plaques may be used at periodic intervals along the bicycle lane as 
+determined by engineering judgment based on the operating speed of bicycle and other traffic, block length, 
+distances from adjacent intersections, and other considerations.
+MUTCD 11th Edition Page 1055
+
+=== PDF PAGE 10 ===
+December 2023
+    Sect. 9B.04 to 9B.08
+Support:
+04  Section 2B.33 contains information for the application of BEGIN and END plaques.
+05  Section 9B.03 contains information on displaying the bicycle lane on Advance Intersection Lane Control signs.
+Option:
+06  Where two or more movements from a bicycle lane are allowed, or where the emphasis of allowed bicycle 
+movements is needed, an Optional Movement Lane Control sign (see Section 2B.29) may be supplemented with a 
+BIKE LANE (R3-5hP) plaque above the Optional Movement Lane Control sign.
+07  Where bicycle lanes are located between travel lanes on intersection approaches or where only a single 
+bicycle movement is allowed from a certain bicycle lane, a Mandatory Movement Lane Control sign (see Section 
+2B.28) may be supplemented with a BIKE LANE plaque to require a bicyclist in a particular bicycle lane at an 
+intersection to stay in the same lane and proceed straight through the intersection, or to indicate a required turn 
+from a particular bicycle lane.
+Section 9B.05  BEGIN RIGHT TURN LANE YIELD TO BIKES Sign (R4-4)
+Option:
+01  Where motor vehicles entering a mandatory right-turn lane must weave across bicyclists in bicycle lanes, the 
+BEGIN RIGHT TURN LANE YIELD TO BIKES (R4-4) sign (see Figure 9B-1) may be used to inform both the 
+motorist and the bicyclist of this weaving maneuver (see Figures 9E-3 and 9E-4).
+Guidance:
+02  The R4-4 sign should not be used when bicyclists need to move left because of a right-turn lane drop situation.
+Section 9B.06  Bicycle Wrong Way Sign and RIDE WITH TRAFFIC Plaque (R5-1b and R9-3cP)
+Option:
+01  The Bicycle WRONG WAY (R5-1b) sign and RIDE WITH TRAFFIC (R9-3cP) plaque (see Figure 9B-1) may 
+be placed facing wrong-way bicyclists, such as on the left-hand side of a roadway.
+02  This sign and plaque may be mounted back-to-back with other signs to minimize visibility to other traffic.
+Guidance:
+03  The RIDE WITH TRAFFIC plaque should be used only in conjunction with the Bicycle WRONG WAY sign, 
+and should be mounted directly below the Bicycle WRONG WAY sign.
+Section 9B.07  NO MOTOR VEHICLES Sign (R5-3)
+Option:
+01  The NO MOTOR VEHICLES (R5-3) sign (see Figure 9B-1) may be installed at the entrance to a shared-use path.
+Section 9B.08  Selective Exclusion Signs
+Option:
+01  Selective Exclusion signs (see Figure 9B-1) may be installed at the entrance to a roadway or facility to notify 
+road or facility users that designated types of traffic are excluded from using the roadway or facility.
+Support:
+02  Typical exclusion messages include:
+A. No Bicycles (R5-6);
+B. No Pedestrians (R9-3);
+C. No Skaters (R9-13);
+D. No Equestrians (R9-14);
+E. No Snowmobiles (R9-15); and
+F. No All-Terrain Vehicles (R9-16).
+Option:
+03  Where bicyclists, pedestrians, and motor-driven cycles are all prohibited, the R5-10a word message sign 
+(see Section 2B.45) may be used.
+Page 1056 MUTCD 11th Edition
+
+=== PDF PAGE 11 ===
+December 2023
+    Sect. 9B.09 to 9B.11
+Section 9B.09  No Parking Bike Lane Signs (R7-9 and R7-9a)
+Standard:
+01  If the installation of signs is necessary to restrict parking, standing, or stopping in a bicycle lane, 
+appropriate signs as described in Sections 2B.53 through 2B.55, or the No Parking Bike Lane (R7-9 or 
+R7-9a) signs (see Figure 9B-1) shall be installed.
+Section 9B.10  Back-In Parking Sign (R7-10)
+Option:
+01  The Back-In Parking (R7-10) sign (see Section 2B.52 and Figure 9B-1) may be used where back-in parking is 
+required by motor vehicles in the presence of a bicycle lane or movement.
+Support:
+02  Angled back-in curb parking is commonly applied on streets where a bicycle lane is present so that the 
+scanning behavior of a motorist associated with the back-in angle parking task, both entering and exiting the 
+parking space, would place a bicyclist in a bicycle lane in a more direct view of the motor vehicle operator.
+03  Figure 9B-3 shows an example of the use of back-in parking signs in conjunction with bicycle lanes.
+Section 9B.11  Bicycles Use Ped Signal Sign (R9-5)
+Option:
+01  The Bicycles Use Ped Signal (R9-5) sign (see Figure 9B-1) may be used where the crossing of a street by 
+bicyclists is controlled by pedestrian signal indications.
+02  In order to remind drivers who are making turns to yield to or stop for pedestrians or bicyclists, a Turning 
+Vehicles Yield to Pedestrians (R10-15) sign, Turning Vehicles Stop for Pedestrians (R10-15a) sign (see Section 
+2B.59), or Left Turn Yield to Bicycles (R10-12b) sign (see Section 9B.21) may be used.
+Guidance:
+03  If used, the R9-5 sign should be installed in the vicinity of where bicyclists will be crossing the street.
+Figure 9B-3.  Examples of Bicycle Facilities Adjacent to Back-In Parking
+Legend
+Direction of travel
+R7-10
+R7-10
+R7-8
+R7-10
+Green-colored
+pavement (optional)
+R7-10
+R7-8
+MUTCD 11th Edition Page 1057
+
+=== PDF PAGE 12 ===
+December 2023
+    Sect. 9B.12 to 9B.16
+Section 9B.12  Bicycles Yield to Peds Sign (R9-6)
+Option:
+01  The Bicycles Yield to Peds (R9-6) sign (see Figure 9B-1) may be used at locations where a bicyclist is required 
+to cross or share a facility used by pedestrians and is required to yield to the pedestrians.
+Standard:
+02  Where the Bicycles Yield to Peds sign is supported by a yield line pavement marking (see Section 3B.19) 
+to establish the yielding point, the sign and the pavement marking shall be installed adjacent to each other.
+03  The Bicycles Yield to Peds sign shall not be used in bicycle corridors to establish a programmatic 
+regulation where no yielding point exists.
+04  The Bicycles Yield to Peds sign shall not be used in conjunction with a STOP or YIELD sign, Yield Here 
+to Pedestrians Sign, or a Stop Here for Pedestrians Sign.
+Section 9B.13  Shared-Use Path Restriction Sign (R9-7)
+Option:
+01  The Shared-Use Path Restriction (R9-7) sign (see Figure 9B-1) may be installed to supplement a solid white 
+pavement marking line (see Section 9E.13) on facilities that are to be shared by pedestrians and bicyclists in order to 
+provide a separate designated pavement area for each mode of travel. The symbols may be transposed as appropriate.
+Guidance:
+02  If two-way operation is allowed on the facility for pedestrians and/or bicyclists, the designated pavement 
+area that is provided for each two-way mode of travel should be wide enough to accommodate both directions of 
+travel for that mode.
+Section 9B.14  Bicycles Allowed Use of Full Lane Sign (R9-20)
+Support:
+01  The Uniform Vehicle Code (UVC) defines a “substandard width lane” as a “lane that is too narrow for a 
+bicycle and a vehicle to travel safely side by side within the same lane.”
+Option:
+02  The Bicycles Allowed Use of Full Lane (R9-20) sign (see Figure 9B-1) may be used on roadways where no 
+bicycle lanes or adjacent shoulders usable by bicycles are present and where travel lanes are too narrow for bicycles 
+and motor vehicles to operate side-by-side.
+03  The Bicycles Allowed Use of Full Lane sign may be used in locations where it is important to inform road 
+users that bicyclists might occupy the travel lane.
+04  Section 9E.09 describes a shared-lane marking that may be used in addition to or instead of the Bicycles 
+Allowed Use of Full Lane sign to inform road users that bicyclists might occupy the travel lane.
+Section 9B.15  Bicycle Passing Clearance Sign (R4-19)
+Option:
+01  The Bicycle Passing Clearance (R4-19) sign (see Figure 9B-1) may be used in jurisdictions that have defined in 
+law or ordinance a specific clearance to be provided by motor vehicles when they pass bicycles.
+02  The specific clearance displayed on the Bicycle Passing Clearance (R4-19) sign may be adjusted to reflect the 
+applicable law or ordinance.
+Standard:
+03  The Bicycle Passing Clearance (R4-19) sign shall not be used in jurisdictions that do not have a specific 
+passing clearance to be provided by motor vehicles passing bicycles, as defined in law or ordinance.
+Guidance:
+04  The Bicycle Passing Clearance (R4-19) sign should not be used on roadways with bicycle lanes or with 
+shoulders usable for bicycle travel.
+Section 9B.16  Bicycles Use Shoulder Only Sign (R9-21)
+Option:
+01  The Bicycles Use Shoulder Only (R9-21) sign (see Figure 9B-1) may be used to designate locations on a 
+freeway or expressway where bicycles are allowed, but must remain on an available and usable shoulder.
+Guidance:
+02  The Bicycles Use Shoulder Only sign should be limited to use on freeways and expressways.
+03  The Bicycles Use Shoulder Only sign should be placed adjacent to the entrance ramp or entrance to the 
+freeway at or near the location where the full-width shoulder resumes beyond the entrance ramp taper.
+Page 1058 MUTCD 11th Edition
+
+=== PDF PAGE 13 ===
+December 2023
+    Sect. 9B.17 to 9B.18
+Section 9B.17  Signing for Bicycles on Freeways and Expressways
+Standard:
+01  The Bicycles Must Exit (R9-22) sign (see Figure 9B-1) shall be used in advance of a location where 
+a freeway or expressway becomes prohibited to bicycle travel, and shall be placed in advance of the 
+intersection or exit ramp prior to the prohibited segment of roadway (see Figure 9B-4).
+Option:
+02  The Bicycles Must Exit sign may be used below a post-mounted Exit Direction sign.
+Standard:
+03  If the Bicycles Must Exit sign is used, a No Bicycles (R5-6) sign (see Figure 9B-1) shall be placed 
+downstream from the intersection or exit ramp departure point where the prohibited segment of freeway or 
+expressway begins. The No Bicycles sign shall not be placed below the Exit Gore sign.
+Option:
+04  The ON FREEWAY (R5-10dP) plaque (see Figure 9B-1) may be used with an appropriate Selective Exclusion 
+sign to indicate a prohibition along ramps leading to an adjacent or parallel freeway.
+Support:
+05  Section 2B.45 contains information on regulatory signing for prohibiting bicycles from using particular 
+roadways or facilities.
+Section 9B.18  Two-Stage Bicycle Turn Box Regulatory Signing (R9-23 Series)
+Support:
+01  Where two-stage bicycle turn boxes are provided in an intersection, the design of an approach to 
+that intersection will determine whether the use of a two-stage bicycle turn box is required by bicycles to 
+facilitate a turn.
+02  Situations in which a two-stage bicycle turn box might be necessary to facilitate turns include, but are not 
+limited to, those in which:
+A. A separated bicycle facility is provided where upstream access to a lane used to facilitate turns by motor 
+vehicle traffic is physically inaccessible to bicycles;
+B. Left turns are prohibited from the left-most lane, or right turns are prohibited from the right-most lane, at 
+an intersection; or
+C. Locations where physical or operational conditions make it impracticable or unsafe for a bicyclist to merge 
+and make the appropriate turn as would any other vehicle.
+Standard:
+03  Where bicycles are required to use a two-stage bicycle turn box (see Figure 9B-5), the Two-Stage Bicycle 
+Turn Box regulatory sign series (see Figure 9B-5) shall be used.
+04  Where bicycles are required to use a two-stage bicycle turn box, the Bicycles All Turns from Bike Lane 
+(R9-23) or Bicycle Left Turn from Bike Lane (R9-23a) advance regulatory sign shall be mounted in advance 
+of the intersection, and at least one Bicycle Turn Must Use Turn Box (R9-23b or R9-23c) sign shall be used 
+at the intersection.
+05  Where used, the Bicycle Turn Must Use Turn Box (R9-23b) sign shall be mounted at the near side of 
+the intersection.
+06  Where used, the Bicycle Turn Must Use Turn Box location (R9-23c) sign shall be mounted at the far side 
+of the intersection.
+Option:
+07  Where use of a two-stage bicycle turn box is optional, the Two-Stage Bicycle Turn Box guide sign series 
+(see Section 9D.13) may be used to provide directional information.
+08  If used, an appropriately sized Street Name (D3-1) sign (see Section 2D.45) may be installed below the All 
+Turns from Bike Lane sign or Left Turn from Bike Lane sign to identify the crossroad where the turn box will 
+be available.
+Support:
+09  Section 9E.11 contains information regarding pavement markings and turning restrictions for two-stage 
+turn boxes.
+MUTCD 11th Edition Page 1059
+
+=== PDF PAGE 14 ===
+December 2023
+    Sect. 9B.18
+Figure 9B-4.  Signing for Termination of Bicycle Access on Freeways and Expressways
+Legend
+Direction of travel
+R5-6
+E5-1a
+E1-5P
+R9-22
+Page 1060 MUTCD 11th Edition
+
+=== PDF PAGE 15 ===
+December 2023
+    Sect. 9B.18
+Figure 9B-5.  Example of 
+Two-Stage Bicycle Turn Box when Use is Mandatory
+R10-11a
+R9-23c
+R3-2
+R9-23b
+R3-7R
+R4-4
+R9-23a
+R3-2
+R10-11a
+Legend
+Direction of travel
+MUTCD 11th Edition Page 1061
+
+=== PDF PAGE 16 ===
+December 2023
+    
+Section 9B.19  Bicycle Jughandle Signs (R9-24, R9-25, R9-26, and R9-27 Series)
+Support:
+01  Bicycle jughandle turns allow bicycles to use the traffic control provided for the crossroad for facilitating a left 
+turn, right turn, or U-turn.
+Option:
+02  The R9-23 sign (see Figure 9B-1) may be used in advance of where bicyclists are required to use the bicycle 
+jughandle turn in order to facilitate all turns.
+03  The R9-24 series sign (see Figure 9B-1) may be used where bicyclists are required to use the bicycle jughandle 
+turn in order to facilitate all turns.
+04  The R9-25 series sign (see Figure 9B-1) may be used where bicyclists are required to use a bicycle jughandle 
+turn to facilitate U-turns and left turns and where right-turning bicyclists are exempted or the right turn is not 
+available or possible (see Figure 9B-6).
+05  The R9-26 series sign (see Figure 9B-1) may be used where bicyclists are required to use a jughandle to 
+facilitate U-turns and where left-turning and right-turning bicyclists are exempted or the left turn or right turn is 
+not available or possible.
+06  The R9-27 series sign (see Figure 9B-1) may be used where bicyclists are required to use a jughandle to 
+facilitate left turns and where U-turning and right-turning bicyclists are exempted or the U-turn or right turn is not 
+available or possible.
+Parking lot
+Shared-use path
+or bikeway
+Legend
+Direction of travel
+Figure 9B-6.  Example of Application of Bicycle Jughandle Sign
+OR
+D1-1c
+D11-1c
+D1-2b
+D1-2b
+R9-25
+Note: The use of green-colored 
+pavement is optional.
+Sect. 9B.19
+Page 1062 MUTCD 11th Edition
+
+=== PDF PAGE 17 ===
+December 2023
+    Sect. 9B.19 to 9B.22
+07  A Bicycle Jughandle sign may be used to indicate a jughandle turn initially made by a left turn for a bicycle 
+lane on the left-hand side of a one-way street or for a counter-flow bicycle lane. The legend RIGHT may be 
+substituted for the legend LEFT on Bicycle Jughandle signs to represent bicycle facilities on the left-hand side of 
+the roadway where facilitating a right turn would be applicable.
+Guidance:
+08  Applications of Bicycle Jughandle signs should be limited to brief independent alignments either through 
+physical separation or islands formed by pavement markings. Bicycle Jughandle signs should not be used for a 
+turning movement facilitated by a two-stage turn box (see Section 9B.18).
+Support:
+09  Bicycle Jughandle signs are designed to be mounted below guide signs.
+10  Section 9D.01 contains information regarding the use of Bicycle Destination signs that can be used for 
+jughandles.
+Section 9B.20  Bicycle Actuation Signs (R10-4, R10-22, R10-24, R10-25, and R10-26)
+Option:
+01  Where  bicycles are not controlled by pedestrian signal indications, the R10-4, R10-24, or R10-26 sign (see 
+Section 2B.58) may be used.
+Guidance:
+02  If used, the R10-4, R10-24, or R10-26 signs (see Figure 9B-1) should be installed in the vicinity of where 
+bicycles will be crossing the street.
+Option:
+03  If bicycles are crossing a roadway where In-Roadway Warning Lights (see Section 4U.02) or other warning 
+lights or beacons have been provided, the R10-25 sign may be used.
+04  The Bicycle Detector (R10-22) sign (see Figure 9B-1) may be installed at signalized intersections where 
+pavement markings are used to indicate the location where a bicycle is to be positioned to actuate the signal 
+(see Section 9E.15).
+Guidance:
+05  If the Bicycle Detector sign is installed, it should be placed at the roadside adjacent to the marking to 
+emphasize the location of the marking.
+Section 9B.21  Left Turn Yield to Bicycles Sign (R10-12b)
+Option:
+01  The Left Turn Yield to Bicycles (R10-12b) sign (see Figure 9B-1) may be used to emphasize the requirement 
+for motorists to yield to bicyclists in situations where the motorist is turning across a bicycle movement that may 
+be unexpected in direction, location, or some other quality that would be inconsistent with the typical bicycle lane.
+Support:
+02  Section 2B.59 contains provisions on the placement and use of regulatory Traffic Signal signs.
+Section 9B.22  Bicycle Signal Signs (R10-40, R10-40a, R10-41, R10-41a, R10-41b, and R10-41c)
+Support:
+01  The purposes of the Bicycle Signal signs (see Figure 9B-1) are to inform road users that the signal indications 
+in the bicycle signal face are intended only for bicyclists, and to inform bicyclists which specific bicycle 
+movements are controlled by the bicycle signal face.
+02  Section 4H.03 contains information on signs that are used in conjunction with bicycle signal faces.
+Standard:
+03  The Bicycle Signal – Mandatory Movement (R10-40 or R10-40a) sign or the Bicycle Signal – Optional 
+Movement (R10-41. R10-41a, R10-41b, or R10-41c) sign shall require bicycles to turn, shall permit turns 
+where such turns would otherwise not be allowed, shall require a bicycle to stay in the same lane and 
+proceed straight through an intersection, or shall indicate allowed movements when a GREEN BICYCLE 
+signal indication is displayed on a bicycle signal face.
+MUTCD 11th Edition Page 1063
+
+=== PDF PAGE 18 ===
+December 2023
+    Sect. 9B.23 to 9B.24
+Section 9B.23  LOOK Sign (R15-8)
+Option:
+01  At railroad or LRT grade crossings with shared-use paths or separated bikeways, the LOOK (R15-8) sign 
+(see Figure 9B-1) may be mounted on the Crossbuck support below the Crossbuck (R15-1) sign or any other signs, 
+or on a separate post in the immediate vicinity of the grade crossing on the railroad or LRT right-of-way.
+Guidance:
+02  A LOOK sign should not be mounted on a Crossbuck Assembly that has a YIELD or STOP sign mounted on 
+the same support as the Crossbuck.
+Section 9B.24  Other Regulatory Signs
+Option:
+01  Other regulatory signs described in Chapters 2B and 8B may be installed on bicycle facilities as appropriate.
+Page 1064 MUTCD 11th Edition
+
+=== PDF PAGE 19 ===
+December 2023
+Sect. 9C.01
+CHAPTER 9C.  WARNING SIGNS AND OBJECT MARKERS
+Section 9C.01  Turn or Curve Warning Signs (W1 Series)
+Guidance:
+01  To warn bicyclists of unexpected changes in shared-use path direction, appropriate Turn, Curve, or Large 
+Arrow (W1-1 through W1-7) signs (see Figure 9C-1) should be used.
+02  The W1-1 through W1-5 signs should be installed at least 50 feet in advance of the beginning of the change 
+of alignment.
+Figure 9C-1.  Warning Signs and Plaques and Object Markers 
+for Bicycle Facilities (Sheet 1 of 2)
+W1-1 W1-2 W1-3 W1-4 W1-5 W1-6
+W1-7 W2-1 W2-2 W2-3 W2-4 W2-5
+W3-1 W3-2 W3-3 W5-2 W5-4a W7-5
+W8-1 W8-2 W8-3
+W8-10
+W8-10P
+W10-9P W10-12 W11-2W11-1W9-5a W10-1
+W9-5
+MUTCD 11th Edition Page 1065
+*
+A fluorescent yellow-green background color may be used for this sign or plaque. The background 
+color of the plaque should match the color of the warning sign that it supplements.
+
+=== PDF PAGE 20 ===
+December 2023
+Sect. 9C.02 to 9C.04
+Section 9C.02  Intersection Warning Signs (W2 Series)
+Option:
+01  Intersection Warning (W2-1 through W2-5) signs (see Figure 9C-1) may be used on a roadway, street, or 
+shared-use path in advance of an intersection to indicate the presence of an intersection and the possibility of 
+turning or entering traffic.
+Guidance:
+02  When engineering judgment determines that the visibility of the intersection is limited on the shared-use path 
+approach, Intersection Warning signs should be used.
+03 Intersection Warning signs should not be used where the shared-use path approach to the intersection is 
+controlled by a STOP sign, a YIELD sign, or a traffic control signal.
+Section 9C.03  Bicycle Surface Condition Warning Sign (W8-10)
+Option:
+01  The Bicycle Surface Condition Warning (W8-10) sign (see Figure 9C-1) may be installed where roadway or 
+shared-use path conditions could cause a bicyclist to lose control of the bicycle.
+02  Signs warning of other conditions that might be of concern to bicyclists, including BUMP (W8-1), DIP 
+(W8-2), PA VEMENT ENDS (W8-3), and any other word message that describes conditions that are of concern 
+to bicyclists, may also be used (see Figure 9C-1).
+03 A supplemental plaque may be used to clarify the specific type of surface condition.
+Section 9C.04  Bicycle Warning and Trail Crossing Signs (W11-1 and W11-15)
+Support:
+01  The Bicycle Warning (W11-1) sign (see Figure 9C-1) alerts the road user to unexpected entries into the 
+roadway by bicyclists, and other crossing activities that might cause conflicts. These conflicts might be relatively 
+confined, or might occur randomly over a segment of roadway.
+02  Section 9C.06 contains information for Bicycle Cross Traffic Warning plaques that can be used below STOP 
+signs on crossroads or driveways that intersect with bicycle facilities.
+Option:
+03 The Trail Crossing (W11-15) sign (see Figure 9C-1) may be used where both bicyclists and pedestrians 
+might be crossing the roadway, such as at an intersection with a shared-use path. A TRAIL X-ING (W11-15P) 
+supplemental plaque may be mounted below the W11-15 sign.
+Figure 9C-1.  Warning Signs and Plaques and Object Markers 
+for Bicycle Facilities (Sheet 2 of 2)
+W16-7P
+W11-15
+W11-15P
+W15-1 W16-2P W16-2aP
+W16-20P W16-21P OM3-L OM3-C OM3-RW16-9P
+W12-2 W16-1P W16-1aP
+Page 1066 MUTCD 11th Edition
+*
+A fluorescent yellow-green background color may be used for this sign or plaque. The background 
+color of the plaque should match the color of the warning sign that it supplements.
+
+=== PDF PAGE 21 ===
+December 2023
+    Sect. 9C.04 to 9C.07
+04  If used in advance of a trail crossing, a W11-15 or W11-15a sign should be supplemented with an AHEAD 
+(W16-9P) or XX FEET (W16-2P or W16-2aP) plaque to inform road users that they are approaching a point where 
+crossing activity might occur.
+Guidance:
+05  If used in advance of a specific crossing point, the Bicycle Warning or Trail Crossing sign should be placed at 
+a distance in advance of the crossing location that complies with Table 2C-3.
+Standard:
+06  Bicycle Warning and Trail Crossing signs, when used at the location of the crossing, shall be 
+supplemented with a diagonal downward-pointing arrow (W16-7P) plaque to show the location of the crossing.
+Option:
+07  A fluorescent yellow-green background color with a black legend and border may be used for Bicycle Warning 
+and Trail Crossing signs and supplemental plaques.
+Guidance:
+08  When the fluorescent yellow-green background color is used, a systematic approach featuring one 
+background color within a zone or area should be used. The mixing of standard yellow and fluorescent yellow-
+green backgrounds within a zone or area should be avoided.
+Section 9C.05  EXCEPT BICYCLES Warning Plaque (W16-20P)
+Option:
+01  Where it might be advantageous to notify bicyclists that the conditions or hazards depicted by a warning sign 
+are not applicable to bicycles, the EXCEPT BICYCLES (W16-20P) warning plaque (see Figure 9C-1) may be used.
+Support:
+02  Examples of warning signs where an EXCEPT BICYCLES warning plaque can be mounted include DEAD 
+END (W14-1) and NO OUTLET (W14-2) signs (see Section 2C.24).
+03  Sections 2C.57 and 2C.58 contain information on the design of supplemental warning plaques.
+Section 9C.06  Two-Way Bicycle Cross Traffic Warning Plaque (W16-21P)
+Standard:
+01  When used, the Two-Way Bicycle Cross Traffic (W16-21P) warning plaque (see Figure 9C-1) shall be 
+installed below a STOP or YIELD sign.
+Option:
+02  The Two-Way Bicycle Cross Traffic warning plaque may be used below STOP or YIELD signs on crossroads 
+and driveways to alert road users of an unexpected bicycle movement.
+Support:
+03  The Two-Way Bicycle Cross Traffic warning plaque can help minimize overuse or misapplication of other 
+warning signs such as the Bicycle Warning (W11-1) sign.
+Guidance:
+04  The Two-Way Bicycle Cross Traffic warning plaque should be used in combination with a STOP or YIELD 
+sign when a counter-flow or two-way bicycle facility has an approach that is counter to the customary scanning 
+behavior of a motorist at that location.
+Section 9C.07  Bicycle Lane Ends Warning Sign (W9-5) and Bicycles Merging Sign (W9-5a)
+Support:
+01  Where a warning sign is appropriate, the Bicycle Lane Ends (W9-5) warning sign (see Figure 9C-1) is intended 
+to alert road users that a bicycle lane is ending and that bicycles will share or occupy the travel lane after merging.
+Option:
+02  The Bicycle Lane Ends warning sign may be used in advance of the end of a bicycle lane to warn that a bicycle 
+lane will be ending.
+03  The Bicycles Merging (W9-5a) sign (see Figure 9C-1) may be used where a bicycle merging maneuver might 
+occur. The Bicycles Merging sign may be used in addition to the Bicycle Lane Ends (W9-5) warning sign.
+Guidance:
+04  To avoid excessive use of signs, the Bicycle Lane Ends warning sign should not be used where a bicycle lane 
+is dropped on the approach to an intersection and resumes immediately after the intersection.
+MUTCD 11th Edition Page 1067
+
+=== PDF PAGE 22 ===
+December 2023
+    Sect. 9C.07 to 9C.09
+Option:
+05  A Bicycles Allowed Use of Full Lane (R9-20) sign (see Section 9B.14) and/or shared-lane markings 
+(see Section 9E.09) may be installed downstream of the merge area.
+06  A W16-2aP supplemental warning plaque may be used to inform road users of the distance to the end of the 
+bicycle lane and/or to the bicycle merge.
+Section 9C.08  Other Bicycle Warning Signs
+Option:
+01  Other bicycle warning signs (see Figure 9C-1) such as PATH NARROWS (W5-4a) and Hill (W7-5) may be 
+installed on shared-use paths to warn bicyclists of conditions not readily apparent.
+02  In situations where there is a need to warn road users to watch for bicycles traveling along the highway, the 
+Bicycle Warning (W11-1) sign may be used with the IN ROAD (W16-1P) plaque or the IN STREET (W16-1aP) 
+plaque (see Figure 9C-1).
+Guidance:
+03  If used, other advance bicycle warning signs should be installed at least 50 feet in advance of the beginning 
+of the condition.
+04  Where temporary traffic control zones are present on bikeways, appropriate signs from Part 6 should be used.
+Option:
+05  Other warning signs described in Chapters 2C and 8C may be installed on bicycle facilities as appropriate.
+Section 9C.09  Object Markers
+Standard:
+01  Obstructions in a shared-use path shall be marked with retroreflective material or appropriate object 
+markers as described in Section 2C.70.
+Option:
+02  Fixed objects adjacent to shared-use paths may be marked with Type 1, Type 2, or Type 3 object markers. If 
+the object marker is not also intended to be seen by motorists, a smaller version of the Type 3 object marker may 
+be used (see Table 9A-1).
+Page 1068 MUTCD 11th Edition
+
+=== PDF PAGE 23 ===
+December 2023
+    Sect. 9D.01
+CHAPTER 9D.  GUIDE AND SERVICE SIGNS
+Section 9D.01  Bicycle Destination Signs (D1-1b, D1-1c, D1-2b, D1-2c, D1-3b, D1-3c, D2-1a, D2-2a, 
+and D2-3a)
+Support:
+01  The purpose of Bicycle Destination (D1-1b, D1-1c, D1-2b, D1-2c, D1-3b, and D1-3c) signs (see Figure 9D-
+1) and Bicycle Distance (D2-1a, D2-2a, and D2-3a) signs (see Figure 9D-1) is to provide guidance to bicyclists 
+traveling along a bikeway network directing them to typical bicycle destinations or points of interest. The smaller 
+size of Bicycle Destination and Distance signs can deemphasize the messages to motorists, especially when the 
+direction(s) or destination(s) displayed provides access to routes or pathways where the use of motor vehicles is 
+prohibited or discouraged. Examples include, but are not limited to:
+A. Bicycles can go in a direction counter to conventional traffic,
+B. Access to a separated bikeway or shared-use path from a street,
+C. Access to a bicycle route,
+D. Bicycles are directed to another roadway or bikeway that facilitates a parallel or alternative route to the 
+same destination, or
+E. Access to a sidewalk that provides connectivity between bicycle facilities.
+02  Section 2D.36 contains information on Destination signs used for when the destinations listed would apply to 
+both motorists and bicyclists.
+03  Section 2D.43 contains information on Distance signs used for when the destinations listed would apply to 
+both motorists and bicyclists.
+Standard:
+04  Because of their smaller size, Bicycle Destination and Distance signs shall not be used as a substitute for 
+vehicular destination signs when the message is also intended to be applicable to motorists.
+Option:
+05  Bicycle Destination and Distance (D1-1b, D1-1c, D1-2b, D1-2c, D1-3b, D1-3c, D2-1a, D2-2a, and D2-3a) signs 
+may be installed to provide direction, destination, and distance information as needed for bicycle travel. If several 
+destinations are to be shown at a single location, they may be placed on a single sign with an arrow (and the 
+distance, if desired) for each name. If more than one destination lies in the same direction, a single arrow may be 
+used for the destinations.
+06  Destination (D1-1 and D1-1a) signs (see Section 2D.36) and Street Name (D3-1) signs (see Section 2D.45) may 
+be installed instead of or in addition to Bicycle Destination signs as needed if the Destination or Street Name sign 
+applies to motorists and bicyclists.
+07  Distance (D2-1 through D2-3) signs (see Section 2D.43) may be installed instead of, or in addition to, Bicycle 
+Distance (D2-1a through D2-3a) signs, as needed, if the destination and distance information applies to motorists 
+and bicyclists.
+Guidance:
+08  Adequate separation should be made between any destination or group of destinations in one direction and 
+those in other directions by suitable design of the arrow, spacing of lines of legend, heavy lines entirely across the 
+sign, or separate signs.
+09  Where a Bicycle Destination sign with distance information is located less than 1⁄2 mile from the destination, the 
+distance displayed should be to the nearest 1⁄4 mile. Where the distance to be displayed on a Bicycle Destination sign 
+is less than 1⁄4 mile, the distance should be displayed in feet, rather than miles, to the nearest 50 feet.
+Option:
+10  Distances may be displayed in fractions of a mile to the nearest 1⁄10 mile to communicate distance information on 
+Bicycle Destination signs where the distance to a destination is desired to be more precise than 1⁄4-mile increments. 
+Support:
+11  Section 2A.08 contains provisions on the display of fractions on guide signs.
+Standard:
+12  An arrow pointing to the right, if used, shall be at the extreme right-hand side of the sign. An arrow 
+pointing left or up, if used, shall be at the extreme left-hand side of the sign. The distance numerals, if used, 
+shall be placed to the right of the destination names.
+13  Except as provided in Paragraph 14 of this Section, a bicycle symbol shall be placed next to each 
+destination or group of destinations.
+MUTCD 11th Edition Page 1069
+
+=== PDF PAGE 24 ===
+December 2023
+    Sect. 9D.01
+Option:
+14  An oversized bicycle symbol may be displayed as the top line of a Bicycle Destination sign instead of 
+individual bicycle symbols for each of the destination/distance lines.
+Standard:
+15  If an arrow is at the extreme left, the bicycle symbol shall be placed to the right of the respective arrow.
+Figure 9D-1.  Guide Signs and Plaques for Bicycle Facilities (Sheet 1 of 3)
+D1-1c D1-2 D1-2a
+D1-2c D1-2cD1-2b
+D1-1 D1-1a D1-1b
+D1-3
+D1-3a D1-3b D1-3c
+D2-1a D2-2aD2-1 D2-2
+D2-3aD2-3 D3-1 D4-3
+Page 1070 MUTCD 11th Edition
+
+=== PDF PAGE 25 ===
+December 2023
+    Sect. 9D.01
+Guidance:
+16  Where the arrow is at the extreme right, the bicycle symbol should be to the left of the destination legend.
+17  Unless a sloping arrow will convey a clearer indication of the direction to be followed, the directional arrows 
+should be either horizontal or vertical.
+18  If several individual name signs are assembled into a group, all of the signs in the assembly should have the 
+same horizontal width.
+19  Travel times should not be used on Bicycle Destination signs.
+Support:
+20  Travel times can vary greatly for bicyclists based on a variety of factors including individual speed, bicycle 
+type, and type of facility.
+Figure 9D-1.  Guide Signs and Plaques for Bicycle Facilities (Sheet 2 of 3)
+D10-3aD10-1 D10-2D10-1a D10-2a D10-3D4-4 D4-4a
+D11-1cD11-1bP
+D11-1
+D11-10b
+D11-10a
+D11-10c
+D11-10d
+D11-10e D11-10f
+MUTCD 11th Edition Page 1071
+
+=== PDF PAGE 26 ===
+December 2023
+    Sect. 9D.02
+Section 9D.02  Bike Route Guide Signs (D11-1 and D11-1c)
+Support:
+01  The Bike Route Guide (D11-1 or D11-1c) sign (see Figure 9D-1) is used where no unique designation of routes 
+is desired. Sections 9D.04 through 9D.07 contain information for Bicycle Route signs where the bicycle route is 
+designated by number, name, or both.
+Option:
+02  Bike Route Guide signs may be provided along designated unnumbered, unnamed bicycle routes to inform 
+bicyclists of bicycle route direction changes and to confirm route direction and destination.
+03  If used, Bike Route Guide signs may be repeated at regular intervals so that bicycles entering from side streets 
+will have an opportunity to know that they are on a bicycle route. Similar guide signing may be used for shared 
+roadways with intermediate signs placed for bicycle guidance.
+04  The Alternative Bike Route Guide (D11-1c) sign may be used to display a word legend that provides 
+information on route direction, destination, and/or route name in place of the “BIKE ROUTE” word legend on the 
+D11-1 sign (see Figure 9D-1).
+Figure 9D-1.  Guide Signs and Plaques for Bicycle Facilities (Sheet 3 of 3)
+M1-8 M1-8aD11-20 D11-20a M1-8b
+D11-14D11-12 D11-13D11-11
+M1-9
+M2-1P M3-1P M3-2P M3-3P
+M3-4P M4-1P M4-1aP M4-2P
+M4-3P M4-5P M4-6P M4-7P M4-7aP M4-14P M5-1P
+M5-2P M6-1P M6-2P M6-3P M6-4P M6-5P M6-6P M6-7P
+M1-8c
+M4-8P
+Page 1072 MUTCD 11th Edition
+
+=== PDF PAGE 27 ===
+December 2023
+    Sect. 9D.02 to 9D.03
+05  Other plaques such as BEGIN (M4-14P) and END (M4-6P) may be used with Bike Route Guide signs.
+Guidance:
+06  Travel times should not be used on Bike Route Guide signs.
+Support:
+07  Travel times can vary greatly for bicyclists based on a variety of factors including individual speed, bicycle 
+type, and type of facility.
+08  Figure 9D-2 shows examples of guide sign applications for bicycle travel.
+Section 9D.03  BIKE ROUTE Plaque (D11-1bP)
+Option:
+01  The BIKE ROUTE (D11-1bP) plaque (see Figure 9D-1) may be installed to supplement:
+A. The Alternative Bike Route Guide (D11-1c) sign (see Section 9D.02);
+B. The Bicycle Directional (D11-11) sign (see Section 9D.11) for use on a shared-use path; or
+C. A Street Name (D3-1) sign (see Section 2D.45).
+Figure 9D-2.  Examples of Bicycle Guide Signing (Sheet 1 of 2)
+D1-3b
+D2-3a
+D11-1c
+D11-1cD11-1c
+Legend
+Direction of travel
+MUTCD 11th Edition Page 1073
+
+=== PDF PAGE 28 ===
+December 2023
+    Sect. 9D.03
+02  When installed above or below a Street Name sign, the D11-1bP supplemental plaque may include a bicycle 
+symbol to the left of the BIKE ROUTE legend.
+Standard:
+03  The bicycle symbol shall not be used on a Street Name sign.
+04  Where a BIKE ROUTE plaque is used in conjunction with a Street Name sign to identify a street that 
+is part of an overall bicycle network, one of the following signs shall also be used systematically to establish 
+the designated bicycle route on the street identified by the BIKE ROUTE plaque:
+A. Bike Route Guide signs (see Section 9D.02),
+B. Alternative Bike Route Guide (D11-1c) sign (see Section 9D.02),
+C. State or Local Bicycle Route (M1-8 and M1-8a) signs (see Section 9D.05),
+D. Non-Numbered Bicycle Route (M1-8b and M1-8c) signs (see Section 9D.06), or
+E. United States Bicycle Route (M1-9) sign (see Section 9D.07).
+05  BIKE ROUTE plaques shall not incorporate replicas of the United States Bicycle Route, State or Local 
+Bicycle Route, or Non-Numbered Bicycle Route sign to replace or supplement the bicycle symbol.
+Option:
+06  The BIKE ROUTE plaque and the Street Name sign may be different widths.
+Support:
+07  Figure 9D-3 shows an example of bicycle guide signing using the BIKE ROUTE plaque.
+Figure 9D-2.  Examples of Bicycle Guide Signing (Sheet 2 of 2)
+Water Street
+Library
+Note: Right-of-way assignment and associated 
+traffic controls for intersections are not shown.
+Bicycle parking
+Legend
+Direction of travel
+D1-2b
+D1-2b
+M3-1P
+M1-8b
+M6-1PR I-8 M5-1PLI-8
+D1-2b
+D1-3b
+D4-3
+M4-6P
+M1-8b
+D1-2b
+Page 1074 MUTCD 11th Edition
+
+=== PDF PAGE 29 ===
+December 2023
+    Sect. 9D.04
+Section 9D.04  Numbered Bikeway Systems
+Support:
+01  The purpose of numbering and signing bikeways and bicycle routes is to identify routes and facilitate travel.
+02  The United States Bicycle Routes are numbered by the American Association of State Highway Transportation 
+Officials (AASHTO) upon recommendations of State highway organizations. County and local bikeways and 
+bicycle routes are numbered by the appropriate authorities.
+03  Bicycle route sign systems can be used to distinguish junctions, turns, the beginning of routes, and route 
+termination points. Extensive use of reassurance markers is typically not needed.
+04  An agency or jurisdiction can use several methods for bicycle route guidance including maps, information 
+guides, or signing.
+Figure 9D-3.  Example of Bicycle Route Guide Signing
+Washington Street
+Main Street
+First Avenue
+Madison Street
+Legend
+Direction of travel
+D1-2
+D11-1c
+D11-1c
+D3-1
+D3-1
+D3-1
+D11-1c
+D11-1bP
+D3-1D11-1bP
+D1-2c
+D1-2b
+D1-2
+Dotted lines across 
+intersection (optional)
+D1-2c
+Note: The D1-2 signs are larger than the other guide signs on this figure 
+because the legends on the D1-2 signs need to be legible to motorists.
+D1-2c
+MUTCD 11th Edition Page 1075
+
+=== PDF PAGE 30 ===
+December 2023
+    Sect. 9D.04
+Guidance:
+05  Establishing bicycle route systems described in Paragraph 2 of this Section and any other bicycle route system 
+should be followed with effective communication between affected jurisdictions. County and local jurisdictions that 
+are establishing numbered routes should coordinate with the respective State transportation agency. Care should 
+be taken to avoid the use of numbers or other designations that have been assigned to U.S. Bicycle Routes or other 
+routes in the same geographical region or State. Overlapping numbered routes should be kept to a minimum.
+06  Bicycle routes, which might be a combination of various types of bikeways, should establish a continuous routing.
+Standard:
+07  Multiple numbered bicycle route systems shall be given preference in this order: United States, State, 
+and county or local. The preference shall be given by installing the highest-priority legend on the top or the 
+left of the sign assembly with other numbered overlapping bicycle routes.
+08  Where applicable, multiple bicycle route systems with concurrency shall be signed in accordance with 
+Figure 9D-4.
+Guidance:
+09  Numbered bicycle routes should be identified by route signs (see Sections 9D.05 through 9D.07) and auxiliary 
+plaques (see Section 9D.08).
+10  If used, Bicycle Route signs should be placed at locations to keep bicyclists informed of changes in route 
+direction.
+Option:
+11  Bicycle Route signs may be installed on shared roadways, shared-use paths, or separated bikeways to provide 
+navigational guidance for bicyclists.
+M1-9
+M1-9
+M1-8
+M1-8
+M1-8
+D3-1
+M1-8b
+M1-8
+STATE A
+STATE B
+STATE B
+STATE C
+D – Non-numbered
+interstate bicycle
+route with no
+route concurrency
+with USBR
+E – Non-numbered
+interstate bicycle
+route with route
+concurrency
+with USBR
+Figure 9D-4.  Examples of Route Signing for Numbered or Named Bicycle Routes
+M1-9
+M1-9
+Use M1-8
+or M1-8a for
+state/local route
+No standard sign; 
+but states are to  
+coordinate to have 
+common design
+Canyon
+Trail
+No standard sign; 
+but states are to  
+coordinate to have 
+common design
+M1-9 OR M1-9
+A – United States 
+Bicycle Route 
+(USBR) only
+(interstate numbered 
+bike route)
+B – State or local 
+numbered bicycle 
+route with no
+route concurrency 
+with USBR
+C – State or local
+numbered bicycle
+route with route
+concurrency
+with USBR
+Legend
+ United States Bicycle Route
+   (interstate numbered bike route)
+ State or local route
+ Non-numbered interstate route
+M1-8M1-8
+Page 1076 MUTCD 11th Edition
+
+=== PDF PAGE 31 ===
+December 2023
+    Sect. 9D.05 to 9D.06
+Section 9D.05  Numbered Bicycle Route Signs (M1-8 and M1-8a)
+Option:
+01  To establish a unique identification (route designation) for a State or local bicycle route, the Bicycle Route 
+(M1-8 or M1-8a) sign (see Figure 9D-1) may be used.
+Standard:
+02  The Numbered Bicycle Route (M1-8) sign shall display a route designation and shall have a green 
+background with a white legend and border.
+03   The Numbered Bicycle Route (M1-8a) sign shall display the same information as the M1-8 sign and in 
+addition shall display a pictograph or words on the upper portion of the sign panel that are associated with 
+the route or with the agency that has jurisdiction over the route.
+04  If a Numbered Bicycle Route (M1-8 or M1-8a) sign is used on a roadway, it shall include a bicycle symbol.
+Guidance:
+05  If a pictograph is used on the M1-8a sign the maximum dimension (height or width) of the pictograph should 
+not exceed 2 times the height of the route numeral, and should be contained within a green border. The minimum 
+width of the graphic on the M1-8a sign should be 2⁄3 of the sign width, and the maximum width should be 9⁄10 of the 
+sign width.
+06  If a bicycle symbol is used on the M1-8a sign, it should have a minimum height of 1⁄4 of the M1-8a sign 
+panel height.
+Section 9D.06  Non-Numbered Bicycle Route Signs (M1-8b and M1-8c)
+Standard:
+01  Except as provided in Paragraph 2 of this Section, Non-Numbered Bicycle Route (M1-8b and M1-8c) 
+signs (see Figure 9D-1) used on roadways shall have a green background with a white border, and shall 
+include words identifying the bicycle route or a legend consisting of words identifying the bicycle route and 
+a pictograph or bicycle symbol. 
+Option:
+02  Words identifying the bicycle route may be omitted on Non-Numbered Bicycle Route (M1-8b and M1-8c) 
+signs where a pictograph includes the likeness of a bicycle that clearly identifies the route as a bicycle route. 
+Support:
+03  Bicycle routes are sometimes designated specifically by name or established using a distinctive route identity, 
+but are not numbered or are intentionally excluded from an overall numbered bicycle route system.
+04  Section 9D.02 contains information for Bicycle Route signs where no unique designation route is beneficial 
+or desired.
+Option:
+05  Where a bicycle route is named instead of numbered, the Non-Numbered Bicycle Route sign may be used.
+06  A green background or white border may be omitted on Non-Numbered Bicycle Route (M1-8b or M1-8c) signs 
+used on shared-use paths.
+Support:
+07  Certain uninterrupted, long-distance interstate bicycle routes can largely be on shared-use paths, or other off-
+roadway facilities. In order to achieve continuity, these bicycle systems might have to share alignments with urban 
+streets, rural highways, or water crossings.
+08  Long-distance interstate bicycle routes can be administered by independent organizations serving other non-
+transportation objectives.
+Guidance:
+09  In order to provide signing on a facility managed by a transportation agency, a statewide policy for 
+encouraging independent organizations to adopt the Non-Numbered Bicycle Route sign should be established.
+MUTCD 11th Edition Page 1077
+
+=== PDF PAGE 32 ===
+December 2023
+    Sect. 9D.07 to 9D.08
+Section 9D.07  U.S. Bicycle Route Sign (M1-9)
+Guidance:
+01  Where a designated bicycle route extends through two or more States, a coordinated submittal by the affected 
+States for an assignment of a U.S. Bicycle Route number designation should be sent to the American Association 
+of State Highway and Transportation Officials.
+Standard:
+02  The U.S. Bicycle Route (M1-9) sign (see Figure 9D-1) shall have a green legend and border with a white 
+background and shall display the route designation as assigned by AASHTO.
+Section 9D.08  Bicycle Route Sign and Auxiliary Plaques
+Support:
+01  Section 2D.12 contains additional provisions for the design of route sign auxiliary plaques. Sections 2D.29 
+through 2D.34 contain additional provisions for the general application of route signs.
+Guidance:
+02  If a designated or numbered bicycle route is concurrent with a numbered highway, the route sign and 
+auxiliary plaques for the bikeway should be installed as independent assemblies and should not be installed with 
+other Route signs or confirmation assemblies for the numbered or named highway on the same assembly.
+Standard:
+03  Route signs for bikeways shall not be installed on guide signs or overhead.
+Option:
+04  Route assemblies for a designated or numbered bicycle route may be installed at locations or distances other 
+than those prescribed in Sections 2D.29 through 2D.34 if engineering judgment indicates that the operation or 
+speed of the bicycle justifies alternate locations or distances.
+05  Auxiliary plaques (see Figure 9D-1) may be used in conjunction with Bicycle Route signs as needed.
+Guidance:
+06  If used, Junction (M2-1P), Cardinal Direction (M3 series), and Alternative Route (M4 series) auxiliary 
+plaques should be mounted above the appropriate Bicycle Route signs.
+07  If used, Advance Turn Arrow (M5 series) and Directional Arrow (M6 series) auxiliary plaques should be 
+mounted below the appropriate Bicycle Route signs.
+08  Except for the M4-8P plaque, all route sign auxiliary plaques should match the color combination of the 
+route sign that they supplement.
+09  Route sign auxiliary plaques carrying word legends that are used on bicycle routes should have a minimum 
+size of 12 x 6 inches. Route sign auxiliary plaques carrying arrow symbols that are used on bicycle routes should 
+have a minimum size of 12 x 9 inches.
+Standard:
+10  If both the Junction (M2-1P), Cardinal Direction (M3 series), or Alternative Route (M4 series) auxiliary 
+plaque and the Advance Turn Arrow (M5 series) or Directional Arrow (M6 series) auxiliary plaques are 
+used on the same sign assembly as a Bicycle Route sign, the Junction, Cardinal Direction, or Alternative 
+Route auxiliary plaque shall be installed above the Bicycle Route sign, and the Advance Turn Arrow or 
+Directional Arrow auxiliary plaque shall be installed below the Bicycle Route sign.
+Option:
+11  With route signs of larger sizes, auxiliary plaques may be suitably enlarged, but not such that they exceed the 
+width of the route sign.
+12  A route sign and any auxiliary plaques used with it may be combined on a single sign as a guide sign.
+13  Figure 9D-3 shows typical placements of signs for bicycle routes.
+Standard:
+14  If used, a Bicycle Route sign assembly shall consist of a route sign and auxiliary plaques that identify 
+the route and indicate the direction.
+Guidance:
+15  If the bicycle route is signed, Bicycle Route sign assemblies should be installed on all approaches where that 
+route intersects with other numbered bicycle routes.
+Page 1078 MUTCD 11th Edition
+
+=== PDF PAGE 33 ===
+December 2023
+    Sect. 9D.08
+Standard:
+16  Within groups of assemblies, information for bicycle routes intersecting from the left shall be mounted 
+at the left in horizontal arrangements and at the top or center of vertical arrangements. Similarly, 
+information for bicycle routes intersecting from the right shall be at the right or bottom, and for straight-
+through bicycle routes at the center in horizontal arrangements or top in vertical arrangements.
+17  A Junction assembly shall consist of a Junction auxiliary plaque and a Bicycle Route sign. The Bicycle 
+Route sign shall carry the number of the intersected or joined bicycle route.
+Option:
+18  The Junction assembly may be installed in advance of intersections where a numbered bicycle route is 
+intersected or joined by another numbered bicycle route.
+Standard:
+19  An Advance Bicycle Route Turn assembly shall consist of a Bicycle Route sign, an Advance Turn Arrow 
+or word message auxiliary plaque, and a Cardinal Direction auxiliary plaque, if needed. If used, it shall be 
+installed in advance of an intersection where a turn must be made to remain on the indicated route.
+Option:
+20  The Advance Bicycle Route Turn assembly may be used in advance of intersecting routes. On the approach 
+to an intersection with a numbered bicycle route, the Advance Bicycle Route Turn assembly may be used to pre-
+position turning bicyclists in the correct lane position from which to make their turn.
+Standard:
+21  A Directional assembly shall consist of a Cardinal Direction auxiliary plaque, if needed, a route sign, 
+and a Directional Arrow auxiliary plaque.
+Guidance:
+22  The various uses of Directional assemblies should be as follows:
+A. Turning movements should be marked by a Directional assembly with a route sign displaying the number 
+of the turning route and a single-headed arrow pointing in the direction of the turn.
+B. The beginning of a route should be marked by a Directional assembly with a route sign displaying the 
+number of that route and a single-headed arrow pointing in the direction of the route.
+C. An intersected route on a crossroad where the route is designated on both legs should be designated by:
+1. Two Directional assemblies, each with a route sign displaying the number of the intersected route, 
+a Cardinal Direction auxiliary plaque, and a single-headed arrow pointing in the direction of 
+movement on that route; or
+2. A Directional assembly with a route sign displaying the number of the intersected route and a double-
+headed arrow, pointing at appropriate angles to the left, right, or ahead.
+D. An intersected route on a side road or on a crossroad where the route is designated only on one of the 
+legs should be designated by a Directional assembly with a route sign displaying the number of the 
+intersected route, a Cardinal Direction auxiliary plaque, and a single-headed arrow pointing in the 
+direction of movement on that route.
+Option:
+23  Straight-through movements may be indicated by a Directional assembly with a route sign displaying the 
+number of the continuing route and a M6-3P Directional Arrow – Through auxiliary plaque.
+Guidance:
+24  A Directional assembly should not be used for a straight-through movement in the absence of other 
+assemblies indicating right or left turns, as the Confirming assembly sign beyond the intersection normally 
+provides adequate guidance.
+25  Directional assemblies should be located on the near right corner of the intersection. Where unusual 
+conditions exist, the location of a Directional assembly should be determined by engineering judgment.
+Support:
+26  It is more important that guide signs be readable, and that the information and direction displayed thereon be 
+readily understood, at the appropriate time and place than to be located with absolute uniformity.
+MUTCD 11th Edition Page 1079
+
+=== PDF PAGE 34 ===
+December 2023
+    Sect. 9D.08 to 9D.10
+Guidance:
+27  If used, Confirming or Reassurance assemblies should consist of a Cardinal Direction auxiliary plaque and a 
+route sign. Where the Confirming or Reassurance assembly is for an alternative route, the appropriate auxiliary 
+plaque for an alternative route should also be included in the assembly.
+28  If used, a Confirming assembly should be installed just beyond intersections of numbered routes.
+29  If used, Reassurance assemblies should be installed between intersections in urban areas as needed, and 
+beyond the built-up area of any incorporated city or town.
+30  If used, Bicycle Route signs for either confirming or reassurance purposes should be spaced at such intervals 
+as necessary to keep bicyclists informed of their routes.
+Section 9D.09  Bicycle Parking Area, Sharing Station, and Lockers Guide Signs (D4-3, D4-4, and D4-4a)
+Support:
+01  Bicycle parking areas include bicycle racks or stands, parking stations or structures, sharing systems, or 
+lockers. These facilities can be either regulated or unregulated.
+Option:
+02  The Bicycle Parking Area (D4-3) guide sign (see Figure 9D-1) may be installed where it is desirable to show 
+the direction to a designated bicycle parking area. The arrow may be reversed as appropriate.
+03  The Bicycle-Sharing Station (D4-4) guide sign (see Figure 9D-1) may be installed to provide directional 
+information to a designated bicycle-sharing system. The arrow may be reversed as appropriate.
+04  The Bicycle-Sharing Station guide sign may be modified with two lines to accommodate installation in 
+constrained areas.
+05  The Bicycle Lockers (D4-4a) guide sign (see Figure 9D-1) may be installed where it is desirable to show the 
+direction to designated bicycle lockers. The arrow may be reversed as appropriate.
+Guidance:
+06  If used, the Bicycle-Sharing Station guide sign should be used in conjunction with a regulated bicycle-sharing 
+system such as one that requires the user to pre-register or provide a deposit in order to use a bicycle.
+07   Where it is determined that unregulated bicycle-sharing parking facilities necessitate a bicycle parking sign, 
+the Bicycle Parking Area guide sign should be used.
+Standard:
+08  In accordance with Section 1D.07, Bicycle Parking Area, Sharing Station, and Lockers guide signs 
+shall not include promotional advertising, business logos, or other identification that would convey the 
+involvement of a public-private partnership for operating the bicycle parking facility or sharing system.
+Section 9D.10  Reference Location Signs (D10-1 through D10-3) and Intermediate Reference Location 
+Signs (D10-1a through D10-3a)
+Support:
+01  There are two types of reference location signs:
+A. Reference Location (D10-1, D10-2, and D10-3) signs (see Figure 9D-1) show an integer distance point 
+along a shared-use path; and
+B. Intermediate Reference Location (D10-1a, D10-2a, and D10-3a) signs (see Figure 9D-1) show the same 
+information as Reference Locations signs, but they also show a tenth-of-a-mile decimal so that they can be 
+installed between integer distance points along a shared-use path.
+Option:
+02  Reference Location (D10-1 through D10-3) signs may be installed along any section of a shared-use path to 
+assist users in estimating their progress, to provide a means for identifying the location of emergency incidents and 
+crashes, and to aid in maintenance and servicing.
+03  To augment the reference location sign system, Intermediate Reference Location (D10-1a to D10-3a) signs, 
+which show the tenth of a mile with a decimal point, may be installed at one-tenth-of-a-mile intervals, or at some 
+other regular spacing.
+Guidance:
+04  If Intermediate Reference Location (D10-1a through D10-3a) signs are used to augment the reference 
+location sign system, the Reference Location sign at the integer mile point should display a decimal point and a 
+zero numeral.
+05  Reference location signs for shared-use paths should have a minimum mounting height of 2 feet, measured 
+vertically from the bottom of the sign to the elevation of the near edge of the shared-use path, and should not be 
+governed by the mounting height requirements prescribed in Section 9A.02.
+Page 1080 MUTCD 11th Edition
+
+=== PDF PAGE 35 ===
+December 2023
+    Sect. 9D.10 to 9D.12
+Option:
+06  Reference location signs may be installed on one side of the shared-use path only and may be installed 
+back-to-back.
+07  If a reference location sign cannot be installed in the correct location, it may be moved in either direction as 
+much as 50 feet.
+Guidance:
+08  If a reference location sign cannot be placed within 50 feet of the correct location, it should be omitted.
+09  Zero distance should begin at the south and west terminus points of shared-use paths.
+Support:
+10  Section 2H.11 contains additional information regarding reference location signs.
+Section 9D.11  Mode-Specific Directional Guide Signs for Shared-Use Paths (D11-11, D11-12, D11-13, 
+and D11-14)
+Option:
+01  Where separate pathways are provided for different types of users, mode-specific Directional Guide (D11-11, 
+D11-12, D11-13, and D11-14) signs (see Figure 9D-1) may be used to guide different types of users to the pathway 
+that is intended for their respective modes.
+02  Mode-specific Directional Guide signs may be installed at the entrance to shared-use paths where the signed 
+mode(s) are permitted or encouraged, and periodically along these facilities as needed.
+03  The Bicycle Directional (D11-11) sign, when combined with the BIKE ROUTE (D11-1bP) supplemental plaque, 
+may be substituted for the D11-1 Bike Route Guide sign on shared-use paths.
+04  When some, but not all, non-motorized user types are encouraged or permitted on a shared-use path, mode-
+specific Directional Guide signs may be placed in combination with each other, and in combination with signs 
+(see Section 9B.08) that prohibit travel by particular modes.
+Support:
+05  Figure 9D-5 shows an example of signing where separate pathways are provided for different non-motorized 
+user types.
+Section 9D.12  Destination Guide Signs for Shared-Use Paths (D11-10a, D11-10b, D11-10c, D11-10d, 
+D11-10e, and D11-10f)
+Support:
+01  This Section contains information on the application of Destination Guide signs for shared-use paths.
+Standard:
+02  Where bicycle traffic is allowed on the shared-use path, Destination Guide signs for shared-use paths 
+and any identification markers shall be retroreflective.
+Guidance:
+03  Destination Guide signs for shared-use paths should be installed on independent assemblies and should not 
+be combined with regulatory and warning signs.
+Option:
+04  Destination Guide signs for shared-use paths may use symbols detailed in the “Standard Highway Signs” 
+publication (see Section 1A.05) in addition to the bicycle symbol to display other modes permitted to use the 
+shared-use path.
+Standard:
+05  If used, symbols on Destination Guide signs for shared-use paths shall be limited to those where 
+the symbol displayed is an allowable mode on the path or pathway alignment, and where the symbol is 
+supported by other regulatory signs to convey the operation. Symbols unrelated to the allowable modes that 
+would otherwise display directional navigation to a facility, activity, or point of interest shall not be used.
+Support:
+06  Chapter 2M contains information for symbol signs used for facilities, activities, and points of interest.
+Guidance:
+07  Destination Guide signs for shared-use paths, exclusive of any identification marker used, should be 
+rectangular in shape. Simplicity and uniformity in design, position, and application as described in Section 2A.04 
+are important and should be incorporated into the sign design.
+08  Destination Guide signs for shared-use paths should be limited to three destinations per sign (see Section 2D.06).
+09  Abbreviations (see Section 1D.08) should be kept to a minimum, and should include only those that are 
+commonly recognized and understood.
+MUTCD 11th Edition Page 1081
+
+=== PDF PAGE 36 ===
+December 2023
+    Sect. 9D.12
+Support:
+10  Figure 9D-6 shows an example of a signing system of Destination Guide signs used on shared-use paths.
+Standard:
+11  The arrow location and priority order of destinations shall follow the provisions described in Sections 
+2D.08 and 2D.36. Arrows shall be of the designs provided in Section 2D.08.
+12  The lettering for destinations on Destination Guide signs for shared-use paths shall be a combination of 
+lower-case letters with initial upper-case letters (see Section 2D.04). All other word messages on Destination 
+Guide signs for shared-use paths shall be in all upper-case letters.
+13  Except as provided in Paragraph 15 of this Section, the lettering style used for destination and 
+directional legends on Destination Guide signs for shared-use paths shall comply with the provisions of 
+Section 2D.04.
+Option:
+14  The distance to the place named may be displayed on the Destination Guide sign. If several destinations are to 
+be displayed at a single point, the several names may be placed on a single sign with an arrow (and the distance, 
+if desired) for each name. If more than one destination lies in the same direction, a single arrow may be used for 
+such a group of destinations.
+15  A lettering style other than the Standard Alphabets provided in the “Standard Highway Signs “ publication 
+(see Section 1A.05) may be used on Destination Guide signs for shared-use paths if an engineering study 
+determines that the legibility and recognition values for the chosen lettering style at minimum letter heights meet 
+or exceed the values for the Standard Alphabets for the same legend height and stroke width.
+Figure 9D-5.  Examples of Mode-Specific
+Guide Signing on a Shared-Use Path
+D11-12
+D11-12
+M6-2PR
+D11-11
+D11-13
+M5-2PL
+D11-11
+D11-13
+Page 1082 MUTCD 11th Edition
+
+=== PDF PAGE 37 ===
+December 2023
+    Sect. 9D.12
+Standard:
+16  Where a shared-use path is within the highway right-of-way or crosses a street or highway, an 
+alternative lettering style shall not be used.
+Option:
+17  Pictographs (see definition in Section 1C.02) may be used on Destination Guide signs for shared-use paths.
+Standard:
+18  If a pictograph is used, its height shall not exceed 2 times the height of the upper-case letters of the 
+principal legend on the sign.
+19  Business logos, commercial graphics, or other forms of advertising (see Section 1D.07) shall not be used 
+on Destination Guide signs for shared-use paths or sign assemblies. 
+Option:
+20  An identification marker may be used in an assembly for Destination Guide signs applied to shared-use paths, 
+or may be incorporated into the overall design of Destination Guide sign, as a means of visually identifying the 
+sign as part of an overall system of signs.
+Figure 9D-6.  Examples of Destination Guide Signs for Shared-Use Paths
+Legend
+Direction of travel
+Pedestrian-only
+stairway
+To Huddy Falls
+To Lakewood
+Parking 
+lot
+Shared-use path
+D11-10c
+D1-1
+D1-1
+D2-3
+D11-10c
+D11-10c
+D11-10e
+D11-10b
+D11-10b
+D11-10b
+D1-2
+D11-10a
+D1-2
+To Larabee’s Bog
+Note: Larger sign intended to be 
+also visible to motorists.
+Note: Larger sign intended to be 
+also visible to motorists.
+MUTCD 11th Edition Page 1083
+
+=== PDF PAGE 38 ===
+December 2023
+    Sect. 9D.12 to 9D.13
+Standard:
+21  The size of an identification marker shall be smaller than the Destination Guide sign. Identification 
+markers shall not be designed to have an appearance that could be mistaken by road users as being a traffic 
+control device.
+Guidance:
+22  The area of the identification marker should not exceed 1⁄5 of the area of the Destination Guide sign with 
+which it is mounted in the same sign assembly.
+Standard:
+23  Except as provided in Paragraph 26 of this Section, Destination Guide signs for shared-use paths shall 
+have a white legend and border on a green or brown background and shall be consistent with the basic 
+design principles for guide signs.
+24  Color coding or pictographs shall not be used to distinguish between different types of destinations. If 
+used, color coding shall be accomplished by the use of different colored square or rectangular panels on the 
+face of the sign, each positioned to the left of the named geographic area to which the color-coding panel 
+applies. The height of the colored square or rectangular panels shall not exceed 2 times the height of the 
+upper-case letters of the principal legend on the sign.
+Option:
+25  The different colored square or rectangular panels may include either a black or a white (whichever provides the 
+better contrast with the color of the panel) letter, numeral, or other appropriate designation to identify the destination.
+26  Except where a shared-use path is within the highway right-of-way or crosses a street or highway, Destination 
+Guide signs for shared-use paths may use background colors other than green or brown in order to provide a color 
+identification for systematic destinations within the overall guide signing system.
+Standard:
+27  The standard colors of red, orange, yellow, purple, or the fluorescent versions thereof, fluorescent 
+yellow-green, and fluorescent pink shall not be used as background colors for Destination Guide signs for 
+shared-use paths, in order to minimize possible confusion with critical, higher-priority regulatory and 
+warning sign color meanings readily understood by path users.
+Option:
+28  Destination Guide signs for shared-use paths may display telephone numbers, Internet addresses, and e-mail 
+addresses, including domain names and uniform resource locators (URLs).
+Standard:
+29  If used, the use of telephone numbers, Internet addresses, and e-mail addresses shall be limited to 
+direct contact information of the jurisdiction with authority of the shared-use path, or contact information 
+for emergency service response, or both. Contact information for advertising purposes shall not be used.
+Section 9D.13  Two-Stage Bicycle Turn Box Guide Signs (D11-20 Series)
+Support:
+01  Two-stage bicycle turn boxes provide a way for a bicyclist to make a turn in a manner such that a merge across 
+the general-purpose lanes is not required.
+02  Section 9B.18 provides information about situations when the use of a two-stage bicycle turn box is required 
+and also contains information about the Two-Stage Bicycle Turn Box (R9-23 series) regulatory signs.
+03  Section 9E.11 contains information regarding pavement markings for two-stage bicycle turn boxes.
+Option:
+04  Where a two-stage bicycle turn box is provided, the Two-Stage Bicycle Turn Box guide sign series 
+(see Figure 9D-1) may be used.
+Standard:
+05  Where used, the Two-Stage Bicycle Turn Box Advance (D11-20) guide sign shall be mounted in advance 
+of the intersection where the turn box is located.
+06  Where used, the Two-Stage Bicycle Turn Box (D11-20a) guide sign shall be mounted on the far side of 
+the intersection.
+Option:
+07  Where the Two-Stage Bicycle Turn Box Advance (D11-20) guide sign is used, an additional Two-Stage Bicycle 
+Turn Box Advance guide sign may be mounted on the near side of the intersection where the turn box is located.
+08  If used, an appropriately-sized Street Name (D3-1) sign (see Section 2D.45) may be installed below the Two-
+Stage Bicycle Turn Box Advance guide sign to identify the crossroad where the turn box will be available.
+09  Figure 9D-7 shows an example of Two-Stage Bicycle Turn Box guide signs at a location where the use of the 
+turn box is optional.
+Page 1084 MUTCD 11th Edition
+
+=== PDF PAGE 39 ===
+December 2023
+Section 9D.14  General Service Signing for Bikeways
+Option:
+01  General Service signs (see Chapter 2I) may be used on bikeways.
+Standard:
+02  The sizes of General Service signs intended for viewing by both bicyclists and other road users shall 
+comply with the sizes in Table 2I-1.
+Option:
+03 General Service signs intended for the exclusive use of bicyclists may be of reduced size.
+R10-11
+Series
+D11-20
+(optional)
+D11-20
+(optional if
+D11-20 is
+used in advance
+of intersection)
+Figure 9D-7.  Example of Two-Stage Bicycle Turn Box when Use is Optional
+D11-20a
+(optional)
+Legend
+Direction of travel
+Sect. 9D.14
+MUTCD 11th Edition Page 1085
+*
+The use of the R10-11 Series signs is 
+required (see Section 9E.11).
+
+=== PDF PAGE 40 ===
+December 2023
+    Sect. 9E.01
+CHAPTER 9E.  MARKINGS
+Section 9E.01  Bicycle Lanes
+Support:
+01  Pavement markings designate that portion of the roadway for preferential use by bicyclists. Markings inform 
+all road users of the restricted nature of the bicycle lane.
+Standard:
+02   Longitudinal pavement markings and bicycle lane symbol or word markings (see Figure 9E-1) shall be 
+used to define bicycle lanes.
+Guidance:
+03  The first symbol or word marking in a bicycle lane should be placed at the beginning of the bicycle lane and 
+downstream symbol or word markings should be placed after major intersections. Additional symbol or word 
+markings should be placed at periodic intervals along the bicycle lane based on engineering judgment.
+Option:
+04  An arrow marking (see Figure 9E-1) may be used in conjunction with the bicycle lane symbol or word 
+marking, placed downstream from the symbol or word marking.
+Normal white line
+72 inches
+72 inches
+44 inches
+44 inches
+64 inches
+B – Word legends
+Figure 9E-1.  Word, Symbol, and Arrow Pavement Markings for Bicycle Lanes
+Normal 
+white line
+72 inches
+72 inches
+72 inches
+A – Bike symbol
+Page 1086 MUTCD 11th Edition
+
+=== PDF PAGE 41 ===
+December 2023
+    Sect. 9E.01 to 9E.02
+05  Where the bicycle lane symbols or word markings are used, Bicycle Lane signs (see Section 9B.04) may also 
+be used, but not necessarily adjacent to every set of pavement markings in order to avoid overuse of the signs.
+Support:
+06  Section 3H.06 contains information on green-colored pavement for use in bicycle lanes.
+Standard:
+07  The bicycle symbol or BIKE LANE pavement word marking and the pavement marking arrow shall not 
+be used in a shoulder.
+08  A portion of the roadway shall not be established as both a shoulder and a bicycle lane.
+Support:
+09  Where a shoulder is provided or is of sufficient width to meet the expectation of a highway user in that it can 
+function as a space for emergency, enforcement, or maintenance activities, or avoidance or recovery maneuvers, 
+Section 9B.16 contains information regarding the Bicycles Use Shoulder Only sign that can be used to denote 
+locations on a freeway or expressway where bicycles are permitted on an available and usable shoulder.
+10  Examples of pavement markings for bicycle lanes on a two-way street are shown in Figure 9E-2.
+Section 9E.02  Bicycle Lanes at Intersection Approaches
+Standard:
+01  Except as provided in Paragraph 2 of this Section, a through bicycle lane shall not be positioned to the 
+right of a right turn only lane or to the left of a left turn only lane.
+Option:
+02  A through bicycle lane may be positioned to the right of a right turn only lane or to the left of a left turn only 
+lane provided that the bicycle lane is controlled by a traffic signal that displays bicycle signal indications (see 
+Chapter 4H). 
+Support:
+03  Unless controlled by a bicycle signal indication, a bicyclist continuing straight through an intersection from 
+the right of a right turn only lane or from the left of a left turn only lane would be inconsistent with normal traffic 
+behavior and would violate the expectations of right-turning or left-turning motorists.
+Guidance:
+04  When the right (left) through lane is dropped to become a mandatory right-turn (left-turn) lane, the bicycle 
+lane markings should stop at least 100 feet before the beginning of the right-turn (left-turn) lane. Through bicycle 
+lane markings should resume to the left (right) of the mandatory right-turn (left-turn) lane.
+05  Except as provided in Paragraph 2 of this Section, an optional through-right (through-left) turn lane next to a 
+mandatory right-turn (left-turn) lane should not be used where there is a through bicycle lane.
+Standard:
+06  A bicycle lane located on an intersection approach between general-purpose lanes for motor vehicle 
+movements shall be marked with at least one bicycle symbol and at least one arrow pavement marking as 
+provided in Paragraph 4 of Section 9E.01.
+07  A bicycle lane shall not be marked within a general-purpose lane, either with dotted or any other 
+line markings.
+Option:
+08  Where there is insufficient width in the roadway to include both a bicycle lane and a general-purpose turn lane, 
+bicycle travel may be accommodated within the turn lane or general-purpose lane using shared-lane markings.
+Standard:
+09  Where a general-purpose turn lane is controlled by a traffic control signal, through bicycle movements 
+shall not be accommodated in the turn lane unless the turning movement is always permitted to proceed 
+simultaneously with the adjacent through movement.
+Support:
+10  Examples of bicycle lane markings on approaches to intersections are shown in Figures 9E-3, 9E-4, and 9E-9.
+Guidance:
+11  The longitudinal line defining a bicycle lane should be dotted on approaches to intersections where turning 
+vehicles are permitted to cross the path of through-moving bicycles (see Figure 9D-7).
+MUTCD 11th Edition Page 1087
+
+=== PDF PAGE 42 ===
+December 2023
+    Sect. 9E.02
+Figure 9E-2.  Example of Pavement Markings for Bicycle Lanes
+on a Two-Way Street
+Normal width solid white line
+Dotted lines 
+across intersection 
+are optional
+50 to 200 feet of dotted 
+line if bus stop or heavy
+right-turn volume
+Normal width 
+solid white line
+Normal width solid 
+white line (optional)
+50 to 200 feet of dotted line -
+2-foot line, 6-foot spaceDotted line for bus stops immediately 
+beyond the intersection is optional;
+otherwise use normal width 
+solid white line
+R8-3
+R3-17
+R3-17
+R3-17
+R8-3
+R3-17
+OR
+R7-107R7-1
+OR
+R7-107R7-1
+Dotted lines across 
+intersection and green- 
+colored pavement 
+are optional
+Page 1088 MUTCD 11th Edition
+
+=== PDF PAGE 43 ===
+December 2023
+    Sect. 9E.02
+Figure 9E-3.  Examples of Bicycle Lane Markings on an Approach to an Intersection
+(Sheet 1 of 3)
+ R4-4 at upstream end of
+right-turn only lane taper
+R3-7R
+MUTCD 11th Edition Page 1089
+
+=== PDF PAGE 44 ===
+December 2023
+    Sect. 9E.02
+ R4-4 at upstream end
+of right-turn only lane
+R3-7R
+Figure 9E-3.  Examples of Bicycle Lane Markings on an Approach to an Intersection
+(Sheet 2 of 3)
+Page 1090 MUTCD 11th Edition
+
+=== PDF PAGE 45 ===
+December 2023
+    Sect. 9E.02
+R3-7R
+50 ft MIN.
+Figure 9E-3.  Examples of Bicycle Lane Markings on an Approach to an Intersection
+(Sheet 3 of 3)
+R4-4
+MUTCD 11th Edition Page 1091
+
+=== PDF PAGE 46 ===
+December 2023
+    Sect. 9E.02
+Figure 9E-4.  Example of Bicycle Lane Markings on an Approach
+to an Intersection that Transitions from a Shared Lane
+Dotted lines
+(optional)
+ R4-4 at upstream end
+of right-turn only lane
+R3-7R
+Page 1092 MUTCD 11th Edition
+
+=== PDF PAGE 47 ===
+December 2023
+    Sect. 9E.02 to 9E.03
+Support:
+12  Buffer-separated and separated bicycle lanes require additional considerations at intersections, including sight 
+distances for bicycles and other road users, user expectations, and intersection geometry.
+Option:
+13  A buffer-separated or separated bicycle lane may be shifted closer to, or farther away from the adjacent 
+general-purpose lane depending upon site-specific conditions (see Drawings D and E in Figure 9E-7).
+Support:
+14  A buffer-separated or separated bicycle lane shifted away from the adjacent general-purpose lane at an 
+intersection can create space for a motor vehicle to queue between the general-purpose lane and the extension of 
+the bicycle lane. This design can also improve the safety and comfort of bicyclists by reducing the speed of turning 
+motor vehicles, improving sightlines, and creating additional buffer space prior to the conflict point with turning 
+motor vehicles.
+15  The purpose of shifting a buffer-separated or separated bicycle lane away from the adjacent general-purpose 
+lane is to allow the driver of a turning vehicle to undertake the tasks of turning and scanning for bicycle cross 
+traffic in isolation versus simultaneously. Sufficient sight distance for both drivers and bicyclists is important in 
+this design (see Drawing E in Figure 9E-7).
+16  The purpose of shifting a buffer-separated or separated bicycle lane toward the adjacent general-purpose lane 
+is to improve the visibility of bicyclists to the adjacent traffic and avoid conflicts between turning motor vehicles 
+and bicyclists (see Drawing D in Figure 9E-7).
+17  Staggering stop lines (see Section 3B.19) so that general-purpose lanes stop further in advance from 
+the intersection than the bicycle lane can improve the visibility of bicyclists for drivers of turning vehicles 
+(see Drawing D in Figure 9E-7).
+Option:
+18  Where a general-purpose mandatory turn lane is provided at an intersection and the approach also includes 
+a separated or buffer-separated bicycle lane, a mixing zone may be established to allow general-purpose turning 
+traffic to share the roadway space with bicyclists (see Figure 9E-5).
+Standard:
+19  Mixing zones shall be used only where the bicycle lane is one-way in the same direction of travel as the 
+adjacent general-purpose lane.
+20  Mixing zones with a yielding area shall have yield markings indicating where general-purpose traffic 
+entering the shared space shall yield to bicyclists.
+21  Where a mixing zone continues to the intersection itself sharing space between bicyclists and general-
+purpose turning traffic, shared-lane markings and turn arrows shall be provided in the lane.
+Support:
+22  Mixing zones require bicycles and general traffic to share space, interrupting a buffer-separated or separated 
+bicycle lane where bicycle traffic is otherwise separated from general traffic. The preference is to provide a 
+dedicated bicycle facility for the intersection approach, If that is not possible, the mixing zone needs to indicate 
+that bicyclists and motorists are entering a shared condition.
+Guidance:
+23  Where a mixing zone provides for the re-establishment of a bicycle lane after bicycles and general-purpose 
+lanes cross paths, a buffered or physically-separated space should be provided between the bicycle lane and the 
+adjacent general-purpose lane (see Drawing C in Figure 9E-5).
+Section 9E.03  Extensions of Bicycle Lanes through Intersections
+Support:
+01  Extensions of bicycle lanes through intersections can help identify the paths of bicyclists and guide them on 
+movements that could be difficult to discern. Extensions of bicycle lanes through intersections also assist other 
+road users of the intersection to identify where bicyclists are expected to operate and to recognize potentially 
+unexpected conflict points.
+02  The design, placement, and maintenance of bicycle lane extensions through intersections are important 
+considerations, especially when contiguous to a crosswalk, to avoid potential confusion to pedestrians with vision 
+disabilities.
+03  The width and color of lane extension markings are discussed in Section 3B.11.
+MUTCD 11th Edition Page 1093
+
+=== PDF PAGE 48 ===
+December 2023
+    Sect. 9E.03
+Option:
+04  The bicycle symbol, the arrow marking, pavement word markings, or a combination thereof may be used in 
+bicycle lane extensions through intersections.
+05  Green-colored pavement may be used in a bicycle lane extension in accordance with the provisions of 
+Section 3H.06.
+Standard:
+06  Shared-lane markings or chevron markings shall not be used in bicycle lanes or bicycle lane extensions 
+(see Section 9E.09).
+07  Extensions of bicycle lanes through intersections shall use dotted line patterns.
+Support:
+08  Separated and buffer-separated bicycle lanes may have alignments that are not as obvious within an 
+intersection as a standard bicycle lane, therefore additional conspicuity is important where these types of bicycle 
+lanes cross intersections.
+Guidance:
+09  Lane extension markings should be used to extend a buffer-separated or separated bicycle lane through 
+intersections and driveways.
+10  The extension of a bicycle lane through an intersection should use two lines defining both lateral limits of the 
+bicycle lane.
+Standard:
+11  Where the path of the bicycle lane through the intersection is contiguous to a crosswalk, two longitudinal 
+dotted lines shall be provided to establish the lateral limits of the bicycle lane extension. The transverse line 
+establishing one side of the crosswalk, or the limit of a high-visibility crosswalk pattern (see Section 3C.05) 
+that does not employ a transverse line, shall not be used to demarcate one side of the bicycle lane extension.
+Figure 9E-5.  Examples of Pavement Markings for Mixing Zones
+B – Mixing zone with 
+yielding area
+A – Mixing zone without 
+yielding area
+R4-4
+R4-4
+R3-7bP
+R3-7R
+R3-7bP
+R3-7R
+R4-4
+R3-7R
+C – Reestablishment of bike lane 
+after crossing paths with 
+right-turning motor vehicles
+Page 1094 MUTCD 11th Edition
+
+=== PDF PAGE 49 ===
+December 2023
+    Sect. 9E.04 to 9E.06
+Section 9E.04  Bicycle Lanes at Driveways
+Support:
+01  The definition of an “Intersection” in Section 1C.02 contains information to determine if a driveway can be 
+considered an intersection.
+Option:
+02  Bicycle lanes may be continued through a driveway using solid or dotted longitudinal lines.
+03  The bicycle symbol, the arrow marking, pavement word markings, or a combination thereof may be used in 
+bicycle lane extensions through driveways.
+04  Green-colored pavement (see Section 3H.06) may be used as a background to enhance the conspicuity of the 
+bicycle symbol at driveways.
+Section 9E.05  Bicycle Lanes at Circular Intersections
+Standard:
+01  Bicycle lanes shall not be provided in the circulatory roadway of an unsignalized circular intersection 
+that includes conflicts at entry or exit points (see Chapter 3D) except as provided in Paragraph 4 of 
+this Section.
+Guidance:
+02  Bicycle lane markings should stop at least 100 feet before the crosswalk, or if no crosswalk is provided, at 
+least 100 feet before the yield line, or if no yield line is provided, then at least 100 feet before the edge of the 
+circulatory roadway.
+03  If used, bicycle crossings should be a minimum of 20 feet from the edge of the circular roadway.
+Option:
+04  Separated bicycle lanes may be used in circular intersections.
+Support:
+05  Separated bicycle lanes allow bicycles to navigate a circular intersection and its crossing points without 
+merging into traffic and without dismounting and using a crosswalk at the intersection crossing point. This is 
+beneficial at multi-lane and higher-speed circular intersections.
+06  Section 9E.10 contains information on using shared-lane markings to facilitate the bicycle movement through 
+a circular intersection.
+07  The “Guide for the Development of Bicycle Facilities,” 2012 Fourth Edition, American Association of State 
+Highway and Transportation Officials, contains information on designing for bicycles on the sidewalk in lieu of, 
+or in addition to, using shared-lane markings in the circulatory roadway of the intersection.
+08  The FHWA ’s informational guide “Improving Intersections for Pedestrians and Bicyclists” contains 
+information on incorporating separated bicycle lanes and other bicycle facilities into circular intersections.
+Section 9E.06  Buffer-Separated Bicycle Lanes
+Support:
+01  Buffer-separated bicycle lanes provide additional lateral separation between a bicycle lane and a general-
+purpose lane by a pattern of pavement markings without the presence of vertical elements. Providing a buffer 
+space between a bicycle lane and a general-purpose lane creates more separation between motor vehicles and 
+bicycles, can reduce vehicle encroachment into the bicycle lane, and can increase the comfort of bicyclists.
+02  Providing a buffer space between a bicycle lane and a parking lane can reduce crashes involving bicycles and 
+the opening of vehicle doors from the parking lane.
+Standard:
+03  If used, and except as provided in Paragraph 5 of this Section, a buffer space shall be marked with a 
+solid white line along both edges of the buffer space where crossing is discouraged.
+Guidance:
+04  Engineering judgment should be used to establish intermittent breaks or interruptions in the buffer space, 
+such as for driveways, transit stops, or on-street parallel parking lanes, in order to convey access points or an 
+otherwise general legal movement to cross the buffer space (see Figure 9E-6).
+Option:
+05  Buffer spaces may be established without specific longitudinal lines if contiguous facilities have longitudinal 
+lines or other pavement markings themselves that, when installed, automatically demarcate the buffer space 
+(see Drawing D in Figure 9E-6).
+MUTCD 11th Edition Page 1095
+
+=== PDF PAGE 50 ===
+December 2023
+    Sect. 9E.06
+Figure 9E-6.  Examples of Markings for Buffer-Separated Bicycle Lanes
+Legend
+Direction of travel
+D – Contiguous buffer on both sides of the bicycle lane
+Driveway
+C – Intersection and driveway with no on-street parking
+Driveway
+A – Buffer-separated bicycle lanes on a two-way street with no parking
+For a buffer space greater than 3 feet wide, 
+chevron or diagonal markings shall be applied
+Normal width 
+solid white line 
+Buffer space should 
+be at least three 
+times the width of 
+longitudinal lines 
+used to define it
+For a buffer space less 
+than 2 feet wide, no 
+chevron or diagonal 
+markings may be applied 
+within the space
+B – Buffer-separated bicycle lanes on a two-way street with on-street parking
+For a buffer space from 2 to 3 feet 
+wide, chevron or diagonal markings 
+should be applied
+Spacing of chevron or 
+diagonal markings should 
+be 10 feet or greater
+Page 1096 MUTCD 11th Edition
+
+=== PDF PAGE 51 ===
+December 2023
+    Sect. 9E.06 to 9E.07
+Standard:
+06  Except as provided in Paragraph 7 of this Section, a through buffer-separated bicycle lane shall not be 
+positioned to the right of a mandatory right-turn lane or to the left of a mandatory left-turn lane.
+Option:
+07  A buffer-separated bicycle lane may be placed to the right of a mandatory right-turn lane (or to the left of 
+a mandatory left-turn lane) only if a bicycle signal face (see Section 4H.01) is used and the signal phasing and 
+signing eliminates any potential conflicts between the bicycle movement and the turning movement.
+Guidance:
+08  The width of the buffer space should be at least 3 times the width of the normal or wide longitudinal line used 
+to mark the buffer space.
+09  Where a buffer space is 2 to 3 feet wide, chevron or diagonal markings (see Section 3B.25) should be applied 
+within the buffer space.
+Option:
+10  Where a buffer space is less than 2 feet wide, diagonal markings or no markings at all in the buffer space may 
+be applied within the buffer space.
+Standard:
+11  If used, diagonal markings shall slant away from traffic in the adjacent travel lane for motor-
+vehicle traffic.
+Guidance:
+12  Where used, the spacing of chevrons or diagonal markings should be 10 feet or greater.
+Support:
+13  Chevron and diagonal markings convey that the buffer space is not an additional bicycle lane or other travel 
+lane open to traffic.
+Standard:
+14  Where a buffer space is more than 3 feet wide, chevron or diagonal markings shall be applied within 
+the buffer space.
+Guidance:
+15  Lane extension markings should be used to extend a buffer-separated bicycle lane across intersections and 
+driveways.
+Section 9E.07  Separated Bicycle Lanes
+Support:
+01  Separated bicycle lanes provide a physical separation between a general-purpose lane and a bicycle lane 
+through the use of vertical objects or vertical separation between the general-purpose lane and bicycle lane. 
+Providing a physical separation between a bicycle lane and a general-purpose lane can reduce vehicle encroachment 
+into the bicycle lane beyond a marked buffer alone and can in some cases prevent that encroachment altogether.
+02  Physical separation between general-purpose lanes and bicycle lanes introduces additional design 
+considerations over buffer-separated bicycle lanes, including the awareness of a potentially unexpected conflict 
+point for turning motor vehicles and the provision of adequate sight distance for all users at intersections and 
+driveway crossings.
+Option:
+03  Vertical elements used to provide physical separation between general-purpose lanes and bicycle lanes may 
+include, but are not limited to, tubular markers, raised islands, or parked vehicles.
+Support:
+04  Where on-street parking is provided adjacent to the buffer area of a separated bicycle lane, pedestrians will 
+need to access those vehicles.
+Guidance:
+05  BIKE LANE (R3-17) signs (see Figure 9B-1) should be used to distinguish a separated bicycle lane from a 
+general-purpose lane.
+06  Where an on-street parking lane serves as the separation between a general-purpose lane and a separated 
+bicycle lane, a buffer space should be provided between the parking lane and the bicycle lane to allow for 
+opening doors of parked vehicles.
+MUTCD 11th Edition Page 1097
+
+=== PDF PAGE 52 ===
+December 2023
+    Sect. 9E.07 to 9E.08
+Support:
+07  Separated bicycle lanes may be designed for one-way or two-way bicycle travel. Providing one-way separated 
+bicycle lanes in the same direction as and on the right-hand side of the general-purpose lane, whether on a one-
+way or two-way roadway, accommodates the expectations of road users and might result in fewer conflict points 
+at intersections or driveway crossings.
+Option:
+08  Separated bicycle lanes may be provided on one or both sides of a roadway or in a center median.
+Support:
+09  The presence of two-way separated bicycle lanes on one side of a roadway or in a center median can introduce 
+additional challenges and conflict points, which can warrant additional design considerations when selecting the 
+design for a separated bicycle lane. These considerations include design requirements for pedestrians who would 
+interact with the separated bicycle lane.
+Standard:
+10  The edge line and lane line colors used for separated bicycle lanes shall conform to the requirements in 
+Chapter 3A (see Figure 9E-7).
+11  Directional arrows shall be used in conjunction with the bicycle lane symbol or word marking in 
+separated bicycle lanes, placed downstream from the symbol or word marking.
+12  Turns on red shall be prohibited across separated bicycle lanes while bicyclists are allowed to proceed 
+through the intersection.
+Support:
+13  Additional information on signals for bicycle facilities is found in Chapter 4H.
+Standard:
+14  The buffer space for a separated bicycle lane shall be marked with solid longitudinal lines.
+15  A marked buffer space that is 2 feet or wider for a separated bicycle lane, including those buffer spaces 
+where tubular markers are provided, shall use chevron or diagonal markings within the buffer, unless 
+physical separation is provided that occupies the majority of the buffer space, such as raised islands or other 
+physical dividers, or such as where an on-street parking lane occupies the majority of the buffer space.
+Guidance:
+16  Where used in the buffer area of a separated bicycle lane, the spacing of chevrons or diagonal markings 
+should be 10 feet or greater.
+17  Crosswalks that cross a separated bicycle lane should be marked consistent with the style of crosswalk 
+marking provided across the adjacent general-purpose lane.
+Support:
+18  Where on-street parking is provided as the physical separation adjacent to the buffer area of a separated 
+bicycle lane, the chevron or diagonal marking provisions in Section 9E.06 apply to the area outside of the marked 
+parking area within the buffer (see Figure 9E-7).
+19  Intersection treatments for separated bicycle lanes can vary depending on the geometric and operational 
+conditions at the intersection (see Section 9E.02).
+Section 9E.08  Counter-Flow Bicycle Lanes
+Support:
+01  Counter-flow bicycle lanes are one-directional and provide a lawful path of travel for bicycles in the opposite 
+direction from general traffic on a roadway that allows general traffic to travel in only one direction.
+02  Counter-flow bicycle lanes establish two-way traffic on a roadway. Section 9B.21 contains information on the 
+Left Turn Yield to Bicycles (R10-12b) sign used with traffic signals and counter-flow bicycle lanes.
+Guidance:
+03  Where used, a counter-flow bicycle lane should be marked such that bicycles in the counter-flow lane travel 
+on their right-hand side of the road in accordance with normal rules of the road, with opposing traffic on the left.
+Standard:
+04  Counter-flow bicycle lanes located at the edge of the roadway shall use double yellow center line 
+pavement markings (see Section 3B.01), a painted median island, a raised median island (see Chapter 3J), 
+or some form of physical separation where the speed limit is 30 mph or less.
+05  For speed limits 35 mph or greater, a buffer per Section 3B.25, a painted or raised median island, or some 
+form of physical separation shall be used to separate a counter-flow bicycle lane from the adjacent travel lane.
+Page 1098 MUTCD 11th Edition
+
+=== PDF PAGE 53 ===
+December 2023
+    Sect. 9E.08
+D – Separated bicycle lane shifted toward the adjacent general-purpose lane
+Green-colored
+pavement (optional)
+Green-colored
+pavement (optional)
+Figure 9E-7.  Examples of Lane Markings for Separated Bicycle Lanes (Sheet 1 of 2)
+Legend
+Direction of travel
+Tubular marker
+B – One-way bicycle lane on a one-way 
+street behind on-street parking
+Note: Parking provides the 
+vertical element of this 
+separated bicycle lane.
+A – One-way bicycle lanes 
+on a two-way street
+Note: Diagonal or chevron markings shall be 
+used if buffer width is 2 feet or greater 
+for separated bicycle lanes.
+C – Two-way bicycle lane
+on a one-way street
+Note: Diagonal or chevron markings shall 
+be used if buffer width is 2 feet or 
+greater for separated bicycle lanes.
+E – Separated bicycle lane shifted away from traffic
+MUTCD 11th Edition Page 1099
+
+=== PDF PAGE 54 ===
+December 2023
+    Sect. 9E.08
+Guidance:
+06  Lane extension markings should be used where counter-flow bicycle movements cross intersections.
+07  Counter-flow bicycle lanes should not be used between a general-purpose lane and an on-street parallel 
+parking lane for motor vehicles.
+Support:
+08  Counter-flow bicycle lanes located between a general-purpose lane and an on-street parallel parking lane for 
+motor vehicles can limit visibility of bicycles for vehicles exiting the parking lane, potentially impacting the safety 
+of bicyclists. Locating counter-flow bicycle lanes at the edge of the roadway can reduce conflicts for bicycles.
+Standard:
+09  Where signs are provided to regulate turns from streets or driveways that intersect with a roadway 
+that has a counter-flow bicycle lane, ONE WAY signs (see Section 2B.49) shall not be used. Movement 
+Prohibition signs (see Section 2B.26) with supplemental EXCEPT BICYCLES (R3-7bP) regulatory 
+plaque(s) shall be used (see Figure 9E-8).
+10  If a DO NOT ENTER (R5-1) sign(s) is used at egress points for motor vehicle traffic, the EXCEPT 
+BICYCLES (R3-7bP) regulatory plaque(s) shall be placed under the DO NOT ENTER sign (see 
+Figure 9E-8) where a counter-flow bicycle lane is used.
+11  Where intersection traffic controls are provided (such as STOP or YIELD signs or traffic signals), 
+appropriate devices shall be provided and oriented toward bicyclists in the counter-flow lane.
+12  At signalized locations, appropriate bicycle signalization (see Chapter 9F) shall be provided and 
+oriented toward bicyclists in the counter-flow lane, including a method for counter-flow bicycles to actuate 
+the green phase for the counter-flow movement.
+Figure 9E-7.  Examples of Lane Markings for Separated Bicycle Lanes (Sheet 2 of 2)
+F – Separated bicycle lane at an intersection
+G – Separated two-way bicycle lane at an intersection
+Green-colored
+pavement (optional)
+Green-colored
+pavement (optional)
+Legend
+Direction of travel
+Tubular marker
+Page 1100 MUTCD 11th Edition
+
+=== PDF PAGE 55 ===
+December 2023
+    Sect. 9E.08 to 9E.09
+Support:
+13  Higher levels of traffic control 
+or additional signalization, signing, 
+and/or pavement marking treatments 
+can be helpful for intersecting traffic 
+where the counter-flow bicycle 
+movement is unexpected.
+Guidance:
+14  A Bicycle Cross Traffic warning 
+plaque (see Section 9C.06) should 
+be used below a STOP sign on the 
+crossroad at intersections where 
+a counter-flow bicycle lane is 
+provided on the primary street.
+Section 9E.09  Shared-
+Lane Marking
+Support:
+01  The “Standard Highway Signs” 
+publication (see Section 1A.05) 
+contains details on the shared-lane 
+marking symbol.
+Option:
+02  The shared-lane marking shown 
+in Figure 9E-9 may be used to:
+A. Assist bicyclists with lateral 
+positioning in a shared lane with on-street parallel parking in order to reduce the chance of a bicyclist 
+impacting the open door of a parked vehicle,
+B. Assist bicyclists with lateral positioning in lanes that are too narrow for a motor vehicle and a bicycle to 
+travel side-by-side within the same traffic lane,
+C. Alert road users of the lateral location bicycles are likely to occupy within the traveled way,
+D. Encourage safe passing of bicycles by motor vehicles,
+E. Reduce the incidence of wrong-way bicycling in the roadway, and
+F. Assist bicyclists with lateral positioning in mixing zones.
+Guidance:
+03  The shared-lane marking should not be placed on roadways that have a speed limit of 40 mph or greater.
+Standard:
+04  Shared-lane markings shall not be used in:
+A. Shoulders;
+B. Bicycle lanes or in designated extensions of bicycle lanes through intersections or driveways,
+C. A travel lane in which light-rail transit vehicles also travel;
+D. The transition area where a motor vehicle entering a mandatory turn lane must weave across 
+bicyclists in bicycle lanes;
+E. Two-stage turn boxes;
+F. Bicycle boxes;
+G. Shared-use paths or shared-use path crossings; or
+H. Physically-separated bikeways, either in the roadway or on an independent right-of-way.
+05  Green-colored pavement shall not be applied as a background to shared-lane markings 
+(see Section 3H.06).
+Option:
+06  Black background markings (see Section 3A.03) may be used in combination with shared-lane markings to 
+enhance contrast.
+Legend
+Direction of travel
+Figure 9E-8.  Example of Counter-Flow 
+Bicycle Lanes at an Intersection
+R3-2
+R3-2R5-1
+R5-1
+R3-7bP
+R3-7bP
+R3-7bP
+R3-2
+R3-7bPR3-1
+R3-7bP
+R3-1
+R3-7bP
+MUTCD 11th Edition Page 1101
+
+=== PDF PAGE 56 ===
+December 2023
+    Sect. 9E.09
+Guidance:
+07  If used in a shared lane with on-street parallel parking, shared-lane markings should be placed so that the 
+centers of the markings are a minimum of 12 feet from the face of the curb, or from the edge of the pavement 
+where there is no curb.
+08  If used on a street without on-street parking that has an outside travel lane that is less than 14 feet wide, 
+shared-lane markings should be placed so that the centers of the markings are a minimum of 4 feet from the face 
+of the curb, or from the edge of the pavement where there is no curb.
+09  At non-intersection locations, the shared-lane marking should be spaced at intervals of not less than 50 feet 
+or greater than 250 feet.
+10  The first shared-lane marking downstream from an intersection should be placed no more than 50 feet from 
+the intersection.
+Option:
+11  Section 9B.14 describes a Bicycles Allowed Use of Full Lane sign that may be used in addition to or instead of 
+the shared-lane marking to inform road users that bicyclists might occupy the travel lane.
+Guidance:
+12  If the Bicycles Allowed Use of Full Lane (R9-20) sign is used as an addition to shared-lane marking, the shared-
+lane marking should be placed so that the center of the marking is in the approximate center of the travel lane.
+Option:
+13  The shared-lane marking may be used (see Figure 9E-9) where the width of the roadway is insufficient to 
+continue a bicycle lane or separated bikeway on the approach to the intersection, or it is advantageous to terminate 
+the bicycle lane or separated bikeway in order to provide for a shared lane.
+14  The shared-lane marking may be used on an approach to an intersection (see Figure 9E-5) in a mandatory turn 
+lane to indicate a shared space for bicyclists and motorists where there is insufficient width in the roadway for both 
+the bicycle lane and turn lane.
+Legend
+Direction of travel
+Figure 9E-9.  Examples of Shared-Lane Marking Applications
+R3-7R
+R3-7bP
+R4-4
+A – Shared-lane markings 
+on a two-way street with 
+parking on one side
+B – Shared-lane marking 
+on an approach to
+an intersection
+C – Shared-lane marking 
+with optional black 
+background markings
+less than
+14 ft
+Black background
+markings (optional)
+R4-4
+R3-7R
+R3-7bP
+ * The center of the shared lane marking should 
+be a minimum of 12 ft from face of curb or edge
+of pavement 
+ 
+ ** The center of the shared lane marking should 
+be a minimum of 4 ft from face of curb or edge 
+of pavement
+*
+**
+Note: For shared-lane marking design details, see the Pavement Markings chapter of the Standard Highway Signs publication
+Green-colored
+pavement (optional)
+Page 1102 MUTCD 11th Edition
+
+=== PDF PAGE 57 ===
+December 2023
+    Sect. 9E.10 to 9E.11
+Section 9E.10  Shared-Lane Markings for Circular Intersections
+Option:
+01  Shared-lane markings may be used in the circulatory roadway of circular intersections.
+Guidance:
+02  If used, shared-lane markings should be placed in the center of the lane when used inside of circulatory roadways.
+Support:
+03  The “Guide for Development of Bicycle Facilities,” 2012 Fourth Edition, American Association of State 
+Highway and Transportation Officials, contains information on designing for bicycles on shared-used paths in lieu 
+of, or in addition to, using shared-lane markings in the circulatory roadway of the intersection.
+Section 9E.11  Two-Stage Bicycle Turn Boxes
+Support:
+01  Two-stage bicycle turn boxes allow bicyclists the opportunity to make turns at an intersection or crossing point 
+instead of requiring them to merge into traffic upstream or to dismount and use a crosswalk at the intersection or 
+crossing point.
+02  Section 9B.18 contains information on regulatory signing that shall be used in conjunction with a two-stage 
+bicycle turn box pavement marking where bicyclists are required to use the turn box.
+03  Section 9D.13 contains information on guide signing that can be used in conjunction with a two-stage bicycle 
+turn box pavement marking where bicyclists are not required to use the turn box.
+Standard:
+04  If used, two-stage bicycle turn boxes shall be located:
+A. In an area between the closest through bicycle or motor vehicle movement and the parallel 
+crosswalk (see Drawing A in Figure 9E-10),
+B. In an area between the through bicycle movement and the parallel pedestrian crossing movement if 
+no crosswalk is established (see Drawing B in Figure 9E-10),
+C. On the innermost side of the bicycle facility provided that the two-stage turn box is located in a 
+portion of the intersection where parallel or motor vehicle traffic does not travel, such as projections 
+of islands or parking lanes (see Drawing C in Figure 9E-10), or
+D. In an area between the through bicycle movement and a pedestrian facility for T-intersections 
+(see Drawing D in Figure 9E-10).
+05  A two-stage bicycle turn box shall consist of at least one bicycle symbol pavement marking and at least 
+one pavement marking arrow.
+06  A turn arrow in the appropriate direction shall be used if a two-stage turn box is used with a one-way 
+bicycle lane, and a through arrow in the appropriate direction shall be used if a two-stage turn box is used 
+with a two-way bikeway (see Figure 9E-11).
+07  A two-stage bicycle turn box shall be bounded on all sides by a solid white line.
+08  For two-stage bicycle turn boxes that facilitate turns from a one-way bikeway, the bicycle symbol shall 
+precede the pavement marking turn arrow in the direction of bicycle travel (see Figure 9E-10).
+09  Passive detection of bicycles in the two-stage bicycle turn box shall be provided if the signal phase that 
+permits bicycles to enter the intersection during the second stage of their turn is actuated.
+Guidance:
+10  Engineering judgment should be used to develop the size of the two-stage bicycle turn box. Factors 
+considered should include intersection geometry and keeping queued bicycles away from moving traffic, as well 
+as peak hour bicycle volumes to avoid overflow of the two-stage turn box that subjects any bicyclist to conflicting 
+movements.
+Option:
+11  The two-stage turn box may use green-colored pavement.
+Standard:
+12  If used, green-colored pavement shall encompass all of the two-stage turn box.
+13  Where the path of vehicles lawfully turning on red would pass through a two-stage bicycle turn box, a 
+full-time no-turn-on-red prohibition (see Section 2B.60) shall be provided for the crossroad approach.
+MUTCD 11th Edition Page 1103
+
+=== PDF PAGE 58 ===
+December 2023
+    Sect. 9E.11
+Legend
+Direction of travel
+Figure 9E-10.  Examples of Two-Stage Turn Box Locations at Intersections
+B – Between the through bicycle lane
+and the parallel pedestrian movement
+A – Between the through bicycle lane
+and the parallel crosswalk
+C – On the inside of the
+through bicycle lane
+D – Between the through bicycle lane
+and the sidewalk at a T-intersection
+Page 1104 MUTCD 11th Edition
+
+=== PDF PAGE 59 ===
+December 2023
+    Sect. 9E.12
+Section 9E.12  Bicycle Box
+Option:
+01  A bicycle box 
+(see Figure 9E-12) may be used to 
+increase the visibility of stopped 
+bicycles on the approach to a 
+signalized intersection during 
+the portion of the signal cycle 
+when a red signal indication is 
+being displayed to motor vehicles 
+in the approach lane(s) that is 
+behind the box.
+Guidance:
+02  Providing a bicycle box on a 
+signalized intersection approach 
+where a discernible number 
+of conflicts between vehicles 
+turning across through bicycles 
+in a bicycle lane has been 
+demonstrated during the green 
+interval of a signal should be 
+evaluated based on engineering 
+judgment or study.
+03  Other treatments should be 
+considered for conflicts between 
+turning vehicles and through 
+bicycles such as using leading 
+or exclusive signal phases, 
+or separating turning traffic 
+from through traffic through 
+mandatory turn lanes.
+04  A bicycle lane should be used 
+on the approach to a bicycle box.
+05  A bicycle box should not be 
+contiguous with a crosswalk. 
+A stop line on the downstream end of the bicycle box should be used to mark the location where bicycles are 
+required to stop.
+Standard:
+06  If used, the distance from the upstream edge of the bicycle box that is nearest to the stop line for motor 
+vehicles to the downstream edge of the bicycle box that is nearest the crosswalk or intersection shall be at 
+least 10 feet. At least one bicycle symbol marking (see Figure 9E-12) shall be used in the bicycle box.
+07  Where an existing stop line for motor vehicles is relocated upstream to install a new bicycle box, 
+the yellow change and red clearance intervals (see Section 4F.17) shall be recalculated and if necessary, 
+reprogrammed to accommodate the length of the bicycle box.
+08  Countdown pedestrian signals (see Section 4I.04) for the crosswalk or pedestrian crossing movement 
+that crosses the approach shall accompany bicycle boxes that extend across more than one approach lane 
+for motor vehicles. Countdown pedestrian signals used with bicycle boxes shall display the pedestrian 
+change interval countdown without the need for actuation.
+09  Turns on red shall be prohibited from the lane where a bicycle box is placed.
+Support:
+10  Countdown pedestrian signals can inform bicyclists whether there is adequate time remaining to an adjacent 
+lane before the onset of the green signal phase for that approach.
+Guidance:
+11  Countdown pedestrian signals for the crosswalk or pedestrian crossing movement that crosses the approach 
+should accompany single-lane bicycle boxes where it is demonstrated that bicycles arrive at the intersection at or 
+near the end of the red signal indication being displayed to traffic in the approach lane(s) that is behind the box.
+Option:
+12  Green-colored pavement may be used in a bicycle box.
+Legend
+Direction of travel
+Figure 9E-11.  Example of a Two-Stage Turn Box Location
+at an Intersection with a Two-Way Bikeway
+MUTCD 11th Edition Page 1105
+
+=== PDF PAGE 60 ===
+December 2023
+    Sect. 9E.12 to 9E.13
+Standard:
+13  If used, green-colored pavement shall be used in the full limits of the bicycle box.
+Support:
+14  Section 9B.02 contains information on the EXCEPT BICYCLES (R3-7bP) regulatory plaque that can be 
+used below the STOP HERE ON RED (R10-6 or R10-6a) sign (see Section 2B.59) to exempt bicyclists from the 
+requirement of the advance stop line.
+Section 9E.13  Shared-Use Paths
+Option:
+01  Where shared-use paths are of sufficient width to designate two minimum width lanes, a solid yellow center 
+line may be used to separate the two directions of travel where passing or traveling to the left of the line is not 
+permitted. A broken yellow center line may be used where passing is permitted (see Figure 9E-13).
+Guidance:
+02  Broken lines used on shared-use paths should have a nominal 3-foot segment with a 9-foot gap.
+Option:
+03  A solid white line may be used on shared-use paths to separate different types of users in the same direction. 
+The R9-7 sign (see Section 9B.13) may be used to supplement the solid white line.
+04  Smaller size pavement word markings and symbols may be used on shared-use paths. Where arrows are 
+needed on shared-use paths, half-size layouts of the arrows may be used (see Section 3B.20).
+Standard:
+05  Where a shared-use path crosses a roadway, crosswalk markings shall be used (see Chapter 3C).
+Figure 9E-12.  Examples of Intersection Bicycle Boxes (Sheet 1 of 2)
+Intersection stop line
+Legend
+Direction of travel
+10 ft MIN.
+Advance stop line
+Green-colored
+pavement (optional)
+R3-7R
+R4-4
+A – Bicycle box across one lane
+Page 1106 MUTCD 11th Edition
+
+=== PDF PAGE 61 ===
+December 2023
+    Sect. 9E.13
+Option:
+06  Where pedestrian and bicycle movements on a shared-use path are separated on the approach to a roadway 
+crossing, parallel bicycle and pedestrian crossing markings may be used as shown in Figure 9E-14.
+Guidance:
+07  If parallel bicycle and pedestrian crossing markings are used where a shared-use path crosses a roadway, 
+crossing areas for bicycles should use green-colored pavement if the shared-use path crossing has a high volume 
+of either mode.
+Figure 9E-12.  Examples of Intersection Bicycle Boxes (Sheet 2 of 2)
+10 ft MIN.
+R10-6a
+R10-11*
+*Place in accordance with Section 2B.60
+Pedestrian signal with
+countdown display
+(required where bicycle box
+crosses more than one lane)
+R3-7bP
+B – Bicycle box across multiple lanes
+Note: Signs and pedestrian signals 
+shown for northbound 
+approach only
+Green-colored
+pavement (optional)
+Legend
+Direction of travel
+MUTCD 11th Edition Page 1107
+
+=== PDF PAGE 62 ===
+December 2023
+    Sect. 9E.14
+Section 9E.14  Bicycle Route Pavement Markings
+Option:
+01  Bicycle route pavement markings simulating guide signs for bicycle routes (see Section 9D.02 through 9D.07) 
+and route auxiliary plaques (see Section 9D.08) may be used to supplement guide signing to help bicyclists in 
+navigation (see Figure 9E-15).
+Standard:
+02  Bicycle route pavement markings shall be limited to shared-use paths, separated bicycle lanes, or 
+buffer-separated bicycle lanes. Bicycle route pavement markings shall not be used in standard bicycle lanes 
+or in shared lanes.
+Guidance:
+03  A systematic methodology of locating guide signs for bicycle routes adjacent to the bicycle route pavement 
+marking should be used that includes locations where either the sign or the pavement marking can exist alone to 
+avoid overuse of the guide sign or the pavement marking.
+04  The route marker pavement marking should be elongated.
+05  The location, size, and materials of the route marker pavement marking should be designed in a manner that 
+will minimize the loss of traction for bicyclists under wet conditions.
+9 ft
+3 ft
+Normal
+width broken
+yellow line
+Normal
+width solid
+yellow line
+A – Passing permitted B – Passing NOT permitted
+Figure 9E-13.  Examples of Center Line Markings for Shared-Use Paths
+Page 1108 MUTCD 11th Edition
+
+=== PDF PAGE 63 ===
+December 2023
+    Sect. 9E.15 to 9E.16
+Section 9E.15  Bicycle Detector Symbol
+Option:
+01  The bicycle detector symbol (see Figure 9E-16) may be placed on the pavement indicating the optimum 
+position for a bicycle to actuate the signal.
+02  Appropriately-sized WAIT HERE FOR GREEN word markings may be placed on the pavement immediately 
+below the bicycle detector symbol.
+ 03  A R10-22 sign (see Section 9B.20) may be installed to supplement the bicycle detector symbol 
+pavement marking.
+Support:
+04  The “Standard Highway Signs” publication (see Section 1A.05) contains details on the bicycle 
+detector symbol.
+05  Section 3H.06 contains information on incorporating green-colored pavement as a background enhancement 
+to the bicycle detector symbol.
+Section 9E.16  Pavement Markings for Obstructions
+Guidance:
+01  Markings as shown in Figure 9E-17 should be used at the location of obstructions in the center of a 
+shared-use path or a physically-separated bikeway, including vertical elements intended to physically prevent 
+unauthorized motor vehicles from entering the path.
+02  For roadway situations where it is impracticable to eliminate a drain grate or other roadway obstruction 
+that is inappropriate for bicycle travel, white markings applied as shown in Figure 9E-17 should be used to guide 
+bicyclists around the condition.
+Figure 9E-14.  Example of Pavement Markings for a
+Shared-Use Path with Mode Separation
+Green-colored
+pavement
+(optional)
+Legend
+Direction of travel
+MUTCD 11th Edition Page 1109
+
+=== PDF PAGE 64 ===
+December 2023
+    Sect. 9E.17
+Section 9E.17  Raised Devices
+Support:
+01  Chapter 3I contains information on 
+using channelizing devices to emphasize 
+pavement marking patterns associated 
+with certain bicycle facilities. A common 
+application is the use of flexible raised 
+devices to create separated bicycle lanes 
+(see Section 9E.07).
+02  Using inflexible raised devices 
+immediately adjacent to the travel path 
+of a bicyclist without a buffer creates a 
+collision potential for bicyclists.
+Option:
+03  In accordance with Chapter 3I, 
+channelizing devices may be used 
+to emphasize a pavement marking 
+pattern that establishes a bicycle lane or 
+other bicycle facility provided that the 
+installation of channelizing devices does 
+not prevent motor vehicles from turning 
+when the turn requires the motor vehicle 
+to merge with the bicycle lane or facility 
+as required by law or ordinance.
+Guidance:
+04  If used, channelizing devices for 
+bicycle facilities should be tubular 
+markers (see Section 3I.02).
+05  The selection of a raised device 
+for use with bicycle facilities should 
+consider the collision potential of both 
+the post and the base since the base 
+might still be present in the event the 
+post is struck and missing.
+Support:
+06  Measures to reduce the likelihood of a road user striking a channelizing device include marking a buffer 
+space, improving lighting, improving retroreflectivity, or the periodic addition of taller vertical elements within 
+runs of shorter elements.
+Standard:
+07  Channelizing devices that are used to emphasize the pavement marking patterns of bicycle facilities 
+shall not incorporate the color green into either the device or its retroreflective element to supplement the 
+presence of green-colored pavement.
+Guidance:
+08  If used in buffer-separated bicycle lanes, channelizing devices should be placed in the buffer space and at 
+least 1 foot from the longitudinal bicycle lane pavement marking.
+Figure 9E-15.  Example of Placement of
+Route Markers for Shared-Use Paths
+Legend
+Direction of travel
+M3-1
+M1-8
+M6-2
+M3-1
+M1-9
+(alt)
+M5-2
+M3-1
+M1-9
+(alt)
+M3-1
+M1-8
+Note: Right-of-way assignment 
+and associated traffic 
+control is not shown.
+Page 1110 MUTCD 11th Edition
+
+=== PDF PAGE 65 ===
+December 2023
+    Sect. 9E.17
+Figure 9E-16.  Bicycle Detector Pavement Marking
+42 inches
+24 inches
+6 inches
+12 inches
+24 inches
+2 inches
+2 inches
+2 inches
+6 inches
+6 inches
+Note: The word pavement markings are optional.
+MUTCD 11th Edition Page 1111
+
+=== PDF PAGE 66 ===
+December 2023
+Sect. 9E.17
+Figure 9E-17.  Examples of Obstruction Pavement Markings
+L = WS, where W is the offset in feet and S is bicycle approach speed in mph
+Provide an additional foot of offset for a raised obstruction and use the formula
+L = (W+1) S for the taper length
+1 ft
+Obstruction Normal width solid yellow line
+A – Obstruction within the path
+Direction of bicycle travel
+W
+2L
+L
+Pier, abutment, grate, or other obstruction
+Wide solid white line (see Section 3A.04)
+B – Obstruction at the edge of the path or roadway
+Page 1112 MUTCD 11th Edition
+*
+
+=== PDF PAGE 67 ===
+December 2023
+    Sect. 9F.01 to 9F.03
+CHAPTER 9F.  SIGNALS
+Section 9F.01  Application
+Support:
+01  Part 4 contains information regarding signal warrants and other requirements relating to signal installations.
+Option:
+02  For purposes of signal warrant evaluation, bicycles may be counted as either vehicles or pedestrians.
+Section 9F.02  Bicycle Signal Faces
+Support:
+01  Chapter 4H contains information on the design and application of bicycle signal faces.
+02  Section 9B.22 contains information for the Bicycle Signal sign that is required to be installed with a bicycle 
+signal face.
+Section 9F.03  Signal Operations for Bicycles
+Standard:
+01  At installations where visibility-limited signal faces are used, signal faces shall be adjusted so bicyclists 
+for whom the indications are intended can see the signal indications. If the visibility-limited signal faces 
+cannot be aimed to serve the bicyclist, then separate signal faces shall be provided for the bicyclist.
+02  On bikeways, signal timing and actuation shall be reviewed and adjusted to consider the needs 
+of bicyclists.
+MUTCD 11th Edition Page 1113
+
+=== PDF PAGE 68 ===
+December 2023
+    Sect. 9F.03
+(This page intentionally left blank)
+Page 1114 MUTCD 11th Edition

@@ -1,0 +1,919 @@
+Title: MUTCD Chapter 2F - Toll road signs
+Stored edition/date: December 2023
+Source: Rulebooks/Chapter2f.pdf
+Generated text for search. Verify requirements, diagrams, tables, symbols, and quotes in the original PDF.
+Page markers identify physical PDF pages; printed document page numbers may differ.
+
+=== PDF PAGE 1 ===
+December 2023
+MUTCD 11th Edition Page 379
+    Sect. 2F.01
+CHAPTER 2F.  TOLL ROAD SIGNS
+Chapter 2F Subchapter and Section Organization
+GENERAL
+  2F.01 Scope
+  2F.02 Sizes of Toll Road Signs and Electronic Toll Collection (ETC) System Pictographs
+  2F.03 Use of Color on Toll Signs
+REGULATORY SIGNS
+  2F.04 Regulatory Signs for Toll Plazas
+  2F.05 Electronic Toll Collection (ETC) Account-Only Regulatory Sign and Plaque (R3-31 and R3-32P)
+WARNING SIGNS
+  2F.06 Pay Toll and Take Ticket Advance Warning Signs (W9-6 and W9-6e)
+  2F.07 Pay Toll and Take Ticket Advance Warning Plaques (W9-6bP and W9-6gP)
+  2F.08 Stop Ahead Pay Toll and Take Ticket Warning Signs (W9-6a and W9-6f)
+  2F.09 Stop Ahead Pay Toll and Take Ticket Warning Plaques (W9-6cP and W9-6hP)
+  2F.10 LAST EXIT BEFORE TOLL Warning Plaques (W16-16P and W16-16aP)
+  2F.11 TOLL Warning Plaque (W16-17P)
+GUIDE SIGNS
+  2F.12 Toll Facility and Toll Plaza Guide Signs – General
+  2F.13 Electronic Toll Collection (ETC) Signs – General
+  2F.14 Advance Signs for Conventional Toll Plazas
+  2F.15 Advance Signs for Toll Plazas on Diverging Alignments from Open-Road ETC Account-Only Lanes
+  2F.16 Toll Plaza Canopy Signs
+  2F.17 Guide Signs for Entrances to Electronic Toll Collection (ETC) Only Facilities
+  2F.18 Guide Signs for ETC-Only Entrance Ramps to Non-Toll Highways
+  2F.19 ETC Account Program Information Signs
+
+=== PDF PAGE 2 ===
+December 2023
+Page 380 MUTCD 11th Edition
+    Sect. 2F.01 to 2F.03
+GENERAL
+Section 2F.01  Scope
+Support:
+01  Toll highways are typically limited-access freeway or expressway facilities. A portion of or an entire route 
+might be a toll highway, or a bridge, tunnel, or other crossing point might be the only toll portion of a highway at 
+which a toll is collected. A toll highway might be a conventional road. The general signing requirements for toll 
+roads will depend on the type of facility and access (freeway, expressway, or conventional road). The provisions 
+of Chapters 2D and 2E will generally apply for guide signs along the toll facility that direct road users within and 
+off the facility where exit points and geometric configurations are not dependent specifically on the collection of 
+tolls. The aspect of tolling and the presence of toll plazas or collection points necessitate additional considerations 
+in the typical signing needs. The notification of the collection of tolls in advance of and at entry points to the toll 
+highway also necessitates additional modifications to the typical signing.
+02  The scope of this Section applies to a route or facility on which all lanes are tolled. Chapter 2G contains 
+provisions for the signing of managed lanes within an otherwise non-toll facility that employ tolling or pricing as 
+an operational strategy to manage congestion levels.
+Standard:
+03  Except where specifically provided in this Chapter, the provisions of other Chapters in Part 2 shall 
+apply to toll roads.
+Section 2F.02  Sizes of Toll Road Signs and Electronic Toll Collection (ETC) System Pictographs
+Standard:
+01  Except as provided in Section 2A.07, the minimum sizes of toll road signs that have standardized 
+designs shall be as shown in Table 2F-1.
+Support:
+02  Section 2A.07 contains information regarding the applicability of the various columns in Table 2F-1.
+Option:
+03  Signs larger than those shown in Table 2F-1 may be used (see Section 2A.07).
+Standard:
+04  The ETC system pictograph (see Section 2A.04) shall be of a size that makes it a prominent feature of 
+the sign legend as necessary for conspicuity for those road users with registered ETC accounts seeking such 
+direction, as well as for those road users who do not have ETC accounts so that it is clear to them to avoid 
+such direction when applicable.
+Guidance:
+05  Except as provided in Paragraph 6 of this Section, an ETC pictograph that is in the shape of a horizontally-
+oriented rectangle should have a minimum height of 1.5 times the upper-case letter height of the principal 
+legend on the sign. The width of an ETC pictograph in the shape of a horizontal rectangle should be between 
+approximately 2 and 3 times the height of the pictograph.
+06  When the pictograph is the principal legend on the sign, such as for advance guide signs for open-road tolling 
+lanes (see Section 2F.15), the minimum height of a horizontally-oriented rectangular ETC pictograph should be 
+consistent with that of a route shield prescribed for the particular application and type of sign.
+07  For ETC pictographs whose shape is square, circular, or otherwise similar in height and width, or is a 
+vertically-oriented rectangle, the same basic principles for conspicuity and placement should be followed. ETC 
+pictographs whose shape is not in that of a horizontally-oriented rectangle should be suitably sized to facilitate 
+conspicuity as described in Paragraph 4 of this Section and should be of a similar approximate area as the 
+horizontally-oriented rectangular pictographs designed in accordance with the height and width as provided in 
+Paragraph 5 of this Section.
+Section 2F.03  Use of Color on Toll Signs
+Standard:
+01  Use of the color purple on any sign shall comply with the provisions of Sections 1D.05 and 2A.06. 
+Except as provided in Sections 2F.05 and 2F.16, purple as a background color shall be used only when the 
+information associated with the appropriate ETC account is displayed on that portion of the sign. The 
+background color of the remaining portion of such signs shall comply with the provisions of Sections 1D.05 
+and 2A.06 as appropriate for a regulatory, warning, or guide sign. Purple shall not be used as a background 
+color to display a destination, action message, or other legend that is not a display of the requirement for all 
+vehicles to have a registered ETC account.
+
+=== PDF PAGE 3 ===
+December 2023
+MUTCD 11th Edition Page 381
+    Sect. 2F.03
+02  If only vehicles with registered ETC accounts are allowed to use a highway lane, a toll plaza lane, 
+an open-road tolling lane, or all lanes of a toll highway or connection, the guide signs for such lanes or 
+highways shall incorporate the pictograph (see Section 2A.04) adopted by the toll facility’s ETC payment 
+system and the regulatory message ONLY. Except for ETC pictographs whose predominant background 
+color is purple, if incorporated within the green background of a guide sign, the ETC pictograph shall be 
+on a white rectangular or square panel set on a purple underlay panel with a white border. For rectangular 
+ETC pictographs whose predominant background color is purple, a white border shall be used at the outer 
+edges of the purple rectangle to provide contrast between the pictograph and the sign background color.
+03  If an ETC pictograph is used on a separate plaque in a route sign assembly (see Section 2F.05) or on 
+a header panel within a guide sign, the plaque or the header panel shall have a purple background with a 
+white border and the ETC pictograph shall have a white border to provide contrast between the pictograph 
+and the background of the plaque or header panel.
+04  Purple underlay panels for ETC pictographs or purple backgrounds for plaques and header panels 
+shall only be used in the manner described in Paragraphs 1 through 3 of this Section to convey the 
+requirement of a registered ETC account on signs for lanes reserved exclusively for vehicles with such an 
+account and on directional signs to an ETC Account-Only facility from a non-toll facility or from a toll 
+facility that accepts multiple payment forms.
+Support:
+05  Figure 2F-1 shows examples of ETC account pictographs, their use with various background colors, and 
+modifications involving underlay panels.
+06  Section 2F.02 contains provisions regarding the size of pictographs for ETC accounts.
+Table 2F-1.  Toll Road Sign and Plaque Minimum Sizes
+Sign or Plaque Sign 
+Designation Section
+Conventional Road
+Expressway Freeway Minimum Oversized
+Single Lane Multi-Lane
+Toll Rate R3-28 2F.04 — — 114 x 48 114 x 48 — —
+Pay Toll (plaque) R3-29P 2F.04 — — 24 x 18 24 x 18 — —
+Take Ticket (plaque) R3-30P 2F.04 — — 24 x 18 24 x 18 — —
+ETC Account-Only R3-31 2F.05 24 x 24 24 x 24 36 x 36 36 x 36 24 x 24 36 x 36
+No Cash (plaque) R3-32P 2F.05 24 x 12 24 x 12 36 x 18 36 x 18 24 x 12 36 x 18
+Pay Toll XX Miles 
+Cars (price) W9-6 2F.06 96 x 66 96 x 66 96 x 66 96 x 66 — —
+Stop Ahead Pay Toll 
+Cars (price) W9-6a 2F.08 114 x 66 114 x 66 114 x 66 114 x 66 — —
+Pay Toll XX Miles Cars 
+(price) (plaque) W9-6bP 2F.07 312* x 30 312* x 30 312* x 30 312* x 30 — —
+Stop Ahead Pay 
+Toll (plaque) W9-6cP 2F.09 264* x 30 264* x 30 264* x 30 264* x 30 — —
+Stop Ahead Pay 
+Toll (plaque) W9-6dP 2F.09 114 x 48 114 x 48 114 x 48 114 x 48 — —
+Take Ticket XX Miles W9-6e 2F.06 114 x 48 114 x 48 114 x 48 114 x 48 — —
+Stop Ahead Take Ticket W9-6f 2F.08 114 x 48 114 x 48 114 x 48 114 x 48 — —
+Take Ticket XX 
+Miles (plaque) W9-6gP 2F.07 216 x 30 216 x 30 216 x 30 216 x 30 — —
+Stop Ahead Take 
+Ticket (plaque) W9-6hP 2F.09 282 x 30 282 x 30 282 x 30 282 x 30 — —
+Last Exit Before Toll 
+(1-line plaque) W16-16P 2F.10 — — 252* x 36 252* x 36 — —
+Last Exit Before Toll 
+(2-line plaque) W16-16aP 2F.10 — — 144 x 54 144 x 54 — —
+Toll (plaque) W16-17P 2F.11 24 x 12 24 x 12 36 x 18 36 x 18 24 x 12 36 x 18
+Toll Collector 
+Symbol Panel M4-17 2F.12 — — 48 x 48 48 x 48 — —
+Exact Change 
+Symbol Panel M4-18 2F.12 — — 48 x 48 48 x 48 — —
+* The width shown represents the minimum dimension. The width shall be increased as appropriate to match the width of the guide sign.
+Notes: 1. Larger signs may be used when appropriate
+   2. Dimensions are shown as width x height, in inches
+
+=== PDF PAGE 4 ===
+December 2023
+Page 382 MUTCD 11th Edition
+    Sect. 2F.03
+Figure 2F-1.  Examples of ETC Account Pictographs
+and Use of Purple Backgrounds and Underlay Panels
+A – Pictograph design with a purple background and a white contrasting border
+B – Pictograph design with a background color other than purple, shown
+in a purple underlay panel with a white contrasting border
+1. Pictograph on a purple
+background
+2. Pictograph with a purple
+underlay on a non-contrasting 
+background
+3. Pictograph with a purple underlay
+panel on a white or other
+contrasting background
+1. Pictograph on a purple or other 
+non-contrasting background
+2. Pictograph on a white or other
+contrasting background
+
+=== PDF PAGE 5 ===
+December 2023
+MUTCD 11th Edition Page 383
+    Sect. 2F.04
+REGULATORY SIGNS
+Section 2F.04  Regulatory Signs for Toll Plazas
+Support:
+01  Toll plaza operations often include lane-specific restrictions on vehicle type, forms of payment accepted, and 
+speed limits or required stops. Vehicles are typically required to come to a stop to pay the toll or receive a toll 
+ticket in the attended and exact change or automatic lanes. Electronic toll collection (ETC) lanes with favorable 
+geometrics typically allow vehicles to move through the toll plaza without stopping, but usually within a set 
+regulatory speed limit or advisory speed. In some ETC lanes and in most lanes that accommodate non-ETC 
+vehicles, a stop might be required while the ETC payment is processed because of geometric or other conditions.
+Guidance:
+02  Regulatory signs applicable only to a particular lane or lanes should be located in a position that makes 
+their lane applicability clear to road users approaching the toll plaza.
+03  Regulatory signs, or regulatory panels within guide signs, indicating restrictions on vehicle type and forms 
+of toll payment accepted at a specific toll plaza lane should be installed over the applicable lane either on the 
+toll plaza canopy or on a separate structure immediately in advance of the canopy located in a manner such that 
+each sign is clearly related to an individual toll lane.
+Support:
+04  Section 2F.12 contains information regarding the incorporation of regulatory messages into guide signs for 
+toll plazas.
+05  Section 2F.16 contains information regarding the design and use of toll plaza canopy signs.
+Guidance:
+06  One or more Speed Limit (R2-1) signs (see Section 2B.21) should be installed in the locations provided in 
+Paragraph 8 of this Section for an ETC-Only lane at a toll plaza in which an enforceable regulatory speed limit is 
+established for a lane in which it is intended that vehicles move through the toll plaza without stopping while toll 
+payments requiring stops occur in other lanes at the toll plaza. The speed limit displayed on the signs should be 
+based on an engineering study taking into account the geometry of the toll plaza and the lanes, as well as other 
+appropriate safety and operational factors.
+07  A Speed Limit (R2-1) sign should not be installed for a toll plaza lane that is controlled by a STOP (R1-1) sign 
+or where a stop is required.
+08  Where speed limit signs are installed over a toll plaza lane on the toll plaza canopy, on the approach end of 
+the toll booth island, on the toll booth itself, or on a vertical element of the canopy structure, then down arrows or 
+diagonally downward-pointing directional arrows should be used to supplement the speed limit signs if there is a 
+need to clarify the applicability of a sign to a specific lane or to improve compliance.
+Standard:
+09  A STOP (R1-1) sign shall not be installed for a toll plaza lane that is operated as an ETC-Only lane and 
+that is designed for tolls to be collected while vehicles continue moving.
+Option:
+10  A STOP (R1-1) sign may be installed to require all vehicles to come to a complete stop to pay a toll in an 
+attended or exact change lane, even if that lane is also available for optional use by vehicles with registered ETC 
+accounts. A PAY TOLL (R3-29P) or TAKE TICKET (R3-30P) plaque (see Figure 2F-2), as appropriate to the 
+operation, may be installed directly under the STOP (R1-1) sign for a toll plaza lane, if needed.
+11  The mounting height of the STOP sign and any supplemental plaque may be less than the normal mounting 
+height requirements if constrained by the physical features of the toll island or toll plaza.
+Figure 2F-2.  Toll Plaza Regulatory Signs and Plaques
+R3-30PR3-29PR3-28
+
+=== PDF PAGE 6 ===
+December 2023
+Page 384 MUTCD 11th Edition
+    Sect. 2F.04 to 2F.05
+Figure 2F-3.  ETC Account-Only Auxiliary Signs for Use in Route Sign Assemblies
+Example route sign 
+assembly
+R3-31
+R3-31
+R3-32P
+W16-17P
+M3-2P
+M1-4
+M5-1P
+Note: The ETC pictograph shown is an example 
+only. The pictograph for the toll facility’s 
+adopted ETC system shall be used.
+12  The lateral offset of a STOP or other regulatory sign located within a toll plaza island may be reduced to a 
+minimum of 1 foot from the face of the toll island or raised barrier to the nearest edge of the sign.
+Guidance:
+13  If used, a STOP (R1-1) sign for a toll plaza cash payment lane should be located in a longitudinal position 
+as near as practical to the point where a vehicle is expected to stop to pay the toll or take a ticket.
+Option:
+14  A Toll Rate (R3-28) sign (see Figure 2F-2) may be installed in advance of the toll plaza to indicate the toll 
+applicable to the various vehicle types.
+Guidance:
+15  If used, the Toll Rate (R3-28) sign should be located between the toll plaza and the first advance sign 
+informing road users of the toll plaza.
+16  The R3-28 sign should not contain more than three lines of legend. Each line that shows a toll amount should 
+display only a single toll amount.
+Option:
+17  Additional toll rate information exceeding three lines of legend may be displayed on the toll booth adjacent to 
+the payment window of an attended lane or the payment receptacle of an exact change or automatic lane where it is 
+visible to a road user who has stopped to pay the toll, but is not visible to approaching road users who have not yet 
+entered the toll lane.
+Section 2F.05  Electronic Toll Collection (ETC) Account-Only Regulatory Sign and Plaque 
+(R3-31 and R3-32P)
+Standard:
+01  In any route sign assembly providing directions to a toll facility, or to a tolled segment of a highway, 
+where electronic toll collection (ETC) is the only payment method accepted and all vehicles are required 
+to have a registered ETC account, the ETC Account-Only (R3-31) sign (see Figure 2F-3) shall be mounted 
+directly below the route sign of the numbered or named toll facility. The R3-31 sign shall have a white 
+border and purple background and incorporate the pictograph adopted by the toll facility’s ETC payment 
+system and the word ONLY in black letters on a white panel set on the purple background of the sign.
+Option:
+02  The NO CASH (R3-32P) plaque (see Figure 2F-3) with a black legend and border on a white background may 
+be mounted directly below the R3-31 sign in a Directional or other sign assembly.
+
+=== PDF PAGE 7 ===
+December 2023
+MUTCD 11th Edition Page 385
+    Sect. 2F.06 to 2F.08
+WARNING SIGNS
+Section 2F.06  Pay Toll and Take Ticket Advance Warning Signs (W9-6 and W9-6e)
+Standard:
+01  The Pay Toll (W9-6) and Take Ticket (W9-6e) Advance Warning signs shall display the distance to 
+the toll plaza and, except for toll-ticket facilities, the toll for passenger or 2-axle vehicles (see Figure 2F-4). 
+Where the toll for passenger or 2-axle vehicles is variable by time of day, a changeable message element 
+shall be incorporated into the W9-6 sign to display the toll in effect.
+Guidance:
+02  The Pay Toll Advance Warning (W9-6) sign should be installed at approximately 1 mile and 1⁄2 mile 
+in advance of mainline toll plazas at which some or all lanes are required to come to a stop to pay a toll 
+(see Sections 2F.14 and 2F.15).
+03  The Take Ticket Advance Warning (W9-6e) sign should be installed overhead at approximately 1 mile and 
+1⁄2 mile in advance of mainline toll plazas at which some or all lanes are required to come to a stop to take a 
+toll ticket (see Sections 2F.14 and 2F.15).
+04  The Pay Toll and Take Ticket Advance Warning signs should be mounted overhead.
+Option:
+05  If there is insufficient space for the W9-6 or W9-6e sign at the 1-mile or 1⁄2-mile advance location, the Pay 
+Toll or Take Ticket Advance Warning (W9-6bP or W9-6gP) plaque (see Section 2F.07) may be installed at those 
+advance locations above the appropriate guide sign(s) that relate to toll payment types.
+06  An additional W9-6 or W9-6e sign may be installed approximately 2 miles in advance of a mainline toll plaza. 
+This sign may be either mounted overhead or post-mounted.
+07  If the visibility of a ramp toll plaza at which some or all lanes are required to come to a stop to pay a toll or 
+take a ticket is limited, the W9-6 or W9-6e sign may also be installed in advance of the ramp toll plaza.
+Section 2F.07  Pay Toll and Take Ticket Advance Warning Plaques (W9-6bP, W9-6dP, and W9-6gP)
+Option:
+01  The Pay Toll or Take Ticket Advance Warning (W9-6bP and W9-6gP) plaques (see Figure 2F-4) may be 
+installed above the appropriate guide sign(s) relating to toll payment types at the 1-mile and/or 1⁄2-mile advance 
+locations on the approach to a toll plaza if there is insufficient space for the W9-6 or W9-6e sign (see Section 2F.06) 
+at those advance locations.
+Standard:
+02  The W9-6bP and W9-6gP plaques shall display the distance to the toll plaza and, except for toll-ticket 
+facilities, the toll for passenger or 2-axle vehicles. Where the toll for passenger or 2-axle vehicles is variable 
+by time of day, a changeable message element shall be incorporated into the W9-6bP plaque to display the 
+toll in effect.
+Option:
+03  The distance to the toll plaza may be omitted from the W9-6bP and W9-6gP plaques if the distance is 
+displayed on the guide sign that the plaque accompanies.
+04  The Pay Toll (W9-6dP) plaque may be used if the toll information is displayed on the guide sign that the 
+plaque accompanies.
+05  The toll for passenger or 2-axle vehicles may be omitted from the W9-6bP plaque if the toll information is 
+displayed on the guide sign that the plaque accompanies.
+Section 2F.08  Stop Ahead Pay Toll and Take Ticket Warning Signs (W9-6a and W9-6f)
+Standard:
+01  The Stop Ahead Pay Toll (W9-6a) warning sign (see Figure 2F-4) shall display the toll for passenger 
+or 2-axle vehicles. Where the toll for passenger or 2-axle vehicles is variable by time of day, a changeable 
+message element shall be incorporated into the W9-6a sign to display the toll in effect.
+Guidance:
+02  The Stop Ahead Pay Toll (W9-6a) sign should be installed downstream from the W9-6 sign that is 1⁄2 mile 
+in advance of a mainline toll plaza where some or all of the lanes are required to come to a stop to pay a toll 
+(see Sections 2F.14 and 2F.15).
+
+=== PDF PAGE 8 ===
+December 2023
+Page 386 MUTCD 11th Edition
+    Sect. 2F.08
+Figure 2F-4.  Toll Plaza Warning Signs and Plaques
+W9-6fW9-6e
+W9-6 W9-6a
+W9-6bP
+W9-6cP
+W9-6dP
+W9-6gP
+W9-6hP
+W16-16P
+W16-16aP
+
+=== PDF PAGE 9 ===
+December 2023
+MUTCD 11th Edition Page 387
+    Sect. 2F.08 to 2F.11
+03  The Take Ticket (W9-6f) warning sign (see Figure 2F-4) should be installed downstream from the W9-6e sign 
+that is 1⁄2 mile in advance of a mainline toll plaza where some or all of the lanes are required to come to a stop to 
+take a toll ticket (see Sections 2F.14 and 2F.15).
+04  The W9-6a and W9-6f signs should be mounted overhead. The location of the overhead sign should coincide 
+with the approximate location where the mainline lanes begin to widen on the approach to the toll plaza lanes.
+05  Where open-road tolling is used in addition to a toll plaza at a particular location, the W9-6a or W9-6f sign 
+should be located such that the message is clearly related to the lanes that access the toll plaza and not to the 
+open-road tolling lanes.
+Option:
+06  If there is insufficient space for the W9-6a or W9-6f sign at the recommended location, the Stop Ahead 
+Pay Toll (W9-6cP) or the Stop Ahead Take Ticket (W9-6hP) plaque (see Section 2F.09) may be installed at that 
+location above the appropriate guide sign that relates to toll payment types.
+07  If the visibility of a ramp toll plaza at which some or all lanes are required to come to a stop to pay a toll or 
+take a ticket is limited, the W9-6a or W9-6f sign may also be installed in advance of the ramp toll plaza.
+Section 2F.09  Stop Ahead Pay Toll and Take Ticket Warning Plaques (W9- 6cP and W9-6hP)
+Option:
+01  The Stop Ahead Pay Toll (W9-6cP) warning plaque (see Figure 2F-4) may be installed above the appropriate 
+guide sign at the location specified for the Stop Ahead Pay Toll (W9-6a) sign (see Section 2F.08) if there is 
+insufficient space for the W9-6a sign at that location and the toll information is displayed on the guide sign that the 
+plaque accompanies.
+02  The Take Ticket (W9-6hP) warning plaque (see Figure 2F-4) may be installed above the appropriate guide 
+sign at the location specified for the Take Ticket (W9-6f) sign (see Section 2F.08) if there is insufficient space for 
+the W9-6f sign at that location.
+Section 2F.10  LAST EXIT BEFORE TOLL Warning Plaques (W16-16P and W16-16aP)
+Guidance:
+01  The LAST EXIT BEFORE TOLL (W16-16P or W16-16aP) warning plaque (see Figure 2F-4) should be 
+used to notify road users of the last exit from a highway before it becomes a facility on which toll payments are 
+required. The plaque should be installed above the appropriate guide signs for the exit (see Sections 2E.23 and 
+2E.25), but below the Exit Number or LEFT plaque if used.
+Section 2F.11  TOLL Warning Plaque (W16-17P)
+Standard:
+01  The TOLL (W16-17P) warning plaque (see Figure 2F-3) shall have a black legend and border on a 
+yellow background and shall be mounted directly above the route sign of a numbered toll highway or, 
+if used, above the cardinal direction and alternative route auxiliary signs, in any route sign assembly 
+providing direction to a toll highway or to a segment of a highway on which the payment of a toll 
+is required.
+
+=== PDF PAGE 10 ===
+December 2023
+Page 388 MUTCD 11th Edition
+    Sect. 2F.12
+GUIDE SIGNS
+Section 2F.12  Toll Facility and Toll Plaza Guide Signs – General
+Support:
+01  Toll plazas are used on many toll highways, bridges, and tunnels for collection of tolls from road users. 
+Electronic toll collection and/or open-road tolling might also be used on such facilities, either in addition to or in 
+place of collecting toll payments at toll plazas.
+02  Chapter 2G contains information regarding signs for preferential and managed lanes that are applicable to 
+toll roads.
+03  Chapter 3E contains information regarding pavement markings for certain toll plaza applications.
+Standard:
+04  Directional assemblies for entrances to a toll highway, or to a road leading directly to a toll highway 
+with no opportunity to exit before paying or being charged a toll, shall clearly indicate that the facility is 
+a toll facility. Except where the State Toll Route sign (see Paragraph 8 of this Section) is used, the TOLL 
+(W16-17P) warning plaque (see Section 2F.11) shall be used above the route sign of a numbered toll facility 
+in any route sign assembly that provides directions to the toll route from another highway (see Figure 2F-5).
+05  Except where the State Toll Route sign (see Paragraph 8 of this Section) is used and on Exit Gore 
+signs or destination guide (D1 series) signs, a rectangular panel with the black legend TOLL on a 
+yellow background shall be incorporated into the guide signs leading road users to a tolled highway 
+(see Figures 2F-6 through 2F-8).
+06  Guide signs for toll highways, toll plazas, and tolled or priced managed lanes (see Chapter 2G) shall 
+have white legends and borders on green backgrounds, except as specifically provided by Sections 2F.12 
+through 2F.16.
+Option:
+07  A State Toll Route sign (see Paragraph 8 of this Section) may be used in lieu of the State Route (M1-5) 
+sign in combination with the TOLL (W16-17P) warning plaque or the TOLL panel (see Paragraphs 10 and 11 
+of this Section).
+Figure 2F-5.  Example of Minor Interchange Crossroad Signing 
+for an Approach to a Toll Highway
+I-25
+Optional
+
+=== PDF PAGE 11 ===
+December 2023
+MUTCD 11th Edition Page 389
+    Sect. 2F.12
+Figure 2F-6.  Example of Interchange Crossroad Signing for a 
+One-Lane Approach to a Toll Highway
+OR
+OR
+(optional)
+I-57
+OR
+
+=== PDF PAGE 12 ===
+December 2023
+Page 390 MUTCD 11th Edition
+    Sect. 2F.12
+Figure 2F-7.  Examples of Multi-Lane Crossroad Signing
+for a Diamond Interchange
+OR
+I-18
+OR
+OR
+OR
+(mounted overhead)
+(mounted overhead)
+
+=== PDF PAGE 13 ===
+December 2023
+MUTCD 11th Edition Page 391
+    Sect. 2F.12
+Standard:
+08  A State Toll Route sign shall incorporate into its design the word TOLL using the same letter height, 
+legend, background colors, and overall plaque dimensions specified for the W16-17P warning plaque.
+09  The Interstate, Off-Interstate, and U.S. Route signs shall not be modified for tolled facilities.
+Option:
+10  Where conditions do not accommodate separate signs, or where it is important to associate a particular 
+regulatory or warning message with specific guidance information, regulatory and/or warning messages may be 
+combined with guide signs for toll plazas using plaques, header panels, or rectangular regulatory or warning panels 
+incorporated within the guide signs, as long as the proper legend and background colors are preserved.
+Note: The ETC pictographs shown are examples only. 
+The pictograph for the toll facility’s adopted ETC 
+system shall be used.
+Figure 2F-8.  Examples of Guide Signs for Entrances to Toll Highways or Ramps
+C – Entrance to a non-toll highway via 
+an ETC Account-Only toll entrance ramp
+(an alternate non-toll entrance is
+provided in the vicinity)
+(the toll entrance is the only
+connection provided in the vicinity)
+B – Entrance to an ETC Account-Only toll highway
+or entrance to a toll highway via an ETC Account-Only ramp
+A – Entrance to a toll highway on which 
+registration in a toll account program is not required
+
+=== PDF PAGE 14 ===
+December 2023
+Page 392 MUTCD 11th Edition
+    Sect. 2F.12
+Standard:
+11  When regulatory messages are incorporated within a guide sign, they shall be on a rectangular panel 
+with a black legend on a white background. When warning messages are incorporated within a guide sign, 
+they shall be on a rectangular panel with a black legend on a yellow background.
+Guidance:
+12  Guide signs for toll plazas should be designed in accordance with the general principles of guide signs and 
+the specific provisions of Chapter 2E.
+13  Signs for toll plazas should systematically provide road users with advance and toll plaza lane-specific 
+information regarding:
+A. The amount of the toll, the types of payment accepted, and the type(s) of registered ETC accounts 
+accepted for payment;
+B. Which lane or lanes are required or allowed to be used for each available payment type; and
+C. Restrictions on the use of a toll plaza lane or lanes by certain types of vehicles (such as cars only or 
+no trucks).
+Standard:
+14  Signs for attended lanes at toll plazas shall incorporate the Toll Collector (M4-17) symbol panel 
+(see Figure 2F-9).
+Option:
+15  Signs for attended lanes at toll plazas may also display word legends, such as FULL SERVICE, CASH, 
+CHANGE, or RECEIPTS (see Figure 2F-9), to supplement the required symbol panel when lanes have different 
+services available through them.
+Standard:
+16  Signs for Exact Change lanes at toll plazas shall incorporate the Exact Change (M4-18) symbol panel 
+and, except for ticketed systems, display the amount of the toll for passenger vehicles (see Figure 2F-9).
+Option:
+17  Signs for Exact Change lanes at toll plazas may include an appropriate word legend, such as EXACT 
+CHANGE (see Figure 2F-9), to supplement the required symbol panel.
+Standard:
+18  When used, the M4-17 and M4-18 symbol panels shall be used only as panels within guide signs. The 
+M4-17 and M4-18 symbols or panels shall not be used as an independent sign or within a sign assembly.
+19  If only vehicles with registered ETC accounts are allowed to use a toll plaza lane, the signs for such 
+lanes shall incorporate the pictograph adopted by the toll facility’s ETC payment system and the regulatory 
+message ONLY (see Figures 2F-1 and 2F-8 through 2F-11). The use, size, and placement of the ETC 
+pictograph shall comply with the provisions of Sections 2F.02 and 2F.03.
+20  An Overhead Arrow-per-Lane guide sign (see Figure 2F-10) shall be used in advance of a location where 
+the mainline lanes split to separate traffic entering Open-Road ETC lanes from lanes entering a toll plaza 
+where other methods of payment are accepted and an option lane is provided at the split (see Figure 2F-11). 
+An Overhead Arrow-per-Lane guide sign shall not be used if there is no option lane at the split.
+Figure 2F-9.  Examples of Conventional Toll Plaza Advance Signs
+Note: The ETC pictograph that is shown is only an example. The pictograph for the toll facility’s adopted ETC system shall be used.
+
+=== PDF PAGE 15 ===
+December 2023
+MUTCD 11th Edition Page 393
+    Sect. 2F.12 to 2F.13
+Option:
+21  The ETC payment system’s pictograph, without a purple underlay or purple header panel, may be used on signs 
+for Exact Change or attended lanes at toll plazas to indicate that vehicles with registered ETC accounts may also 
+use those lanes.
+Section 2F.13  Electronic Toll Collection (ETC) Signs – General
+Support:
+01  Figure 2F-8 shows examples of guide signs for entrances to various types of toll highways and for ETC 
+Account-Only entrances to non-toll highways.
+Standard:
+02  Signing for entrances to toll highways where ETC is employed only through license plate character 
+recognition such that road users are not required to establish a toll account or register their vehicle 
+equipment shall comply with the provisions of Paragraphs 4 and 5 of Section 2F.12.
+Support:
+03  Figure 2F-12 shows examples of guide signs for the entrance to a toll highway on which tolls are collected 
+electronically only and registration in a toll-account program is not required.
+Standard:
+04  If only vehicles with registered ETC accounts are allowed to use a toll highway, the guide signs for 
+entrances to such facilities shall incorporate the pictograph adopted by the toll facility’s ETC payment 
+system and the regulatory message ONLY (see Figures 2F-1 and 2F-8 through 2F-12). The use, size, and 
+placement of the ETC pictograph and the use and color of the background and underlay panel shall comply 
+with the provisions of Sections 2F.02 and 2F.03.
+Support:
+05  Sections 2F.05, 2F.11, and 2F.17 contain additional provisions regarding signs for toll highways that only accept 
+ETC payments.
+06  Sections 2G.16 through 2G.19 contain additional provisions regarding signs for priced managed lanes that only 
+accept ETC payments.
+07  Figure 2F-13 shows an example of guide signs for alternative toll and non-toll ramp connections to a non-toll 
+highway (see Section 2F.18).
+08  Many different ETC payment systems are used by the various toll facility operators. Some of these systems 
+accept payment from other systems’ accounts.
+Figure 2F-10.  Example of an Overhead Arrow-per-Lane Guide
+  Sign and Arrow for a Split with an Option Lane
+Example of an Overhead 
+Arrow-per-Lane guide sign for a split 
+with an option lane
+Arrow for the option lane
+(see the “Standard Highway 
+Signs” publication for details)
+Note: The ETC pictograph that is shown is only an example.
+ The pictograph for the toll facility’s adopted ETC system
+ shall be used.
+
+=== PDF PAGE 16 ===
+December 2023
+Page 394 MUTCD 11th Edition
+    Sect. 2F.13
+Figure 2F-11.  Examples of Guide Signs for a Split with an Option Lane for a
+Mainline Toll Plaza on a Diverging Alignment from Open-Road ETC Lanes
+Match Line A
+Match Line A
+Match Line B
+Match Line B
+1/2 mile
+800 ft MIN.
+Theoretical
+gore
+Beginning of
+lane diverge
+W12-1
+Notes:
+ 1. Additional advance guide signs are not shown. 
+ 2. The ETC pictograph that is shown is only an 
+example. The pictograph for the toll facility’s 
+adopted ETC system shall be used.
+
+=== PDF PAGE 17 ===
+December 2023
+MUTCD 11th Edition Page 395
+    Sect. 2F.13
+Option:
+09  Where a facility will accept payments from other systems’ accounts in addition to its primary ETC-account 
+payment system, such information may be displayed on a separate information sign near the entrances to such a 
+facility or in advance of a toll plaza or open-road tolling lanes, as space allows between primary signs.
+Figure 2F-12.  Examples of Guide Signs for the Entrance to a Toll Highway
+on which Tolls are Collected Electronically Only (Sheet 1 of 3)
+800 ft
+MIN.
+1/2 mile
+1/2 mile
+800 ft
+MIN.
+800 ft
+MIN.
+For managed toll highways 
+only (see Chapter 2G)
+Optional if toll rates sign is not used
+Optional
+A – All tolls are billed through a license plate character recognition system
+Note: Registration in an ETC toll 
+account or use of an ETC device 
+is not part of the system.
+
+=== PDF PAGE 18 ===
+December 2023
+Page 396 MUTCD 11th Edition
+    Sect. 2F.13
+Figure 2F-12.  Examples of Guide Signs for the Entrance to a Toll Highway
+on which Tolls are Collected Electronically Only (Sheet 2 of 3)
+800 ft
+MIN.
+1/2 mile
+1/2 mile
+800 ft
+MIN.
+For managed toll highways only 
+(see Chapter 2G)
+OR
+B – Registration in an ETC account program is required for using the tollway
+Notes:
+ 1. Tolls are processed though an ETC device 
+and/or license plate recognition for vehicles 
+registered in the ETC program. 
+ 2. The ETC pictographs shown are only examples. 
+The pictograph for the toll facility’s adopted ETC 
+system shall be used.
+
+=== PDF PAGE 19 ===
+December 2023
+MUTCD 11th Edition Page 397
+    Sect. 2F.13
+Figure 2F-12.  Examples of Guide Signs for the Entrance to a Toll Highway
+on which Tolls are Collected Electronically Only (Sheet 3 of 3)
+800 ft
+MIN.
+1/2 mile
+1/2 mile
+800 ft
+MIN.
+800 ft
+MIN.
+For managed toll highways 
+only (see Chapter 2G)
+Show only non-discounted rates
+Optional if toll rates sign is not used
+Optional
+C – Tolls are billed through either a license plate character recognition system or an ETC account device
+Notes:
+ 1. Registration in an ETC account is not required. 
+Vehicles registered in a toll account program 
+may receive a discounted toll rate. 
+ 2. The ETC pictographs shown are only examples. 
+The pictograph for the toll facility’s adopted ETC 
+system shall be used.
+
+=== PDF PAGE 20 ===
+December 2023
+Page 398 MUTCD 11th Edition
+    Sect. 2F.13
+Figure 2F-13.  Examples of Guide Signs for Alternative Toll and Non-Toll
+Ramp Connections to a Non-Toll Highway
+Southdale Rd
+State Route 10
+OR
+800 ft
+MIN.
+800 ft
+MIN.
+Note: The ETC pictographs shown are only examples. 
+The pictograph for the toll facility’s adopted ETC 
+system shall be used.
+
+=== PDF PAGE 21 ===
+December 2023
+MUTCD 11th Edition Page 399
+    Sect. 2F.14 to 2F.15
+Section 2F.14  Advance Signs for Conventional Toll Plazas
+Guidance:
+01  For conventional toll plazas (those without a divergence onto a separate alignment from mainline-aligned 
+open-road tolling or ETC-Only lanes), one or more sets of overhead advance guide signs complying with the 
+provisions of this Section should be provided. The advance guide signs for multi-lane toll plazas should provide 
+information regarding which lanes to use for all of the toll payment methods accepted at the toll plaza. These 
+signs should include toll plaza lane numbers (if used), or action messages or lane-use information such as LEFT 
+LANE(S), CENTER LANE(S), RIGHT LANE(S), or down arrows over the approximate center of each applicable 
+lane. These signs should also incorporate regulatory messages indicating any restrictions or prohibitions on the 
+use of the lanes associated with the various types of payment methods by certain types of vehicles. For mainline 
+toll plazas, these signs should be at least 1⁄2 mile in advance of the toll plaza, and farther if practical.
+02  Additional guide signs with lane information for the toll payment types should be provided between approxi-
+mately 1⁄4 mile and 800 feet in advance of the toll plaza at a location that avoids or minimizes obstruction of toll 
+plaza canopy signs (see Section 2F.16) and lane-use control signals.
+03  The number, mounting, and/or spacing of sets of advance signs for approaches to toll plazas on ramps, toll 
+bridges, or tunnels, to accommodate a limited distance to the plaza from an intersection or from the start of the 
+approach road to the bridge or tunnel, should be based on an engineering study or engineering judgment.
+Support:
+04  Figure 2F-14 shows examples of advance signs for a conventional toll plaza.
+Section 2F.15  Advance Signs for Toll Plazas on Diverging Alignments from Open-Road ETC 
+Account-Only Lanes
+Support:
+01  Open-Road ETC lanes are sometimes located on the normal mainline alignment while the lanes for other toll 
+payment methods are located at a toll plaza on a separate alignment (see Figure 2F-15). Since road users paying 
+cash tolls must diverge from the mainline alignment, similar to a movement for an exit, it is important that the 
+guide signs in advance of and at the point of divergence clearly indicate the required lane use and/or movements.
+Guidance:
+02  For toll plazas located on a separate alignment that diverges from mainline-aligned Open-Road ETC lanes 
+where vehicles are required to have a registered ETC account to use the Open-Road Tolling lanes, overhead 
+advance signs should be provided at approximately 1 mile and 1⁄2 mile in advance of the divergence point. Both 
+the 1-mile and 1⁄2-mile advance signs should include:
+A. The ETC (pictograph) Account-Only guide sign (see Figures 2F-9 and 2F-15) with a down arrow over the 
+approximate center of each lane that will become an Open-Road ETC lane;
+B. For the lane or lanes which will diverge to a toll plaza, guide signs conforming to the provisions of 
+Section 2F.12, indicating which lane or lanes will diverge to the toll plaza for the various cash toll 
+payment methods; and
+C. Regulatory signs, plaques, or panels within the guide signs, indicating any restrictions or prohibitions of 
+certain types of vehicles from toll plaza lanes associated with the various types of payment methods.
+03  At or near the theoretical gore of the divergence point, an additional set of overhead guide signs should be 
+provided and should include:
+A. The ETC (pictograph) Account-Only guide sign (see Figures 2F-9 and 2F-15) with a down arrow over the 
+approximate center of each Open-Road ETC lane;
+B. Guide signs conforming to the provisions of Section 2F.12 and 2F.13, with diagonally upward-pointing 
+directional arrow(s) over the approximate center of each lane indicating the direction of the divergence, 
+and providing lane information for all types of payment methods accepted at the toll plaza; and
+C. Regulatory signs, plaques, or panels within the guide signs, indicating any restrictions or prohibitions 
+on the use of the toll plaza lanes associated with the various types of payment methods by certain types 
+of vehicles.
+04  Approximately 800 feet in advance of the toll plaza at a location that avoids or minimizes any obstruction 
+of the toll plaza canopy signs (see Section 2F.16) and lane-use control signals, an additional set of overhead 
+advance signs with lane information for the toll payment types should be provided.
+Standard:
+05  The use of down and directional arrows on the signs at the locations described in Paragraphs 2 through 
+4 of this Section shall comply with the provisions of Section 2D.08.
+Support:
+06  Figure 2F-15 shows an example of advance signs for toll plazas on a diverging alignment from Open-Road 
+ETC Account-Only Lanes.
+07  Section 4R.02 contains information regarding the use of lane-use control signals for Open-Road ETC lanes for 
+temporary lane closure purposes.
+
+=== PDF PAGE 22 ===
+December 2023
+Page 400 MUTCD 11th Edition
+    Sect. 2F.15
+Figure 2F-14.  Examples of Mainline Toll Plaza Approach and Canopy Signing
+R3-28
+R3-28
+B – Exact change and attended toll lanes
+R3-28
+R3-28
+W9-6a
+W9-6
+W9-6 W9-6
+A – All toll plaza lanes attended
+(no automatic or electronic 
+collection equipment)
+W9-6
+96x66
+114x66
+
+=== PDF PAGE 23 ===
+December 2023
+MUTCD 11th Edition Page 401
+    
+Figure 2F-15.  Examples of Guide Signs for a Mainline Toll Plaza
+on a Diverging Alignment from Open-Road ETC Lanes
+Note:  The ETC pictograph that is shown is only an example.  
+The pictograph for the toll facility’s adopted ETC system 
+shall be used.
+Open-road
+electronic
+toll collection
+point
+Sect. 2F.15
+
+=== PDF PAGE 24 ===
+December 2023
+Page 402 MUTCD 11th Edition
+    Sect. 2F.16 to 2F.17
+Section 2F.16  Toll Plaza Canopy Signs
+Standard:
+01  A sign complying with the provisions of Section 2F.12 shall be provided above the approximate center 
+of each lane that is not an Open-Road ETC lane, mounted on or suspended from the toll plaza canopy, or on 
+a separate structure immediately in advance of the plaza located such that each sign is clearly related to an 
+individual toll lane, indicating the payment type(s) accepted in the lane and any restrictions or prohibitions 
+of certain types of vehicles that apply to the lane. Except for toll-ticket systems, the toll for passenger or 
+2-axle vehicles shall be included on the canopy sign or on a separate sign mounted on the upstream side 
+of the tollbooth.
+02  The background color of a canopy sign for an ETC Account-Only toll plaza lane shall be purple 
+(see Figure 2F-16).
+Option:
+03  Where vehicles are required to have a registered ETC account to use the lane, one or two flashing yellow 
+beacons (see Section 4R.03) may supplement a canopy sign over an ETC Account-Only lane to call special 
+attention to the location of the ETC Account-Only lane within the plaza.
+04  The canopy sign for an ETC Account-Only toll plaza lane in which a regulatory speed limit is not posted and 
+in which vehicles are not required to stop may display an advisory speed within a horizontal rectangular panel 
+with a black legend and yellow background within the bottom portion of the canopy sign.
+Standard:
+05  Flashing beacons supplementing a canopy sign over an ETC Account-Only lane shall be mounted 
+directly above or alongside the sign in a manner that is separated from any lane-use control signals for that 
+lane (see Figure 2F-16).
+06  For multi-lane toll plazas, lane-use control signals (see Section 4R.02) shall be provided above the 
+approximate center of each toll plaza lane that is not an Open-Road ETC lane to indicate the open or closed 
+status of each lane. Lane-use control signals shall not be used to call attention to a lane for a specific toll 
+payment type such as ETC Account-Only lanes.
+Support:
+07  Part 6 contains information regarding the closing of a lane for temporary traffic control purposes.
+08  Figure 2F-16 shows examples of toll plaza canopy signs.
+Section 2F.17  Guide Signs for Entrances to Electronic Toll Collection (ETC) Only Facilities
+Support:
+01  Some toll highways, bridges, and tunnels are restricted to use only by vehicles with a specific registered ETC 
+account, referred to as ETC Account-Only facilities. Other facilities collect tolls electronically using license plate 
+character recognition in which the registered vehicle owner is then billed by postal mail and registration in an ETC 
+account program is not required but could be an optional payment method. These facilities are commonly referred 
+to as All-Electronic Tolling (AET) or Cashless Tolling.
+Figure 2F-16.  Examples of Toll Plaza Canopy Signs
+Optional flashing yellow beacons that are separated from any lane-use control signals for the lane (see Section 2F.16)
+The ETC pictographs that are shown are only examples. The pictograph for the toll facility’s adopted ETC system shall be used.
+ETC Account-Only laneAttended lane with an
+M4-17 Toll Collector symbol
+Exact Change or ETC Account lane with an 
+M4-18 Exact Change symbol
+
+=== PDF PAGE 25 ===
+December 2023
+MUTCD 11th Edition Page 403
+    Sect. 2F.17 to 2F.18
+Standard:
+02  Guide signs for facilities that only collect tolls electronically shall comply with the applicable provisions 
+of Chapter 2E and Section 2F.13.
+03  Guide signs for the entrance ramps to ETC Account-Only facilities shall incorporate the pictograph of 
+the toll facility’s primary ETC payment system and the word ONLY in a header panel or plaque designed in 
+accordance with the provisions of Section 2F.13 (see Figure 2F-8).
+Option:
+04  A separate information sign displaying the route number, the TOLL warning panel (see Section 2F.11), and the 
+legend NO CASH may be located within the sequence of the Advance guide signs on the approach to the entrance 
+to an ETC Account-Only facility (see Drawing B in Figure 2F-12).
+05  Exit Gore signs for entrance ramps to such ETC Account-Only facilities may incorporate the pictograph of the 
+toll facility’s ETC payment system and the word ONLY in a header panel or plaque designed in accordance with 
+the provisions of Section 2F.13 (see Figure 2F-13 and Drawing B in Figure 2F-12).
+06  If more than one ETC account program is accepted for toll payments on an ETC Account-Only facility, the 
+additional accepted ETC account program pictographs may be displayed on a separate informational guide sign 
+with the legend, ALSO ACCEPTED, within the sequence of advance guide signs for the entrance to the facility.
+Support:
+07  Section 2F.05 contains information regarding ETC Account-Only signs and plaques for use with route signs in 
+route sign assemblies.
+Standard:
+08  Where vehicles are not required to have a registered ETC account to use an ETC-Only facility, guide 
+signs for the facility shall comply with the applicable provisions of Chapter 2E and specifically with the 
+applicable provisions of Section 2F.13.
+09  Advance and Exit Direction guide signs for the entrances to facilities that do not require registration 
+in an ETC toll account program shall not display a pictograph of an accepted ETC payment system or use 
+purple as a background color on any portion of the signs.
+10  Information on accepted toll payment methods for a facility that does not require registration in an 
+ETC toll account program shall only be provided on a separate informational guide sign, if used, that 
+displays one of the following legends (see Drawing C in Figure 2F-12):
+A. TOLL BILLED BY MAIL ONLY, if there is no alternative payment method; or
+B. TOLL BILLED BY MAIL OR [ETC Account Pictograph], if the facility also accepts payments from 
+registered users of an ETC account program.
+Option:
+11  If there is more than one ETC toll account program accepted, all ETC account program pictographs of the 
+accepted ETC accounts may be displayed on the separate informational guide sign below the TOLL BILLED BY 
+MAIL OR legend. A plaque with the legend NO CASH may be added below the signs described in Paragraph 10 
+of this Section.
+Guidance:
+12  The signs described in Paragraph 10 of this Section should be located within the sequence of Advance Guide 
+signs for the entrance to the facility and/or at a location along the facility itself (see Drawing C in Figure 2F-12).
+Option:
+13  If the ETC-Only facility also accepts payments from multiple ETC account programs, but does not require 
+registration in the primary ETC account program associated with the facility in order to use the facility, then 
+the pictographs of the other accepted ETC account programs may be displayed on the separate information sign 
+beneath the legend TOLL BILLED BY MAIL and the word OR.
+14  If, in addition to a toll, a nominal surcharge (not a fine, penalty, or violation) is assessed road users not 
+registered in the toll account program, or registered toll account users are assessed a discounted toll, such 
+information may be displayed on a separate information sign on the approach to the entrance to the facility.
+Section 2F.18  Guide Signs for ETC-Only Entrance Ramps to Non-Toll Highways
+Support:
+01  In some cases, access to or from a non-toll route might be provided by a ramp on which a toll is charged in 
+order to manage congestion, limit access, or for other reasons. The toll ramp might be provided as an alternative 
+to or in lieu of a ramp providing similar access without charging a toll. Figures 2F-8 and 2F-13 show examples of 
+guide signs for a ramp on which a toll is charged to enter a non-toll route.
+
+=== PDF PAGE 26 ===
+December 2023
+Page 404 MUTCD 11th Edition
+    Sect. 2F.18 to 2F.19
+Standard:
+02  Guide signs for ETC-Only Entrance Ramps to non-toll highways shall comply with the provisions of 
+Section 2F.17.
+Option:
+03  A NO TOLL panel with a black legend and a yellow background may be included on the top section of the 
+Exit Gore sign for an exit that provides access to the facility without charging a toll (see Figure 2F-8).
+Section 2F.19  ETC Account Program Information Signs
+Standard:
+01  Except as provided in Paragraph 2 of this Section, signs that inform road users of telephone numbers, 
+Internet addresses, including domain names and uniform resource locators (URLs), or e-mail addresses 
+for enrolling in an ETC account program of a toll facility or managed lane, obtaining an ETC transponder, 
+and/or obtaining ETC account program information shall only be installed in rest areas, parking areas, or 
+similar roadside facilities where the signs are viewed only by pedestrians or occupants of parked vehicles.
+Option:
+02  ETC account program information signs displaying telephone numbers that have no more than four 
+characters may be installed on roadways in locations where they will not obscure the road user’s view of higher 
+priority traffic control devices and that are removed from key decision points where the road user’s view is more 
+appropriately focused on other traffic control devices, roadway geometry, or traffic conditions, including exit and 
+entrance ramps, intersections, toll plazas, temporary traffic control zones, and areas of limited sight distance.

@@ -1,0 +1,282 @@
+Title: MUTCD appendices
+Stored edition/date: December 2023
+Source: Rulebooks/appendices.pdf
+Generated text for search. Verify requirements, diagrams, tables, symbols, and quotes in the original PDF.
+Page markers identify physical PDF pages; printed document page numbers may differ.
+
+=== PDF PAGE 1 ===
+MUTCD 11th Edition Page i
+Month 2023 December 2023
+Appendices
+
+=== PDF PAGE 2 ===
+
+
+=== PDF PAGE 3 ===
+MUTCD 11th Edition Page A1-1
+Month 2023 December 2023APPENDIX A1
+CONGRESSIONAL ACTIONS
+PUBLIC LAW 102-240-DEC. 18, 1991 (INTERMODAL SURFACE TRANSPORTATION EFFICIENCY 
+ACT OF 1991)
+Section 1077.  REVISION OF MANUAL — Not later than 90 days after the date of the enactment of this 
+Act, the Secretary shall revise the Manual of Uniform Traffic Control Devices and such other regulations 
+and agreements of the Federal Highway Administration as may be necessary to authorize States and local 
+governments, at their discretion, to install stop or yield signs at any rail-highway grade crossing without automatic 
+traffic control devices with 2 or more trains operating across the rail-highway grade crossing per day.
+PUBLIC LAW 102-388-OCT. 6, 1992 (DEPARTMENT OF TRANSPORTATION AND RELATED 
+AGENCIES APPROPRIATIONS ACT, 1993)
+Section 406 — The Secretary of Transportation shall revise the Manual of Uniform Traffic Control Devices to 
+include —
+(a) a standard for a minimum level of retroreflectivity that must be maintained for pavement markings 
+and signs, which shall apply to all roads open to public travel; and 
+(b) a standard to define the roads that must have a centerline or edge lines or both, provided that in 
+setting such standard the Secretary shall consider the functional classification of roads, traffic volumes, 
+and the number and width of lanes.
+PUBLIC LAW 104-59-NOV. 28, 1995 (NATIONAL HIGHWAY SYSTEM DESIGNATION ACT OF 1995)
+Section 205.  RELIEF FROM MANDATES —
+(c) METRIC REQUIREMENTS —
+(1) PLACEMENT AND MODIFICATION OF SIGNS — The Secretary shall not require the States to 
+expend any Federal or State funds to construct, erect, or otherwise place or to modify any sign relating to 
+a speed limit, distance, or other measurement on a highway for the purpose of having such sign establish 
+such speed limit, distance, or other measurement using the metric system.
+(2) OTHER ACTIONS — Before September 30, 2000, the Secretary shall not require that any 
+State use or plan to use the metric system with respect to designing or advertising, or preparing plans, 
+specifications, estimates, or other documents, for a Federal-aid highway project eligible for assistance 
+under title 23, United States Code.
+(3) DEFINITIONS — In this subsection, the following definitions apply:
+ (A) HIGHWAY — The term ‘highway’ has the meaning such term has under section 101 of title  
+ 23, United States Code.
+ (B) METRIC SYSTEM — the term ‘metric system’ has the meaning the term ‘metric system of  
+ measurement’ has under section 4 of the Metric Conversion Act of 1975 (15 U.S.C. 205c).
+Section 306.  MOTORIST CALL BOXES — Section 111 of title 23, United States Code, is amended by adding 
+at the end the following:
+ (c) MOTORIST CALL BOXES —
+(1) IN GENERAL — Notwithstanding subsection (a), a State may permit the placement 
+of motorist call boxes on rights-of-way of the National Highway System.  Such motorist call 
+boxes may include the identification and sponsorship logos of such call boxes.
+(2) SPONSORSHIP LOGOS —
+(A) APPROVAL BY STATE AND LOCAL AGENCIES — All call box installations 
+displaying sponsorship logos under this subsection shall be approved by the highway 
+agencies having jurisdiction of the highway on which they are located.
+(B) SIZE ON BOX — A sponsorship logo may be placed on the call box in a 
+dimension not to exceed the size of the call box or a total dimension in excess of 12 inches 
+by 18 inches.
+(C) SIZE ON IDENTIFICATION SIGN — Sponsorship logos in a dimension not to 
+exceed 12 inches by 30 inches may be displayed on a call box identification sign affixed to 
+the call box post.
+(D) SPACING OF SIGNS — Sponsorship logos affixed to an identification sign on a 
+call box post may be located on the rights-of-way at intervals not more frequently than 1 
+per every 5 miles.
+(E) DISTRIBUTION THROUGHOUT STATE — Within a State, at least 20 percent 
+of the call boxes displaying sponsorship logos shall be located on highways outside of 
+urbanized areas with a population greater than 50,000.
+
+=== PDF PAGE 4 ===
+Page A1-2 MUTCD 11th Edition
+ Month 2023December 2023
+(3) NONSAFETY HAZARDS — The call boxes and their location, posts, foundations, and 
+mountings shall be consistent with requirements of the Manual on Uniform Traffic Control Devices or 
+any requirements deemed necessary by the Secretary to assure that the call boxes shall not be a safety 
+hazard to motorists.
+Section 353(a) SIGNS — Traffic control signs referred to in the experimental project conducted in the State of 
+Oregon in December 1991 shall be deemed to comply with the requirements of Section 2B-4 of the Manual on 
+Uniform Traffic Control Devices of the Department of Transportation.
+Section 353(b) STRIPES — Notwithstanding any other provision of law, a red, white, and blue center line in 
+the Main Street of Bristol, Rhode Island, shall be deemed to comply with the requirements of Section 3B-1 of the 
+Manual on Uniform Traffic Control Devices of the Department of Transportation.
+PUBLIC LAW 115-141-MAR. 23, 2018 (CONSOLIDATED APPROPRIATIONS ACT, 2018) 
+DIVISION L, TITLE I 
+Section 125 — For this fiscal year, the Federal Highway Administration shall reinstate Interim Approval IA-5, 
+relating to the provisional use of an alternative lettering style on certain highway guide signs, as it existed before 
+its termination, as announced in the Federal Register on January 25, 2016 (81 Fed. Reg. 4083). 
+Option: 
+ Series E(modified)-Alternate may be used in place of Series E(modified) for the names of places, streets, and 
+highways on freeway and expressway guide signs in accordance with the provisions of the following paragraph.
+Standard: 
+ 
+The use of Series E(modified)-Alternate shall be limited to the display of names of places, streets, and 
+highways on freeway and expressway guide signs. Words shall be composed of lower-case letters with initial 
+upper-case letters. The design and spacing of the letters shall be as provided in the “Standard Highway 
+Signs” publication (see Section 1A.05 of this Manual). The nominal loop height of the lower-case letters shall 
+be 84 percent of the height of the initial upper-case letter. Interline spacing, measured from the baseline of 
+the upper line of legend to the upper limit of the initial upper-case letter of the lower line of legend, shall be at 
+least 96 percent of the initial upper-case letters (equivalent to 84 percent of the initial upper-case letter when 
+measured from the baseline of the upper line of legend to the upper limit of the rising stems of the lower-case 
+letters of the lower line of legend). Edge spacing shall be as provided in Section 2E.13 of this Manual. The 
+size of the sign shall be suitably enlarged to accommodate the larger lower-case letters and interline spacing. 
+When the name of a place, street, or highway contains numerals, the numerals shall be composed of the 
+FHWA Standard Alphabet Series E(modified). Other lettering on the sign, such as for cardinal directions 
+and distance or action messages, and all numerals or special characters, shall be composed of Series B, C, D, 
+E, E(modified), or F of the FHWA Standard Alphabets as provided in this Manual. 
+ Series E(modified)-Alternate shall not be used for any application other than as provided in the two 
+preceding paragraphs.
+
+=== PDF PAGE 5 ===
+MUTCD 11th Edition Page A2-1
+Month 2023 December 2023
+METRIC CONVERSIONS
+Throughout this Manual all dimensions and distances are provided in English units.  Tables A2-1 through 
+A2-4 show the equivalent Metric (International System of Units) value for each of the English unit numerical 
+values that are used in this Manual.
+APPENDIX A2
+Inches Millimeters
+0.25 6
+0.4 10
+0.5 13
+0.75 19
+1 25
+1.25 31
+2 50
+2.25 56
+2.5 62
+3 75
+Inches Millimeters
+3.5 87
+4 100
+4.5 113
+5 125
+6 150
+8 200
+9 225
+10 250
+10.4 260
+10.6 265
+Inches Millimeters
+12 300
+15 375
+16 400
+18 450
+21 525
+24 600
+27 675
+28 700
+30 750
+32 800
+Inches Millimeters
+36 900
+42 1050
+48 1200
+54 1350
+60 1500
+72 1800
+84 2100
+120 3000
+Feet Meters
+1 0.3
+2 0.6
+2.5 0.75
+3 0.9
+3.25 1
+3.5 1.1
+4 1.2
+4.5 1.4
+4.75 1.45
+5 1.5
+5.67 1.7
+6 1.8
+7 2.1
+8 2.4
+9 2.7
+9.25 2.8
+9.5 2.9
+10 3
+Feet Meters
+11 3.4
+12 3.7
+12.75 3.9
+14 4.3
+15 4.6
+16 4.9
+17 5.2
+18 5.5
+19 5.8
+20 6.1
+22 6.7
+23.5 7.2
+25 7.6
+25.6 7.8
+30 9
+32 9.8
+33 10
+36 11
+Feet Meters
+40 12
+50 15
+53 16
+60 18
+70 21
+72 22
+75 23
+80 24
+90 27
+95 29
+100 30
+110 34
+120 37
+125 38
+130 675
+140 700
+150 750
+180 800
+Feet Meters
+200 60
+250 75
+300 90
+330 100
+400 120
+500 150
+530 160
+600 180
+650 200
+700 210
+750 230
+800 245
+1,000 300
+1,500 450
+2,000 600
+2,300 700
+3,000 900
+Table A2-1.  Conversion of Inches to Millimeters
+Table A2-2.  Conversion of Feet to Meters
+Note: 1 inch = 25.4 millimeters; 1 millimeter = 0.039 inches
+Note: 1 foot = 0.3048 meters; 1 meter = 3.28 feet
+Miles Kilometers
+0.25 0.4
+0.5 0.8
+0.6 1
+Miles Kilometers
+1 1.6
+2 3.2
+3 4.8
+Miles Kilometers
+5 8
+10 16
+15 25
+Miles Kilometers
+70 110
+Table A2-3.  Conversion of Miles to Kilometers
+Note: 1 mile = 1.609 kilometers; 1 kilometer = 0.621 miles
+mph km/h
+3 5
+10 16
+15 20
+20 30
+mph km/h
+25 40
+30 50
+35 60
+40 60
+mph km/h
+45 70
+50 80
+55 90
+60 100
+mph km/h
+65 105
+65 110
+80 130
+Table A2-4.  Conversion of Miles per Hour to Kilometers/Hour
+Note: 1 mile per hour = 1.609 kilometers/hour; 1 kilometer/hour = 0.621 miles per hour
+
+=== PDF PAGE 6 ===
+

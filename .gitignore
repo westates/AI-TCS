@@ -1,4 +1,6 @@
 tmp/
+Work/
+output/
 __pycache__/
 *.py[cod]
 .venv/

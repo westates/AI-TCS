@@ -1,0 +1,1619 @@
+Title: MUTCD Chapter 2A - General signs
+Stored edition/date: December 2023
+Source: Rulebooks/Chapter2a.pdf
+Generated text for search. Verify requirements, diagrams, tables, symbols, and quotes in the original PDF.
+Page markers identify physical PDF pages; printed document page numbers may differ.
+
+=== PDF PAGE 1 ===
+MUTCD 11th Edition Page 39
+December 2023
+PART 2
+SIGNS
+CHAPTER 2A.  GENERAL
+Section 2A.01  Function and Purpose of Signs
+Support:
+01  This Manual contains Standards, Guidance, and Options for the signing of all types of highways, and 
+site roadways open to public travel. The functions of signs are to provide regulations, warnings, and guidance 
+information for road users. Words, symbols, and arrows are used to convey the messages. Signs are not typically 
+used to confirm rules of the road (see Paragraph 4 of this Section).
+02  Detailed sign requirements are located in the following Chapters of Part 2:
+  Chapter 2B—Regulatory Signs, Barricades, and Gates
+  Chapter 2C—Warning Signs and Obje ct Markers
+  Chapter 2D—Guide Signs for Conventi onal Roads
+  Chapter 2E—Guide Signs for Freeways and Expressways
+  Chapter 2F—Toll Road Signs
+  Chapter 2G—Preferential and Managed Lane Signs
+  Chapter 2H—General Information Signs
+  Chapter 2I—General Ser vice Signs
+  Chapter 2J—Specific Service Signs
+  Chapter 2K— Tourist-Oriented Directional Signs
+  Chapter 2L—Changeable Mes sage Signs
+  Chapter 2M—Recreational and Cultural Interest Area Signs
+  Chapter 2N—Emergency Manage ment Signs
+03  Definitions and acronyms that are applicable to signs are provided in Chapter 1C. 
+Guidance:
+04  Permanent signs should not be used on a frequent basis to confirm rules of the road or statutes. Instead, 
+when determined necessary to advise of new regulations as part of an educational campaign, temporary signs 
+or messages should be used instead of permanent signs. These temporary signs or messages should be used 
+sparingly and only at strategic locations, and should be considered only as a supporting element of a larger 
+educational campaign rather than as the primary source of notification. If engineering judgment determines 
+a need for a permanent sign to distinguish between differing requirements of similar statutes in different 
+jurisdictions, then a sign should be located in the vicinity of the jurisdictional boundary, and should be located 
+away from warning, directional, and higher-priority regulatory signs, so as not to contribute to sign clutter 
+(see Section 2A.20). 
+Section 2A.02  Standardization of Application
+Support:
+01  It is recognized that urban traffic conditions differ from those in rural environments, and in many instances 
+signs are applied and located differently. Where pertinent and practical, this Manual sets forth separate 
+recommendations for urban and rural conditions.
+02  Low-volume rural roads typically include access to rural residences, agricultural, recreational, resource 
+management and development (such as mining, logging, and grazing), and local roads in rural areas. On low-
+volume rural roads, the use of traffic control devices is limited to essential information regarding regulation, 
+warning, and guidance. On low-volume rural roads, it is important to consider the needs of unfamiliar road users 
+for occasional, recreational, and commercial transportation purposes. 
+Guidance:
+03  Signs should be used only where justified by engineering judgment or studies, as provided in Section 1D.03.
+04  Results from traffic engineering studies of physical and traffic safety or operational factors should indicate 
+the locations where signs are deemed necessary or desirable.
+05  Roadway geometric design and sign application should be coordinated so that signing can be effectively 
+placed to give the road user any necessary regulatory, warning, guidance, and other information.
+     Sect. 2A.01 to 2A.02
+
+=== PDF PAGE 2 ===
+Page 40 MUTCD 11th Edition
+December 2023
+Sect. 2A.02 to 2A.04     
+Standard:
+06  Each standard sign (see Paragraph 1 of Section 2A.04) shall be displayed only for the specific purpose 
+as prescribed in this Manual. Before any new highway, site roadway open to public travel (see definition in 
+Section 1C.02), detour, or temporary route is opened to public travel, all necessary signs shall be in place. 
+Signs required by road conditions or restrictions shall be removed when those conditions cease to exist or 
+the restrictions are withdrawn. 
+Section 2A.03  Classification of Signs
+Standard:
+01  Signs shall be defined by their function as follows:
+A. Regulatory signs give notice of traffic laws or regulations.
+B. Warning signs give notice of a situation that might not be readily apparent.
+C. Guide signs show route designations, destinations, directions, distances, services, points of interest, 
+and other geographical, recreational, or cultural information.
+Support:
+02  Barricades are described in Sections 2B.75 and 6K.07.
+03  Gates are described in Section 2B.76.
+04  Object markers are described in Section 2C.70.
+Section 2A.04  Design of Signs
+Support:
+01  This Manual shows many standard signs and object markers approved for use on streets, highways, bikeways, 
+and pedestrian crossings. Standard signs and object markers have a standardized design, shape, background, and 
+legend as shown in this Manual.
+02  In the provisions for individual standard signs and object markers, the general appearance of the legend, color, 
+and size are shown in the accompanying tables and illustrations, and are not always detailed in the text.
+03  Detailed drawings of standard signs, object markers, alphabets, symbols, and arrows (see Figure 2D-3) are 
+contained in the “Standard Highway Signs” publication. Section 1A.05 contains information regarding this 
+publication.
+04  The basic requirements of a sign are that it be legible to those for whom it is intended and that it be 
+understandable in time to allow for a proper response. Desirable attributes include:
+A. High visibility by day and night; and
+B. High legibility (adequately-sized letters, symbols, or arrows, and a short legend for quick comprehension 
+by a road user approaching a sign).
+05  Standardized colors and shapes are specified so that the several classes of traffic signs can be promptly 
+recognized. Simplicity and uniformity in design, position, and application are essential for a sign to be effective.
+Standard:
+06  The term legend shall include all word messages and symbol and arrow designs that are intended to 
+convey specific meanings.
+07  Uniformity in design shall include shape, color, dimensions, legends, letter style, borders, and 
+illumination or retroreflectivity.
+08  Standardization of these designs does not preclude further improvement by minor modifications to the 
+orientation of symbols (see Section 2A.09), width of borders, or layout of word messages, but all shapes and 
+colors shall be as indicated.
+09  All symbols (see Section 2A.09) shall be unmistakably similar to, or mirror images of, the adopted 
+symbol signs, all of which are shown in the “Standard Highway Signs” publication (see Section 1A.05). 
+Symbols and colors shall not be modified unless otherwise provided in this Manual. All symbols, colors, or 
+other design features for signs not shown in the “Standard  Highway Signs” publication (see Section 1A.05) 
+shall follow the procedures for experimentation and change described in Chapter 1B.
+10  Where a standard word message is applicable, the wording shall be as provided in this Manual.
+11  In situations where word messages are necessary other than those provided in this Manual (see 
+Paragraph 15 of this Section), the signs shall be of the same shape and color as standard signs of the same 
+functional type.
+12  Where the legend of a standard sign is a symbol or a combination of a symbol and words, an alternative 
+word legend shall not be allowed in place of the symbol, except as otherwise provided in this Manual.
+
+=== PDF PAGE 3 ===
+MUTCD 11th Edition Page 41
+December 2023
+     Sect. 2A.04
+13  Where a standard sign provided in this Manual or the “Standard Highway Signs” publication 
+(see Section 1A.05) is applicable, an alternative legend sign or alternative sign design shall not be allowed 
+in place of the standardized legend or design except as provided in this Manual.
+14  Where a standard sign provided in this Manual or the “Standard Highway Signs” publication 
+(see Section 1A.05) is applicable, but the legend is variable, such as for destination names, an alternative 
+sign design or dimensions shall not be allowed in place of the standardized design for the non-variable 
+elements except as provided in this Manual.
+Option:
+15  State and local highway agencies and owners of site roadways open to public travel may develop special 
+word legend signs in situations where engineering judgment determines roadway conditions make it necessary to 
+provide road users with additional regulatory, warning, or guidance information, such as when road users need 
+to be notified of special regulations or warned about a situation that might not be readily apparent. Unlike colors 
+that have not been assigned or symbols that have not been approved for signs, new word legend signs may be used 
+without the need for experimentation.
+Support:
+16  The message conveyed by some special word legend signs might be unclear to the road user. Although 
+experimentation is not required for such word legends, they might still warrant an evaluation to determine 
+comprehension or possible misinterpretation of the intended message by the road user.
+17  Scanning graphics are graphics designed for scanning by machine, and include bar codes, quick-response 
+(QR) codes or other matrix bar-code formats, or similar graphics.
+Standard:
+18  Unless otherwise provided in this Manual for a specific sign or as provided in Paragraph 19 of this 
+Section, telephone numbers, Internet addresses, e-mail addresses, domain names, uniform resource 
+locators (URL), metadata tags (“hash-tags”), and scanning graphics (see Paragraph 17 of this Section) 
+for the purpose of obtaining information (other than those for maintenance or inventory purposes per 
+the provisions of Paragraphs 21 through 23 of this Section) shall not be displayed on any sign, plaque, 
+sign panel, or changeable message sign.
+Option:
+19  Internet addresses, e-mail addresses, telephone numbers, scanning graphics, or other graphics for the purpose 
+of conveying information may be displayed on the face of signs, plaques, sign panels, and changeable message 
+signs that are oriented away from or otherwise not readily visible to operators of motor vehicles but rather are 
+intended for viewing only by pedestrians, occupants of parked vehicles, and driving automation systems.
+Standard:
+20  Pictographs (see definition in Section 1C.02) shall not be displayed on signs except as specifically 
+provided in this Manual for a particular type of sign. Pictographs shall be simple, dignified, and devoid 
+of any advertising and shall not contain any scanning graphics (see Paragraph 17 of this Section) for the 
+purpose of conveying information. When used to represent a political jurisdiction (a State, county, or 
+municipal corporation) the pictograph shall be the official designation adopted by the jurisdiction, except as 
+provided otherwise in this Manual. When used to represent any other type of jurisdiction, the pictograph 
+shall be the official designation adopted by the jurisdiction. When used to represent a college or university, 
+the pictograph shall be the official seal adopted by the institution. College or university pictographs shall 
+not include pictorial representations of university or college programs, or athletic mascots.
+21  No items other than official traffic control signs, inventory stickers or decals, sign installation dates, 
+manufacturer name, sign sizes, sign designations, anti-vandalism stickers, inventory or maintenance codes, 
+and maintenance-related scanning graphics shall be mounted on the back of a sign. 
+Option:
+22  The date of fabrication, sign designation, sign size, and/or manufacturer name may be displayed on the front of 
+a sign face in accordance with the provisions of Paragraph 23 of this Section.
+Standard:
+23  If displayed on the sign face, the date of fabrication, sign designation, sign size, manufacturer name, 
+or similar maintenance and inventory information shall be completely within the border or inset along the 
+bottom edge of the sign. The letter height or scanning graphic shall not exceed 3⁄4 of the width of the border 
+or inset or, if no border is used, shall not exceed 1.75 inches and shall be within 2 inches of the edge of the 
+sign. The color of the lettering within the border shall be the same as the color of the sign background. The 
+color of the lettering or scanning graphic within the inset shall be the same as the color of the sign border. 
+For changeable message signs or blank-out signs, such information, if displayed, shall be embossed in a non-
+contrasting color in the housing of the sign.
+
+=== PDF PAGE 4 ===
+Page 42 MUTCD 11th Edition
+December 2023
+Sect. 2A.05
+Section 2A.05  Shapes
+Standard:
+01  Particular shapes, as 
+shown in Table 2A-1, shall be 
+used exclusively for specific 
+signs or series of signs, unless 
+otherwise provided in this 
+Manual for a particular sign 
+or class of signs.
+02  The Crossbuck is a 
+shape exclusive to the 
+Grade Crossing (R15-1) 
+sign and shall not be 
+obscured by mounting a 
+different shape sign on 
+the back of the Crossbuck 
+(see Section 8B.03).
+Guidance:
+03  Shapes that are exclusive 
+to a particular sign (such as an 
+octagon for STOP, a pennant 
+for NO PASSING ZONE, or a 
+circle for Railroad Advance) 
+should not be obscured by 
+another sign mounted on the 
+back of the same assembly 
+protruding or extending 
+beyond the edge of the sign with the exclusive shape. The following methods should be considered in lieu of 
+mounting a sign on the back of another sign that would obscure the exclusive shape of the sign:
+A. Install the signs on separate mountings to maintain the exclusive shape. 
+B. Increase the size of the sign with the exclusive shape so the sign installed on the back does not obscure 
+its shape.
+C. Increase the mounting height of the sign with the exclusive shape to allow the installation of a back-
+mounted sign below the bottom edge while still ensuring the minimum required mounting height for the 
+lower sign.
+04  Where the lateral space available in which to install a standard sign is constrained, such as mounting on a 
+narrow median barrier or adjacent to a retaining wall, the following methods should be considered to maintain 
+the shape of the sign:
+A. Angle the sign up to 45 degrees toward the roadway while still maintaining adequate legibility.
+B. Install the sign at a different location that still provides adequate advance warning, supplementing the 
+sign with a Distance plaque (see Section 2C.61), if appropriate.
+C. Reduce the size of the sign, but supplement it with a duplicate sign on the opposite side of the roadway 
+(see Section 2A.11).
+D. In addition to either angling or reducing the size of the sign, supplement it with a duplicate warning sign 
+and Distance plaque at an upstream location.
+E. Mount the sign asymmetrically on the sign support, such as when the support is mounted on a bridge 
+parapet or railing, such that the edge of the sign does not overhang the roadway, shoulder, or other areas 
+used by bicyclists or pedestrians.
+Option:
+05  Where the shape of the sign cannot be maintained due to lateral constraints, the following methods may be 
+considered:
+A. For warning signs or other types of signs displayed in a horizontally-oriented rectangle, the legend may be 
+displayed in a vertically-oriented rectangle.
+B. When mounted overhead, the word legend for a standard warning sign may be displayed in a horizontally-
+oriented rectangle.
+Table 2A-1.  Use of Sign Shapes
+Shape Signs
+Octagon* Stop (R1-1)**
+Equilateral Triangle 
+(downward-pointing) * Yield (R1-2)**
+Circle* Grade Crossing Advance Warning (W10-1) **
+Pennant (Isosceles Triangle with longer 
+axis horizontal, pointed right) * No Passing Zone (W14-3) **
+Pentagon (upward-pointing) * School (S1-1) (squared bottom corners) **
+County Route (M1-6) (tapered lower sides) **
+Crossbuck (two rectangles in a 
+perpendicular “X” configuration) * Grade Crossing (R15-1) **
+Diamond Warning Series
+Rectangle (including square)
+Regulatory Series  
+Guide Series*** 
+Warning Series
+Trapezoid*
+Recreational and Cultural Interest Area Guide 
+Series (isosceles or right-angled)  
+National Forest Route Sign (M1-1) (isosceles) **
+ *  This shape shall be limited exclusively to the sign(s) indicated.
+ **  This sign shall be exclusively the shape shown.
+ *** Guide series includes general service, specific service, tourist-oriented directional, 
+general information, recreational and cultural interest area, and emergency 
+management signs.
+Note:  Signs with standardized designs shall not be modified to accommodate a different 
+shape except as provided in this Manual.
+
+=== PDF PAGE 5 ===
+MUTCD 11th Edition Page 43
+December 2023
+     Sect. 2A.05 to 2A.07
+Support:
+06  Provisions for mounting height of signs that overhang any portion of the traveled way are contained in 
+Section 2A.15.
+07  Provisions for lateral offset are contained in Section 2A.16.
+Standard:
+08  Modifications to sign shapes, such as cutting off the left and right points of a diamond, shall not 
+be allowed.
+Option:
+09  Where the methods described in Paragraph 3 of this Section are impracticable, the legend of the warning 
+sign may be displayed in a vertically-oriented rectangle.
+Section 2A.06  Colors
+Standard:
+01  The colors to be used on signs and their specific uses on signs shall be as provided in the applicable 
+Sections of this Manual. The color coordinates and values shall be as described in 23 CFR, Part 655, 
+Subpart F, Appendix.
+02  Colors (see Section 1D.05) shall be consistent across the face of a sign or a sign panel. Color gradients 
+(smooth or defined gradual transitions either within a color or transition to another color) shall not be 
+allowed, except as specifically provided in Section 2J.03 for business identification sign panels.
+Support:
+03  Common uses of sign colors are shown in Table 2A-2. Color schemes on specific signs are shown in the 
+illustrations located in each applicable Chapter.
+04  Whenever white is specified in this Manual or in the “Standard Highway Signs” publication (see Section 1A.05) 
+as a color, it is understood to include silver-colored retroreflective coatings or elements that reflect white light.
+05  The colors coral and light blue are being reserved for uses that will be determined in the future by the Federal 
+Highway Administration.
+06  Information regarding color coding of destinations on guide signs, including community wayfinding signs, is 
+contained in Chapter 2D.
+Option:
+07  The approved fluorescent version of the standard red, yellow, green, or orange color may be used as an 
+alternative to the corresponding standard color.
+Section 2A.07  Dimensions
+Support:
+01  The “Standard Highway Signs” publication (see Section 1A.05) prescribes design details for different sizes 
+of each sign or plaque depending on the type of traffic facility, including bikeways. Smaller sizes are designed 
+to be used on bikeways and some other off-road applications. Larger sizes are designed for use on freeways and 
+expressways, and can also be used in oversized applications to enhance road user safety and convenience on 
+other facilities, especially on multi-lane divided highways and on undivided highways having five or more lanes 
+of traffic and/or high speeds. The intermediate sizes are designed to be used on other highway types. Minimum 
+sizes of signs and plaques for specific applications are prescribed in the various sign size tables in each Chapter 
+of this Manual.
+Standard:
+02  The sign dimensions prescribed in the sign size tables in the various Parts and Chapters in this Manual 
+and in the “Standard Highway Signs” publication (see Section 1A.05) shall be used unless engineering 
+judgment determines that other sizes are appropriate in accordance with the following. Except as provided 
+in Paragraph 3 of this Section, where engineering judgment determines that sizes smaller than the 
+prescribed dimensions are appropriate for use, the sign dimensions shall not be less than the minimum 
+dimensions specified in this Manual. The sizes shown in the Minimum columns that are smaller than the 
+sizes shown in the Conventional Road columns in the various sign size tables in this Manual shall only be 
+used on low-speed roadways, alleys, site roadways open to public travel, and on low-volume rural roads 
+with operating speeds of 30 mph or less; and only where the reduced legend size would be adequate for the 
+regulation or warning or where physical conditions preclude the use of larger sizes.
+
+=== PDF PAGE 6 ===
+Page 44 MUTCD 11th Edition
+December 2023
+Sect. 2A.07     
+Table 2A-2.  Common Uses of Sign Colors
+Type of Sign
+Legend Background
+Black
+Green
+Red
+White
+Yellow
+Orange
+Fluorescent  
+Yellow-Green
+Fluorescent Pink
+Black
+Blue
+Brown
+Green
+Orange
+1
+Red1
+White
+Yellow
+1
+Purple
+Fluorescent  
+Yellow-Green
+Fluorescent Pink
+Regulatory X X X X X X
+  Prohibitive X  X2  X2 X
+  Permissive X X
+Warning X X
+  Pedestrian X X X
+  Bicycle X X X
+Guide X X
+  Interstate Route X X X
+  State Route X X
+  U.S. Route X X
+  County Route X X
+  Forest Route X X
+  Street Name X X
+  Destination X X
+  Reference Location X X
+Information X X X
+  Evacuation Route X X
+  Road User Service X X
+  Recreational X X X
+Temporary Traffic Control X X
+Incident Management X X X
+School X  X
+ETC-Account Only X X5
+Changeable Message Signs
+  Regulatory X4 X X
+  Warning X X
+  Temporary Traffic Control X X X
+  Guide X X X3
+  Motorist Services X X X3
+  Incident Management X X X
+  School, Pedestrian,  
+     Bicycle X X X
+1 Fluorescent versions of these background colors may also be used.
+2 Legend and background color combination for use only as identified for specific signs in this Manual or Standard Highway Signs.
+3 These alternative background colors would be provided by blue or green lighted pixels such that the entire CMS would be lighted, not just 
+the legend.
+4 Red is used only for the circle and diagonal or other red elements of a similar static regulatory sign.
+5 The use of purple on signs is restricted per the provisions of Chapter 2F.
+Notes: 
+1.  The purpose of the information in this table is to provide a general overview of common color combinations. The color combinations and 
+orientations for signs with standardized designs shall not be modified. For signs with unique legends, the shape and color shall be the same 
+as standard signs of the same functional type.
+2. The colors shown for changeable message signs are for those with electronic displays.
+
+=== PDF PAGE 7 ===
+MUTCD 11th Edition Page 45
+December 2023
+     Sect. 2A.07 to 2A.08
+Option:
+03  For alleys with restrictive physical conditions and vehicle use that limits installation of the Minimum size sign 
+(or the Conventional Road size sign if no Minimum size is shown), both the sign height and the sign width may be 
+decreased by up to 6 inches.
+Guidance:
+04  The sizes shown in the Freeway and Expressway columns in the various sign size tables in this Manual 
+should also be used for other higher-speed applications on conventional roads, based upon engineering 
+judgment, to provide larger signs for increased visibility and recognition.
+05  The sizes shown in the Oversized columns in the various sign size tables in this Manual should be used for 
+those special applications where speed, volume, or other factors result in conditions where increased emphasis, 
+improved recognition, or increased legibility is needed, as determined by engineering judgment or study.
+06  Except as provided in Paragraph 7 of this Section, and where specifically prohibited in this Manual, increases 
+above the minimum prescribed sizes should be used where greater legibility or emphasis is needed. If signs larger 
+than the prescribed sizes are used, the overall sign dimensions should be increased in 6-inch increments.
+Standard:
+07  Where a maximum allowable sign size is prescribed, increases in sign size above the maximum size shall 
+not be allowed.
+08  Where engineering judgment determines that sizes that are different from the minimum prescribed 
+dimensions are appropriate for use, standard shapes and colors shall be used. Standard proportions shall 
+be retained as much as practicable.
+Guidance:
+09  Except where specifically prohibited in this Manual, when supplemental plaques are installed with larger-
+sized signs, a corresponding increase in the size of the plaque and its legend should also be made. The resulting 
+plaque size should be approximately in the same relative proportion to the larger-sized sign as the conventional-
+sized plaque is to the conventional-sized sign.
+Section 2A.08  Word Messages
+Standard:
+01  Except as otherwise provided in this Manual, all word messages shall be aligned horizontally across a 
+sign, reading left to right.
+02  Except as provided in Section 2A.04, all word messages shall use standard wording as shown in this 
+Manual and in the “Standard Highway Signs” publication (see Section 1A.05). 
+03  All sign lettering, numerals, and other characters shall be of the Standard Alphabets as provided in the 
+“Standard Highway Signs” publication (see Section 1A.05), unless otherwise provided in this Manual.
+04  The sign lettering for names of places, streets, and highways shall be composed of a combination of 
+lower-case letters with initial upper-case letters. The sign lettering for other legends shall be composed of 
+upper-case letters, unless otherwise provided in this Manual for a particular sign or type of message.
+05  Except as provided in Chapter 2E of this Manual, when a mixed-case legend is used, the nominal loop 
+height of the lower-case letters shall be 3⁄4 of the height of the initial upper-case letter.
+06  The unique letter forms for each of the Standard Alphabet series shall not be stretched, compressed, 
+warped, or otherwise manipulated. 
+Support:
+07  Section 2D.03 contains information regarding the acceptable methods of modifying the length of a word for 
+a given letter height and series.
+Guidance:
+08  Word messages should be as brief as practical to convey a clear, simple meaning, and the lettering should be 
+large enough to provide the necessary legibility distance. A minimum specific ratio of 1 inch of letter height per 
+30 feet of legibility distance should be used.
+09  Abbreviations (see Section 1D.08) should be kept to a minimum, except as otherwise prescribed in 
+this Manual.
+10  Word messages should not contain periods, apostrophes, question marks, ampersands, or other punctuation 
+or characters that are not letters, numerals, or hyphens unless necessary to avoid confusion.
+
+=== PDF PAGE 8 ===
+Page 46 MUTCD 11th Edition
+December 2023
+Sect. 2A.08 to 2A.09     
+Support:
+11  Diacritical marks on words or names that are adapted to English are not normally needed on signs for 
+comprehension or navigational purposes.
+Option:
+12  A legend in a secondary language, in addition to English, may be displayed on the face of signs, plaques, 
+sign panels, and changeable message signs that are oriented away from or otherwise not readily visible to operators 
+of motor vehicles, but rather are intended for viewing only by pedestrians and occupants of parked vehicles.
+Guidance:
+13  The solidus (slanted line or forward slash) is intended to be used for fractions only and should not be 
+used to separate words on the same line of legend. Instead, a hyphen should be used for this purpose, such 
+as “TRUCKS - BUSES.”
+Standard:
+14  Fractions shall be displayed with the numerator and denominator diagonally arranged about the 
+solidus. The overall height of the fraction is measured from the top of the numerator to the bottom of the 
+denominator, each of which is vertically aligned with the upper and lower ends of the solidus. The overall 
+height of the fraction shall be determined by the height of the numerals within the fraction, and shall be 
+1.5 times the height of an individual numeral within the fraction.
+15  Except as otherwise provided in this Manual, distances shall be displayed on signs using fractions of 
+a mile rather than decimals.
+Support:
+16  The “Standard Highway Signs” publication (see Section 1A.05) contains details regarding the layouts of 
+fractions on signs.
+Guidance:
+17  When initials are used to represent an abbreviation for separate words (such as “U S” for a United States 
+route), the initials should be separated by a space of between 1⁄2 and 3⁄4 of the letter height of the initials.
+18  When an Interstate route is displayed in text form instead of using the route shield, a hyphen should be used 
+for clarity, such as “I-50.”
+ Support:
+19  Letter height is expressed in terms of the height of an upper-case letter. For mixed-case legends (those composed 
+of an initial upper-case letter followed by lower-case letters), the height of the lower-case letters is derived from 
+the specified height of the initial upper-case letter based on a prescribed ratio. Letter heights for mixed-case 
+legends might be expressed in terms of both the upper- and lower-case letters, or in terms of the initial upper-
+case letter alone. When the height of a lower-case letter is specified or determined from the prescribed ratio, the 
+reference is to the nominal loop height of the letter. The term loop height refers to the portion of a lower-case 
+letter that excludes any ascending or descending stems or tails of the letter, such as with the letters “d” or “q.”  
+The nominal loop height is equal to the actual height of a non-rounded lower-case letter whose form does not 
+include ascending or descending stems or tails, such as the letter “x.” The rounded portions of a lower-case letter 
+extend slightly above and below the baselines projected from the top and bottom of such a non-rounded letter 
+so that the appearance of a uniform letter height within a word is achieved. The actual loop height of a rounded 
+lower-case letter is slightly greater than the nominal loop height and this additional height is excluded from the 
+expression of the lower-case letter height.
+Section 2A.09  Symbols
+Standard:
+01  Symbol designs shall in all cases be unmistakably similar to those shown in this Manual and in the 
+“Standard Highway Signs” publication (see Section 1A.05).
+Option:
+02  Although most standard symbols are oriented facing left, mirror images of these symbols may be used where 
+the reverse orientation might better convey to road users a direction of movement.
+Support:
+03  New symbol designs are adopted by the Federal Highway Administration based on research evaluations to 
+determine road user comprehension, sign conspicuity, and sign legibility.
+
+=== PDF PAGE 9 ===
+MUTCD 11th Edition Page 47
+December 2023
+Option:
+04  State and/or local highway agencies may conduct research studies to determine road user comprehension, sign 
+conspicuity, and sign legibility in compliance with the provisions for official experimentation (see Section 1B.05) 
+when a new symbol design is under consideration.
+Support:
+05  Sometimes a change from word messages to symbols requires significant time for public education and 
+transition. Therefore, this Manual sometimes includes the practice of using educational plaques to accompany 
+new symbol signs.
+Guidance:
+06  New standard warning or regulatory symbol signs should be accompanied by an educational plaque where 
+engineering judgment determines that the plaque will improve road user comprehension during the transition 
+from word message to symbol signs.
+Option:
+07  Educational plaques may be left in place as long as they are in serviceable condition.
+Standard:
+08  A symbol used for a given category of signs (regulatory, warning, or guide) shall not be used for a 
+different category of signs, except as specifically authorized in this Manual.
+09  A recreational and cultural interest area symbol (see Chapter 2M) shall not be used on streets or 
+highways outside of recreational and cultural interest areas.
+10  A recreational and cultural interest area symbol (see Chapter 2M) shall not be used on any regulatory 
+or warning sign on any street, road, or highway.
+Support:
+11  Section 2M.07 contains provisions for the use of recreational and cultural interest area symbols to indicate 
+prohibited activities or items in non-road applications. 
+Section 2A.10  Sign Borders
+Standard:
+01  Unless otherwise provided, signs shall have a border of the same color as the legend in order to outline 
+their distinctive shape and thereby give them easy recognition and a finished appearance.
+02  The corners of all sign borders shall be rounded, except for STOP signs.
+Guidance:
+03  A dark border on a light background should be set in from the edge, while a light border on a dark 
+background should extend to the edge of the sign. A border for 30-inch signs with a light background should be 
+from 1⁄2 to 3⁄4 inch in width, 1⁄2 inch from the edge. For similar signs with a light border, a width of 1 inch should be 
+used. For other sizes, the border width should be of similar proportions, but should not exceed the stroke-width 
+of the major lettering of the sign. On signs exceeding 72 x 120 inches in size, the border should be 2 inches wide. 
+On unusually large signs with oversized letter heights, route shields, or other legend elements, the border should 
+be 2.5 inches wide and should not exceed 3 inches in width. Except for STOP signs and as otherwise provided in 
+Section 2E.14, the corners of the sign should be rounded to a radius that is concentric with that of the border.
+Support:
+04  Section 2A.12 contains information regarding the use of light-emitting diode (LED) units within the border 
+of a sign. 
+Section 2A.11  Enhanced Conspicuity for Standard Signs
+Option:
+01  Based upon engineering judgment, where the improvement of the conspicuity of a standard regulatory, 
+warning, or guide sign is desired, any of the following methods may be used, as appropriate, to enhance the 
+sign’s conspicuity (see Figure 2A-1):
+A. Increasing the size of a standard regulatory, warning, or guide sign.
+B. Dual signing of a standard regulatory, warning, or guide sign by adding a second identical sign on the 
+left-hand side of the roadway at the same location.
+C. Adding a solid yellow or fluorescent yellow rectangular header panel above a standard regulatory sign, 
+with the width of the panel corresponding to the width of the standard regulatory sign. A legend of 
+“NOTICE,” “STATE LAW,” or other appropriate text may be added in black letters within the header 
+panel for a period of time determined by engineering judgment.
+D. Adding a NEW plaque (see Section 2C.60) above a new standard regulatory or warning sign, for a period 
+of time in accordance with Paragraph 3 of this Section, to call attention to the new sign.
+     Sect. 2A.09 to 2A.11
+
+=== PDF PAGE 10 ===
+Page 48 MUTCD 11th Edition
+December 2023
+Sect. 2A.11     
+Figure 2A-1.  Examples of Enhanced Conspicuity for Signs
+A – W16-15P plaque above 
+a regulatory or warning 
+sign if the regulation or 
+condition is new
+F – Supplemental beacon
+B – Red or orange flags 
+above a regulatory, 
+warning, or guide sign
+C – W16-18P plaque above 
+a regulatory sign
+G – LEDs in border
+D – Solid yellow, solid fluorescent 
+yellow, or diagonally striped 
+black and yellow (or black and 
+fluorescent yellow) strip of 
+retroreflective sheeting 
+around a warning sign
+E – Vertical retroreflective 
+strip on sign support
+2 ft
+MAX.
+
+=== PDF PAGE 11 ===
+MUTCD 11th Edition Page 49
+December 2023
+     Sect. 2A.11 to 2A.12
+E. Adding one or more red or orange flags (cloth or retroreflective sheeting) above a standard regulatory or 
+warning sign, with the flags oriented at 45 degrees to the vertical.
+F. Adding a solid yellow, a solid fluorescent yellow, or a diagonally-striped black and yellow (or black 
+and fluorescent yellow) strip of retroreflective sheeting at least 3 inches wide around the perimeter of a 
+standard warning sign. This may be accomplished by affixing the standard warning sign on a background 
+that is 6 inches larger than the size of the standard warning sign.
+G. Adding a Warning Beacon (see Section 4S.03) to a standard regulatory (other than a STOP , DO NOT ENTER, 
+WRONG WAY, or a Speed Limit sign), warning, or guide sign.
+H. Adding a Speed Limit Sign Beacon (see Section 4S.04) to a standard Speed Limit sign.
+I. Adding a Stop Beacon (see Section 4S.05) to a STOP , DO NOT ENTER, or WRONG WAY sign.
+J. Adding a rectangular rapid-flashing beacon (see Chapter 4L) to a Pedestrian, School, or Trail warning sign 
+at an uncontrolled marked crosswalk.
+K. Adding light-emitting diode (LED) units within the symbol, legend, or border of a standard regulatory, 
+warning, or guide sign, as provided in Section 2A.12.
+L. Adding a strip of retroreflective material to the sign support in accordance with the provisions of 
+Paragraph 5 of this Section.
+M. Using other methods that are specifically allowed for certain signs as described elsewhere in this Manual.
+Support:
+02  Sign conspicuity improvements can also be achieved by removing non-essential and illegal signs from the 
+right-of-way (see Section 1D.02), and by relocating signs to provide better spacing. Section 2A.20 contains 
+information on excessive use of signs.
+Guidance:
+03  If a NEW plaque is used, it should remain in place for a period of time determined by engineering judgment, 
+but not more than 12 months.
+Standard:      
+04  Strobe lights shall not be used to enhance the conspicuity of highway signs.
+05  If a strip of retroreflective material is used on the sign support, it shall be at least 2 inches in width, 
+it shall be placed for the full length of the support from the sign to within 2 feet above the near edge of the 
+roadway, and its color shall match the background color of the sign, except that the color of the strip for 
+the YIELD and DO NOT ENTER signs shall be red. The retroreflective strip shall not display any legend 
+or other information. 
+06  For a post-mounted sign installation, placing a duplicate sign in the same assembly facing the same 
+direction of traffic shall not be permitted as a method of enhancing conspicuity.
+Section 2A.12  LEDs Used for Conspicuity Enhancement on Standard Signs
+Support:
+01  This Section regarding light-emitting diode (LED) units applies to the use of illuminated elements that 
+supplement a sign legend to enhance the conspicuity of the sign. 
+02  LED units that are used to illuminate the full sign display, background, or legend are changeable message 
+signs (CMS), which are covered in Chapters 2B, 2C, and 2L, and Part 7.
+03  The application of LED units in compliance with Paragraph 8 of this Section does not create a changeable 
+message sign because the legend of the sign is always displayed when the LED units are not illuminated. 
+Changeable message or blank-out signs whose legends change or extinguish by means of illuminated elements 
+are addressed elsewhere in this Manual.
+Option:
+04  Light-emitting diode (LED) units may be used individually within the symbol, legend, or border of a sign to 
+enhance the sign conspicuity and legibility (see Section 2A.11).
+05  Except as provided in Paragraph 11 of this Section, LED units may either operate continuously or be actuated.
+Standard:
+06  Where LED units are used to enhance the conspicuity of a sign, the sign shall otherwise comply with the 
+requirements for retroreflection and illumination for nighttime viewing (see Section 2A.21). 
+07  Except as provided in Paragraphs 16 and 17 of this Section, and for changeable message signs, neither 
+individual LEDs nor groups of LEDs shall be placed within the background area of a sign.
+08  The application of LEDs to display sign legends or symbols shall use a maximum pitch of 20 millimeters 
+to cover the stroke width of the letter or symbol.
+
+=== PDF PAGE 12 ===
+Page 50 MUTCD 11th Edition
+December 2023
+Sect. 2A.12 to 2A.13     
+09  The LEDs shall not protrude outside the sign border or legend when used in such applications, shall 
+have a maximum diameter of 1⁄4 inch, and shall be the following colors based on the type of sign:
+A. White or red, with STOP, YIELD, DO NOT ENTER, or WRONG WAY signs.
+B. White, with other regulatory signs.
+C. White or yellow, with warning signs.
+D. White or green, with guide signs.
+E. White, yellow, or orange, with temporary traffic control signs.
+F. White, yellow, or fluorescent yellow-green, with school area or pedestrian or bicycle warning signs.
+10  If flashed, all LED units shall flash simultaneously at a steady rate between 50 and 60 times per 
+minute. All the LED units in a sign legend or border shall be illuminated simultaneously with no sequential 
+(chasing) or variable flash rates (dancing), except as otherwise allowed in this Manual. A cluster of LEDs 
+shall not be used within the border of a sign.
+11  Where used in STOP or YIELD signs, flashing LED units shall operate continuously. Actuation of the 
+LED units shall not be allowed.
+12  Flashing LED units shall not be used within the legend or border of a Speed Limit sign to indicate that 
+the displayed speed limit is in effect.
+13  LED units shall not be used within the legend or border of a sign in conjunction with the phrase WHEN 
+FLASHING in its legend or on a supplemental WHEN FLASHING plaque (see Item E in Paragraph 1 of 
+Section 4S.03 for the use of Warning Beacons to indicate when a regulatory or warning message is in effect).
+14  Where LED units are used along the edge of a sign, at least one LED unit shall be placed along each 
+edge of the sign, in addition to one LED unit at each corner of the sign, so that the distinct outline of the sign 
+shape is recognized under nighttime viewing conditions. The LED units along each side of the sign shall be 
+spaced approximately equidistantly. For a circular sign shape, the number of LED units shall clearly form 
+the appearance of a circle and not be perceived as some other shape. 
+15  The uniformity of the sign design shall be maintained without any decrease in visibility, legibility, 
+or driver comprehension during either daytime or nighttime conditions. The LED units shall have the 
+capability to be dimmed automatically by a timing mechanism or a device sensitive to ambient light 
+(photoelectric cell) such that the LEDs do not reduce the visibility of the sign legend.
+Option:
+16  For STOP , YIELD, DO NOT ENTER, and WRONG WAY signs, LEDs may be placed within the border or 
+within one border width within the background of the sign. 
+Support:
+17  Section 6D.02 contains information about STOP/SLOW paddles used by flaggers. Section 7D.02 contains 
+information about STOP paddles used by adult crossing guards. 
+18  Other methods of enhancing the conspicuity of standard signs are described in Section 2A.11.
+Section 2A.13  Standardization of Location
+Support:
+01  Standardization of position cannot always be attained in practice. Examples of heights and lateral locations 
+of signs for typical installations are illustrated in Figure 2A-2, and examples of locations for some typical signs at 
+intersections are illustrated in Figure 2A-3 and all four sheets in Figure 2A-4.
+02  Examples of advance signing on intersection approaches are illustrated in all four sheets in Figure 2A-4. 
+Chapters 2B, 2C, and 2D contain provisions regarding the application of regulatory, warning, and guide 
+signs, respectively.
+Standard:
+03  Signs requiring separate decisions by the road user shall be spaced sufficiently far apart for the 
+appropriate decisions to be made. 
+Guidance:
+04  One of the factors considered when determining the appropriate spacing of signs should be the posted or 
+85th-percentile speed. 
+05  Except as provided in Paragraph 8 of this Section, signs should be located on the right-hand side of the 
+roadway where they are easily recognized and understood by road users. Signs in other locations should be 
+considered only as supplementary to signs in the normal locations, except as otherwise provided in this Manual.
+06  Signs should be individually installed on separate posts or mountings except where:
+A. One sign supplements another;
+
+=== PDF PAGE 13 ===
+MUTCD 11th Edition Page 51
+December 2023
+     Sect. 2A.13
+Figure 2A-2.  Examples of Heights and Lateral Locations of Sign Installations
+E – Roadside assembly
+ in rural area
+12 ft MIN.
+5 ft
+MIN.
+A – Roadside sign in rural area
+12 ft MIN.
+5 ft
+MIN.
+B – Roadside sign in rural area
+6 ft MIN.
+Shoulder wider than 6 ft
+5 ft
+MIN.
+D – Warning sign with advisory
+ speed plaque in rural area
+12 ft MIN.
+4 ft
+MIN.
+F – Sign on nose 
+ of median
+7 ft
+MIN. 4 ft
+MIN.
+C – Roadside sign in
+ business, commercial, 
+ or residential area
+2 ft
+MIN. 7 ft*
+MIN.
+* Where parking or pedestrian movements are likely to occur
+H – Overhead sign
+6 ft MIN.
+Shoulder
+17 ft
+MIN.
+G – Freeway or expressway sign with secondary sign
+6 ft MIN.
+12 ft MIN.
+Shoulder
+5 ft
+MIN.
+8 ft
+MIN.
+Note: See Section 2A.16 for reduced lateral offset distances that may be used in areas where lateral offsets are limited, and in 
+business, commercial, or residential areas where sidewalk width is limited or where existing poles are close to the curb.
+
+=== PDF PAGE 14 ===
+Page 52 MUTCD 11th Edition
+December 2023
+Sect. 2A.13     
+6 ft to 12 ft MIN.
+6 ft to 12 ft MIN.
+6 ft to 12 ft MIN.
+A – Acute-angle intersection
+C – Minor crossroad
+E – Divisional island
+2 ft MIN.
+Minor
+road
+Major
+road
+4 ft MIN.
+2 ft MIN.
+D – Urban intersection
+Marked or
+unmarked
+crosswalk
+SIDEWALK
+6 ft to 12 ft MIN.
+6 ft to 12 ft MIN.
+6 ft to 12 ft MIN.
+F – Wide-throat intersection
+50 ft MAX.
+2 ft MIN.
+6 ft to 12 ft MIN.
+B – Channelized intersection
+Note: Lateral offset is a minimum of 6 feet measured from the edge of the shoulder, or 
+ 12 feet measured from the edge of the traveled way. See Section 2A.16 for lower 
+ minimums that may be used in urban areas, or where lateral offset space is limited.
+Figure 2A-3.  Examples of Locations for Some Typical Signs at Intersections
+2 ft
+MIN.
+
+=== PDF PAGE 15 ===
+MUTCD 11th Edition Page 53
+December 2023
+Figure 2A-4.  Relative Locations of Regulatory, Warning, and
+Guide Signs on an Intersection Approach (Sheet 1 of 4)
+W2-1
+U.S. 46
+U.S. 46
+Defense Highway
+200 ft
+MIN.
+200 ft
+MIN.
+200 ft
+MIN.
+600 ft
+MIN.
+800 ft
+MIN.
+200 ft
+MIN.
+400 ft
+MIN.
+Wood Avenue
+200 ft
+MIN.
+200 ft
+MIN.
+(Optional)
+W3-1
+B – Multi-lane approachA – Single-lane approach
+Legend
+Direction of travel
+Note: See Chapter 2D for information on guide signs 
+and Part 3 for information on pavement markings
+See Table 2C-3 for the recommended minimum distance
+See Section 2C.41 for the application of the W2-1 sign 
+and Section 2C.35 for the application of the W3-1 sign
+See Section 2B.27 for the application of Intersection 
+Lane Control signs
+     Sect. 2A.13
+
+=== PDF PAGE 16 ===
+Page 54 MUTCD 11th Edition
+December 2023
+Sect. 2A.13     
+Figure 2A-4.  Relative Locations of Regulatory, Warning, and
+Guide Signs on an Intersection Approach (Sheet 2 of 4)
+R3-8 Series
+R3-5 R3-6
+D3-1
+W16-8P
+(see Note 2)
+W3-3
+(see Note 1)
+D3-2
+Alternate Signing at Overhead Location
+Sign Schedule
+Shoulder
+Travel
+lane
+Left
+only
+200 ft
+min.
+200 ft
+min.
+Varies
+Main St
+Maple St
+50 ft
+Travel
+lane
+Left or
+thru
+Travel
+lane
+Thru
+only
+Travel
+lane
+Right
+only
+Shoulder
+R3-5 R3-6
+OR
+R3-8
+Series
+Shoulder
+Travel
+lane
+Left
+only
+Travel
+lane
+Left or
+thru
+Travel
+lane
+Thru
+only
+Travel
+lane
+Right
+only
+Shoulder
+Shoulder
+Travel
+lane
+Left
+only
+Travel
+lane
+Left or
+thru
+Travel
+lane
+Thru
+only
+Travel
+lane
+Right
+only
+Shoulder
+R3-8
+Series
+Section Sign NameSign
+Designation
+2B.28 Mandatory Movement Overhead Lane ControlR3-5
+2B.29 Optional Movement Overhead Lane ControlR3-6
+2B.30 Advance Intersection Lane ControlR3-8
+2C.35 Advance Traffic Control Warning (Signal Ahead)W3-3
+2C.65 Advance Street Name Supplemental PlaqueW16-8P
+2D.45 Street NameD3-1
+2D.46 Advance Street NameD3-2
+2D.36 Overhead Destination GuideD Series
+2D.37 Advance Intersection Overhead 
+   Arrow-per-Lane Guide
+D Series
+Notes:
+ 1. See Table 2C-3 for location.
+ 2. If D3-2 is not used.
+ 3. Pavement markings shown for reference
+   only. See Part 3 for criteria.
+C – Multi-lane approach with optional movement turn lanes
+Legend
+Direction of travel
+
+=== PDF PAGE 17 ===
+MUTCD 11th Edition Page 55
+December 2023
+     Sect. 2A.13
+Figure 2A-4.  Relative Locations of Regulatory, Warning, and
+Guide Signs on an Intersection Approach (Sheet 3 of 4)
+R3-8 Series
+R3-7
+R3-5 R3-5
+D3-1
+W16-8P
+(see Note 2)
+W3-3
+(see Note 1)
+D3-2
+Alternate Signing at Overhead Location
+Sign Schedule
+Shoulder
+Travel
+lane
+Left
+only
+200 ft
+min.
+200 ft
+min.
+Varies
+Main St
+Maple St
+50 ft
+Travel
+lane
+Left
+only
+Travel
+lane
+Thru
+only
+Travel
+lane
+Right
+only
+Shoulder
+R3-5 R3-5
+OR
+R3-8
+Series
+Shoulder
+Travel
+lane
+Left
+only
+Travel
+lane
+Left
+only
+Travel
+lane
+Thru
+only
+Travel
+lane
+Right
+only
+Shoulder
+Shoulder
+Travel
+lane
+Left
+only
+Left
+only
+Travel
+lane
+Travel
+lane
+Thru
+only
+Travel
+lane
+Right
+only
+Shoulder
+R3-8
+Series
+Section Sign NameSign
+Designation
+2B.28 Mandatory Movement Overhead Lane ControlR3-5
+2B.28 Advance Intersection Mandatory Movement 
+   Lane Control
+R3-7
+2B.30 Advance Intersection Lane ControlR3-8
+2C.35 Advance Traffic Control Warning (Signal Ahead)W3-3
+2C.65 Advance Street Name Supplemental PlaqueW16-8P
+2D.45 Street NameD3-1
+2D.46 Advance Street NameD3-2
+2D.36 Overhead Destination GuideD Series
+Notes:
+ 1. See Table 2C-3 for location.
+ 2. If D3-2 is not used.
+ 3. Pavement markings shown for reference
+   only. See Part 3 for criteria.
+D – Multi-lane approach with mandatory movement turn lanes
+Legend
+Direction of travel
+
+=== PDF PAGE 18 ===
+Page 56 MUTCD 11th Edition
+December 2023
+Sect. 2A.13     
+Figure 2A-4.  Relative Locations of Regulatory, Warning, and
+Guide Signs on an Intersection Approach (Sheet 4 of 4)
+W2-6
+(see Note 1)
+Alternate signing at overhead location
+Sign Schedule
+Shoulder
+Travel
+lane
+Left
+only
+200 ft
+min.
+Varies
+Travel
+lane
+Left or
+thru
+Travel
+lane
+Right
+only
+Shoulder
+Shoulder
+Travel
+lane
+Left
+only
+Travel
+lane
+Left or
+thru
+Travel
+lane
+Right
+only
+Shoulder
+R3-5 Series R3-6 Series R3-8
+Series
+Section Sign NameSign
+Designation
+2B.28 Mandatory Movement Overhead Lane ControlR3-5 Series
+2B.29 Optional Movement Overhead Lane ControlR3-6 Series
+2B.30 Advance Intersection Lane ControlR3-8
+2C.41 Intersection Warning (Circular IntersectionW2-6
+2D.36 Overhead Destination GuideD Series
+2D.37 Advance Intersection Overhead 
+   Arrow-per-Lane Guide
+D Series
+Notes:
+ 1. See Table 2C-3 for location.
+ 2. Pavement markings shown for reference 
+only. See Part 3 for criteria.
+R3-8 Series
+R3-8 Series
+E – Multi-lane approach to a circular intersection with optional movement turn lanes
+Legend
+Direction of travel
+
+=== PDF PAGE 19 ===
+MUTCD 11th Edition Page 57
+December 2023
+B. Route or directional signs are grouped to clarify information to motorists;
+C. Regulatory signs that do not conflict with each other are grouped, such as Turn Prohibition signs posted 
+with ONE WAY signs or a parking regulation sign posted with a Speed Limit sign; or
+D. Street Name signs are posted with a STOP or YIELD sign.
+07  Signs should be located so that they:
+A. Are outside the clear zone unless placed on a crashworthy (see definition in Section 1C.02) support,
+B. Optimize nighttime visibility,
+C. Minimize the effects of mud splatter and debris,
+D. Do not obscure each other,
+E. Do not obscure the sight distance to approaching vehicles on the major street for drivers who are 
+stopped on minor-street approaches, and
+F. Are not hidden from view.
+08  Except for STOP, YIELD, DO NOT ENTER, and WRONG WAY signs, or as otherwise provided in this 
+Manual, where a sign on a one-way roadway indicates an action intended exclusively or primarily for a road 
+user in the left-hand lane or at the left-hand side of th at roadway, such as LEFT LANE MUST TURN LEFT 
+(R3-7) or LEFT LANE ENDS (W9-1), the sign should be located on the left-hand side of the roadway. In the case 
+of a divided road, the sign should be located in the median.
+Option:
+09  Signs located on the left-hand side of a one-way roadway or in the median of a divided road, in accordance 
+with Paragraph 8 of this Section, may be supplemented by an identical sign located on the right-hand side of 
+the roadway.
+Support:
+10  The clear zone (see definition in Section 1C.02) is the total roadside border area, starting at the edge of the 
+traveled way, available for an errant driver to stop or regain control of a vehicle. The width of the clear zone 
+is dependent upon traffic volumes, speeds, and roadside geometry. Additional information can be found in the 
+“Roadside Design Guide,” 4th Edition, 2011, AASHTO.
+Guidance:
+11  With the increase in traffic volumes and the need to provide road users regulatory, warning, and guidance 
+information, an order of priority for sign installation should be es tablished.
+Support:
+12  An order of priority is especially critical where space is limited for sign installation and there is a demand 
+for several different types of signs. Overloading road users with too much information is not desirable. Priority 
+according to type of sign will depend on the specific situation and conditions of the site at which the signs are to 
+be installed. For example, in the vicinity of an exit ramp, guide signs and warning signs for the exit ramp might 
+take precedence over regulatory signs that confirm rules of the road, such as a STATE LAW-NO HANDHELD 
+PHONE USE BY DRIVER sign, or a mainline Speed Limit sign where there is no change in the speed zone. 
+Guidance:
+13  Because regulatory and warning information is typically more critical to the road user than guidance 
+information, regulatory and warning signing whose locations are critical should be displayed rather than guide 
+signing in cases where conflicts occur. In such cases, the guide sign should be relocated to another appropriate 
+location where it will still be effective. In other cases, such as at a decision point, the guide sign should take 
+precedence over other signs whose locations are not as critical to an immediate decision or action necessary 
+by the road user. In all cases, careful attention should be given to minimizing sign clutter (see Section 2A.20). 
+Community wayfinding and acknowledgment guide signs should have a lower priority as to placement than 
+other guide signs. Signs conveying information of a less-critical nature should be moved to less-critical locations 
+or omitted.
+Option:
+14  Under some circumstances, such as on curves to the right, signs may be placed on median islands or on the 
+left-hand side of the road. A supplementary sign located on the left-hand side of the roadway may be used on a 
+multi-lane road where traffic in a lane to the right might obstruct the view to the right.
+Guidance:
+15  In urban areas where crosswalks exist, signs should not be placed within 4 feet in advance of the crosswalk 
+(see Drawing D in Figure 2A-3).
+     Sect. 2A.13
+
+=== PDF PAGE 20 ===
+Page 58 MUTCD 11th Edition
+December 2023
+Sect. 2A.14 to 2A.15     
+Section 2A.14  Overhead Sign Installations
+Guidance:
+01  Overhead signs should be used on freeways and expressways, at locations where some degree of lane-use 
+control is desirable, and at locations where space is not available at the roadside.
+Support:
+02  The operational requirements of the present highway system are such that overhead signs have value at many 
+locations. The factors to be considered for the installation of overhead sign displays are not definable in specific 
+numerical terms. In some cases, overhead mounting of a sign might be required by other provisions of this Manual.
+Option:
+03  The following conditions (not in priority order) may be considered in an engineering study to determine if 
+overhead signs would be beneficial:
+A. Traffic volume at or near capacity,
+B. Complex interchange design,
+C. Three or more lanes in each direction,
+D. Restricted sight distance,
+E. Closely-spaced interchanges,
+F. Multi-lane exits,
+G. Large percentage of trucks,
+H. Street lighting background,
+I. High-speed traffic,
+J. Consistency of sign message location through a series of interchanges,
+K. Insufficient space for post-mounted signs,
+L. Junction of two freeways, and
+M. Left-side exit ramps.
+04  Over-crossing structures may be used to support overhead signs.
+Support:
+05  Under some circumstances, the use of over-crossing structures as sign supports might be the only practical 
+solution that will provide adequate viewing distance. The use of such structures as sign supports might eliminate 
+the need for the foundations and sign supports along the roadside.
+Section 2A.15  Mounting Height
+Standard:
+01  The provisions of this Section shall apply unless specifically stated otherwise for a particular sign or 
+object marker elsewhere in this Manual.
+Support:
+02  It might be necessary to use larger minimum mounting heights than those prescribed in this Manual to ensure 
+appropriate crash performance of sign installations that are required to be crashworthy (see Section 1D.11).
+03  In addition to the provisions of this Section, information affecting the minimum mounting height of signs as 
+a function of crash performance can be found in the “Roadside Design Guide,” 4th Edition, 2011, AASHTO.
+Standard:
+04  In rural areas, the minimum height, measured vertically from the bottom of the sign to the elevation of 
+the near edge of the pavement, of signs installed at the side of the road shall be 5 feet (see Figure 2A-2).
+05  In business, commercial, or residential areas where parking, bicyclist, or pedestrian movements are 
+likely to occur, or where the view of the sign might be obstructed, the minimum height, measured vertically 
+from the bottom of the sign to the top of the curb, or in the absence of curb, measured vertically from the 
+bottom of the sign to the elevation of the near edge of the traveled way, of signs installed at the side of the 
+road shall be 7 feet (see Figure 2A-2).
+Option:
+06  The height to the bottom of a secondary sign mounted below another sign may be 1 foot less than the height 
+specified in Paragraphs 4 and 5 of this Section.
+Standard:
+07  The minimum height of signs, measured vertically from the bottom of the sign to the sidewalk shall 
+be 7 feet.
+
+=== PDF PAGE 21 ===
+MUTCD 11th Edition Page 59
+December 2023
+     Sect. 2A.15 to 2A.16
+08  If the bottom of a secondary sign that is mounted below another sign is mounted lower than 7 feet above 
+a pedestrian sidewalk or pathway (see Section 6C.02), the secondary sign shall not project more than 4 inches 
+into the pedestrian facility.
+Support:
+09  Section 9A.02 contains provisions for the minimum mounting height of signs on shared-use paths.
+Option:
+10  Signs that are placed 30 feet or more from the edge of the traveled way may be installed with a minimum 
+height of 5 feet, measured vertically from the bottom of the sign to the elevation of the near edge of the pavement.
+Standard:
+11  Directional signs on freeways and expressways shall be installed with a minimum height of 7 feet, 
+measured vertically from the bottom of the sign to the elevation of the near edge of the pavement. All 
+route signs, warning signs, and regulatory signs on freeways and expressways shall be installed with a 
+minimum height of 7 feet, measured vertically from the bottom of the sign to the elevation of the near edge 
+of the pavement. If a secondary sign is mounted below another sign on a freeway or expressway, the major 
+sign shall be installed with a minimum height of 8 feet and the secondary sign shall be installed with a 
+minimum height of 5 feet, measured vertically from the bottom of the sign to the elevation of the near edge 
+of the pavement.
+12  Where large signs having an area exceeding 50 square feet are installed on multiple breakaway posts, 
+the clearance from the ground to the bottom of the sign shall be at least 7 feet.
+Option:
+13  A route sign assembly (see Section 2D.29) consisting of a route sign and auxiliary signs may be treated as a 
+single sign for the purposes of this Section.
+14  The mounting height may be adjusted when supports are located near the edge of the right-of-way on a steep 
+backslope in order to avoid the sometimes less desirable alternative of placing the sign closer to the roadway.
+Standard:
+15  Signs that are post-mounted on a median barrier that overhang any portion of the traveled way shall 
+be mounted with a vertical clearance that complies with that of overhead signs. 
+16  Overhead signs shall provide a vertical clearance of not less than 17 feet to the sign, light fixture, or 
+sign bridge over the entire width of the pavement and shoulders, except where the structure on which the 
+overhead signs are to be mounted or other structures along the roadway near the sign structure have a 
+lesser vertical clearance.
+Option:
+17  If the vertical clearance of other structures along the roadway near the sign structure is less than 16 feet, 
+the vertical clearance to an overhead sign structure or support may be as low as 1 foot higher than the vertical 
+clearance of the other structures in order to improve the visibility of the overhead signs.
+18  In special cases the clearance to overhead signs may be reduced if necessary because of substandard 
+dimensions in tunnels and other major structures such as double-deck bridges. 
+Guidance:
+19  While a maximum mounting height for signs is generally not prescribed in this Manual, agencies 
+should ensure that signs are not mounted at such a height as to be out of the road user’s normal field of 
+vision (see Paragraph 3 of Section 1D.09), especially in urban settings where signs are mounted on traffic 
+signal or light poles.
+Support:
+20  Figure 2A-2 illustrates some examples of the mounting height requirements contained in this Section.
+Section 2A.16  Lateral Offset
+Standard:
+01  For overhead sign supports, the minimum lateral offset from the edge of the shoulder (or if no shoulder 
+exists, from the edge of the pavement) to the near edge of overhead sign supports (cantilever or sign bridges) 
+shall be 6 feet. Overhead sign supports shall have a barrier or crash cushion to shield them if they are 
+within the clear zone.
+02  Post-mounted sign and object marker supports shall be crashworthy (see Section 1D.11) if within the 
+clear zone.
+
+=== PDF PAGE 22 ===
+Page 60 MUTCD 11th Edition
+December 2023
+Guidance:
+03  For post-mounted signs, the minimum lateral offset should be 12 feet from the edge of the traveled way. 
+If a shoulder wider than 6 feet exists, the minimum lateral offset for post-mounted signs should be 6 feet from 
+the edge of the shoulder.
+04  Supports for signs mounted laterally behind a longitudinal barrier should be placed so that the near edge 
+of the support is located beyond the deflection distance of the longitudinal barrier.
+Support:
+05  The minimum lateral offset requirements for object markers are provided in Chapter 2C.
+06  The minimum lateral offset is intended to keep trucks and cars that use the shoulders from striking the signs 
+or supports. The minimum lateral offset requirements do not supersede the requirement for crashworthiness 
+(see Paragraph 2 of this Section) if the sign is located within the clear zone. 
+Guidance:
+07  All supports should be located as far as practical from the edge of the shoulder. Advantage should be taken 
+to place signs behind existing roadside barriers, on over-crossing structures, or other locations that minimize the 
+exposure of the traffic to sign supports. 
+Option:
+08  Lesser lateral offsets may be used on connecting roadways or ramps at interchanges, but not less than 6 feet 
+from the edge of the traveled way.
+09  On conventional, low-volume rural, and special-purpose roads in areas where it is impractical to locate a sign 
+with the lateral offset prescribed by this Section because of roadside features such as terrain or vegetation, a lateral 
+offset of at least 2 feet may be used.
+10  A lateral offset of at least 1 foot from the face of the curb may be used in business, commercial, or residential 
+areas where sidewalk width is limited or where existing poles are close to the curb.
+Guidance:
+11  Overhead sign supports and post-mounted sign and object marker supports should not intrude into the usable 
+width of a sidewalk or other pedestrian facility.
+Support:
+12  Guidance for maintaining sign shape in laterally-constrained conditions is described in Section 2A.05.
+13 Figures 2A-2 and 2A-3 illustrate some examples of the lateral offset requirements contained in this Section.
+Section 2A.17  Orientation
+Guidance:
+01  Unless otherwise provided in this Manual, signs should be vertically mounted at right angles to the direction 
+of, and facing, the traffic that they are intended to serve.
+02  Where mirror reflection from the sign face is encountered to such a degree as to reduce legibility, the sign 
+should be turned slightly away from the road. Signs that are placed 30 feet or more from the pavement edge 
+should be turned toward the road. On curved alignments, the angle of placement should be determined by the 
+direction of approaching traffic rather than by the roadway edge at the point where the sign is located.
+Option:
+03  On grades, sign faces may be tilted forward or back from the vertical position to improve the viewing angle.
+Section 2A.18  Posts and Mountings
+Standard:
+01  Sign posts, foundations, and mountings shall be so constructed as to hold signs in a proper and 
+permanent position, and to resist swaying in the wind or displacement by vandalism.
+Support:
+02  The latest edition of AASHTO’s “Specifications for Structural Supports for Highway Signs, Luminaires, 
+and Traffic Signals” contains additional information regarding posts and mounting.
+Option:
+03  Where permitted, signs may be placed on existing supports used for other purposes, such as highway traffic 
+signal supports, highway lighting supports, and utility poles.
+Support:
+04  Section 2A.11 contains criteria for enhanced conspicuity of standard signs.
+05  Sections 2A.15 and 2A.16 contain lateral and height placement criteria for signs placed on existing supports.
+Sect. 2A.16 to 2A.18
+
+=== PDF PAGE 23 ===
+MUTCD 11th Edition Page 61
+December 2023
+     Sect. 2A.18 to 2A.21
+Standard:
+06  If mounted to the sign support, equipment for powering electronic components of a sign, including 
+solar panels, shall be mounted so as not to compromise the crashworthy performance of the sign installation 
+(see Section 1D.11). Such equipment shall be mounted so as not to obscure the shape of the sign.
+Section 2A.19  Maintenance
+Guidance:
+01  Maintenance activities should consider proper position, cleanliness, legibility, and daytime and nighttime 
+visibility (see Sections 2A.21 and 2A.22). Damaged or deteriorated signs, gates, or object markers should 
+be replaced.
+02  To assure adequate maintenance, a schedule for inspecting (both day and night), cleaning, and replacing 
+signs, gates, and object markers should be established. Employees of highway, law enforcement, and other public 
+agencies whose duties require that they travel on the roadways should be encouraged to report any damaged, 
+deteriorated, or obscured signs, gates, or object markers at the first opportunity.
+03  Steps should be taken to see that weeds, trees, shrubbery, and construction, maintenance, and utility 
+materials and equipment do not obscure the face of any sign or object marker.
+04  A regular schedule of replacement of lighting elements for illuminated signs should be maintained.
+Section 2A.20  Excessive Use of Signs
+Guidance:
+01  Signs should be used and located judiciously, minimizing their proliferation in order to maintain their 
+effectiveness. Regulatory  and warning signs should be used conservatively because these signs, if used to excess, 
+tend to lose their effectiveness. Route signs and directional guide signs for primary routes and destinations 
+should be used frequently at strategic locations because their use promotes efficient operations by keeping road 
+users informed of their location. In all cases, however, sign clutter (see Paragraph 2 of this Section) should be 
+avoided and minimized as much as practicable.
+ 
+Support:
+02  Sign clutter is the proliferation of sign installations or assemblies along the roadway or roadside, either 
+separately or grouped, to such an extent that adequate spacing between installations necessary for orderly 
+processing of the sign messages by the driver cannot be achieved. Sign clutter can reduce the effectiveness of 
+one or more signs in a sequence of signs. 
+03  The basic role of traffic control devices is to provide only as much information to the road user as necessary 
+to promote the safe and efficient operation of streets and highways. Sign clutter can result from the overuse of 
+MUTCD-compliant signs and or signs that display information unrelated to traffic operation, navigation, or 
+transportation information. Examples of such signs would include, but are not limited to, those displaying the 
+birthplace or home of a noted person, local sports team accomplishments, population information, and self-
+described qualities of a community such as “friendly” or “open for business.”
+Guidance:
+04  Signs and other traffic control devices should be installed and maintained from a systematic standpoint 
+rather than individually. When a new sign is installed, the existing signs in the vicinity should be considered for 
+replacement, relocation, or removal as a result of the new sign that is installed. Existing systems of signs should 
+be reviewed periodically for evidence of sign clutter and adjustments should be made accordingly.
+Support:
+05  Section 2A.13 contains information regarding an order of priority for signs where available spacing along the 
+roadway is limited. 
+Section 2A.21  Retroreflection and Illumination
+Support:
+01  There are many materials currently available for retroreflection and various methods currently available for 
+the illumination of signs and object markers. New materials and methods continue to emerge. New materials and 
+methods can be used as long as the signs and object markers meet the standard requirements for color, both by day 
+and by night.
+02  This Section applies to visibility of signs at night or in low-light or adverse weather conditions, whose legends 
+are otherwise visible under typical daytime viewing conditions.
+
+=== PDF PAGE 24 ===
+Page 62 MUTCD 11th Edition
+December 2023
+Sect. 2A.21 to 2A.22     
+Standard:
+03  Regulatory, warning, and guide signs (see Section 2A.03), and object markers, shall be retroreflective 
+or illuminated to show the same shape and similar color by both day and night, unless otherwise provided 
+in this Manual for a particular sign or group of signs.
+04  Where the color black is specified for the legend or background of a sign, an opaque and non-
+retroreflective material shall be used. 
+05  The requirements for sign illumination shall not be considered to be satisfied by street or 
+highway lighting.
+Option:
+06  Sign elements may be illuminated by 
+the means shown in Table 2A-3.
+07  Retroreflection of sign elements may 
+be accomplished by the means shown in 
+Table 2A-4.
+Support:
+08  Information regarding the use of 
+retroreflective material on the sign support 
+is contained in Section 2A.11.
+Section 2A.22  Maintaining Minimum 
+Retroreflectivity
+Support:
+01  Retroreflectivity is one of 
+several factors associated with 
+maintaining nighttime sign visibility 
+(see Section 2A.21).
+Standard:
+02  Public agencies or officials having 
+jurisdiction shall use an assessment or 
+management method that is designed 
+to maintain sign retroreflectivity 
+at or above the minimum levels in 
+Table 2A-5.
+Support:
+03  Compliance with the Standard in Paragraph 2 of this Section is achieved by having a method in place and 
+using the method to maintain the minimum levels established in Table 2A-5. Provided that an assessment or 
+management method is being used, an agency or official having jurisdiction would be in compliance with the 
+Standard in Paragraph 2 of this Section even if there are some individual signs that do not meet the minimum 
+retroreflectivity levels at a particular point in time.
+Guidance:
+04  Except for those signs specifically identified in Paragraph 5 of this Section, one or more of the methods 
+described in “Maintaining Traffic Sign Retroreflectivity,” (FHWA-SA-07-020, Revised 2013), FHWA, or a method 
+developed based on an engineering study, should be used to maintain sign retroreflectivity at or above the 
+minimum levels in Table 2A-5. Signs that are identified through the agency’s method as being below the minimum 
+levels should be replaced. 
+Option:
+05  Highway agencies may exclude the following signs from the retroreflectivity maintenance guidelines described 
+in this Section:
+A. Parking, Standing, and Stopping (R7 and R8 series) signs;
+B. Walking/Hitchhiking/Crossing (R9 series, R10-1 through R10-4b) signs;
+C. Acknowledgment signs; and
+D. Bikeway signs that are intended for exclusive use by bicyclists or pedestrians.
+Table 2A-3.  Illumination of Sign Elements
+Means of Illumination Sign Element to be Illuminated
+Light behind the sign face
+• Symbol or word message  
+• Background  
+•  Symbol, word message, and background  
+(through a translucent material)
+Attached or independently-
+mounted light source designed 
+to direct essentially uniform 
+illumination onto the sign face
+• Entire sign face
+Light-emitting diodes (LEDs) • Symbol or word message  
+• Entire sign border
+Other devices or treatments 
+that highlight the sign shape, 
+color, or message:  
+   Luminous tubing  
+   Fiber optics  
+   Incandescent light bulbs  
+   Luminescent panels
+• Symbol or word message  
+• Entire sign face
+Table 2A-4.  Retroreflection of Sign Elements
+Means of Retroreflection Sign Element
+Prismatic reflector “buttons” or similar units
+Symbol 
+Word message  
+Border
+A material that has a smooth, sealed outer surface 
+over a microstructure that reflects light
+Symbol 
+Word message  
+Border 
+Background
+
+=== PDF PAGE 25 ===
+MUTCD 11th Edition Page 63
+December 2023
+     Sect. 2A.23
+Section 2A.23  Median Opening Treatments for Divided Highways
+Guidance:
+01  A divided highway crossing should be signed and marked as separate intersections when both of the following 
+conditions are present:
+A. The paths of opposing left turns from the divided highway cross each other (see Figure 2A-5), and
+B. There is adequate storage in the interior approaches for the design vehicles expected to cross the 
+divided highway.
+02  If either one or both of the conditions in Paragraph 1 of this Section do not exist, the divided highway 
+crossing should be signed and marked as a single intersection.
+03  At the crossing of two divided highways, engineering judgment should be used to determine the number of 
+separate intersections. 
+Table 2A-5.  Minimum Maintained Retroreflectivity Levels 1
+Sign Color
+Beaded Sheeting  
+Type (ASTM D4956) Prismatic Sheeting Additional 
+Criteria
+I II III
+White on Green
+W ; G ≥ 7* W ; G ≥ 15* W ; G ≥ 25* W ≥ 250; G ≥ 25 Overhead
+W ; G ≥ 7* W ≥ 120; G ≥ 15 Post-mounted
+White on Blue
+W ; B ≥ 3* W ; B ≥ 5* W ; B ≥ 12* W ≥ 250; B ≥ 12 Overhead
+W ; B ≥ 3* W ≥ 120; B ≥ 7 Post-mounted
+White on Brown
+W ; Br ≥ 1* W ; Br ≥ 5* W ; Br ≥ 10* W ≥ 350; Br ≥ 10 Overhead
+W ; Br ≥ 1* W ≥ 150; Br ≥ 5 Post-mounted
+Black on Yellow or 
+Black on Orange
+Y ; O** Y ≥ 50; O ≥ 50 2
+Y ; O** Y ≥ 75; O ≥ 75 3
+White on Red W ≥ 35; R ≥ 7 4
+Black on White W ≥ 50 –
+1 The minimum maintained retroreflectivity levels shown in this table are in units of cd/lx/m 2 measured at an  
+  observation angle of 0.2° and an entrance angle of -4.0°. 
+2 For word legend and fine symbol signs measuring at least 48 inches and for all sizes of bold symbol signs 
+3 For word legend and fine symbol signs measuring less than 48 inches 
+4 Minimum sign contrast ratio ≥ 3:1 (white retroreflectivity ÷ red retroreflectivity)  
+* This sheeting type shall not be used for this color for this application
+Bold Symbol Signs
+• W1-1,2 – Turn and Curve 
+• W1-3,4 – Reverse Turn and  
+    Curve 
+• W1-5 – Winding Road 
+• W1-6,7 – Large Arrow 
+• W1-8 – Chevron 
+• W1-10 – Intersection in Curve   
+• W1-11 – Hairpin Curve   
+• W1-15 – 270 Degree Loop   
+• W2-1 – Cross Road   
+• W2-2,3 – Side Road   
+• W2-4,5 – T and Y Intersection   
+• W2-6 – Circular Intersection   
+• W2-7,8 – Double Side Roads
+• W3-1 – Stop Ahead 
+• W3-2 – Yield Ahead   
+• W3-3 – Signal Ahead   
+• W4-1 – Merge   
+• W4-2 – Lane Ends   
+• W4-3 – Added Lane   
+• W4-5 – Entering Roadway Merge   
+• W4-6 – Entering Roadway 
+    Added Lane  
+• W6-1,2 – Divided Highway 
+    Begins and Ends   
+• W6-3 – Two-Way Traffic   
+• W10-1,2,3,4,11,12 – Grade 
+    Crossing Advance Warning
+• W11-2 – Pedestrian Crossing 
+• W11-3,4,16-22 – Large Animals 
+• W11-5 – Farm Equipment   
+• W11-6 – Snowmobile Crossing   
+• W11-7 – Equestrian Crossing   
+• W11-8 – Fire Station   
+• W11-10 – Truck Crossing   
+• W12-1 – Double Arrow   
+• W16-5P,6P,7P – Pointing Arrow  
+    Plaques   
+• W20-7 – Flagger   
+• W21-1 – Worker 
+Fine Symbol Signs  (symbol signs not listed as bold symbol signs)
+Special Cases
+• W3-1 – Stop Ahead:  Red retroreflectivity ≥ 7  
+• W3-2 – Yield Ahead:  Red retroreflectivity ≥ 7; White retroreflectivity ≥ 35  
+• W3-3 – Signal Ahead:  Red retroreflectivity ≥ 7; Green retroreflectivity ≥ 7  
+• W3-5 – Speed Reduction:  White retroreflectivity ≥ 50  
+•  For non-diamond shaped signs, such as W14-3 (No Passing Zone), W4-4P (Cross Traffic Does Not Stop), or  
+  W13-1P,2,3,6,7 (Speed Advisory Signs), use the largest sign dimension to determine the proper minimum  
+  retroreflectivity level.
+
+=== PDF PAGE 26 ===
+Page 64 MUTCD 11th Edition
+December 2023
+Sect. 2A.23     
+Support: 
+04  Divided highway crossings with median widths between 30 feet and 85 feet might function as either one or 
+two intersections depending upon the interaction of the opposing left-turn vehicle paths and the available interior 
+storage in the median for a crossing vehicle. Other factors that could determine whether a divided highway 
+crossing is operating as one or two intersections include: 
+A. The geometric design of the divided highway crossing, 
+B. The use of positive offset mainline left-turn lanes,
+C. The length of the median opening (as measured parallel to the center line of the divided highway), 
+D. The geometric design of the median noses, 
+E. Other roadway geometric considerations such as a skewed side street approach or a variable median width, 
+F. Intersection sight distance,
+G. The physical characteristics of the design vehicle, and
+H. The observed prevailing driver behavior with regard to opposing left-turn path interaction.
+Figure 2A-5. Intersection Configuration at a Divided Highway Crossing
+B – Single intersection
+(paths of opposing left-turning
+vehicles do not cross)
+A – Separate intersections
+(paths of opposing left-turning vehicles cross)
+Legend
+Direction of travel
+Path of left-turning      
+   vehicle
